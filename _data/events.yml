@@ -1168,3 +1168,431 @@
   source: "https://6abc.com/post/list-2026-july-4th-fireworks-displays-pennsylvania-new-jersey-delaware/19213232/"
   org: "City of Philadelphia"
   featured: false
+
+# ======================================================================
+# MONTGOMERY COUNTY, PA — history & community 250th program (region: bucks)
+# Source sweep of valleyforge.org/america250-montcopa + montgomerycountypa.gov
+# ======================================================================
+- id: mont-peter-wentz
+  title: "Happy Birthday America! — Peter Wentz Farmstead"
+  region: bucks
+  category: family
+  date: "2026-06-28"
+  start: "13:00"
+  end: "15:00"
+  time_note: ""
+  venue: "Peter Wentz Farmstead"
+  address: "2030 Shearer Road, Lansdale, PA 19446"
+  town: "Worcester / Lansdale, PA (Montgomery Co.)"
+  lat: 40.1880
+  lng: -75.3690
+  cost: "Free"
+  description: "An old-fashioned birthday party for America's 250th at the county's colonial farmstead — colonial games, birthday treats, and visits from other county historic sites (also the Farmstead's own 50th)."
+  url: "https://www.montgomerycountypa.gov/2661/Events-at-Wentz"
+  source: "https://www.montgomerycountypa.gov/explore-county/celebrate-america-250"
+  org: "Peter Wentz Farmstead Society"
+  featured: false
+- id: mont-birthday-bash
+  title: "Montco's America 250 Birthday Bash"
+  region: bucks
+  category: festival
+  date: "2026-06-29"
+  start: "11:00"
+  end: "13:00"
+  time_note: "County kickoff"
+  venue: "Montgomery County Courthouse"
+  address: "2 E. Airy Street, Norristown, PA 19401"
+  town: "Norristown, PA (Montgomery Co.)"
+  lat: 40.1150
+  lng: -75.3400
+  cost: "Free"
+  description: "The county + Valley Forge Tourism kickoff of America's 250th (and Valley Forge NHP's 50th) — food trucks, photo ops and family activities."
+  url: "https://www.valleyforge.org/event/montcos-america-250-birthday-bash/304067/"
+  source: "https://www.valleyforge.org/event/montcos-america-250-birthday-bash/304067/"
+  org: "Montgomery County / Valley Forge Tourism"
+  featured: false
+- id: mont-trappe-lecture
+  title: "\"Preparing to Declare\" — lecture by Dr. Emily Sneff"
+  region: bucks
+  category: lecture
+  date: "2026-06-30"
+  start: "19:00"
+  end: ""
+  time_note: ""
+  venue: "St. Luke's Church (Historic Trappe)"
+  address: "200 W. Main Street, Trappe, PA 19426"
+  town: "Trappe, PA (Montgomery Co.)"
+  lat: 40.1980
+  lng: -75.4760
+  cost: "Free"
+  description: "A talk on how the Declaration of Independence was drafted, adopted, and first publicized."
+  url: "https://historictrappe.org/events/"
+  source: "https://historictrappe.org/events/"
+  org: "Historic Trappe"
+  featured: false
+- id: mont-ambler-kiwanis
+  title: "Ambler Kiwanis Carnival & Fireworks"
+  region: bucks
+  category: fair
+  date: "2026-07-02"
+  start: "18:00"
+  end: "22:00"
+  time_note: "Fireworks at dusk (rain date Jul 3)"
+  venue: "Wissahickon High School"
+  address: "521 Houston Road, Ambler, PA 19002"
+  town: "Ambler, PA (Montgomery Co.)"
+  lat: 40.1530
+  lng: -75.2180
+  cost: "Free (rides extra)"
+  description: "Kiwanis carnival (rides, games, carnival food) June 30–July 4, with a community fireworks display on July 2."
+  url: "https://www.valleyforge.org/blog/post/make-it-montco-this-july-4th/"
+  source: "https://6abc.com/post/list-2026-july-4th-fireworks-displays-pennsylvania-new-jersey-delaware/19213232/"
+  org: "Ambler Kiwanis"
+  featured: false
+- id: mont-valleyforge-jul3
+  title: "Retreat to Valley Forge — 50/250 Celebration (Day 1)"
+  region: bucks
+  category: reenactment
+  date: "2026-07-03"
+  start: "09:00"
+  end: "17:00"
+  time_note: "Musket demos 11am–3pm; shuttle every 20 min"
+  venue: "Valley Forge National Historical Park"
+  address: "1400 North Outer Line Drive, King of Prussia, PA 19406"
+  town: "King of Prussia, PA (Montgomery Co.)"
+  lat: 40.1015
+  lng: -75.4220
+  cost: "Free"
+  description: "Day 1 of the NPS 50/250 weekend (Valley Forge's 50th as a park + America's 250th): Muhlenberg's Brigade ribbon-cutting and musket-firing demos, Camp Life with Spencer's Additional Regiment, surveying & mapmaking, two new exhibits ('Valley Forge Then and Now' and 'My Valley Forge Story'), and a storytelling fire-pit dedication."
+  url: "https://www.nps.gov/articles/000/retreat-to-valley-forge.htm"
+  source: "https://www.nps.gov/vafo/learn/news/50-250-celebration-retreat-to-valley-forge.htm"
+  org: "National Park Service — Valley Forge NHP"
+  featured: true
+- id: mont-conshohocken-jul3
+  title: "Conshohocken July 3rd Fireworks"
+  region: bucks
+  category: fireworks
+  date: "2026-07-03"
+  start: "21:15"
+  end: ""
+  time_note: "Fireworks ~9:15pm"
+  venue: "Sutcliffe Park area (view from surrounding streets)"
+  address: "W. 9th Avenue & Freedley Street, Conshohocken, PA 19428"
+  town: "Conshohocken, PA (Montgomery Co.)"
+  lat: 40.0790
+  lng: -75.3010
+  cost: "Free"
+  description: "Borough-wide fireworks display sized for visibility across Conshohocken (the park itself is closed for safety — view from surrounding areas)."
+  url: "https://www.conshohockenpa.gov/departments/public-information-special-events/july-3rd-fireworks-display/"
+  source: "https://www.conshohockenpa.gov/departments/public-information-special-events/july-3rd-fireworks-display/"
+  org: "Conshohocken Borough"
+  featured: false
+- id: mont-bridgeport-bigboy
+  title: "Bridgeport America 250 — 'Big Boy' Steam Train + Declaration Reading"
+  region: bucks
+  category: ceremony
+  date: "2026-07-03"
+  start: "09:00"
+  end: ""
+  time_note: "Train ~9–9:15am; arrive early"
+  venue: "Bridgeport train station area"
+  address: "2nd Street & Depot Street, Bridgeport, PA 19405"
+  town: "Bridgeport, PA (Montgomery Co.)"
+  lat: 40.1050
+  lng: -75.3450
+  cost: "Free"
+  description: "Watch party for Union Pacific 'Big Boy' No. 4014 — the world's largest operating steam locomotive — on its coast-to-coast America250 tour, with patriotic regalia and a reading of the Declaration."
+  url: "https://www.valleyforge.org/america250-montcopa/"
+  source: "https://www.valleyforge.org/america250-montcopa/"
+  org: "Bridgeport Borough"
+  featured: false
+- id: mont-upper-gwynedd-breakfast
+  title: "Declaration of Independence Breakfast — Upper Gwynedd"
+  region: bucks
+  category: ceremony
+  date: "2026-07-03"
+  start: "10:00"
+  end: "11:00"
+  time_note: ""
+  venue: "Upper Gwynedd Firehouse"
+  address: "660 Garfield Ave, West Point, PA 19486"
+  town: "West Point, PA (Montgomery Co.)"
+  lat: 40.2210
+  lng: -75.3140
+  cost: "Free (unconfirmed)"
+  description: "A community breakfast with a public reading of the Declaration of Independence."
+  url: "https://ugtparks.recdesk.com/Community/Program/Detail?programId=764"
+  source: "https://www.montgomerycountypa.gov/explore-county/celebrate-america-250"
+  org: "Upper Gwynedd Township"
+  featured: false
+- id: mont-valleyforge-jul4
+  title: "Retreat to Valley Forge — 50/250 Celebration (July 4)"
+  region: bucks
+  category: reenactment
+  date: "2026-07-04"
+  start: "09:00"
+  end: "17:00"
+  time_note: "Declaration readings 10am, 12:30pm, 3pm; shuttle every 10 min"
+  venue: "Valley Forge National Historical Park"
+  address: "1400 North Outer Line Drive, King of Prussia, PA 19406"
+  town: "King of Prussia, PA (Montgomery Co.)"
+  lat: 40.1015
+  lng: -75.4220
+  cost: "Free"
+  description: "The big day at Valley Forge: a giant Declaration of Independence signing, Courts Martial programs, live music by the Hot Taters at the National Memorial Arch, hut building, replica cannon and Conestoga wagon, artillery demos with the 13th Virginia Regiment, colonial-clothing try-on, and live Declaration readings at the Maurice Stephens House (10am, 12:30pm, 3pm)."
+  url: "https://www.nps.gov/articles/000/retreat-to-valley-forge.htm"
+  source: "https://www.nps.gov/vafo/learn/news/50-250-celebration-retreat-to-valley-forge.htm"
+  org: "National Park Service — Valley Forge NHP"
+  featured: true
+- id: mont-graeme-park
+  title: "America 250 4th of July & Declaration Reading — Graeme Park"
+  region: bucks
+  category: reenactment
+  date: "2026-07-04"
+  start: "12:00"
+  end: "14:00"
+  time_note: ""
+  venue: "Graeme Park (Keith House)"
+  address: "859 County Line Road, Horsham, PA 19044"
+  town: "Horsham, PA (Montgomery Co.)"
+  lat: 40.1980
+  lng: -75.1450
+  cost: "Free"
+  description: "A Star-Spangled Banner performance and Declaration reading by costumed reenactors, period dancing by the Tapestry Historic Dance Ensemble, quill-pen writing, complimentary ice cream, and Keith House tours."
+  url: "https://www.graemepark.org/event/america-250-4th-of-july-celebration-reading-of-the-declaration/"
+  source: "https://www.graemepark.org/event/america-250-4th-of-july-celebration-reading-of-the-declaration/"
+  org: "Friends of Graeme Park"
+  featured: false
+- id: mont-trappe-speakers
+  title: "Independence Day at Historic Trappe (Speaker's & Muhlenberg Houses)"
+  region: bucks
+  category: reenactment
+  date: "2026-07-04"
+  start: "10:00"
+  end: "16:00"
+  time_note: "Balcony Declaration reading 10:30am"
+  venue: "The Speaker's House & Muhlenberg House"
+  address: "151 W. Main Street, Trappe, PA 19426"
+  town: "Trappe, PA (Montgomery Co.)"
+  lat: 40.1985
+  lng: -75.4755
+  cost: "Free"
+  description: "A family celebration of the 250th: Kids Dig History archaeology, a fife-and-drum procession, a 10:30am Declaration reading from the Muhlenberg House balcony, and tours of the Muhlenberg House, Speaker's House and Dewees Tavern."
+  url: "https://historictrappe.org/events/"
+  source: "https://www.valleyforge.org/event/houses-of-declaration:-historic-trappe-speakers-house/303594/"
+  org: "Historic Trappe"
+  featured: false
+- id: mont-new-goschenhoppen
+  title: "Houses of Declaration — New Goschenhoppen Park (+ fireworks)"
+  region: bucks
+  category: festival
+  date: "2026-07-04"
+  start: "09:00"
+  end: "21:30"
+  time_note: "Declaration reading 6:30pm (German & English); fireworks after"
+  venue: "New Goschenhoppen Park"
+  address: "618 3rd Street, East Greenville, PA 18041"
+  town: "East Greenville, PA (Montgomery Co.)"
+  lat: 40.4080
+  lng: -75.5050
+  cost: "Free"
+  description: "A parade to the park, children's crafts, food vendors, a bilingual Declaration reading at 6:30pm (audience reads the charges against the King), patriotic music by the Brandywine Colonels Fife & Drum Corps, and fireworks. Presented by the Schwenkfelder Library & Heritage Center."
+  url: "https://www.schwenkfelder.org/calendar"
+  source: "https://www.valleyforge.org/event/houses-of-declaration:-new-goschenhoppen-park-presented-by-schwenkfelder-library-&-heritage-center/303601/"
+  org: "Schwenkfelder Library & Heritage Center"
+  featured: false
+- id: mont-american-treasure
+  title: "Houses of Declaration — American Treasure Tour Museum"
+  region: bucks
+  category: exhibit
+  date: "2026-07-04"
+  start: "11:00"
+  end: ""
+  time_note: "Readings 11am, 1pm, 3pm"
+  venue: "American Treasure Tour Museum"
+  address: "1 American Treasure Way, Oaks, PA 19456"
+  town: "Oaks, PA (Montgomery Co.)"
+  lat: 40.1320
+  lng: -75.4560
+  cost: "Included with admission"
+  description: "Declaration readings with Q&A at 11am, 1pm and 3pm in the Music Room of this vast museum of antiques and mechanical music, with paired tram tours."
+  url: "https://americantreasuretour.com/"
+  source: "https://www.valleyforge.org/event/houses-of-declaration:-american-treasure-tour-museum/304052/"
+  org: "American Treasure Tour"
+  featured: false
+- id: mont-elmwood-zoo
+  title: "Elmwood Park Zoo — Free Admission for the 250th"
+  region: bucks
+  category: family
+  date: "2026-07-04"
+  start: ""
+  end: ""
+  time_note: "Free w/ advance registration; Declaration reading on-site"
+  venue: "Elmwood Park Zoo"
+  address: "1661 Harding Blvd, Norristown, PA 19401"
+  town: "Norristown, PA (Montgomery Co.)"
+  lat: 40.1230
+  lng: -75.3470
+  cost: "Free (register in advance)"
+  description: "Free general admission (one of three America250 free-holiday days), with live music, animal encounters, a DAR flag giveaway and a Houses of Declaration reading. The adjacent Elmwood Park hosts Norristown's fireworks ~9:30pm."
+  url: "https://elmwoodparkzoo.org/free-holiday/"
+  source: "https://elmwoodparkzoo.org/free-holiday/"
+  org: "Elmwood Park Zoo"
+  featured: false
+- id: mont-houses-declaration
+  title: "Houses of Declaration — countywide Declaration readings"
+  region: bucks
+  category: ceremony
+  date: "2026-07-04"
+  start: ""
+  end: ""
+  all_day: true
+  time_note: "~20 sites, Jul 3–5 (times posting)"
+  venue: "~20 historic sites across Montgomery County"
+  address: ""
+  town: "Montgomery County, PA"
+  lat: null
+  lng: null
+  cost: "Free"
+  description: "The county's signature program: live Declaration of Independence readings at roughly 20 towns and historic sites July 3–5 — including Lansdale, Upper Dublin, North Wales, the Wall House (Cheltenham), the Union Library Company of Hatborough, Sweet Ashley's (Royersford) and the Skippack Historical Society. Several times/addresses are still posting — check the county hub."
+  url: "https://www.valleyforge.org/america250-montcopa/"
+  source: "https://www.valleyforge.org/america250-montcopa/"
+  org: "Valley Forge Tourism / Montgomery County"
+  featured: false
+- id: mont-valleyforge-jul5
+  title: "Retreat to Valley Forge — 50/250 Celebration (Day 3)"
+  region: bucks
+  category: reenactment
+  date: "2026-07-05"
+  start: "09:00"
+  end: "17:00"
+  time_note: "Closing remarks 2:30pm; final musket demo 3pm"
+  venue: "Valley Forge National Historical Park"
+  address: "1400 North Outer Line Drive, King of Prussia, PA 19406"
+  town: "King of Prussia, PA (Montgomery Co.)"
+  lat: 40.1015
+  lng: -75.4220
+  cost: "Free"
+  description: "The closing day at Valley Forge: musket-firing demonstrations through the afternoon, Camp Life and surveying programs, the new exhibits, and final closing remarks at 2:30pm."
+  url: "https://www.nps.gov/articles/000/retreat-to-valley-forge.htm"
+  source: "https://www.nps.gov/articles/000/retreat-to-valley-forge.htm"
+  org: "National Park Service — Valley Forge NHP"
+  featured: false
+- id: mont-harriton
+  title: "A Declaration Celebration — Harriton House"
+  region: bucks
+  category: ceremony
+  date: "2026-07-05"
+  start: "11:00"
+  end: "16:00"
+  time_note: "Readings 11:30am & 2pm"
+  venue: "Harriton House"
+  address: "500 Harriton Road, Bryn Mawr, PA 19010"
+  town: "Bryn Mawr, PA (Montgomery Co.)"
+  lat: 40.0290
+  lng: -75.3360
+  cost: "Free"
+  description: "Honoring Charles Thomson (Secretary of the Continental Congress, whose home this was): Declaration readings at 11:30am & 2pm, live bluegrass, yard games, crafts, complimentary ice cream, and Thomson's traveling desk on display."
+  url: "https://www.eventbrite.com/e/a-declaration-celebration-harriton-house-july-5-2026-tickets-1987568896072"
+  source: "https://www.valleyforge.org/event/houses-of-declaration:-harriton-house/304022/"
+  org: "Harriton Association"
+  featured: false
+- id: mont-trappe-muhlenberg
+  title: "Historic Trappe — Muhlenberg House Declaration Reading (German)"
+  region: bucks
+  category: ceremony
+  date: "2026-07-05"
+  start: "12:00"
+  end: "16:00"
+  time_note: "Balcony reading at noon (in German)"
+  venue: "The Muhlenberg House"
+  address: "201 W. Main Street, Trappe, PA 19426"
+  town: "Trappe, PA (Montgomery Co.)"
+  lat: 40.1985
+  lng: -75.4770
+  cost: "Free"
+  description: "A Sunday balcony reading of the Declaration delivered in German, reflecting the Muhlenberg family's Pennsylvania-German heritage, with house tours and kids' activities."
+  url: "https://historictrappe.org/events/"
+  source: "https://www.valleyforge.org/event/houses-of-declaration:-historic-trappe-muhlenberg-house/303595/"
+  org: "Historic Trappe"
+  featured: false
+- id: mont-schwenkfelder
+  title: "Schwenkfelder Library & Heritage Center — Heritage Day"
+  region: bucks
+  category: family
+  date: "2026-07-05"
+  start: "12:00"
+  end: "16:00"
+  time_note: ""
+  venue: "Schwenkfelder Library & Heritage Center"
+  address: "105 Seminary Street, Pennsburg, PA 18073"
+  town: "Pennsburg, PA (Montgomery Co.)"
+  lat: 40.3920
+  lng: -75.4940
+  cost: "Free"
+  description: "A flag-themed celebration with kid-friendly crafts, a curator talk on regional flag-making history, and a visit from Betsy Ross (air-conditioned)."
+  url: "https://www.schwenkfelder.org/calendar"
+  source: "https://www.schwenkfelder.org/calendar"
+  org: "Schwenkfelder Library & Heritage Center"
+  featured: false
+- id: mont-pottsgrove
+  title: "Pottsgrove Manor — 'Independence Ignited!'"
+  region: bucks
+  category: reenactment
+  date: "2026-07-05"
+  start: "11:00"
+  end: "17:00"
+  time_note: "Time per montco.today — confirm"
+  venue: "Pottsgrove Manor"
+  address: "100 West King Street, Pottstown, PA 19464"
+  town: "Pottstown, PA (Montgomery Co.)"
+  lat: 40.2460
+  lng: -75.6520
+  cost: "$2 suggested donation"
+  description: "Step into 1776 as Colonel Thomas Potts's Associator Battalion takes the field — reenactors in period uniforms drill and march, with a colonial militia encampment at the 1752 ironmaster's mansion."
+  url: "https://www.montgomerycountypa.gov/930/Pottsgrove-Manor"
+  source: "https://www.montgomerycountypa.gov/explore-county/historic-sites/pottsgrove-manor"
+  org: "Pottsgrove Manor"
+  featured: false
+- id: mont-st-thomas
+  title: "Greater Whitemarsh 250 — St. Thomas' Church Colonial Service & Reading"
+  region: bucks
+  category: ceremony
+  date: "2026-07-05"
+  start: "10:00"
+  end: "12:00"
+  time_note: "Format/time unconfirmed"
+  venue: "St. Thomas' Episcopal Church, Whitemarsh"
+  address: "7020 Camp Hill Road, Fort Washington, PA 19034"
+  town: "Fort Washington, PA (Montgomery Co.)"
+  lat: 40.1370
+  lng: -75.2150
+  cost: "Free (unconfirmed)"
+  description: "A commemoration at one of the oldest Episcopal churches in the U.S. (founded 1698, occupied during the Revolution) — a colonial church service with traditional readings and music, refreshments, and a Declaration reading, alongside a 'History Unleashed: Greater Whitemarsh 250' kickoff with reenactors."
+  url: "https://www.whitemarshtwp.org/644/America-250-Celebration"
+  source: "https://diopa.org/event/history-unleashed-greater-whitemarsh-250-at-st-thomas-whitemarsh"
+  org: "St. Thomas' Whitemarsh / Whitemarsh Township"
+  featured: false
+
+# ======================================================================
+# CENTRAL NJ — from Gmail (Lambertville Historical Society)
+# ======================================================================
+- id: nj-marshall-house
+  title: "James Marshall House Museum & Lambertville walking tours"
+  region: nj
+  category: tour
+  date: "2026-07-04"
+  start: "13:00"
+  end: "16:00"
+  time_note: "Open weekends 1–4pm — confirm holiday hours"
+  venue: "James Marshall House Museum (Lambertville Historical Society)"
+  address: "60 Bridge Street, Lambertville, NJ 08530"
+  town: "Lambertville, NJ"
+  lat: 40.3660
+  lng: -74.9460
+  cost: "$5 suggested donation"
+  description: "The boyhood home of James Marshall (who later sparked the California Gold Rush), run by the Lambertville Historical Society, which also offers guided walking tours of Lambertville's history. Normally open weekends 1–4pm — confirm holiday-weekend hours with the society."
+  url: "http://www.lambertvillehistoricalsociety.org"
+  source: "http://www.lambertvillehistoricalsociety.org"
+  org: "Lambertville Historical Society"
+  featured: false
