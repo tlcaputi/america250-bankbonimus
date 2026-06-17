@@ -1617,3 +1617,1192 @@
   source: "https://www.newtownhistoric.org/events/list/"
   org: "Newtown Historic Association"
   featured: false
+
+# ======================================================================
+# Supplemental wide-net merge (history/community/institutions sweeps)
+# ======================================================================
+# =====================================================================
+# NEW America250 events to APPEND to _data/events.yml
+# Window: Sun Jun 28 – Sun Jul 5, 2026. Regions: philadelphia | bucks | nj
+# These are events found in the research files that were NOT already in
+# events.yml (82 events). Each is deduped against existing venue+date.
+# Every event has a real `source:` URL taken from the research files.
+# Coordinates best-effort from the street address; null where unplaceable.
+# =====================================================================
+
+# ----------------------------------------------------------------------
+# SUNDAY, JUNE 28 — Philadelphia
+# ----------------------------------------------------------------------
+- id: phl-cliveden-parlor-jun28
+  title: "Music in the Parlor: The Ministers of Apollo — Cliveden"
+  region: philadelphia
+  category: concert
+  date: "2026-06-28"
+  start: "12:00"
+  end: "16:00"
+  all_day: false
+  time_note: ""
+  venue: "Cliveden of the National Trust (Germantown)"
+  address: "6401 Germantown Avenue, Philadelphia, PA 19144"
+  town: "Germantown, Philadelphia"
+  lat: 40.0457
+  lng: -75.1799
+  cost: "Free"
+  description: "NJ-based historical musicians perform Revolutionary-era music on harpsichord and period instruments in Cliveden's parlor; first-floor tours of the 1767 Chew house available."
+  url: "https://cliveden.org/music-in-the-parlor-2026/"
+  source: "https://cliveden.org/music-in-the-parlor-2026/"
+  org: "Cliveden of the National Trust / Historic Germantown"
+  featured: false
+- id: phl-laurelhill-patriots-jun28
+  title: "The Patriots of 1776 — guided tour, Laurel Hill East"
+  region: philadelphia
+  category: tour
+  date: "2026-06-28"
+  start: "11:00"
+  end: "13:00"
+  all_day: false
+  time_note: ""
+  venue: "Laurel Hill East (Laurel Hill Cemetery)"
+  address: "3822 Ridge Avenue, Philadelphia, PA 19132"
+  town: "Philadelphia, PA"
+  lat: 40.0046
+  lng: -75.1880
+  cost: "$20 (seniors/students $18)"
+  description: "Guided walking tour (guide Russ Dodge) on what Revolutionary figures interred at Laurel Hill were doing 250 years ago, around the Declaration's adoption."
+  url: "https://laurelhillphl.com/event/patriots-of-1776-0626/"
+  source: "https://laurelhillphl.com/event/patriots-of-1776-0626/"
+  org: "The Laurel Hill"
+  featured: false
+- id: phl-africatown-jun28
+  title: "Africatown Diaspora Village Festival (Ring It On!)"
+  region: philadelphia
+  category: festival
+  date: "2026-06-28"
+  start: "12:00"
+  end: "18:00"
+  all_day: false
+  time_note: ""
+  venue: "Woodland Avenue corridor (Southwest Philadelphia)"
+  address: "Woodland Avenue, Philadelphia, PA 19142"
+  town: "Kingsessing, Philadelphia"
+  lat: 39.9376
+  lng: -75.2280
+  cost: "Free"
+  description: "First-time festival celebrating African and Caribbean heritage with music, food, art and vendors. The only in-window event in the City's 'Ring It On! 2026 Community Corridor Celebrations.'"
+  url: "https://www.phlvisitorcenter.com/sites/default/files/2026-04/Ring%20It%20On!%202026%20Community%20Corridor%20Celebrations%20Calendar.pdf"
+  source: "https://www.phlvisitorcenter.com/sites/default/files/2026-04/Ring%20It%20On!%202026%20Community%20Corridor%20Celebrations%20Calendar.pdf"
+  org: "African Cultural Alliance of North America (ACANA)"
+  featured: false
+- id: phl-bartrams-givingthanks-jun28
+  title: "Giving Thanks (ArtPhilly 'What Now') — Bartram's Garden"
+  region: philadelphia
+  category: festival
+  date: "2026-06-28"
+  start: ""
+  end: ""
+  all_day: false
+  time_note: "Time unconfirmed in source"
+  venue: "Bartram's Garden"
+  address: "5400 Lindbergh Boulevard, Philadelphia, PA 19143"
+  town: "Philadelphia, PA"
+  lat: 39.9332
+  lng: -75.2120
+  cost: "Free"
+  description: "Outdoor community meal with dancing, music and pop-up performances; a collaboration of chef Laquanda Dobson and theater artist Jennifer Kidwell."
+  url: "https://www.visitphilly.com/things-to-do/events/artphilly-what-now/"
+  source: "https://www.visitphilly.com/things-to-do/events/artphilly-what-now/"
+  org: "ArtPhilly at Bartram's Garden"
+  featured: false
+- id: phl-gospel-jun28
+  title: "Gospel on Independence (Wawa Welcome America)"
+  region: philadelphia
+  category: concert
+  date: "2026-06-28"
+  start: "19:00"
+  end: "21:00"
+  all_day: false
+  time_note: ""
+  venue: "Independence National Historical Park (Independence Hall backdrop)"
+  address: "6th & Market Streets, Philadelphia, PA 19106"
+  town: "Old City, Philadelphia"
+  lat: 39.9510
+  lng: -75.1502
+  cost: "Free"
+  description: "Free gospel performance with local artists and choirs (Kirk Franklin + 250-person choir reported), Independence Hall as backdrop. Part of Wawa Welcome America."
+  url: "https://july4thphilly.com/events/"
+  source: "https://www.nbcphiladelphia.com/entertainment/the-scene/wawa-welcome-america/full-schedule-of-2026-wawa-welcome-america-july-4th-philly-events/4346322/"
+  org: "Welcome America, Inc."
+  featured: false
+- id: phl-pleasetouch-jun28
+  title: "Free Community Day 'Ready-Set-School' — Please Touch Museum"
+  region: philadelphia
+  category: family
+  date: "2026-06-28"
+  start: "09:00"
+  end: "16:30"
+  all_day: false
+  time_note: "Registration required"
+  venue: "Please Touch Museum"
+  address: "4231 Avenue of the Republic, Philadelphia, PA 19131"
+  town: "Fairmount Park, Philadelphia"
+  lat: 39.9787
+  lng: -75.2110
+  cost: "Free"
+  description: "Play-based school-readiness community day (presented by Independence Blue Cross). Free admission, registration required."
+  url: "https://www.pleasetouchmuseum.org/visit/signature-events/"
+  source: "https://www.pleasetouchmuseum.org/visit/signature-events/"
+  org: "Please Touch Museum"
+  featured: false
+
+# ----------------------------------------------------------------------
+# MONDAY, JUNE 29 — Philadelphia
+# ----------------------------------------------------------------------
+- id: phl-ncc-quizzo-jun29
+  title: "SemiQUIZcentennial Trivia Night — National Constitution Center"
+  region: philadelphia
+  category: other
+  date: "2026-06-29"
+  start: "17:00"
+  end: "20:00"
+  all_day: false
+  time_note: ""
+  venue: "National Constitution Center"
+  address: "525 Arch Street, Philadelphia, PA 19106"
+  town: "Old City, Philadelphia"
+  lat: 39.9496
+  lng: -75.1502
+  cost: "Ticketed (price unconfirmed)"
+  description: "Special edition of historically themed Quizzo trivia with patriotic prizes, kicking off the Center's Independence Week (June 29–July 5)."
+  url: "https://constitutioncenter.org/calendar/independence-week-2026"
+  source: "https://constitutioncenter.org/calendar/independence-week-2026"
+  org: "National Constitution Center"
+  featured: false
+
+# ----------------------------------------------------------------------
+# TUESDAY, JUNE 30 — Philadelphia
+# ----------------------------------------------------------------------
+- id: phl-orchestra-pride-jun30
+  title: "Philadelphia Orchestra Free Pride Concert (Wawa Welcome America)"
+  region: philadelphia
+  category: concert
+  date: "2026-06-30"
+  start: "19:00"
+  end: "21:00"
+  all_day: false
+  time_note: ""
+  venue: "Kimmel Center"
+  address: "300 S. Broad Street, Philadelphia, PA 19102"
+  town: "Center City, Philadelphia"
+  lat: 39.9485
+  lng: -75.1652
+  cost: "Free"
+  description: "Free Philadelphia Orchestra Pride concert at the Kimmel Center, part of Wawa Welcome America."
+  url: "https://july4thphilly.com/events/"
+  source: "https://july4thphilly.com/events/"
+  org: "City of Philadelphia / Welcome America"
+  featured: false
+
+# ----------------------------------------------------------------------
+# WEDNESDAY, JULY 1 — Philadelphia
+# ----------------------------------------------------------------------
+- id: phl-firstbank-jul1
+  title: "First Bank of the United States — Public Reopening / Ribbon-Cutting"
+  region: philadelphia
+  category: exhibit
+  date: "2026-07-01"
+  start: ""
+  end: ""
+  all_day: false
+  time_note: "Ribbon-cutting time TBA; then open Thu–Sun 11am–4pm"
+  venue: "First Bank of the United States (Independence NHP)"
+  address: "116 S. 3rd Street, Philadelphia, PA 19106"
+  town: "Old City, Philadelphia"
+  lat: 39.9479
+  lng: -75.1455
+  cost: "Free"
+  description: "The nation's first federally chartered bank (1797) reopens as a museum after a ~$43M restoration, with new exhibits on American history and diplomacy including Centennial/Sesquicentennial/Bicentennial objects. Special exhibition runs July 1, 2026 – Feb 15, 2027."
+  url: "https://www.nps.gov/inde/learn/news/first-bank-opening-2026-7-1.htm"
+  source: "https://inht.org/first-bank-reopens-july-1/"
+  org: "National Park Service / Independence NHP"
+  featured: false
+- id: phl-hoagie-day-jul1
+  title: "Wawa Hoagie Day"
+  region: philadelphia
+  category: food
+  date: "2026-07-01"
+  start: "10:00"
+  end: "17:00"
+  all_day: false
+  time_note: "Free hoagies at noon; band concert 1pm; free NCC admission all day"
+  venue: "Arch St (5th–6th) / National Constitution Center"
+  address: "525 Arch Street, Philadelphia, PA 19106"
+  town: "Old City, Philadelphia"
+  lat: 39.9496
+  lng: -75.1502
+  cost: "Free"
+  description: "Annual free-hoagie tradition honoring local heroes: free Wawa Shorti hoagies at noon on Arch Street, a U.S. Air Force Heritage of America Band concert, and free National Constitution Center admission all day."
+  url: "https://constitutioncenter.org/calendar/independence-week-2026"
+  source: "https://constitutioncenter.org/calendar/independence-week-2026"
+  org: "Welcome America, Inc. / Wawa / NCC"
+  featured: false
+- id: phl-meacham-trivia-jul1
+  title: "Beat a Historian: Trivia with Jon Meacham — NCC"
+  region: philadelphia
+  category: lecture
+  date: "2026-07-01"
+  start: "13:00"
+  end: ""
+  all_day: false
+  time_note: "End time unconfirmed"
+  venue: "Kirby Auditorium, National Constitution Center"
+  address: "525 Arch Street, Philadelphia, PA 19106"
+  town: "Old City, Philadelphia"
+  lat: 39.9496
+  lng: -75.1502
+  cost: "Ticketed (price unconfirmed)"
+  description: "Trivia using an America's-250th edition of Trivial Pursuit, hosted by historian Jon Meacham."
+  url: "https://constitutioncenter.org/calendar/independence-week-2026"
+  source: "https://constitutioncenter.org/calendar/independence-week-2026"
+  org: "National Constitution Center"
+  featured: false
+- id: phl-townhall-jul1
+  title: "Independence Week Town Hall: The American Idea at 250 — NCC"
+  region: philadelphia
+  category: lecture
+  date: "2026-07-01"
+  start: "18:30"
+  end: ""
+  all_day: false
+  time_note: "End time unconfirmed"
+  venue: "National Constitution Center"
+  address: "525 Arch Street, Philadelphia, PA 19106"
+  town: "Old City, Philadelphia"
+  lat: 39.9496
+  lng: -75.1502
+  cost: "Ticketed (price unconfirmed)"
+  description: "Panel with Jon Meacham, Colleen Shogan and Danielle Allen on founding principles, moderated by Robert Costa."
+  url: "https://constitutioncenter.org/calendar/independence-week-2026"
+  source: "https://constitutioncenter.org/calendar/independence-week-2026"
+  org: "National Constitution Center"
+  featured: false
+- id: phl-hsp-freeasone-jul1
+  title: "'Free, As One' America 250 Programming — Historical Society of PA"
+  region: philadelphia
+  category: exhibit
+  date: "2026-07-01"
+  start: "12:00"
+  end: "16:00"
+  all_day: false
+  time_note: "Also Jul 2 & Jul 3"
+  venue: "Historical Society of Pennsylvania"
+  address: "1300 Locust Street, Philadelphia, PA 19107"
+  town: "Center City, Philadelphia"
+  lat: 39.9470
+  lng: -75.1640
+  cost: "Free"
+  description: "Semiquincentennial programming tied to the exhibit 'Free, As One: Black Worldmaking in the Pennsylvania Abolition Society Papers,' marking the 250th of the PAS's founding (with ASALH). Repeats July 2 & 3."
+  url: "https://hsp.org/usa250"
+  source: "https://hsp.org/usa250"
+  org: "Historical Society of Pennsylvania (with ASALH)"
+  featured: false
+- id: phl-moar-declaration-days-jul1
+  title: "Declaration Days at the Museum — Museum of the American Revolution"
+  region: philadelphia
+  category: family
+  date: "2026-07-01"
+  start: "09:30"
+  end: "18:00"
+  all_day: false
+  time_note: "Daily through Jul 5; per-session times unconfirmed"
+  venue: "Museum of the American Revolution"
+  address: "101 S. 3rd Street, Philadelphia, PA 19106"
+  town: "Old City, Philadelphia"
+  lat: 39.9486
+  lng: -75.1452
+  cost: "Included with admission ($27/$25)"
+  description: "Drop-in 250th programming daily July 1–5: in-gallery talks, historical interpretation and hands-on demos focused on the Declaration (sub-programs include 'Meet the Revolution with Michele Gabrielson' Jul 2–3 and Common Press printmaking/papermaking Jul 2–4)."
+  url: "https://www.amrevmuseum.org/events/declaration-days-at-the-museum"
+  source: "https://www.amrevmuseum.org/events/declaration-days-at-the-museum"
+  org: "Museum of the American Revolution"
+  featured: false
+
+# ----------------------------------------------------------------------
+# THURSDAY, JULY 2 — Philadelphia
+# ----------------------------------------------------------------------
+- id: phl-stenton-jul2
+  title: "Wawa Welcome America Free Museum Day — Stenton"
+  region: philadelphia
+  category: tour
+  date: "2026-07-02"
+  start: "10:00"
+  end: "16:00"
+  all_day: false
+  time_note: "Tours on the half hour; last tour 3pm; reservation required"
+  venue: "Stenton (James Logan's 1730 house)"
+  address: "4601 N. 18th Street, Philadelphia, PA 19140"
+  town: "Germantown, Philadelphia"
+  lat: 40.0335
+  lng: -75.1486
+  cost: "Free"
+  description: "Free guided house tours of James Logan's 1730 mansion (reserve via TicketLeap). Exhibit 'Sadware' on display through July 4."
+  url: "https://www.stenton.org/"
+  source: "https://historicgermantownpa.org/stenton/"
+  org: "Stenton / The Colonial Dames of America in PA"
+  featured: false
+
+# ----------------------------------------------------------------------
+# FRIDAY, JULY 3 — Philadelphia
+# ----------------------------------------------------------------------
+- id: phl-cocktails-congress-jul3
+  title: "Cocktails & Congress — Carpenters' Hall"
+  region: philadelphia
+  category: tour
+  date: "2026-07-03"
+  start: "17:30"
+  end: "18:30"
+  all_day: false
+  time_note: ""
+  venue: "Carpenters' Hall"
+  address: "320 Chestnut Street, Philadelphia, PA 19106"
+  town: "Old City, Philadelphia"
+  lat: 39.9487
+  lng: -75.1469
+  cost: "$50 (incl. 2 drinks)"
+  description: "Evening living-history program where costumed interpreters debate independence at the site of the actual 1774 First Continental Congress."
+  url: "https://historicphiladelphia.org/events/cocktails-and-congress/"
+  source: "https://historicphiladelphia.org/events/cocktails-and-congress/"
+  org: "Historic Philadelphia, Inc."
+  featured: false
+- id: phl-1776-movie-betsyross-jul3
+  title: "'1776: The Movie Musical' Outdoor Cinema + 250th Midnight Countdown"
+  region: philadelphia
+  category: family
+  date: "2026-07-03"
+  start: "20:30"
+  end: "23:59"
+  all_day: false
+  time_note: "Midnight 250th countdown"
+  venue: "Betsy Ross House courtyard"
+  address: "239 Arch Street, Philadelphia, PA 19106"
+  town: "Old City, Philadelphia"
+  lat: 39.9523
+  lng: -75.1444
+  cost: "$25"
+  description: "Interactive courtyard screening of the '1776' movie musical with sing-alongs, costume contest, trivia, a house tour, and a Liberty-Bell-themed midnight 250th countdown."
+  url: "https://historicphiladelphia.org/events/1776-the-movie-musical/"
+  source: "https://historicphiladelphia.org/events/1776-the-movie-musical/"
+  org: "Historic Philadelphia, Inc. / Betsy Ross House"
+  featured: false
+- id: phl-fortmifflin-jul3
+  title: "4th at the Fort! — Fort Mifflin"
+  region: philadelphia
+  category: reenactment
+  date: "2026-07-03"
+  start: "10:00"
+  end: ""
+  all_day: false
+  time_note: "End time unconfirmed; listed by the fort as a Jul 3 event"
+  venue: "Fort Mifflin on the Delaware"
+  address: "Fort Mifflin Road & Hog Island Road, Philadelphia, PA 19153"
+  town: "Philadelphia, PA"
+  lat: 39.8790
+  lng: -75.2120
+  cost: "Ticketed (cannon firing extra)"
+  description: "Patriotic day with military demonstrations — soldier's-life displays, walking the walls, musket drills, cannon firing (extra fee) and picnic access. Advance tickets via TicketLeap."
+  url: "https://www.fortmifflin.us/events/"
+  source: "https://www.fortmifflin.us/events/"
+  org: "Fort Mifflin on the Delaware"
+  featured: false
+
+# ----------------------------------------------------------------------
+# SATURDAY, JULY 4 — Philadelphia
+# ----------------------------------------------------------------------
+- id: phl-manayunk-parade-jul4
+  title: "Independence Day Parade of Churches and Sunday Schools (Manayunk/Roxborough)"
+  region: philadelphia
+  category: parade
+  date: "2026-07-04"
+  start: "09:00"
+  end: ""
+  all_day: false
+  time_note: "9am sharp; then church picnics"
+  venue: "Manayunk Ave & Lyceum Ave → Ridge Ave"
+  address: "Manayunk Ave & Lyceum Ave, Philadelphia, PA 19128"
+  town: "Manayunk/Roxborough, Philadelphia"
+  lat: 40.0260
+  lng: -75.2240
+  cost: "Free"
+  description: "Billed as America's oldest continuous Independence Day parade (founded 1831): churches, floats, wagons and bands process up Lyceum to Ridge Avenue, then disperse to picnics."
+  url: "https://roxboroughpa.com/events/independence-day-parade"
+  source: "https://roxboroughpa.com/events/independence-day-parade"
+  org: "21st Ward Fourth of July Association"
+  featured: false
+- id: phl-christchurch-echoes-jul4
+  title: "'Echoes of Independence: Bells, Organ, and Revolution' — Christ Church"
+  region: philadelphia
+  category: concert
+  date: "2026-07-04"
+  start: "12:00"
+  end: "13:00"
+  all_day: false
+  time_note: ""
+  venue: "Christ Church"
+  address: "20 N. American Street, Philadelphia, PA 19106"
+  town: "Old City, Philadelphia"
+  lat: 39.9517
+  lng: -75.1440
+  cost: "Ticketed (price unconfirmed)"
+  description: "Special concert and historical presentation — the bells of Christ Church (whose 1702 bell shares the Liberty Bell foundry line) ring out, with organ performances and a historical talk."
+  url: "https://christchurchphila.org/event/echoes-of-independence-bells-organ-and-revolution/"
+  source: "https://www.christchurchphila.org/events/"
+  org: "Christ Church Philadelphia"
+  featured: false
+- id: phl-betsyross-petshow-jul4
+  title: "Patriotic Pet Show (4th Annual) — Betsy Ross House"
+  region: philadelphia
+  category: family
+  date: "2026-07-04"
+  start: "10:30"
+  end: ""
+  all_day: false
+  time_note: ""
+  venue: "Betsy Ross House courtyard"
+  address: "239 Arch Street, Philadelphia, PA 19106"
+  town: "Old City, Philadelphia"
+  lat: 39.9523
+  lng: -75.1444
+  cost: "Free"
+  description: "The 4th annual Patriotic Pet Show in the Betsy Ross House courtyard. (Betsy Ross's original sewing table is also on display June 14–July 4.)"
+  url: "https://historicphiladelphia.org/events/patriotic-pet-show/"
+  source: "https://historicphiladelphia.org/events/patriotic-pet-show/"
+  org: "Historic Philadelphia, Inc."
+  featured: false
+- id: phl-pafa-tour-jul4
+  title: "Exhibition Tour — 'A Nation of Artists' — PAFA"
+  region: philadelphia
+  category: exhibit
+  date: "2026-07-04"
+  start: "13:00"
+  end: "14:00"
+  all_day: false
+  time_note: ""
+  venue: "PAFA Historic Landmark Building"
+  address: "118–128 N. Broad Street, Philadelphia, PA 19102"
+  town: "Center City, Philadelphia"
+  lat: 39.9585
+  lng: -75.1632
+  cost: "$25 (admission incl.)"
+  description: "Docent-led tour of the landmark 250th exhibition 'A Nation of Artists' (PMA + PAFA + Middleton collections)."
+  url: "https://www.pafa.org/events/exhibition-tours-nation-artists-070426"
+  source: "https://www.pafa.org/events/exhibition-tours-nation-artists-070426"
+  org: "Pennsylvania Academy of the Fine Arts"
+  featured: false
+- id: phl-weitzman-familyday-jul4
+  title: "4th of July Family Day — Weitzman National Museum of American Jewish History"
+  region: philadelphia
+  category: family
+  date: "2026-07-04"
+  start: "11:00"
+  end: "16:00"
+  all_day: false
+  time_note: "Museum open 10am–5pm; registration encouraged"
+  venue: "Weitzman National Museum of American Jewish History"
+  address: "101 S. Independence Mall East, Philadelphia, PA 19106"
+  town: "Old City, Philadelphia"
+  lat: 39.9500
+  lng: -75.1480
+  cost: "Free"
+  description: "Drop-in family day on Independence Mall: lemonade stand, read-aloud, musical performances, crafts and a scavenger hunt. Flagship 250th exhibit 'The First Salute' on view."
+  url: "https://theweitzman.org/events/4th-of-july-family-day/"
+  source: "https://theweitzman.org/events/4th-of-july-family-day/"
+  org: "Weitzman National Museum of American Jewish History"
+  featured: false
+- id: phl-cliveden-freeday-jul4
+  title: "Cliveden Free Museum Day / Grounds Open"
+  region: philadelphia
+  category: tour
+  date: "2026-07-04"
+  start: "10:00"
+  end: "14:00"
+  all_day: false
+  time_note: ""
+  venue: "Cliveden of the National Trust"
+  address: "6401 Germantown Avenue, Philadelphia, PA 19144"
+  town: "Germantown, Philadelphia"
+  lat: 40.0457
+  lng: -75.1799
+  cost: "Free"
+  description: "Grounds open for picnicking in the Cliveden Arboretum; barn/carriage-house exhibits, reader rails, and free first-floor tours of the 1767 Chew house (Battle of Germantown site)."
+  url: "https://july4thphilly.com/event/free-museum-days-cliveden-house/"
+  source: "https://historicgermantownpa.org/cliveden-of-the-national-trust/"
+  org: "Cliveden / Wawa Welcome America"
+  featured: false
+- id: phl-powelhouse-freeday-jul4
+  title: "Powel House Free Museum Day"
+  region: philadelphia
+  category: tour
+  date: "2026-07-04"
+  start: "11:00"
+  end: "16:00"
+  all_day: false
+  time_note: ""
+  venue: "Powel House (PhilaLandmarks)"
+  address: "244 S. 3rd Street, Philadelphia, PA 19106"
+  town: "Society Hill, Philadelphia"
+  lat: 39.9470
+  lng: -75.1462
+  cost: "Free"
+  description: "Free self-guided tours of the 1765 Georgian townhouse of 'Patriot Mayor' Samuel Powel and Elizabeth Willing Powel."
+  url: "https://july4thphilly.com/event/free-museum-days-powel-house/"
+  source: "https://july4thphilly.com/event/free-museum-days-powel-house/"
+  org: "PhilaLandmarks / Wawa Welcome America"
+  featured: false
+- id: phl-chestnuthill-bikeparade-jul4
+  title: "Chestnut Hill Fourth of July Bike Parade + 'Wheels in the Window'"
+  region: philadelphia
+  category: parade
+  date: "2026-07-04"
+  start: "09:00"
+  end: ""
+  all_day: false
+  time_note: "Time per prior-year pattern — confirm"
+  venue: "Water Tower Recreation Center"
+  address: "209 E. Hartwell Lane, Philadelphia, PA 19118"
+  town: "Chestnut Hill, Philadelphia"
+  lat: 40.0760
+  lng: -75.2080
+  cost: "Free"
+  description: "Long-running decorated children's bike/wagon parade lining up at Devon St & Hartwell Ln; 'Wheels in the Window' revived for 2026 to honor the 250th."
+  url: "https://whyy.org/articles/philadelphia-chestnut-hill-wheels-windows-july-fourth/"
+  source: "https://whyy.org/articles/philadelphia-chestnut-hill-wheels-windows-july-fourth/"
+  org: "Chestnut Hill Bocce Club"
+  featured: false
+- id: phl-independence-afterhours-jul4
+  title: "Independence After Hours"
+  region: philadelphia
+  category: tour
+  date: "2026-07-04"
+  start: "17:00"
+  end: ""
+  all_day: false
+  time_note: ""
+  venue: "Independence Visitor Center → Independence Hall"
+  address: "599 Market Street, Philadelphia, PA 19106"
+  town: "Old City, Philadelphia"
+  lat: 39.9505
+  lng: -75.1505
+  cost: "$145/person"
+  description: "After-hours Independence Hall experience with a Colonial host: encounters with Franklin and Jefferson debating the Declaration, concluding with toasts."
+  url: "https://historicphiladelphia.org/events/independence-after-hours/"
+  source: "https://historicphiladelphia.org/events/independence-after-hours/"
+  org: "Historic Philadelphia, Inc."
+  featured: false
+
+# ======================================================================
+# MONTGOMERY COUNTY / BUCKS, PA (region: bucks) — NEW finds
+# ======================================================================
+- id: bucks-doylestown-rasenberger-jun29
+  title: "Author Meet & Greet: Jim Rasenberger — Doylestown Historical Society"
+  region: bucks
+  category: lecture
+  date: "2026-06-29"
+  start: "18:00"
+  end: "20:00"
+  all_day: false
+  time_note: ""
+  venue: "Doylestown Historical Society (Research Center / Barn)"
+  address: "56 S. Main Street, Doylestown, PA 18901"
+  town: "Doylestown, PA"
+  lat: 40.3101
+  lng: -75.1300
+  cost: "Ticketed (price unconfirmed)"
+  description: "Author talk (with The Doylestown Bookshop) — Jim Rasenberger on the friendship and deaths of John Adams and Thomas Jefferson. Part of 'Doylestown Celebrates USA 250.'"
+  url: "https://www.doylestownhistorical.org/events/"
+  source: "https://www.doylestownhistorical.org/events/"
+  org: "Doylestown Historical Society + The Doylestown Bookshop"
+  featured: false
+- id: bucks-doylestown-july2-jul2
+  title: "Celebrate America's 250th Birthday on July 2nd! — Doylestown"
+  region: bucks
+  category: ceremony
+  date: "2026-07-02"
+  start: "18:00"
+  end: "21:00"
+  all_day: false
+  time_note: "Declaration read by local officials"
+  venue: "Broad Street Commons Park"
+  address: "10 Doyle Street, Doylestown, PA 18901"
+  town: "Doylestown, PA"
+  lat: 40.3115
+  lng: -75.1280
+  cost: "Free"
+  description: "Community Semiquincentennial celebration within the Doylestown Lions Club Summer Concert Series: Declaration read by local officials, patriotic concert by Doylestown Heat, interactive Declaration signing, birthday cake and ice cream."
+  url: "https://www.doylestownhistorical.org/events/celebrate-americas-250th-birthday-on-july-2nd"
+  source: "https://www.doylestownhistorical.org/events/"
+  org: "Doylestown Historical Society + Doylestown Lions Club"
+  featured: false
+- id: bucks-hsmc-hancock-jul3
+  title: "Hancock Day — 'Gettysburg Surgeons' author talk (Barbara Franco)"
+  region: bucks
+  category: lecture
+  date: "2026-07-03"
+  start: ""
+  end: ""
+  all_day: false
+  time_note: "Time unconfirmed in source"
+  venue: "Historical Society of Montgomery County"
+  address: "1654 DeKalb Street, Norristown, PA 19401"
+  town: "Norristown, PA (Montgomery Co.)"
+  lat: 40.1230
+  lng: -75.3460
+  cost: "Unconfirmed"
+  description: "Author Barbara Franco discusses her book 'Gettysburg Surgeons' at the Historical Society of Montgomery County."
+  url: "https://hsmcpa.org/gettysburgsurgeons/"
+  source: "https://hsmcpa.org/index.php/events"
+  org: "Historical Society of Montgomery County"
+  featured: false
+- id: bucks-schwenkfelder-firstfriday-jul3
+  title: "First Friday Extended Hours + Car Show — Schwenkfelder Library"
+  region: bucks
+  category: exhibit
+  date: "2026-07-03"
+  start: "17:00"
+  end: "20:30"
+  all_day: false
+  time_note: ""
+  venue: "Schwenkfelder Library & Heritage Center"
+  address: "105 Seminary Street, Pennsburg, PA 18073"
+  town: "Pennsburg, PA (Montgomery Co.)"
+  lat: 40.3920
+  lng: -75.4940
+  cost: "Unconfirmed"
+  description: "First-Friday extended evening hours with a car show. Revolution-themed exhibits on view: 'Revolutionary Fraktur' and 'These Truths are Not Self-evident: Stories of the Revolution in the Perkiomen Region.'"
+  url: "https://www.schwenkfelder.org/250"
+  source: "https://www.schwenkfelder.org/250"
+  org: "Schwenkfelder Library & Heritage Center"
+  featured: false
+- id: bucks-newhope-parry-liberty-jul3
+  title: "Liberty Lights: Fireworks Friday 250 — Parry Mansion (New Hope Historical Society)"
+  region: bucks
+  category: fireworks
+  date: "2026-07-03"
+  start: "18:00"
+  end: ""
+  all_day: false
+  time_note: "Gates 6pm Jul 3; fireworks watch party"
+  venue: "Parry Mansion front lawn"
+  address: "45 S. Main Street, New Hope, PA 18938"
+  town: "New Hope, PA"
+  lat: 40.3640
+  lng: -74.9510
+  cost: "$25"
+  description: "Elevated viewing of New Hope's America 250 fireworks from the Parry Mansion lawn, with live music, lawn games, sparklers, food and drink. (The New Hope Historical Society reopened the 1784 Parry Mansion for the Semiquincentennial.)"
+  url: "https://www.newhopehistorical.org/"
+  source: "https://www.buckscountyherald.com/arts-entertainment/events/new-hope-s-parry-mansion-reopens-for-americas-250th/article_5c039881-e7bf-48b7-bef6-0554bc01b1d6.html"
+  org: "New Hope Historical Society"
+  featured: false
+- id: bucks-parry-mansion-open-jul4
+  title: "Parry Mansion Museum — Open for America's 250th (250th weekend tours)"
+  region: bucks
+  category: tour
+  date: "2026-07-04"
+  start: "12:00"
+  end: "18:00"
+  all_day: false
+  time_note: "Open Jul 4 & 5 noon–6pm; Jul 3 4–6pm"
+  venue: "Parry Mansion Museum"
+  address: "45 S. Main Street, New Hope, PA 18938"
+  town: "New Hope, PA"
+  lat: 40.3640
+  lng: -74.9510
+  cost: "$15"
+  description: "The New Hope Historical Society's 1784 Parry Mansion, reopened for America's Semiquincentennial, offers weekend guided tours and special July 4th programming during the Twin River Towns 250th weekend."
+  url: "https://www.newhopehistorical.org/walking-tours"
+  source: "https://www.buckscountyherald.com/arts-entertainment/events/new-hope-s-parry-mansion-reopens-for-americas-250th/article_5c039881-e7bf-48b7-bef6-0554bc01b1d6.html"
+  org: "New Hope Historical Society"
+  featured: false
+- id: bucks-north-wales-jul4
+  title: "North Wales Borough 250 — Parade, Declaration Reading & Picnic"
+  region: bucks
+  category: parade
+  date: "2026-07-04"
+  start: ""
+  end: ""
+  all_day: false
+  time_note: "2026 start time unconfirmed"
+  venue: "Main Street parade → Weingartner Park"
+  address: "200 Summit Street, North Wales, PA 19454"
+  town: "North Wales, PA (Montgomery Co.)"
+  lat: 40.2110
+  lng: -75.2780
+  cost: "Free"
+  description: "Borough parade on Main Street, a Declaration of Independence reading, and a picnic at Weingartner Park (hot dogs, music, fire-hose spray) as part of North Wales's 250th programming."
+  url: "https://northwalesborough.org/mec-events/4th-of-july-parade-and-picnic/"
+  source: "https://www.valleyforge.org/event/north-wales-borough-250-celebration%3a-parade-declaration-reading-%26-picnic/304047/"
+  org: "Borough of North Wales"
+  featured: false
+- id: bucks-glenside-parade-jul4
+  title: "Glenside Grand, Glorious, Patriotic Parade + Children's Program"
+  region: bucks
+  category: parade
+  date: "2026-07-04"
+  start: "10:00"
+  end: ""
+  all_day: false
+  time_note: "Children's program 10am; parade 4pm; band 8pm; fireworks after dark"
+  venue: "Renninger Memorial Park / Abington Senior HS"
+  address: "Renninger Memorial Park, Glenside, PA 19038"
+  town: "Glenside / Abington, PA (Montgomery Co.)"
+  lat: 40.1010
+  lng: -75.1530
+  cost: "Free"
+  description: "Full-day community celebration by the Greater Glenside Patriotic Association — a children's morning program (incl. quilt raffle), a 1.5-mile afternoon parade through Glenside, and an evening 28th Infantry Division Band concert with fireworks after dark at Abington Senior HS (900 Highland Ave)."
+  url: "https://glensideparade.com/events/"
+  source: "https://glensideparade.com/events/"
+  org: "Glenside Fourth of July Association"
+  featured: false
+- id: bucks-hatboro-union-library-jul4
+  title: "Reading of the Declaration — Union Library Company of Hatborough"
+  region: bucks
+  category: ceremony
+  date: "2026-07-04"
+  start: ""
+  end: ""
+  all_day: false
+  time_note: "Time unconfirmed in source"
+  venue: "Union Library Company of Hatborough"
+  address: "243 S. York Road, Hatboro, PA 19040"
+  town: "Hatboro, PA (Montgomery Co.)"
+  lat: 40.1740
+  lng: -75.1050
+  cost: "Unconfirmed"
+  description: "A reading of the Declaration of Independence at one of the oldest libraries in the country, part of Montgomery County's Houses of Declaration series."
+  url: "https://www.valleyforge.org/event/reading-of-the-declaration-of-independence/303985/"
+  source: "https://www.valleyforge.org/event/reading-of-the-declaration-of-independence/303985/"
+  org: "Union Library Company of Hatborough"
+  featured: false
+
+# ======================================================================
+# CENTRAL NJ (region: nj) — NEW finds
+# ======================================================================
+- id: nj-jefferson-live-jun28
+  title: "Thomas Jefferson Live — John Stewart portrays Thomas Jefferson"
+  region: nj
+  category: lecture
+  date: "2026-06-28"
+  start: "13:00"
+  end: "15:00"
+  all_day: false
+  time_note: "Two sittings; primary 1–3pm"
+  venue: "First Presbyterian Church of Titusville"
+  address: "48 River Drive, Titusville, NJ 08560"
+  town: "Titusville, NJ"
+  lat: 40.3000
+  lng: -74.8430
+  cost: "Unconfirmed"
+  description: "Historian John Stewart portrays Thomas Jefferson 'in clothing, language, and ideas' in a talk titled 'How a Lad from Rural Virginia Came to Write the Declaration of Independence,' with audience Q&A."
+  url: "https://250.mercercountynj.gov/events/thomas-jefferson-live/"
+  source: "https://250.mercercountynj.gov/events/thomas-jefferson-live/"
+  org: "Washington Crossing Park Association (NJ)"
+  featured: false
+- id: nj-princeton-tour-jun28
+  title: "America250 Walking Tour — Historical Society of Princeton (Jun 28, SOLD OUT)"
+  region: nj
+  category: tour
+  date: "2026-06-28"
+  start: "14:00"
+  end: "16:00"
+  all_day: false
+  time_note: "Limited to 25 — marked SOLD OUT"
+  venue: "Princeton Battle Monument (start)"
+  address: "1 Monument Drive, Princeton, NJ 08540"
+  town: "Princeton, NJ"
+  lat: 40.3530
+  lng: -74.6620
+  cost: "$25"
+  description: "Guided walking tour of Revolutionary Princeton — British-occupied homes, signers' homes, taverns and a Battle of Princeton site. Limited to 25; this June 28 sitting was sold out (an identical tour runs July 5)."
+  url: "https://princetonhistory.org/events/america250-walking-tour/"
+  source: "https://princetonhistory.org/events/america250-walking-tour/"
+  org: "Historical Society of Princeton"
+  featured: false
+- id: nj-flemington-selfguided
+  title: "Self-Guided Walking Tour of Historic Flemington Borough"
+  region: nj
+  category: tour
+  date: "2026-06-28"
+  start: "08:00"
+  end: "17:00"
+  all_day: false
+  time_note: "Self-paced; runs daily across the window"
+  venue: "Historic Flemington Borough (downtown)"
+  address: "Main Street area, Flemington, NJ 08822"
+  town: "Flemington, NJ"
+  lat: 40.5123
+  lng: -74.8593
+  cost: "Free"
+  description: "Self-paced exploration of Flemington's historic sites using a downloadable brochure, running daily across the research window."
+  url: "https://www.loveflemington.com/event/self-guided-walking-tour-of-historic-flemington-borough-2/"
+  source: "https://loveflemington.com/events/"
+  org: "Love Flemington / Flemington Borough"
+  featured: false
+- id: nj-rockingham-song-jul2
+  title: "'200 Years of Popular Song for 250 Years of Independence' — Rockingham"
+  region: nj
+  category: concert
+  date: "2026-07-02"
+  start: "18:30"
+  end: ""
+  all_day: false
+  time_note: "End time unconfirmed; register via Eventbrite"
+  venue: "Rockingham Historic Site"
+  address: "84 Laurel Avenue, Kingston, NJ 08528"
+  town: "Kingston, NJ (Somerset Co.)"
+  lat: 40.3760
+  lng: -74.6160
+  cost: "Free"
+  description: "Musical program tracing 200 years of popular song for the nation's 250th at Washington's last wartime headquarters. Registration required."
+  url: "https://www.eventbrite.com/o/rockingham-state-historic-site-33770225339"
+  source: "https://www.eventbrite.com/o/rockingham-state-historic-site-33770225339"
+  org: "Rockingham State Historic Site"
+  featured: false
+- id: nj-hunterdon-continental-army-jul2
+  title: "Supplying the Continental Army (1775–1782) — Hunterdon County Library"
+  region: nj
+  category: lecture
+  date: "2026-07-02"
+  start: "19:00"
+  end: "21:00"
+  all_day: false
+  time_note: "Tickets required"
+  venue: "Hunterdon County Library Headquarters"
+  address: "314 State Route 12, Bldg 3, Flemington, NJ 08822"
+  town: "Flemington, NJ"
+  lat: 40.5180
+  lng: -74.8820
+  cost: "Free"
+  description: "Lecture by David R. Reading on supplying the Continental Army, presented for the nation's 250th anniversary. Tickets required."
+  url: "https://hclibrary.libcal.com/event/10909146"
+  source: "https://hclibrary.libcal.com/event/10909146"
+  org: "Hunterdon County Library"
+  featured: false
+- id: nj-hamilton-birthday-bash-jul2
+  title: "250th Birthday Bash with Stage a Story — Hamilton Library"
+  region: nj
+  category: family
+  date: "2026-07-02"
+  start: "10:30"
+  end: "11:15"
+  all_day: false
+  time_note: "Ages 3–8; registration required"
+  venue: "Hamilton Township Public Library"
+  address: "1 Justice Samuel A. Alito, Jr. Way, Hamilton, NJ 08619"
+  town: "Hamilton, NJ"
+  lat: 40.2090
+  lng: -74.6580
+  cost: "Free"
+  description: "Family program (ages 3–8) on turning 250: a reading of 'Ten Rules of the Birthday Wish,' a theatrical performance, period dancing and crown-making. Registration required."
+  url: "https://250.mercercountynj.gov/events/250th-birthday-bash-with-stage-a-story/"
+  source: "https://250.mercercountynj.gov/events/250th-birthday-bash-with-stage-a-story/"
+  org: "Friends of the Hamilton Library"
+  featured: false
+- id: nj-eastwindsor-birthday-bash-jul2
+  title: "America 250 Birthday Bash — Hickory Corner Branch Library"
+  region: nj
+  category: family
+  date: "2026-07-02"
+  start: "15:00"
+  end: "15:30"
+  all_day: false
+  time_note: "Ages 4–12; registration required"
+  venue: "Hickory Corner Branch, Mercer County Library System"
+  address: "138 Hickory Corner Road, East Windsor, NJ 08520"
+  town: "East Windsor, NJ"
+  lat: 40.2620
+  lng: -74.5340
+  cost: "Free"
+  description: "Children ages 4–12 celebrate America's birthday with games, a craft and birthday treats. Registration required."
+  url: "https://250.mercercountynj.gov/events/america-250-birthday-bash/"
+  source: "https://250.mercercountynj.gov/events/america-250-birthday-bash/"
+  org: "Mercer County Library System"
+  featured: false
+- id: nj-ewing-suncatcher-jul2
+  title: "America 250 Patriotic Suncatcher — Ewing Branch Library"
+  region: nj
+  category: family
+  date: "2026-07-02"
+  start: "15:30"
+  end: "16:30"
+  all_day: false
+  time_note: "Registration required"
+  venue: "Ewing Branch Library"
+  address: "61 Scotch Road, Ewing, NJ 08628"
+  town: "Ewing, NJ"
+  lat: 40.2624
+  lng: -74.8092
+  cost: "Free"
+  description: "Family craft program making an 'America 250' patriotic suncatcher (back-to-back with the afternoon's Recipe Swap). Registration required."
+  url: "https://250.mercercountynj.gov/events/america-250-patriotic-suncatcher/"
+  source: "https://250.mercercountynj.gov/events/america-250-patriotic-suncatcher/"
+  org: "Friends of the Ewing Library / Mercer County Library System"
+  featured: false
+- id: nj-film-1776-jul3
+  title: "Film: '1776' (restored director's cut) — Princeton Public Library"
+  region: nj
+  category: other
+  date: "2026-07-03"
+  start: "13:00"
+  end: "16:15"
+  all_day: false
+  time_note: "Refreshments from 12:45pm"
+  venue: "Princeton Public Library"
+  address: "65 Witherspoon Street, Princeton, NJ 08542"
+  town: "Princeton, NJ"
+  lat: 40.3502
+  lng: -74.6592
+  cost: "Free (likely — unconfirmed)"
+  description: "Screening of the restored director's cut of the 1972 musical '1776' (the Continental Congress / Declaration story), with intermission. Wheelchair accessible."
+  url: "https://250.mercercountynj.gov/events/film-1776/"
+  source: "https://250.mercercountynj.gov/events/film-1776/"
+  org: "Princeton Public Library / Mercer County"
+  featured: false
+- id: nj-middlebrook-flag-jul4
+  title: "Middlebrook Encampment 'Washington Camp Ground' July 4th Celebration"
+  region: nj
+  category: ceremony
+  date: "2026-07-04"
+  start: "10:00"
+  end: "12:00"
+  all_day: false
+  time_note: ""
+  venue: "Middlebrook Encampment & Cantonment (Washington Camp Ground)"
+  address: "Middlebrook Road / Miller Lane, Bridgewater, NJ 08807"
+  town: "Bridgewater, NJ (Somerset Co.)"
+  lat: 40.5860
+  lng: -74.6080
+  cost: "Unconfirmed"
+  description: "Annual Independence Day flag observance at the historic Middlebrook winter-encampment site — by tradition where the 13-star 'Stars and Stripes' was first officially flown — with patriotic music and public commemoration for the 250th. Also offered via Facebook Live."
+  url: "https://visitsomersetnj.org/event/washington-campground-july-4th-celebration"
+  source: "https://visitsomersetnj.org/celebrate-250/"
+  org: "Middlebrook Regional Local History Association"
+  featured: false
+- id: nj-east-jersey-old-town-jul4
+  title: "A Revolutionary Celebration: Independence Day on the Raritan — East Jersey Old Town Village"
+  region: nj
+  category: festival
+  date: "2026-07-04"
+  start: "10:00"
+  end: "16:00"
+  all_day: false
+  time_note: "Free shuttle to Cornelius Low House"
+  venue: "East Jersey Old Town Village"
+  address: "1050 River Road, Piscataway, NJ 08854"
+  town: "Piscataway, NJ (Middlesex Co.)"
+  lat: 40.5460
+  lng: -74.4710
+  cost: "Free"
+  description: "Daylong commemoration of July 4, 1778, when Washington ordered a 'feu de joie' along the Raritan: a 5K run, 18th-century music, reenactors in character, artillery demonstrations, exhibits on divided loyalties, children's crafts, theatrical presentations and food vendors. Free shuttle links the village and the Cornelius Low House."
+  url: "https://middlesexcountyculture.com/event/a-revolutionary-celebration-independence-day-on-the-raritan/"
+  source: "https://middlesexcountyculture.com/event/a-revolutionary-celebration-independence-day-on-the-raritan/"
+  org: "Middlesex County Division of History & Historic Preservation"
+  featured: false
+- id: nj-monmouth-battlefield-jul4
+  title: "Commemoration of Independence Day (America 250) — Monmouth Battlefield"
+  region: nj
+  category: reenactment
+  date: "2026-07-04"
+  start: "10:30"
+  end: "15:30"
+  all_day: false
+  time_note: "Cannon firings 11:30am/12:30pm/2:30pm; Declaration reading + salute 1pm"
+  venue: "Monmouth Battlefield State Park"
+  address: "16 Business Route 33, Manalapan, NJ 07726"
+  town: "Manalapan, NJ (Monmouth Co.)"
+  lat: 40.2780
+  lng: -74.3160
+  cost: "Free"
+  description: "Living history by Mott's Artillery with three scheduled cannon-firing demonstrations, children's drills, and a 1pm public Reading of the Declaration of Independence followed by a cannon salute."
+  url: "https://revolutionarynj.org/event/july-4th-event-monmouth-battlefield/"
+  source: "https://revolutionarynj.org/event/july-4th-event-monmouth-battlefield/"
+  org: "Friends of Monmouth Battlefield"
+  featured: false
+- id: nj-princeton-battlefield-jul4
+  title: "Fourth of July at Princeton Battlefield — Declaration Readings & Living History"
+  region: nj
+  category: reenactment
+  date: "2026-07-04"
+  start: "13:00"
+  end: ""
+  all_day: false
+  time_note: "Declaration readings 1pm & 3:30pm"
+  venue: "Princeton Battlefield State Park"
+  address: "500 Mercer Road, Princeton, NJ 08540"
+  town: "Princeton, NJ"
+  lat: 40.3330
+  lng: -74.6750
+  cost: "Free"
+  description: "A joint program with Morven: Declaration of Independence readings at 1pm and 3:30pm, Continental Army drills, musket demonstrations, and historical crafts and cooking at the Battle of Princeton site."
+  url: "https://pbs1777.org/events/"
+  source: "https://www.morven.org/signature/fourth-of-july"
+  org: "Princeton Battlefield Society / NJ State Park"
+  featured: false
+- id: nj-woolsey-groundbreaking-jul4
+  title: "Woolsey Park Pavilion Groundbreaking Ceremony"
+  region: nj
+  category: ceremony
+  date: "2026-07-04"
+  start: "09:30"
+  end: ""
+  all_day: false
+  time_note: ""
+  venue: "Woolsey Park"
+  address: "221 Washington Crossing–Pennington Road, Titusville, NJ 08560"
+  town: "Titusville, NJ"
+  lat: 40.3010
+  lng: -74.8470
+  cost: "Free"
+  description: "Hopewell Township groundbreaking ceremony for a new pavilion at Woolsey Park, held July 4 morning ahead of the Titusville parade, tied to the 250th weekend."
+  url: "https://www.hopewelltwp.org/839/250th-Anniversary-of-America"
+  source: "https://www.hopewelltwp.org/839/250th-Anniversary-of-America"
+  org: "Hopewell Township"
+  featured: false
+- id: nj-wcsp-hike-jul4
+  title: "July 4th Continental Lane Hike — Washington Crossing State Park (NJ)"
+  region: nj
+  category: tour
+  date: "2026-07-04"
+  start: "09:00"
+  end: "10:30"
+  all_day: false
+  time_note: ""
+  venue: "Nature Center, Washington Crossing State Park (NJ)"
+  address: "442 Washington Crossing–Pennington Road, Titusville, NJ 08560"
+  town: "Titusville, NJ"
+  lat: 40.2985
+  lng: -74.8635
+  cost: "Free"
+  description: "A free 2-mile guided hike along Continental Lane at Washington Crossing State Park on Independence Day morning."
+  url: "https://www.wcpa-nj.com/wcpa-events/2026/5/20/4thhike"
+  source: "https://www.wcpa-nj.com/wcpa-events/2026/5/20/4thhike"
+  org: "Washington Crossing Park Association (NJ)"
+  featured: false
+- id: nj-blawenburg-band-jul4
+  title: "The Blawenburg Band Concert — Washington Crossing State Park (NJ)"
+  region: nj
+  category: concert
+  date: "2026-07-04"
+  start: "20:00"
+  end: "21:15"
+  all_day: false
+  time_note: "Before the fireworks over the Delaware"
+  venue: "Visitor Center amphitheater, Washington Crossing State Park (NJ)"
+  address: "495 Washington Crossing–Pennington Road, Titusville, NJ 08560"
+  town: "Titusville, NJ"
+  lat: 40.2985
+  lng: -74.8635
+  cost: "Unconfirmed"
+  description: "The Blawenburg Band performs at the Visitor Center amphitheater ahead of the July 4 fireworks over the Delaware."
+  url: "https://www.wcpa-nj.com/wcpa-events/2026/7/4/blawenburg"
+  source: "https://www.wcpa-nj.com/wcpa-events/2026/7/4/blawenburg"
+  org: "Washington Crossing Park Association (NJ)"
+  featured: false
+- id: nj-pickleball-jul4
+  title: "July 4th Open Play — Celebrating America's 250th Birthday (Pickleball)"
+  region: nj
+  category: family
+  date: "2026-07-04"
+  start: "10:00"
+  end: "14:00"
+  all_day: false
+  time_note: ""
+  venue: "Pickleball Kingdom Hamilton"
+  address: "1100 Negron Drive, Hamilton, NJ 08691"
+  town: "Hamilton, NJ"
+  lat: 40.1870
+  lng: -74.6360
+  cost: "Members free; drop-in price unconfirmed"
+  description: "Independence Day open-play pickleball for all skill levels (no partner needed), rotating games — listed on the Mercer250 calendar as a 250th community event."
+  url: "https://250.mercercountynj.gov/events/july-4th-open-play-celebrating-americas-250th-birthday/"
+  source: "https://250.mercercountynj.gov/events/july-4th-open-play-celebrating-americas-250th-birthday/"
+  org: "Pickleball Kingdom Hamilton"
+  featured: false
+- id: nj-monmouth-tour-jun28
+  title: "Driving Tour to the Battle of Monmouth Monument — Monmouth Battlefield"
+  region: nj
+  category: tour
+  date: "2026-06-28"
+  start: "13:30"
+  end: ""
+  all_day: false
+  time_note: "Meet 1:30pm"
+  venue: "Visitor Center, Monmouth Battlefield State Park"
+  address: "16 Business Route 33, Manalapan, NJ 07726"
+  town: "Manalapan, NJ (Monmouth Co.)"
+  lat: 40.2780
+  lng: -74.3160
+  cost: "Unconfirmed"
+  description: "Guided driving tour from the Visitor Center to the Battle of Monmouth monument in Freehold."
+  url: "https://www.friendsofmonmouth.org/schedule26.html"
+  source: "https://www.friendsofmonmouth.org/schedule26.html"
+  org: "Friends of Monmouth Battlefield"
+  featured: false
+- id: nj-americas-potluck-oldbarracks-jul5
+  title: "America's Potluck — Foodways Living History at the Old Barracks"
+  region: nj
+  category: food
+  date: "2026-07-05"
+  start: "11:00"
+  end: "15:00"
+  all_day: false
+  time_note: ""
+  venue: "Old Barracks Museum"
+  address: "101 Barrack Street, Trenton, NJ 08608"
+  town: "Trenton, NJ"
+  lat: 40.2208
+  lng: -74.7693
+  cost: "Unconfirmed"
+  description: "A foodways living-history demonstration tied to RevolutionNJ's statewide 'America's Potluck,' at the Old Barracks. Gift shop open. The concrete single-venue Mercer-County instance of the distributed statewide potluck."
+  url: "https://barracks.org/event/americans-potluck/"
+  source: "https://barracks.org/events/"
+  org: "Old Barracks Museum"
+  featured: false
+- id: nj-lambertville-walkingtour-jul5
+  title: "Guided Walking Tour of Lambertville — Lambertville Historical Society"
+  region: nj
+  category: tour
+  date: "2026-07-05"
+  start: "14:00"
+  end: "15:00"
+  all_day: false
+  time_note: "Recurring first-Sunday tour; July 5 specific date unconfirmed"
+  venue: "James Marshall House Museum (start)"
+  address: "60 Bridge Street, Lambertville, NJ 08530"
+  town: "Lambertville, NJ"
+  lat: 40.3660
+  lng: -74.9460
+  cost: "Free (donations welcome)"
+  description: "The society's standing first-Sunday guided walking tour of historic Lambertville departs the Marshall House Museum at 2pm; by that schedule July 5 should run, within the New Hope–Lambertville 250th weekend. Confirm the specific date with the society."
+  url: "https://lambertvillehistoricalsociety.org/events-2/guided-walking-tours-of-lambertville"
+  source: "https://lambertvillehistoricalsociety.org/events/"
+  org: "Lambertville Historical Society"
+  featured: false
+- id: nj-monmouth-walkingtour-jul5
+  title: "Walking Tour of the Battlefield — Monmouth Battlefield State Park"
+  region: nj
+  category: tour
+  date: "2026-07-05"
+  start: "13:30"
+  end: ""
+  all_day: false
+  time_note: "Meet 1:30pm"
+  venue: "Visitor Center, Monmouth Battlefield State Park"
+  address: "16 Business Route 33, Manalapan, NJ 07726"
+  town: "Manalapan, NJ (Monmouth Co.)"
+  lat: 40.2780
+  lng: -74.3160
+  cost: "Unconfirmed"
+  description: "Guided walking tour of the Monmouth battlefield departing the Visitor Center."
+  url: "https://www.friendsofmonmouth.org/schedule26.html"
+  source: "https://www.friendsofmonmouth.org/schedule26.html"
+  org: "Friends of Monmouth Battlefield"
+  featured: false
+
