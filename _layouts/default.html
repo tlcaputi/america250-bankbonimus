@@ -32,14 +32,17 @@
   <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon/favicon-32x32.png">
   <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon/favicon-16x16.png">
   <link rel="manifest" href="/assets/favicon/site.webmanifest">
-  <meta name="theme-color" content="#1d3c34">
+  <meta name="theme-color" content="#1f3a5f">
 
   <link rel="preload" as="font" type="font/woff2" href="/assets/fonts/dm-sans-normal-latin.woff2" crossorigin>
   <link rel="preload" as="font" type="font/woff2" href="/assets/fonts/dm-serif-display-normal-latin.woff2" crossorigin>
 
-  {%- comment -%} Leaflet (maps) — pinned version, SRI-protected {%- endcomment -%}
+  {%- assign want_map = false -%}
+  {%- if page.needs_map or page.lat or page.day_map -%}{%- assign want_map = true -%}{%- endif -%}
+  {%- if want_map -%}
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
         integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="">
+  {%- endif -%}
 
   <link rel="stylesheet" href="/assets/css/custom.css">
   <link rel="stylesheet" href="/assets/css/america250.css">
@@ -54,42 +57,24 @@
   gtag('config', 'G-XN6TD7XZJB');
 </script>
 
-<body class="bb-accent-america250">
-
-  {% include bankbonimus-nav.html %}
+<body class="a2-standalone">
 
   <main id="main">
     {{ content }}
   </main>
 
-  <footer class="bb-footer" role="contentinfo">
-    <div class="bb-footer-inner">
-      <nav class="bb-footer-nav" aria-label="Footer">
-        {% for link in site.data.navigation.main %}
-        <a href="{{ link.url }}">{{ link.title }}</a>
-        {% endfor %}
-      </nav>
-      <p class="bb-footer-copy">&copy; {{ site.time | date: '%Y' }} Bankbonimus &middot; A personal guide, not affiliated with any official America250 commission. Always confirm dates &amp; times with the event organizer before you go.</p>
+  <footer class="a2-footer" role="contentinfo">
+    <div class="a2-footer-inner">
+      <p class="a2-footer-title"><a href="/">America's 250th — July 4th Weekend Guide</a></p>
+      <p class="a2-footer-note">A personal guide for the July&nbsp;4th, 2026 long weekend (Sun Jun&nbsp;28 – Sun Jul&nbsp;5) across Philadelphia, Bucks &amp; Montgomery Counties, and Central New Jersey. Not affiliated with any official America250 commission. <strong>Always confirm dates &amp; times with the event organizer before you go</strong> — community parade, fair, and reading times in particular are often posted late.</p>
+      <p class="a2-footer-copy">&copy; {{ site.time | date: '%Y' }} &middot; Made by <a href="https://www.bankbonimus.com/">Bankbonimus</a></p>
     </div>
   </footer>
 
-  <script>
-  (function() {
-    var t = document.querySelector('.bb-nav-toggle');
-    var links = document.querySelector('.bb-nav-links');
-    if (t && links) {
-      t.addEventListener('click', function() {
-        var open = links.classList.toggle('open');
-        t.setAttribute('aria-expanded', open ? 'true' : 'false');
-      });
-    }
-  })();
-  </script>
-
-  {% if page.needs_map %}
+  {% if want_map %}
   <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
           integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
-  <script src="/assets/js/map.js"></script>
+  {% if page.needs_map %}<script src="/assets/js/map.js"></script>{% endif %}
   {% endif %}
 
 </body>

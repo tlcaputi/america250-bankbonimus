@@ -62,7 +62,7 @@
 
 /* ---- filters ---- */
 .a2-filters {
-  position: sticky; top: var(--bb-nav-height); z-index: 30;
+  position: sticky; top: 0; z-index: 30;
   background: rgba(250,247,242,0.97); backdrop-filter: blur(6px);
   border: 1px solid var(--bb-cream-dark); border-radius: var(--bb-radius-lg);
   padding: 0.7rem 0.85rem; display: flex; flex-direction: column; gap: 0.55rem;
@@ -102,7 +102,7 @@
 
 /* ---- day nav ---- */
 .a2-daynav {
-  position: sticky; top: calc(var(--bb-nav-height) + 0px); z-index: 20;
+  position: sticky; top: 0; z-index: 20;
   max-width: var(--bb-max-width); margin: 1.4rem auto 0; padding: 0.5rem 0.75rem;
   display: flex; gap: 0.4rem; overflow-x: auto; background: var(--a2-navy); border-radius: var(--bb-radius-lg);
   scrollbar-width: thin;
@@ -183,3 +183,137 @@
   .a2-cards { grid-template-columns: 1fr; }
   .a2-filters { top: 0; }
 }
+
+/* ============================================
+   Standalone-site additions (no shared nav) +
+   link-cards + per-event detail pages
+   ============================================ */
+.a2-dot-lg { width: 15px; height: 15px; }
+
+.a2-hero-cta {
+  display: inline-block; margin-top: 1.3rem; color: #fff; text-decoration: none;
+  border: 1.5px solid rgba(255,255,255,0.5); padding: 0.5rem 1.1rem; border-radius: 999px;
+  font-size: 0.9rem; font-weight: 600; transition: all 0.15s ease;
+}
+.a2-hero-cta:hover { background: #fff; color: var(--a2-navy); border-color: #fff; }
+
+/* card is now a whole-card link */
+a.a2-card { text-decoration: none; color: inherit; }
+a.a2-card:hover { text-decoration: none; }
+.a2-card-title { color: var(--bb-ink); }
+a.a2-card:hover .a2-card-title { color: var(--a2-red); }
+.a2-card-more { display: inline-block; margin-top: 0.15rem; font-size: 0.82rem; font-weight: 600; color: var(--a2-navy); }
+a.a2-card:hover .a2-card-more { text-decoration: underline; }
+
+/* standalone footer */
+.a2-footer { background: var(--a2-navy); color: rgba(255,255,255,0.85); margin-top: 3rem; padding: 2rem 1.25rem; }
+.a2-footer-inner { max-width: 780px; margin: 0 auto; text-align: center; }
+.a2-footer-title { margin: 0 0 0.5rem; font-family: var(--bb-font-display); font-size: 1.15rem; }
+.a2-footer-title a { color: #fff; text-decoration: none; }
+.a2-footer-note { font-size: 0.86rem; line-height: 1.55; margin: 0 0 0.8rem; }
+.a2-footer-note strong { color: #fff; }
+.a2-footer-copy { font-size: 0.8rem; opacity: 0.8; margin: 0; }
+.a2-footer a { color: var(--a2-gold); }
+
+/* ---- event detail page ---- */
+.a2-detail { max-width: 820px; margin: 0 auto; padding: 1.5rem 1.25rem 1rem; }
+.a2-back { display: inline-block; margin-bottom: 1rem; color: var(--a2-navy); text-decoration: none; font-weight: 600; font-size: 0.9rem; }
+.a2-back:hover { text-decoration: underline; }
+.a2-detail-tags { display: flex; flex-wrap: wrap; gap: 0.4rem; align-items: center; margin-bottom: 0.6rem; }
+.a2-region-pill {
+  display: inline-flex; align-items: center; gap: 0.35rem; font-size: 0.74rem; font-weight: 600;
+  background: var(--bb-cream-dark); color: var(--bb-ink-light); padding: 0.18rem 0.6rem 0.18rem 0.5rem; border-radius: 999px;
+}
+.a2-detail-title { font-family: var(--bb-font-display); font-size: clamp(1.8rem, 5vw, 2.8rem); line-height: 1.08; margin: 0.2rem 0 0.9rem; }
+.a2-detail-meta { margin-bottom: 1.2rem; }
+.a2-detail-when {
+  display: inline-flex; flex-direction: column; gap: 0.15rem; background: var(--a2-navy); color: #fff;
+  padding: 0.7rem 1.1rem; border-radius: var(--bb-radius-lg);
+}
+.a2-detail-date { font-weight: 600; font-size: 1.05rem; }
+.a2-detail-time { font-size: 1.3rem; font-family: var(--bb-font-display); }
+.a2-detail-timenote { font-size: 0.82rem; color: rgba(255,255,255,0.8); }
+.a2-detail-desc { font-size: 1.05rem; line-height: 1.65; color: var(--bb-ink-light); margin-bottom: 1.4rem; }
+.a2-detail-desc p { margin: 0 0 0.8rem; }
+
+.a2-detail-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 0.8rem; margin-bottom: 1.3rem; }
+.a2-fact { background: var(--bb-cream-dark); border-radius: var(--bb-radius-lg); padding: 0.8rem 1rem; }
+.a2-fact-k { display: block; font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.08em; color: var(--bb-ink-muted); font-weight: 700; margin-bottom: 0.25rem; }
+.a2-fact-v { font-size: 0.95rem; line-height: 1.45; color: var(--bb-ink); }
+
+.a2-detail-actions { display: flex; flex-wrap: wrap; gap: 0.7rem; margin-bottom: 1.4rem; }
+.a2-btn {
+  display: inline-block; padding: 0.6rem 1.2rem; border-radius: 999px; font-weight: 600; font-size: 0.92rem;
+  text-decoration: none; background: #fff; color: var(--a2-navy); border: 1.5px solid var(--a2-navy);
+}
+.a2-btn:hover { background: var(--bb-cream-dark); }
+.a2-btn-primary { background: var(--a2-navy); color: #fff; }
+.a2-btn-primary:hover { background: #16263f; }
+
+.a2-detail-map { height: 320px; margin-bottom: 1.2rem; }
+.a2-detail-source { font-size: 0.82rem; color: var(--bb-ink-muted); word-break: break-word; line-height: 1.5; }
+.a2-detail-source a { color: var(--bb-ink-muted); }
+
+.a2-detail-more { margin-top: 2rem; border-top: 2px solid var(--bb-cream-dark); padding-top: 1.2rem; }
+.a2-detail-more h2 { font-family: var(--bb-font-display); font-size: 1.3rem; margin: 0 0 0.7rem; }
+.a2-more-list { list-style: none; padding: 0; margin: 0; display: grid; gap: 0.35rem; }
+.a2-more-list a { display: flex; gap: 0.7rem; text-decoration: none; color: var(--bb-ink); padding: 0.45rem 0.6rem; border-radius: var(--bb-radius); }
+.a2-more-list a:hover { background: var(--bb-cream-dark); color: var(--a2-red); }
+.a2-more-time { color: var(--a2-navy); font-weight: 600; font-size: 0.85rem; min-width: 74px; flex: 0 0 auto; }
+.a2-cat-lecture { background: #e8e0ee; color: #4a3a5a; }
+
+@media (max-width: 560px) {
+  .a2-detail-when { display: flex; width: 100%; }
+  .a2-btn { flex: 1 1 auto; text-align: center; }
+}
+
+/* ============================================
+   Home: day grid + highlights ; Day pages
+   ============================================ */
+.a2-daygrid { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 0.9rem; }
+.a2-daytile {
+  display: flex; flex-direction: column; gap: 0.4rem; text-decoration: none; color: inherit;
+  background: #fff; border: 1px solid var(--bb-cream-dark); border-radius: var(--bb-radius-lg);
+  padding: 0.9rem 1rem; box-shadow: var(--bb-shadow-sm); transition: box-shadow 0.15s ease, transform 0.15s ease;
+}
+.a2-daytile:hover { box-shadow: var(--bb-shadow-md); transform: translateY(-2px); }
+.a2-daytile.is-empty { opacity: 0.55; }
+.a2-daytile-star { border: 2px solid var(--a2-gold); background: linear-gradient(180deg, #fffdf6, #fff); }
+.a2-daytile-top { display: flex; align-items: center; justify-content: space-between; }
+.a2-daytile-dow { font-family: var(--bb-font-display); font-size: 1.3rem; color: var(--a2-navy); }
+.a2-daytile-star .a2-daytile-dow { color: var(--a2-red); }
+.a2-daytile-count {
+  background: var(--a2-navy); color: #fff; font-weight: 700; font-size: 0.85rem;
+  min-width: 1.7rem; height: 1.7rem; border-radius: 999px; display: inline-flex; align-items: center; justify-content: center; padding: 0 0.4rem;
+}
+.a2-daytile-date { font-size: 0.95rem; color: var(--bb-ink-muted); font-weight: 600; margin-top: -0.2rem; }
+.a2-daytile-badge { font-size: 0.7rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.04em; color: #8a6a1e; background: var(--bb-gold-light); padding: 0.15rem 0.5rem; border-radius: 999px; align-self: flex-start; }
+.a2-daytile-list { list-style: none; padding: 0; margin: 0.25rem 0 0; display: grid; gap: 0.2rem; }
+.a2-daytile-list li { font-size: 0.82rem; color: var(--bb-ink-light); line-height: 1.3; padding-left: 0.8rem; position: relative; }
+.a2-daytile-list li::before { content: "·"; position: absolute; left: 0.2rem; color: var(--bb-ink-muted); }
+.a2-daytile-go { margin-top: auto; padding-top: 0.4rem; font-size: 0.84rem; font-weight: 600; color: var(--a2-navy); }
+.a2-daytile:hover .a2-daytile-go { text-decoration: underline; }
+
+/* highlights */
+.a2-highlights { display: grid; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); gap: 0.8rem; }
+.a2-hl { display: flex; flex-direction: column; gap: 0.25rem; text-decoration: none; color: inherit; background: #fff; border: 1px solid var(--bb-cream-dark); border-left: 4px solid var(--a2-gold); border-radius: var(--bb-radius); padding: 0.7rem 0.9rem; box-shadow: var(--bb-shadow-sm); transition: box-shadow 0.15s ease; }
+.a2-hl:hover { box-shadow: var(--bb-shadow-md); }
+.a2-hl-day { font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.06em; color: var(--a2-red); font-weight: 700; }
+.a2-hl-title { font-weight: 600; line-height: 1.25; color: var(--bb-ink); }
+.a2-hl:hover .a2-hl-title { color: var(--a2-red); }
+.a2-hl-where { font-size: 0.8rem; color: var(--bb-ink-muted); display: flex; align-items: center; gap: 0.35rem; }
+.a2-hl-where .a2-dot { width: 10px; height: 10px; margin: 0; }
+
+/* day pages */
+.a2-daypage { max-width: var(--bb-max-width); margin: 0 auto; padding: 1.3rem 1.25rem 1rem; }
+.a2-daystrip { display: flex; gap: 0.4rem; overflow-x: auto; background: var(--a2-navy); border-radius: var(--bb-radius-lg); padding: 0.45rem 0.6rem; margin: 0.8rem 0 1.3rem; position: sticky; top: 0; z-index: 20; scrollbar-width: thin; }
+.a2-daystrip-link { flex: 0 0 auto; text-align: center; color: rgba(255,255,255,0.8); text-decoration: none; padding: 0.3rem 0.65rem; border-radius: var(--bb-radius); font-size: 0.8rem; display: flex; flex-direction: column; min-width: 60px; line-height: 1.25; }
+.a2-daystrip-link:hover { background: rgba(255,255,255,0.12); color: #fff; }
+.a2-daystrip-link.is-current { background: #fff; color: var(--a2-navy); font-weight: 700; }
+.a2-daystrip-day { font-weight: 600; white-space: nowrap; }
+.a2-daystrip-count { font-size: 0.7rem; opacity: 0.8; }
+.a2-daystrip-link.is-empty { opacity: 0.45; }
+.a2-daypage-header { display: flex; align-items: baseline; gap: 0.8rem; border-bottom: 2px solid var(--bb-cream-dark); padding-bottom: 0.5rem; margin-bottom: 1rem; }
+.a2-daypage-header h1 { font-family: var(--bb-font-display); font-size: clamp(1.7rem, 5vw, 2.6rem); margin: 0; }
+.a2-daypage-header.a2-day-star h1 { color: var(--a2-red); }
+.a2-day-pagemap { height: clamp(260px, 38vh, 400px); margin-bottom: 1.5rem; }

@@ -1,0 +1,104 @@
+---
+layout: default
+---
+{%- assign region = site.regions | where: "id", page.region | first -%}
+{%- comment -%} time string {%- endcomment -%}
+{%- if page.all_day -%}
+  {%- assign timestr = "All day" -%}
+{%- elsif page.start and page.start != "" -%}
+  {%- assign st = page.start | prepend: '2000-01-01 ' | date: '%-I:%M %p' -%}
+  {%- if page.end and page.end != "" -%}
+    {%- assign en = page.end | prepend: '2000-01-01 ' | date: '%-I:%M %p' -%}
+    {%- assign timestr = st | append: ' – ' | append: en -%}
+  {%- else -%}
+    {%- assign timestr = st -%}
+  {%- endif -%}
+{%- else -%}
+  {%- assign timestr = "Time to be announced" -%}
+{%- endif -%}
+{%- assign daylabel = page.eday | append: "T12:00:00" | date: "%A, %B %-d, %Y" -%}
+
+<article class="a2-detail">
+  <div class="a2-detail-inner">
+    <a class="a2-back" href="/day/{{ page.eday }}/">← All events</a>
+
+    <div class="a2-detail-tags">
+      {% if region %}<span class="a2-region-pill" style="--chip:{{ region.color }}"><span class="a2-dot" style="background:{{ region.color }}"></span>{{ region.label }}</span>{% endif %}
+      <span class="a2-cat a2-cat-{{ page.category }}">{{ page.category }}</span>
+      {% if page.cost == "Free" %}<span class="a2-cost a2-cost-free">Free</span>{% elsif page.cost and page.cost != "" %}<span class="a2-cost">{{ page.cost }}</span>{% endif %}
+      {% if page.featured %}<span class="a2-star">★ highlight</span>{% endif %}
+    </div>
+
+    <h1 class="a2-detail-title">{{ page.title }}</h1>
+
+    <div class="a2-detail-meta">
+      <div class="a2-detail-when">
+        <span class="a2-detail-date">{{ daylabel }}</span>
+        <span class="a2-detail-time">{{ timestr }}</span>
+        {% if page.time_note and page.time_note != "" %}<span class="a2-detail-timenote">{{ page.time_note }}</span>{% endif %}
+      </div>
+    </div>
+
+    {% if page.content and page.content != "" %}
+    <div class="a2-detail-desc">{{ content }}</div>
+    {% endif %}
+
+    <div class="a2-detail-grid">
+      {% if page.venue and page.venue != "" %}
+      <div class="a2-fact"><span class="a2-fact-k">Where</span><span class="a2-fact-v">{{ page.venue }}{% if page.address and page.address != "" %}<br>{{ page.address }}{% elsif page.town and page.town != "" %}<br>{{ page.town }}{% endif %}</span></div>
+      {% endif %}
+      {% if page.cost and page.cost != "" %}<div class="a2-fact"><span class="a2-fact-k">Cost</span><span class="a2-fact-v">{{ page.cost }}</span></div>{% endif %}
+      {% if page.org and page.org != "" %}<div class="a2-fact"><span class="a2-fact-k">Organizer</span><span class="a2-fact-v">{{ page.org }}</span></div>{% endif %}
+    </div>
+
+    <div class="a2-detail-actions">
+      {% if page.ext_url and page.ext_url != "" %}<a class="a2-btn a2-btn-primary" href="{{ page.ext_url }}" target="_blank" rel="noopener">Official event page ↗</a>{% endif %}
+      {% if page.address and page.address != "" %}<a class="a2-btn" href="https://www.google.com/maps/dir/?api=1&destination={{ page.address | url_encode }}" target="_blank" rel="noopener">Get directions ↗</a>{% endif %}
+    </div>
+
+    {% if page.lat and page.lng %}
+    <div id="a2-detail-map" class="a2-map a2-detail-map"
+         data-lat="{{ page.lat }}" data-lng="{{ page.lng }}"
+         data-color="{% if region %}{{ region.color }}{% else %}#1f3a5f{% endif %}"
+         data-title="{{ page.title | escape }}"></div>
+    {% endif %}
+
+    {% if page.source and page.source != "" %}
+    <p class="a2-detail-source">Source: <a href="{{ page.source }}" target="_blank" rel="noopener">{{ page.source }}</a>. Details can change — confirm with the organizer before you go.</p>
+    {% endif %}
+
+    {%- comment -%} more the same day {%- endcomment -%}
+    {%- assign sameday = site.events | where: "eday", page.eday | sort: "start" -%}
+    {%- assign others = "" | split: "" -%}
+    {%- for e in sameday -%}{%- unless e.id == page.id -%}{%- assign others = others | push: e -%}{%- endunless -%}{%- endfor -%}
+    {% if others.size > 0 %}
+    <div class="a2-detail-more">
+      <h2>More on {{ page.eday | append: "T12:00:00" | date: "%A, %B %-d" }}</h2>
+      <ul class="a2-more-list">
+        {% for e in others limit: 12 %}
+        <li><a href="{{ e.url }}"><span class="a2-more-time">{% if e.all_day %}All day{% elsif e.start and e.start != "" %}{{ e.start | prepend: '2000-01-01 ' | date: '%-I:%M %p' }}{% else %}TBA{% endif %}</span> {{ e.title }}</a></li>
+        {% endfor %}
+      </ul>
+    </div>
+    {% endif %}
+  </div>
+</article>
+
+{% if page.lat and page.lng %}
+<script>
+{%- comment -%} Leaflet is loaded by the default layout (page has lat); init after DOM ready {%- endcomment -%}
+document.addEventListener("DOMContentLoaded", function () {
+  var el = document.getElementById("a2-detail-map");
+  if (!el || !window.L) return;
+  var lat = parseFloat(el.dataset.lat), lng = parseFloat(el.dataset.lng);
+  var map = L.map(el, { scrollWheelZoom: false }).setView([lat, lng], 14);
+  L.tileLayer("https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png", {
+    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> &copy; <a href="https://carto.com/attributions">CARTO</a>',
+    subdomains: "abcd", maxZoom: 19
+  }).addTo(map);
+  L.circleMarker([lat, lng], { radius: 9, fillColor: el.dataset.color, color: "#fff", weight: 2, fillOpacity: 0.95 })
+    .addTo(map).bindPopup(el.dataset.title).openPopup();
+  setTimeout(function () { map.invalidateSize(); map.setView([lat, lng], 14); }, 150);
+});
+</script>
+{% endif %}

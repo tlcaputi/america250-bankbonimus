@@ -9,7 +9,10 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
 
-permalink: /:categories/:title/
+collections:
+  events:
+    output: true
+    permalink: /event/:name/
 
 include:
   - CNAME
@@ -23,6 +26,8 @@ exclude:
   - CLAUDE.md
   - README.md
   - geocode.py
+  - gen_events.py
+  - _Gemfile.bak
   - .DS_Store
   - "**/.DS_Store"
 
