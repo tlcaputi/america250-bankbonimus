@@ -13,6 +13,9 @@ collections:
   events:
     output: true
     permalink: /event/:name/
+    # Pre-sort by start time here so templates never call Liquid `sort`
+    # on collection docs — GitHub Pages' Jekyll 3.10 crashes on that.
+    sort_by: start
 
 include:
   - CNAME

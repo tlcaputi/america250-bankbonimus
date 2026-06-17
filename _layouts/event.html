@@ -67,17 +67,16 @@ layout: default
     <p class="a2-detail-source">Source: <a href="{{ page.source }}" target="_blank" rel="noopener">{{ page.source }}</a>. Details can change — confirm with the organizer before you go.</p>
     {% endif %}
 
-    {%- comment -%} more the same day {%- endcomment -%}
-    {%- assign sameday = site.events | where: "eday", page.eday | sort: "start" -%}
-    {%- assign others = "" | split: "" -%}
-    {%- for e in sameday -%}{%- unless e.id == page.id -%}{%- assign others = others | push: e -%}{%- endunless -%}{%- endfor -%}
-    {% if others.size > 0 %}
+    {%- comment -%} more the same day (collection is pre-sorted by start) {%- endcomment -%}
+    {%- assign sameday = site.events | where: "eday", page.eday -%}
+    {% assign othercount = sameday.size | minus: 1 %}
+    {% if othercount > 0 %}
     <div class="a2-detail-more">
       <h2>More on {{ page.eday | append: "T12:00:00" | date: "%A, %B %-d" }}</h2>
       <ul class="a2-more-list">
-        {% for e in others limit: 12 %}
+        {% for e in sameday %}{% unless e.id == page.id %}
         <li><a href="{{ e.url }}"><span class="a2-more-time">{% if e.all_day %}All day{% elsif e.start and e.start != "" %}{{ e.start | prepend: '2000-01-01 ' | date: '%-I:%M %p' }}{% else %}TBA{% endif %}</span> {{ e.title }}</a></li>
-        {% endfor %}
+        {% endunless %}{% endfor %}
       </ul>
     </div>
     {% endif %}

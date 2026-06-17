@@ -28,7 +28,7 @@ day_map: true
     <div id="a2-day-map" class="a2-map a2-day-pagemap"></div>
 
     {% for r in site.regions %}
-      {% assign region_events = day_events | where: "region", r.id | sort: "start" %}
+      {% assign region_events = day_events | where: "region", r.id %}
       {% if region_events.size > 0 %}
       <div class="a2-region-block" data-region="{{ r.id }}">
         <h2 class="a2-region-h3"><span class="a2-dot" style="background:{{ r.color }}"></span>{{ r.label }} <span class="a2-region-count">{{ region_events.size }}</span></h2>
