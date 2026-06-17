@@ -1,0 +1,76 @@
+title: "America250 — July 4th Weekend Guide"
+description: "What to do over the July 4th, 2026 weekend (America's 250th) in Philadelphia, Bucks County / New Hope, and Central New Jersey — events, dates, times, and a map."
+baseurl: ""
+url: "https://america250.bankbonimus.com"
+og_image: "https://media.bankbonimus.com/images/bankbonimus-avatar.png"
+locale: "en_US"
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+permalink: /:categories/:title/
+
+include:
+  - CNAME
+
+exclude:
+  - drafts/
+  - vendor/
+  - .CHANGELOG/
+  - .research/
+  - AGENTS.md
+  - CLAUDE.md
+  - README.md
+  - geocode.py
+  - .DS_Store
+  - "**/.DS_Store"
+
+# Image CDN: shared bankbonimus R2 media
+assets_cdn: https://media.bankbonimus.com
+
+author:
+  name: "Bankbonimus"
+  avatar: "https://media.bankbonimus.com/images/bankbonimus-avatar.png"
+
+# Ordered days the guide covers (Jun 28 – Jul 5, 2026)
+days:
+  - date: "2026-06-28"
+    label: "Sun, Jun 28"
+    long: "Sunday, June 28"
+  - date: "2026-06-29"
+    label: "Mon, Jun 29"
+    long: "Monday, June 29"
+  - date: "2026-06-30"
+    label: "Tue, Jun 30"
+    long: "Tuesday, June 30"
+  - date: "2026-07-01"
+    label: "Wed, Jul 1"
+    long: "Wednesday, July 1"
+  - date: "2026-07-02"
+    label: "Thu, Jul 2"
+    long: "Thursday, July 2"
+  - date: "2026-07-03"
+    label: "Fri, Jul 3"
+    long: "Friday, July 3 (holiday observed)"
+  - date: "2026-07-04"
+    label: "Sat, Jul 4 ★"
+    long: "Saturday, July 4 — America's 250th"
+  - date: "2026-07-05"
+    label: "Sun, Jul 5"
+    long: "Sunday, July 5"
+
+# Regions (map colors + labels)
+regions:
+  - id: philadelphia
+    label: "Philadelphia"
+    color: "#3a5a8a"
+    blurb: "Center City, Old City & the Parkway — Wawa Welcome America, Independence Hall, the museums."
+  - id: bucks
+    label: "Bucks & Montgomery (PA)"
+    color: "#b05e3a"
+    blurb: "New Hope, Doylestown, Washington Crossing & Peddler's Village (Bucks) plus Valley Forge, Norristown & the Montgomery County suburbs."
+  - id: nj
+    label: "Central New Jersey"
+    color: "#1d3c34"
+    blurb: "Lambertville, Trenton, Princeton, Hopewell/Titusville, Hunterdon & the Washington Crossing (NJ) side."

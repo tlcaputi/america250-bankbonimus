@@ -1,0 +1,30 @@
+# Credentials
+.env
+
+# Jekyll
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Bundler
+.bundle/
+vendor/
+
+# macOS
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
+
+# Agent handoffs
+.claude/
+.CHANGELOG/
+_working/
+
+# Research notes (not deployed)
+.research/
+
+# Local build helpers
+_Gemfile.bak

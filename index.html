@@ -1,0 +1,174 @@
+---
+layout: default
+title: "July 4th, 2026 Weekend Guide"
+needs_map: true
+---
+
+{%- comment -%} ----- helpers ----- {%- endcomment -%}
+{%- assign cat_labels = "fireworks:Fireworks,parade:Parade,reenactment:Reenactment & Living History,ceremony:Ceremony,concert:Concert & Music,festival:Festival,exhibit:Exhibit & Museum,tour:Tour & Open House,family:Family & Kids,fair:Fair & Carnival,food:Food & Drink,other:Other" | split: "," -%}
+
+<section class="a2-hero">
+  <div class="a2-hero-inner">
+    <p class="a2-eyebrow">Bankbonimus &middot; Semiquincentennial</p>
+    <h1>America's 250th — July&nbsp;4th Weekend</h1>
+    <p class="a2-hero-sub">Everything happening over the long weekend (<strong>Sun Jun&nbsp;28 – Sun Jul&nbsp;5, 2026</strong>) across <strong>Philadelphia</strong>, <strong>Bucks County &amp; New Hope</strong>, and <strong>Central New Jersey</strong> — with dates, hours, locations, links, and maps so we can decide what to do.</p>
+    <div class="a2-hero-meta">
+      <span>★ Sat&nbsp;Jul&nbsp;4 is the big day</span>
+      <span>{{ site.data.events | size }} events &amp; counting</span>
+      <span>Free + ticketed</span>
+    </div>
+  </div>
+</section>
+
+{%- comment -%} ----- region legend ----- {%- endcomment -%}
+<section class="a2-section a2-legend-wrap">
+  <div class="a2-legend">
+    {% for r in site.regions %}
+    <div class="a2-legend-item">
+      <span class="a2-dot" style="background:{{ r.color }}"></span>
+      <div>
+        <strong>{{ r.label }}</strong>
+        <span class="a2-legend-blurb">{{ r.blurb }}</span>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+</section>
+
+{%- comment -%} ----- filter bar (controls map + list) ----- {%- endcomment -%}
+<section class="a2-section">
+  <div class="a2-filters" id="a2-filters">
+    <div class="a2-filter-group">
+      <span class="a2-filter-label">Region</span>
+      {% for r in site.regions %}
+      <button class="a2-chip is-on" data-filter="region" data-value="{{ r.id }}" style="--chip:{{ r.color }}">{{ r.label }}</button>
+      {% endfor %}
+    </div>
+    <div class="a2-filter-group">
+      <span class="a2-filter-label">Type</span>
+      {% for c in cat_labels %}
+        {% assign parts = c | split: ":" %}
+        <button class="a2-chip a2-chip-cat is-on" data-filter="category" data-value="{{ parts[0] }}">{{ parts[1] }}</button>
+      {% endfor %}
+    </div>
+    <div class="a2-filter-group a2-filter-extras">
+      <label class="a2-toggle"><input type="checkbox" id="a2-free-only"> Free only</label>
+      <input type="search" id="a2-search" class="a2-search" placeholder="Search events, towns, venues…" aria-label="Search events">
+      <button class="a2-reset" id="a2-reset" type="button">Reset</button>
+    </div>
+  </div>
+</section>
+
+{%- comment -%} ----- overview map ----- {%- endcomment -%}
+<section class="a2-section">
+  <h2 class="a2-h2">The whole weekend, mapped</h2>
+  <p class="a2-section-note">Every located event is a pin (colored by region). Click a pin for details. The Region/Type filters above also filter this map.</p>
+  <div id="a2-map-main" class="a2-map a2-map-main"></div>
+</section>
+
+{%- comment -%} ----- day nav ----- {%- endcomment -%}
+<nav class="a2-daynav" aria-label="Jump to day">
+  {% for d in site.days %}
+    {% assign dcount = site.data.events | where: "date", d.date | size %}
+    <a href="#day-{{ d.date }}" class="a2-daynav-link{% if dcount == 0 %} is-empty{% endif %}">
+      <span class="a2-daynav-day">{{ d.label }}</span>
+      <span class="a2-daynav-count">{{ dcount }}</span>
+    </a>
+  {% endfor %}
+</nav>
+
+{%- comment -%} ----- by day, then region ----- {%- endcomment -%}
+{% for d in site.days %}
+  {% assign day_events = site.data.events | where: "date", d.date %}
+  {% if day_events.size > 0 %}
+  <section class="a2-day" id="day-{{ d.date }}">
+    <header class="a2-day-header{% if d.date == '2026-07-04' %} a2-day-star{% endif %}">
+      <h2>{{ d.long }}</h2>
+      <span class="a2-day-count">{{ day_events.size }} event{% if day_events.size != 1 %}s{% endif %}</span>
+    </header>
+
+    <div class="a2-day-map-wrap">
+      <div id="a2-map-{{ d.date }}" class="a2-map a2-map-day" data-day="{{ d.date }}"></div>
+    </div>
+
+    {% for r in site.regions %}
+      {% assign region_events = day_events | where: "region", r.id | sort: "start" %}
+      {% if region_events.size > 0 %}
+      <div class="a2-region-block" data-region="{{ r.id }}">
+        <h3 class="a2-region-h3"><span class="a2-dot" style="background:{{ r.color }}"></span>{{ r.label }} <span class="a2-region-count">{{ region_events.size }}</span></h3>
+        <div class="a2-cards">
+          {% for e in region_events %}
+          {%- comment -%} time display {%- endcomment -%}
+          {%- if e.all_day -%}
+            {%- assign timestr = "All day" -%}
+          {%- elsif e.start and e.start != "" -%}
+            {%- assign st = e.start | prepend: '2000-01-01 ' | date: '%-I:%M %p' -%}
+            {%- if e.end and e.end != "" -%}
+              {%- assign en = e.end | prepend: '2000-01-01 ' | date: '%-I:%M %p' -%}
+              {%- assign timestr = st | append: ' – ' | append: en -%}
+            {%- else -%}
+              {%- assign timestr = st -%}
+            {%- endif -%}
+          {%- else -%}
+            {%- assign timestr = "Time TBA" -%}
+          {%- endif -%}
+          <article class="a2-card"
+                   data-region="{{ e.region }}"
+                   data-category="{{ e.category }}"
+                   data-cost="{% if e.cost == 'Free' %}free{% else %}paid{% endif %}"
+                   data-search="{{ e.title | downcase | escape }} {{ e.venue | downcase | escape }} {{ e.town | downcase | escape }} {{ e.org | downcase | escape }}"
+                   id="ev-{{ e.id }}">
+            <div class="a2-card-time">
+              <span class="a2-time">{{ timestr }}</span>
+              {% if e.time_note and e.time_note != "" %}<span class="a2-time-note">{{ e.time_note }}</span>{% endif %}
+            </div>
+            <div class="a2-card-body">
+              <div class="a2-card-tags">
+                <span class="a2-cat a2-cat-{{ e.category }}">{{ e.category }}</span>
+                {% if e.cost == "Free" %}<span class="a2-cost a2-cost-free">Free</span>{% elsif e.cost and e.cost != "" %}<span class="a2-cost">{{ e.cost }}</span>{% endif %}
+                {% if e.featured %}<span class="a2-star">★ highlight</span>{% endif %}
+              </div>
+              <h4 class="a2-card-title">{% if e.url and e.url != "" %}<a href="{{ e.url }}" target="_blank" rel="noopener">{{ e.title }}</a>{% else %}{{ e.title }}{% endif %}</h4>
+              {% if e.venue and e.venue != "" %}<p class="a2-card-venue">📍 {{ e.venue }}{% if e.town and e.town != "" %} · {{ e.town }}{% endif %}</p>{% endif %}
+              {% if e.description and e.description != "" %}<p class="a2-card-desc">{{ e.description }}</p>{% endif %}
+              <div class="a2-card-links">
+                {% if e.url and e.url != "" %}<a href="{{ e.url }}" target="_blank" rel="noopener">Event page ↗</a>{% endif %}
+                {% if e.address and e.address != "" %}<a href="https://www.google.com/maps/dir/?api=1&destination={{ e.address | url_encode }}" target="_blank" rel="noopener">Directions ↗</a>{% endif %}
+                {% if e.org and e.org != "" %}<span class="a2-card-org">{{ e.org }}</span>{% endif %}
+              </div>
+            </div>
+          </article>
+          {% endfor %}
+        </div>
+      </div>
+      {% endif %}
+    {% endfor %}
+  </section>
+  {% endif %}
+{% endfor %}
+
+<section class="a2-section a2-noresults" id="a2-noresults" hidden>
+  <p>No events match your filters. <button class="a2-reset" id="a2-reset2" type="button">Reset filters</button></p>
+</section>
+
+{%- comment -%} ----- event data for the maps ----- {%- endcomment -%}
+<script type="application/json" id="a2-data">
+[
+{% for e in site.data.events %}{
+"id": {{ e.id | jsonify }},
+"title": {{ e.title | jsonify }},
+"region": {{ e.region | jsonify }},
+"category": {{ e.category | jsonify }},
+"date": {{ e.date | jsonify }},
+"venue": {{ e.venue | jsonify }},
+"town": {{ e.town | jsonify }},
+"cost": {{ e.cost | jsonify }},
+"url": {{ e.url | jsonify }},
+"address": {{ e.address | jsonify }},
+"lat": {{ e.lat | jsonify }},
+"lng": {{ e.lng | jsonify }}
+}{% unless forloop.last %},{% endunless %}
+{% endfor %}
+]
+</script>
+<script type="application/json" id="a2-regions">{{ site.regions | jsonify }}</script>

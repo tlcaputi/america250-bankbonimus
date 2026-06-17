@@ -1,0 +1,96 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+
+  {%- if page.description -%}
+    {%- assign seo_description = page.description -%}
+  {%- else -%}
+    {%- assign seo_description = site.description -%}
+  {%- endif -%}
+  {%- assign seo_description = seo_description | strip_html | strip_newlines | escape | truncate: 220 -%}
+  {%- assign seo_image = site.og_image -%}
+
+  <title>{% if page.title %}{{ page.title | strip_html }} | {% endif %}{{ site.title }}</title>
+  <meta name="description" content="{{ seo_description }}">
+  <link rel="canonical" href="{{ page.url | replace: '/index.html', '/' | absolute_url }}">
+
+  <meta property="og:url" content="{{ page.url | replace: '/index.html', '/' | absolute_url }}">
+  <meta property="og:title" content="{{ page.title | default: site.title | strip_html }}">
+  <meta property="og:description" content="{{ seo_description }}">
+  <meta property="og:site_name" content="{{ site.title }}">
+  <meta property="og:locale" content="{{ site.locale | default: 'en_US' }}">
+  <meta property="og:type" content="website">
+  {% if seo_image %}<meta property="og:image" content="{{ seo_image }}">{% endif %}
+  <meta name="twitter:card" content="{% if seo_image %}summary_large_image{% else %}summary{% endif %}">
+  <meta name="twitter:title" content="{{ page.title | default: site.title | strip_html }}">
+  <meta name="twitter:description" content="{{ seo_description }}">
+  {% if seo_image %}<meta name="twitter:image" content="{{ seo_image }}">{% endif %}
+
+  <link rel="apple-touch-icon" sizes="180x180" href="/assets/favicon/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon/favicon-16x16.png">
+  <link rel="manifest" href="/assets/favicon/site.webmanifest">
+  <meta name="theme-color" content="#1d3c34">
+
+  <link rel="preload" as="font" type="font/woff2" href="/assets/fonts/dm-sans-normal-latin.woff2" crossorigin>
+  <link rel="preload" as="font" type="font/woff2" href="/assets/fonts/dm-serif-display-normal-latin.woff2" crossorigin>
+
+  {%- comment -%} Leaflet (maps) — pinned version, SRI-protected {%- endcomment -%}
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+        integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="">
+
+  <link rel="stylesheet" href="/assets/css/custom.css">
+  <link rel="stylesheet" href="/assets/css/america250.css">
+</head>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-XN6TD7XZJB"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-XN6TD7XZJB');
+</script>
+
+<body class="bb-accent-america250">
+
+  {% include bankbonimus-nav.html %}
+
+  <main id="main">
+    {{ content }}
+  </main>
+
+  <footer class="bb-footer" role="contentinfo">
+    <div class="bb-footer-inner">
+      <nav class="bb-footer-nav" aria-label="Footer">
+        {% for link in site.data.navigation.main %}
+        <a href="{{ link.url }}">{{ link.title }}</a>
+        {% endfor %}
+      </nav>
+      <p class="bb-footer-copy">&copy; {{ site.time | date: '%Y' }} Bankbonimus &middot; A personal guide, not affiliated with any official America250 commission. Always confirm dates &amp; times with the event organizer before you go.</p>
+    </div>
+  </footer>
+
+  <script>
+  (function() {
+    var t = document.querySelector('.bb-nav-toggle');
+    var links = document.querySelector('.bb-nav-links');
+    if (t && links) {
+      t.addEventListener('click', function() {
+        var open = links.classList.toggle('open');
+        t.setAttribute('aria-expanded', open ? 'true' : 'false');
+      });
+    }
+  })();
+  </script>
+
+  {% if page.needs_map %}
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+          integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script src="/assets/js/map.js"></script>
+  {% endif %}
+
+</body>
+</html>

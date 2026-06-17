@@ -1,0 +1,11 @@
+main:
+  - title: "Home"
+    url: "https://www.bankbonimus.com/"
+  - title: "Bank Bonuses"
+    url: "https://bankbonus.bankbonimus.com/"
+  - title: "Postcards"
+    url: "https://postcards.bankbonimus.com/"
+  - title: "Pens"
+    url: "https://pens.bankbonimus.com/"
+  - title: "Sweeps Casinos"
+    url: "https://sweeps.bankbonimus.com/"
