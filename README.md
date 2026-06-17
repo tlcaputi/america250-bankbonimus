@@ -33,17 +33,39 @@ Research notes (not deployed) are in `.research/` (gitignored).
 
 ## Editing
 
-Add or change an event by editing `_data/events.yml`. To preview locally:
+`_data/events.yml` is the **single source of truth**. After editing it, regenerate the
+per-event collection and commit both:
 
 ```bash
-# global jekyll 4 (no bundler); the repo Gemfile targets GH Pages
+python3 gen_events.py            # _data/events.yml -> _events/<id>.md (one page per event)
+git add -A && git commit -m "..." && git push
+```
+
+Preview locally (global jekyll 4; the repo Gemfile targets GH Pages so move it aside):
+
+```bash
 mv Gemfile _Gemfile.bak
 jekyll build --destination /tmp/a250-site && (cd /tmp/a250-site && python3 -m http.server 8765)
 mv _Gemfile.bak Gemfile
 ```
 
+## Gotchas (read before touching templates/config)
+
+- **Use `eday`, not `date`, for the event date.** Jekyll auto-parses collection `date:` into a
+  Time and breaks string `where:` matching (day pages/tiles silently show 0). `gen_events.py`
+  emits `eday`.
+- **No Liquid `sort`/`push` over collection docs** — GitHub Pages' Jekyll 3.10 crashes on them
+  (builds fine on local Jekyll 4, FAILS on GH Pages). The collection is pre-sorted via
+  `collections.events.sort_by: start`. Always check the Actions build after pushing.
+- The official external link is `ext_url` on event pages (`url` is the page's own URL).
+
 ## Deploy
 
 GitHub Pages (classic) builds from the default branch. Repo: `tlcaputi/america250-bankbonimus`.
 DNS: Cloudflare CNAME `america250` → `tlcaputi.github.io` (DNS-only), `CNAME` file pins the
-custom domain. Just commit + push to deploy.
+custom domain. HTTPS is enforced. Just commit + push to deploy; confirm the Actions build is green.
+
+## Full handoff
+
+See `.CHANGELOG/CURRENT_STATE.md` (gitignored) for the complete state, file map, debugging
+history, and HTTPS-cert recipe.
