@@ -73,7 +73,8 @@
 .a2-chip {
   font: inherit; font-size: 0.82rem; cursor: pointer;
   border: 1.5px solid var(--bb-cream-dark); background: #fff; color: var(--bb-ink-muted);
-  padding: 0.3rem 0.7rem; border-radius: 999px; transition: all 0.12s ease; line-height: 1;
+  padding: 0.45rem 0.8rem; border-radius: 999px; transition: all 0.12s ease; line-height: 1;
+  display: inline-flex; align-items: center; min-height: 40px;
 }
 .a2-chip:hover { border-color: var(--bb-ink-muted); }
 .a2-chip.is-on { color: #fff; background: var(--chip, var(--a2-navy)); border-color: var(--chip, var(--a2-navy)); }
@@ -87,7 +88,8 @@
 .a2-search:focus { outline: 2px solid var(--a2-navy); outline-offset: 1px; }
 .a2-reset {
   font: inherit; font-size: 0.82rem; cursor: pointer; background: none; border: none;
-  color: var(--a2-red); text-decoration: underline; padding: 0.2rem 0.3rem;
+  color: var(--a2-red); text-decoration: underline; padding: 0.5rem 0.5rem; min-height: 40px;
+  display: inline-flex; align-items: center;
 }
 
 /* ---- maps ---- */
@@ -317,3 +319,32 @@ a.a2-card:hover .a2-card-more { text-decoration: underline; }
 .a2-daypage-header h1 { font-family: var(--bb-font-display); font-size: clamp(1.7rem, 5vw, 2.6rem); margin: 0; }
 .a2-daypage-header.a2-day-star h1 { color: var(--a2-red); }
 .a2-day-pagemap { height: clamp(260px, 38vh, 400px); margin-bottom: 1.5rem; }
+
+/* ============================================
+   Polish + a11y (frontend-build pass)
+   ============================================ */
+html { scroll-behavior: smooth; }
+:root { scroll-padding-top: 1rem; }
+
+/* on-brand text selection */
+.a2-standalone ::selection { background: var(--a2-gold); color: #1a1206; }
+
+/* bigger tap target for the back link */
+.a2-back { display: inline-flex; align-items: center; min-height: 40px; padding: 0.3rem 0; }
+
+/* visible focus rings for keyboard users (don't strip outlines) */
+.a2-chip:focus-visible, .a2-daytile:focus-visible, a.a2-card:focus-visible,
+.a2-daystrip-link:focus-visible, .a2-hl:focus-visible, .a2-btn:focus-visible,
+.a2-back:focus-visible, .a2-reset:focus-visible, .a2-hero-cta:focus-visible {
+  outline: 3px solid var(--a2-gold); outline-offset: 2px;
+}
+
+/* honor reduced-motion: kill transitions/animations + smooth-scroll */
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important; animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+  a.a2-card:hover, .a2-daytile:hover, .a2-hl:hover { transform: none; }
+}
