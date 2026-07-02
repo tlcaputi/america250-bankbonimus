@@ -1,0 +1,253 @@
+---
+layout: default
+title: "Beat the Heat — Indoor, Air-Conditioned Things to Do (Thu, July 2)"
+description: "It's going to hit ~103°F in Philadelphia on Thursday, July 2, 2026. Here are the best air-conditioned, indoor things to do in Philly and the suburbs — cool museums, free-today picks, food halls, and safe places to ride out the heat."
+permalink: /beat-the-heat/
+---
+
+<style>
+  .bth-hero {
+    background:
+      radial-gradient(1200px 400px at 20% -10%, rgba(200,162,78,0.28), transparent 60%),
+      linear-gradient(160deg, #b5471f 0%, #9e2b25 55%, #6d1f1c 100%);
+    color: #fff;
+    padding: 3rem 1.25rem 2.4rem;
+    text-align: center;
+  }
+  .bth-hero-inner { max-width: 760px; margin: 0 auto; }
+  .bth-hero .a2-eyebrow { color: #ffd98a; }
+  .bth-hero h1 {
+    font-family: var(--bb-font-display);
+    font-size: clamp(2rem, 6vw, 3rem);
+    line-height: 1.05; margin: 0.2rem 0 0.6rem;
+  }
+  .bth-hero p { font-size: 1.05rem; line-height: 1.55; margin: 0 auto; max-width: 640px; color: rgba(255,255,255,0.94); }
+  .bth-temp {
+    display: inline-flex; gap: 1.4rem; flex-wrap: wrap; justify-content: center;
+    margin-top: 1.3rem; padding: 0.7rem 1.1rem;
+    background: rgba(0,0,0,0.16); border: 1px solid rgba(255,255,255,0.28);
+    border-radius: var(--bb-radius-lg);
+  }
+  .bth-temp b { display: block; font-family: var(--bb-font-display); font-size: 1.5rem; line-height: 1; }
+  .bth-temp span { font-size: 0.78rem; text-transform: uppercase; letter-spacing: 0.06em; color: rgba(255,255,255,0.82); }
+
+  .bth-alert {
+    max-width: var(--bb-max-width); margin: 1.6rem auto 0; padding: 1rem 1.15rem;
+    background: #fff6f5; border: 1.5px solid #e6b7b3; border-left: 5px solid var(--a2-red);
+    border-radius: var(--bb-radius-lg); box-shadow: var(--bb-shadow-sm);
+  }
+  .bth-alert h2 { font-family: var(--bb-font-display); font-size: 1.15rem; margin: 0 0 0.4rem; color: var(--a2-red); }
+  .bth-alert p { margin: 0.35rem 0; font-size: 0.94rem; line-height: 1.55; color: var(--bb-ink); }
+  .bth-alert a { color: var(--a2-red); font-weight: 600; }
+
+  .bth-groups { max-width: var(--bb-max-width); margin: 0 auto; padding: 0 1.25rem; }
+  .bth-group { margin-top: 2.2rem; }
+  .bth-group-h { font-family: var(--bb-font-display); font-size: clamp(1.35rem, 4vw, 1.75rem); margin: 0 0 0.15rem; }
+  .bth-group-sub { color: var(--bb-ink-muted); font-size: 0.92rem; margin: 0 0 1rem; }
+
+  .bth-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(255px, 1fr)); gap: 0.9rem; }
+  .bth-card {
+    border: 1px solid var(--bb-cream-dark); border-radius: var(--bb-radius-lg);
+    background: #fff; padding: 0.95rem 1rem 1rem; box-shadow: var(--bb-shadow-sm);
+    display: flex; flex-direction: column;
+  }
+  .bth-card h3 { font-size: 1.05rem; line-height: 1.3; margin: 0 0 0.35rem; font-family: var(--bb-font-body); font-weight: 700; }
+  .bth-card h3 a { color: var(--a2-navy); text-decoration: none; }
+  .bth-card h3 a:hover { color: var(--a2-red); text-decoration: underline; }
+  .bth-card p { font-size: 0.9rem; line-height: 1.5; color: var(--bb-ink-light); margin: 0 0 0.6rem; }
+  .bth-meta { margin-top: auto; font-size: 0.82rem; color: var(--bb-ink-muted); display: flex; flex-direction: column; gap: 0.2rem; }
+  .bth-meta .bth-where::before { content: "📍 "; }
+  .bth-tags { display: flex; flex-wrap: wrap; gap: 0.3rem; margin-bottom: 0.5rem; }
+  .bth-tag { font-size: 0.68rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.04em; padding: 0.16rem 0.45rem; border-radius: 999px; }
+  .bth-tag-free { background: #17603a; color: #fff; }
+  .bth-tag-today { background: var(--a2-gold); color: #3a2c08; }
+  .bth-tag-kids { background: #eef1f7; color: var(--a2-navy); }
+  .bth-tag-suburb { background: #f3e7df; color: var(--a2-bucks); }
+  .bth-tag-paid { background: var(--bb-cream-dark); color: var(--bb-ink-light); }
+
+  .bth-back { max-width: var(--bb-max-width); margin: 2.4rem auto 0; padding: 0 1.25rem; }
+  .bth-back a { color: var(--a2-navy); font-weight: 600; text-decoration: none; }
+  .bth-back a:hover { text-decoration: underline; }
+</style>
+
+<section class="bth-hero">
+  <div class="bth-hero-inner">
+    <p class="a2-eyebrow">Thursday, July 2, 2026 · Extreme heat</p>
+    <h1>Beat the Heat</h1>
+    <p>It's forecast to hit around <strong>103°F</strong> in Philadelphia today, with a heat index near <strong>111°F</strong> — the city is under a <strong>Heat Health Emergency</strong>. Here are the best <strong>air-conditioned, indoor</strong> things to do in Philly and the suburbs while the sun does its worst. Save the fireworks and parades for the cooler evening.</p>
+    <div class="bth-temp">
+      <div><b>~103°F</b><span>Forecast high</span></div>
+      <div><b>~111°F</b><span>Heat index</span></div>
+      <div><b>Emergency</b><span>Jul 1–4</span></div>
+    </div>
+  </div>
+</section>
+
+<div class="bth-alert">
+  <h2>Stay safe in the heat</h2>
+  <p>Philadelphia has declared a <strong>Heat Health Emergency from Wed, July 1 (11 a.m.) through Sat, July 4 (8 p.m.)</strong>. Drink water, stay indoors during the hottest hours (roughly 11 a.m.–6 p.m.), check on older neighbors, and never leave kids or pets in a car.</p>
+  <p><strong>Need help or a cool place to go?</strong> Call the free <strong>PCA Heatline at <a href="tel:2157659040">215-765-9040</a></strong> (8:30 a.m.–8:30 p.m. during the emergency) to speak with a nurse, dial <strong>311</strong> for the nearest cooling center, or call <strong><a href="tel:2152321984">215-232-1984</a></strong> for 24/7 street outreach. Details: <a href="https://www.phila.gov/services/safety-emergency-preparedness/extreme-weather/heat-health-emergency/" target="_blank" rel="noopener">phila.gov heat health emergency ↗</a>.</p>
+</div>
+
+<div class="bth-groups">
+
+  <section class="bth-group">
+    <h2 class="bth-group-h">Free <em>and</em> cool today</h2>
+    <p class="bth-group-sub">Part of Wawa Welcome America — free admission, big air-conditioned galleries, and all on Thursday, July 2. (These have their own pages in this guide.)</p>
+    <div class="bth-grid">
+      <div class="bth-card">
+        <div class="bth-tags"><span class="bth-tag bth-tag-free">Free</span><span class="bth-tag bth-tag-today">Today</span></div>
+        <h3><a href="/event/phl-ncc-jul2/">National Constitution Center</a></h3>
+        <p>Live music, family programs and hands-on activities in a huge, cool atrium — plus the new <em>America's Founding</em> gallery. The single best free, air-conditioned anchor right on Independence Mall.</p>
+        <div class="bth-meta"><span class="bth-where">525 Arch St · Old City</span><span>Open 10 a.m.–5 p.m.</span></div>
+      </div>
+      <div class="bth-card">
+        <div class="bth-tags"><span class="bth-tag bth-tag-free">Free</span><span class="bth-tag bth-tag-today">Today</span></div>
+        <h3><a href="/event/phl-fmd-ica-upenn/">ICA at Penn</a></h3>
+        <p>The Institute of Contemporary Art at Penn — bold, boundary-pushing exhibitions in a sleek, chilled gallery. Free every day, and a Free Museum Day pick for the 4th.</p>
+        <div class="bth-meta"><span class="bth-where">118 S 36th St · University City</span><span>From noon</span></div>
+      </div>
+      <div class="bth-card">
+        <div class="bth-tags"><span class="bth-tag bth-tag-free">Free</span><span class="bth-tag bth-tag-today">Today</span></div>
+        <h3><a href="/event/phl-stenton-jul2/">Stenton</a></h3>
+        <p>A 1730s Georgian mansion opening free for the 250th. Indoor guided tours through cool, shaded historic rooms — a quieter escape away from the crowds.</p>
+        <div class="bth-meta"><span class="bth-where">4601 N 18th St · Logan</span><span>From 10 a.m.</span></div>
+      </div>
+    </div>
+  </section>
+
+  <section class="bth-group">
+    <h2 class="bth-group-h">The blockbuster museums</h2>
+    <p class="bth-group-sub">Big, heavily air-conditioned, and easy to spend a whole afternoon in. All open Thursday — buy timed tickets online first.</p>
+    <div class="bth-grid">
+      <div class="bth-card">
+        <div class="bth-tags"><span class="bth-tag bth-tag-kids">Great for kids</span><span class="bth-tag bth-tag-paid">Ticketed</span></div>
+        <h3><a href="https://www.fi.edu/" target="_blank" rel="noopener">The Franklin Institute</a></h3>
+        <p>Hands-on science across three cool floors — the giant walk-through heart, sports physics, a planetarium and rotating blockbuster exhibits. Hours of AC and easily a half-day.</p>
+        <div class="bth-meta"><span class="bth-where">222 N 20th St · Logan Square</span><span>Open daily 9:30 a.m.–5 p.m.</span></div>
+      </div>
+      <div class="bth-card">
+        <div class="bth-tags"><span class="bth-tag bth-tag-kids">Young kids</span><span class="bth-tag bth-tag-paid">Ticketed</span></div>
+        <h3><a href="https://www.pleasetouchmuseum.org/" target="_blank" rel="noopener">Please Touch Museum</a></h3>
+        <p>An indoor playground for ages 1–7 inside grand, chilled Memorial Hall — a supermarket, river tunnels, a carousel and endless climb-and-play. The go-to AC refuge for families with little ones.</p>
+        <div class="bth-meta"><span class="bth-where">4231 Avenue of the Republic · Fairmount Park</span><span>Open daily</span></div>
+      </div>
+      <div class="bth-card">
+        <div class="bth-tags"><span class="bth-tag bth-tag-kids">Great for kids</span><span class="bth-tag bth-tag-paid">Ticketed</span></div>
+        <h3><a href="https://ansp.org/" target="_blank" rel="noopener">Academy of Natural Sciences</a></h3>
+        <p>Dinosaur skeletons, dioramas of the world's wildlife, and a warm (but the building's cold) live butterfly house. Compact, cool and kid-perfect on the Parkway.</p>
+        <div class="bth-meta"><span class="bth-where">1900 Benjamin Franklin Pkwy</span><span>Open daily 10 a.m.–5 p.m.</span></div>
+      </div>
+      <div class="bth-card">
+        <div class="bth-tags"><span class="bth-tag bth-tag-paid">Ticketed</span></div>
+        <h3><a href="https://philamuseum.org/" target="_blank" rel="noopener">Philadelphia Museum of Art</a></h3>
+        <p>World-class galleries, the armor hall, and yes — the "Rocky steps" (climb those after sunset, not now). Vast and cool inside. Note it closes at 5 on Thursdays.</p>
+        <div class="bth-meta"><span class="bth-where">2600 Benjamin Franklin Pkwy</span><span>Thu 10 a.m.–5 p.m. (late until 8:45 Fri)</span></div>
+      </div>
+      <div class="bth-card">
+        <div class="bth-tags"><span class="bth-tag bth-tag-paid">Ticketed</span></div>
+        <h3><a href="https://www.barnesfoundation.org/" target="_blank" rel="noopener">The Barnes Foundation</a></h3>
+        <p>One of the world's great Impressionist and Post-Impressionist collections — Renoir, Cézanne, Matisse — hung salon-style in dim, quiet, perfectly climate-controlled rooms.</p>
+        <div class="bth-meta"><span class="bth-where">2025 Benjamin Franklin Pkwy</span><span>Open Wed–Mon (closed Tue)</span></div>
+      </div>
+      <div class="bth-card">
+        <div class="bth-tags"><span class="bth-tag bth-tag-paid">Ticketed</span></div>
+        <h3><a href="https://www.penn.museum/" target="_blank" rel="noopener">Penn Museum</a></h3>
+        <p>A monumental Egyptian sphinx, mummies, and antiquities from around the globe, in cool stone galleries on Penn's campus. Underrated and rarely crowded.</p>
+        <div class="bth-meta"><span class="bth-where">3260 South St · University City</span><span>Open Tue–Sun (closed Mon)</span></div>
+      </div>
+    </div>
+  </section>
+
+  <section class="bth-group">
+    <h2 class="bth-group-h">History &amp; the 250th — indoors</h2>
+    <p class="bth-group-sub">Lean into the semiquincentennial without frying on the Mall. Cool galleries, all near Independence Hall.</p>
+    <div class="bth-grid">
+      <div class="bth-card">
+        <div class="bth-tags"><span class="bth-tag bth-tag-paid">Ticketed</span></div>
+        <h3><a href="https://www.amrevmuseum.org/" target="_blank" rel="noopener">Museum of the American Revolution</a></h3>
+        <p>Immersive galleries on the founding, with Washington's actual field tent as the finale. The perfect air-conditioned way to mark the 250th on a brutal day.</p>
+        <div class="bth-meta"><span class="bth-where">101 S 3rd St · Old City</span><span>Open daily 10 a.m.–5 p.m.</span></div>
+      </div>
+      <div class="bth-card">
+        <div class="bth-tags"><span class="bth-tag bth-tag-kids">Great for kids</span><span class="bth-tag bth-tag-paid">Ticketed</span></div>
+        <h3><a href="https://www.phillyseaport.org/" target="_blank" rel="noopener">Independence Seaport Museum</a></h3>
+        <p>Maritime galleries on the Delaware waterfront with historic ships to board. Cool inside, a breeze off the river, and a change of pace from Old City.</p>
+        <div class="bth-meta"><span class="bth-where">211 S Columbus Blvd · Penn's Landing</span><span>Open daily</span></div>
+      </div>
+      <div class="bth-card">
+        <div class="bth-tags"><span class="bth-tag bth-tag-paid">Ticketed</span></div>
+        <h3><a href="https://www.aampmuseum.org/" target="_blank" rel="noopener">African American Museum in Philadelphia</a></h3>
+        <p>The first major museum built by a U.S. city to interpret African American history and culture — powerful, cool galleries a block from the Mall.</p>
+        <div class="bth-meta"><span class="bth-where">701 Arch St · Center City</span><span>Open Thu–Sun</span></div>
+      </div>
+      <div class="bth-card">
+        <div class="bth-tags"><span class="bth-tag bth-tag-paid">Ticketed</span></div>
+        <h3><a href="https://www.weitzmanmuseum.org/" target="_blank" rel="noopener">Weitzman National Museum of American Jewish History</a></h3>
+        <p>The story of Jewish life in America right on Independence Mall — modern, airy, and thoroughly air-conditioned.</p>
+        <div class="bth-meta"><span class="bth-where">101 S Independence Mall E</span><span>Open Wed–Sun</span></div>
+      </div>
+    </div>
+  </section>
+
+  <section class="bth-group">
+    <h2 class="bth-group-h">Quirky, and sometimes free</h2>
+    <p class="bth-group-sub">Smaller, weirder, wonderful — and a couple cost nothing.</p>
+    <div class="bth-grid">
+      <div class="bth-card">
+        <div class="bth-tags"><span class="bth-tag bth-tag-free">Free</span></div>
+        <h3><a href="https://www.wagnerfreeinstitute.org/" target="_blank" rel="noopener">Wagner Free Institute of Science</a></h3>
+        <p>A perfectly preserved Victorian natural-history museum — thousands of specimens in original wooden cases. Always free, delightfully odd, and blissfully cool.</p>
+        <div class="bth-meta"><span class="bth-where">1700 W Montgomery Ave · North Philly</span><span>Free · check hours</span></div>
+      </div>
+      <div class="bth-card">
+        <div class="bth-tags"><span class="bth-tag bth-tag-paid">Ticketed</span></div>
+        <h3><a href="https://muttermuseum.org/" target="_blank" rel="noopener">Mütter Museum</a></h3>
+        <p>Philadelphia's famous museum of medical history and curiosities — not for the squeamish, endlessly fascinating, and cold inside. Book ahead; it's small.</p>
+        <div class="bth-meta"><span class="bth-where">19 S 22nd St · Center City</span><span>Open daily 10 a.m.–5 p.m.</span></div>
+      </div>
+      <div class="bth-card">
+        <div class="bth-tags"><span class="bth-tag bth-tag-free">Free</span></div>
+        <h3><a href="https://libwww.freelibrary.org/locations/parkway-central-library" target="_blank" rel="noopener">Parkway Central Library</a></h3>
+        <p>The grand main branch of the Free Library — free, quiet, air-conditioned, with exhibits and a rooftop café. Libraries double as official cooling centers during the emergency.</p>
+        <div class="bth-meta"><span class="bth-where">1901 Vine St · Logan Square</span><span>Free · cooling center</span></div>
+      </div>
+    </div>
+  </section>
+
+  <section class="bth-group">
+    <h2 class="bth-group-h">Eat, shop &amp; chill</h2>
+    <p class="bth-group-sub">When you just want cold air, a cold drink, and no agenda.</p>
+    <div class="bth-grid">
+      <div class="bth-card">
+        <div class="bth-tags"><span class="bth-tag bth-tag-free">Free to browse</span></div>
+        <h3><a href="https://readingterminalmarket.org/" target="_blank" rel="noopener">Reading Terminal Market</a></h3>
+        <p>100+ vendors under one air-conditioned roof — cheesesteaks, Amish soft pretzels, ice cream, DiNic's roast pork. The classic cool Philly lunch. Go early; it's busy.</p>
+        <div class="bth-meta"><span class="bth-where">51 N 12th St · Center City</span><span>Open daily (~8 a.m.–6 p.m.)</span></div>
+      </div>
+      <div class="bth-card">
+        <div class="bth-tags"><span class="bth-tag bth-tag-suburb">Suburbs</span><span class="bth-tag bth-tag-free">Free to browse</span></div>
+        <h3><a href="https://www.simon.com/mall/king-of-prussia" target="_blank" rel="noopener">King of Prussia Mall</a></h3>
+        <p>One of the largest malls in the country — 450+ stores across two connected buildings, all fully air-conditioned. ~40 min from Center City; endless indoor strolling.</p>
+        <div class="bth-meta"><span class="bth-where">160 N Gulph Rd · King of Prussia</span><span>Open daily</span></div>
+      </div>
+      <div class="bth-card">
+        <div class="bth-tags"><span class="bth-tag bth-tag-kids">Family</span></div>
+        <h3>A matinee movie</h3>
+        <p>Every multiplex is cranked ice-cold. A midday show at AMC, Regal or the Ritz theaters is the cheapest, laziest air-conditioning in the city.</p>
+        <div class="bth-meta"><span class="bth-where">Center City &amp; everywhere</span><span>Cheapest AC in town</span></div>
+      </div>
+      <div class="bth-card">
+        <div class="bth-tags"><span class="bth-tag bth-tag-paid">Ticketed</span></div>
+        <h3>An escape room</h3>
+        <p>Air-conditioned puzzle adventures like Escape the Room Philly and Olde City Escape Games — an hour of cold-air teamwork, perfect for a group riding out the peak heat.</p>
+        <div class="bth-meta"><span class="bth-where">Old City &amp; Center City</span><span>Book a slot ahead</span></div>
+      </div>
+    </div>
+  </section>
+
+</div>
+
+<div class="bth-back">
+  <p>← Back to the <a href="/">July 4th Weekend Guide</a> · See everything on <a href="/day/2026-07-02/">Thursday, July 2</a></p>
+</div>

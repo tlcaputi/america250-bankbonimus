@@ -348,3 +348,16 @@ html { scroll-behavior: smooth; }
   }
   a.a2-card:hover, .a2-daytile:hover, .a2-hl:hover { transform: none; }
 }
+
+/* Extreme-heat banner (July 2–4, 2026) — links to /beat-the-heat/ */
+.a2-heatbanner {
+  display: flex; align-items: center; gap: 0.7rem;
+  max-width: var(--bb-max-width); margin: 1rem auto 0; padding: 0.75rem 1.1rem;
+  background: linear-gradient(120deg, #b5471f, #9e2b25); color: #fff;
+  border-radius: var(--bb-radius-lg); box-shadow: var(--bb-shadow-sm);
+  text-decoration: none; line-height: 1.4;
+}
+.a2-heatbanner:hover { filter: brightness(1.06); }
+.a2-heatbanner-emoji { font-size: 1.5rem; }
+.a2-heatbanner-text { font-size: 0.95rem; }
+.a2-heatbanner-text strong { color: #ffe0a3; }

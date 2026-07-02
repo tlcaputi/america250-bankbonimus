@@ -24,6 +24,14 @@ day_map: true
       <span class="a2-day-count">{{ day_events.size }} event{% if day_events.size != 1 %}s{% endif %}</span>
     </header>
 
+    {% assign heat_days = "2026-07-01,2026-07-02,2026-07-03,2026-07-04" | split: "," %}
+    {% if heat_days contains page.eday %}
+    <a class="a2-heatbanner" href="/beat-the-heat/">
+      <span class="a2-heatbanner-emoji" aria-hidden="true">🥵</span>
+      <span class="a2-heatbanner-text"><strong>Extreme heat (~103°F) &amp; a Heat Health Emergency.</strong> Beat it with air-conditioned, indoor things to do →</span>
+    </a>
+    {% endif %}
+
     {% if day_events.size > 0 %}
     <div id="a2-day-map" class="a2-map a2-day-pagemap"></div>
 
