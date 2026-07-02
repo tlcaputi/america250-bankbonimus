@@ -5,8 +5,8 @@ title: Upper Dublin Celebrates 250 Years of Independence — Library
 region: bucks
 category: family
 eday: '2026-07-03'
-start: 660
-end: 720
+start: '11:00'
+end: '12:00'
 all_day: false
 time_note: ''
 venue: Upper Dublin Public Library

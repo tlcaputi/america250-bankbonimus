@@ -5,8 +5,8 @@ title: Perth Amboy 'Celebrate Our Stars & Stripes' Drone & Fireworks Show
 region: nj
 category: fireworks
 eday: '2026-07-02'
-start: 900
-end: 1320
+start: '15:00'
+end: '22:00'
 all_day: false
 time_note: Festival 3–9 pm; drone show ~9:15 pm; fireworks ~9:30 pm. Rain date July
   3.

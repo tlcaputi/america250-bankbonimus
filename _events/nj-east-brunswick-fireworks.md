@@ -5,7 +5,7 @@ title: East Brunswick Independence Day Fireworks
 region: nj
 category: fireworks
 eday: '2026-07-04'
-start: 1080
+start: '18:00'
 end: ''
 all_day: false
 time_note: Rain date Sunday, July 5.

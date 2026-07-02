@@ -5,8 +5,8 @@ title: Wawa Welcome America Free Museum Day — ICA (University of Pennsylvania)
 region: philadelphia
 category: exhibit
 eday: '2026-07-02'
-start: 720
-end: 1080
+start: '12:00'
+end: '18:00'
 all_day: false
 time_note: ''
 venue: Institute of Contemporary Art, University of Pennsylvania

@@ -5,8 +5,8 @@ title: Wawa Welcome America Free Museum Day — Fireman's Hall Museum
 region: philadelphia
 category: exhibit
 eday: '2026-07-03'
-start: 600
-end: 900
+start: '10:00'
+end: '15:00'
 all_day: false
 time_note: ''
 venue: Fireman's Hall Museum

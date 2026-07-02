@@ -5,8 +5,8 @@ title: Woodbridge (Sewaren) Independence Day Celebration & Fireworks
 region: nj
 category: fireworks
 eday: '2026-07-02'
-start: 960
-end: 1320
+start: '16:00'
+end: '22:00'
 all_day: false
 time_note: 4–10 pm; rain date July 3.
 venue: Alvin P. Williams Memorial Park

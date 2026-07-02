@@ -5,8 +5,8 @@ title: Franklin Township Independence Day Celebration & Fireworks
 region: nj
 category: fireworks
 eday: '2026-07-02'
-start: 1080
-end: 1290
+start: '18:00'
+end: '21:30'
 all_day: false
 time_note: Fireworks at 9:15 pm; rain date July 10.
 venue: Franklin Township Municipal Complex

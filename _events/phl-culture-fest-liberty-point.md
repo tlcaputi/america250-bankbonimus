@@ -5,8 +5,8 @@ title: Culture Fest at Liberty Point — 'AfroStreet'
 region: philadelphia
 category: festival
 eday: '2026-07-05'
-start: 900
-end: 1200
+start: '15:00'
+end: '20:00'
 all_day: false
 time_note: ''
 venue: Liberty Point (Penn's Landing)

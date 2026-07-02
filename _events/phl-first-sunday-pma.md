@@ -5,8 +5,8 @@ title: First Sunday Family Festival — Philadelphia Museum of Art
 region: philadelphia
 category: family
 eday: '2026-07-05'
-start: 600
-end: 900
+start: '10:00'
+end: '15:00'
 all_day: false
 time_note: Pay-what-you-wish admission
 venue: Philadelphia Museum of Art

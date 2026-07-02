@@ -5,8 +5,8 @@ title: 72nd Annual St. Michael's Fair — Levittown
 region: bucks
 category: fair
 eday: '2026-07-04'
-start: 1080
-end: 1320
+start: '18:00'
+end: '22:00'
 all_day: false
 time_note: Fair runs nightly July 2–12, 2026, from 6pm
 venue: St. Michael the Archangel Catholic Church grounds

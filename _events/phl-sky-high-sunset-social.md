@@ -5,8 +5,8 @@ title: Sky High 4th of July — Sunset Social Rooftop
 region: philadelphia
 category: food
 eday: '2026-07-04'
-start: 840
-end: 1320
+start: '14:00'
+end: '22:00'
 all_day: false
 time_note: ''
 venue: Sunset Social (Cira Green rooftop)

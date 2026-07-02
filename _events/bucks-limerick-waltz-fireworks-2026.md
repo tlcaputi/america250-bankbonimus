@@ -5,8 +5,8 @@ title: Limerick 4th of July Fireworks at Waltz Golf Farm
 region: bucks
 category: fireworks
 eday: '2026-07-04'
-start: 1080
-end: 1305
+start: '18:00'
+end: '21:45'
 all_day: false
 time_note: Celebration from 6pm; fireworks around 9:45pm (dusk)
 venue: Waltz Golf Farm

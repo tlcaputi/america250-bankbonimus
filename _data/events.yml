@@ -2768,8 +2768,8 @@
   region: bucks
   category: family
   date: '2026-07-04'
-  start: 08:00
-  end: 11:00
+  start: "08:00"
+  end: "11:00"
   all_day: false
   time_note: 1-mile Fun Run 8:00am; certified 5K 8:15am; certified 10K 8:45am; packet pickup/registration from 6:30am
   venue: Washington Crossing Historic Park (main event field, near the flagpole)
@@ -2788,8 +2788,8 @@
   region: bucks
   category: family
   date: '2026-07-04'
-  start: 08:30
-  end: 16:30
+  start: "08:30"
+  end: "16:30"
   all_day: false
   time_note: Races start 8:30am; Fayette Street closed 3rd–10th Ave, 6am–7pm
   venue: Fayette Street (8th Avenue to 4th Avenue)
@@ -2808,8 +2808,8 @@
   region: bucks
   category: fireworks
   date: '2026-07-04'
-  start: 18:00
-  end: 21:45
+  start: "18:00"
+  end: "21:45"
   all_day: false
   time_note: Celebration from 6pm; fireworks around 9:45pm (dusk)
   venue: Waltz Golf Farm
@@ -2828,8 +2828,8 @@
   region: bucks
   category: fireworks
   date: '2026-07-03'
-  start: ''
-  end: ''
+  start: ""
+  end: ""
   all_day: false
   time_note: At dusk; rain date unconfirmed
   venue: Cegielkowski Park
@@ -2848,8 +2848,8 @@
   region: bucks
   category: ceremony
   date: '2026-07-04'
-  start: 10:30
-  end: ''
+  start: "10:30"
+  end: ""
   all_day: false
   time_note: ''
   venue: In front of the Sellersville Museum
@@ -2868,8 +2868,8 @@
   region: bucks
   category: family
   date: '2026-07-03'
-  start: 11:00
-  end: 12:00
+  start: "11:00"
+  end: "12:00"
   all_day: false
   time_note: ''
   venue: Upper Dublin Public Library
@@ -2888,8 +2888,8 @@
   region: bucks
   category: fair
   date: '2026-07-04'
-  start: 18:00
-  end: 22:00
+  start: "18:00"
+  end: "22:00"
   all_day: false
   time_note: Fair runs nightly July 2–12, 2026, from 6pm
   venue: St. Michael the Archangel Catholic Church grounds
@@ -2908,8 +2908,8 @@
   region: nj
   category: fair
   date: '2026-07-04'
-  start: 15:00
-  end: 23:00
+  start: "15:00"
+  end: "23:00"
   all_day: false
   time_note: Fair runs June 26–July 5 (weekdays 5pm, weekends 3pm to ~10–11pm); grand-finale fireworks & drone show on July 4, additional fireworks July 5.
   venue: Mercer County Park Festival Grounds
@@ -2928,8 +2928,8 @@
   region: nj
   category: festival
   date: '2026-07-05'
-  start: ''
-  end: ''
+  start: ""
+  end: ""
   all_day: false
   time_note: Daytime-into-evening; exact times unconfirmed.
   venue: White Oak Park
@@ -2948,8 +2948,8 @@
   region: nj
   category: fireworks
   date: '2026-07-02'
-  start: 18:00
-  end: 21:30
+  start: "18:00"
+  end: "21:30"
   all_day: false
   time_note: Fireworks at 9:15 pm; rain date July 10.
   venue: Franklin Township Municipal Complex
@@ -2968,8 +2968,8 @@
   region: nj
   category: family
   date: '2026-07-04'
-  start: 11:00
-  end: ''
+  start: "11:00"
+  end: ""
   all_day: false
   time_note: ''
   venue: Watchung Lake
@@ -2988,8 +2988,8 @@
   region: nj
   category: fireworks
   date: '2026-07-04'
-  start: 18:00
-  end: ''
+  start: "18:00"
+  end: ""
   all_day: false
   time_note: Rain date Sunday, July 5.
   venue: East Brunswick Community Arts Center
@@ -3008,8 +3008,8 @@
   region: nj
   category: fireworks
   date: '2026-07-02'
-  start: 15:00
-  end: 22:00
+  start: "15:00"
+  end: "22:00"
   all_day: false
   time_note: Festival 3–9 pm; drone show ~9:15 pm; fireworks ~9:30 pm. Rain date July 3.
   venue: Raritan Bay Waterfront / Sadowski Parkway
@@ -3028,8 +3028,8 @@
   region: nj
   category: fireworks
   date: '2026-07-02'
-  start: 16:00
-  end: 22:00
+  start: "16:00"
+  end: "22:00"
   all_day: false
   time_note: 4–10 pm; rain date July 3.
   venue: Alvin P. Williams Memorial Park
@@ -3048,8 +3048,8 @@
   region: nj
   category: parade
   date: '2026-07-04'
-  start: ''
-  end: ''
+  start: ""
+  end: ""
   all_day: true
   time_note: Day-long celebration; individual event start times unconfirmed.
   venue: Main Street & throughout Milltown
@@ -3068,8 +3068,8 @@
   region: philadelphia
   category: family
   date: '2026-07-02'
-  start: 17:00
-  end: 21:00
+  start: "17:00"
+  end: "21:00"
   all_day: false
   time_note: ''
   venue: Independence Mall
@@ -3088,8 +3088,8 @@
   region: philadelphia
   category: exhibit
   date: '2026-07-02'
-  start: 12:00
-  end: 18:00
+  start: "12:00"
+  end: "18:00"
   all_day: false
   time_note: ''
   venue: Institute of Contemporary Art, University of Pennsylvania
@@ -3108,8 +3108,8 @@
   region: philadelphia
   category: exhibit
   date: '2026-07-03'
-  start: 10:00
-  end: 15:00
+  start: "10:00"
+  end: "15:00"
   all_day: false
   time_note: ''
   venue: Fireman's Hall Museum
@@ -3128,8 +3128,8 @@
   region: philadelphia
   category: exhibit
   date: '2026-07-03'
-  start: ''
-  end: ''
+  start: ""
+  end: ""
   all_day: false
   time_note: Hours unconfirmed (listed within a 10 a.m.–5 p.m. Free Museum Day window)
   venue: Historic St. George's Museum
@@ -3148,8 +3148,8 @@
   region: philadelphia
   category: exhibit
   date: '2026-07-04'
-  start: 10:00
-  end: 14:00
+  start: "10:00"
+  end: "14:00"
   all_day: false
   time_note: ''
   venue: Historical Society of Pennsylvania
@@ -3168,8 +3168,8 @@
   region: philadelphia
   category: ceremony
   date: '2026-07-04'
-  start: 11:00
-  end: 13:00
+  start: "11:00"
+  end: "13:00"
   all_day: false
   time_note: ''
   venue: First Bank of the United States
@@ -3188,8 +3188,8 @@
   region: philadelphia
   category: family
   date: '2026-07-04'
-  start: 12:00
-  end: 15:00
+  start: "12:00"
+  end: "15:00"
   all_day: false
   time_note: ''
   venue: Independence Visitor Center
@@ -3208,8 +3208,8 @@
   region: philadelphia
   category: family
   date: '2026-07-05'
-  start: 10:00
-  end: 15:00
+  start: "10:00"
+  end: "15:00"
   all_day: false
   time_note: Pay-what-you-wish admission
   venue: Philadelphia Museum of Art
@@ -3228,8 +3228,8 @@
   region: philadelphia
   category: festival
   date: '2026-07-05'
-  start: 15:00
-  end: 20:00
+  start: "15:00"
+  end: "20:00"
   all_day: false
   time_note: ''
   venue: Liberty Point (Penn's Landing)
@@ -3248,8 +3248,8 @@
   region: philadelphia
   category: other
   date: '2026-07-03'
-  start: 20:00
-  end: ''
+  start: "20:00"
+  end: ""
   all_day: false
   time_note: ''
   venue: Xfinity Mobile Arena
@@ -3268,8 +3268,8 @@
   region: philadelphia
   category: food
   date: '2026-07-04'
-  start: 14:00
-  end: 22:00
+  start: "14:00"
+  end: "22:00"
   all_day: false
   time_note: ''
   venue: Sunset Social (Cira Green rooftop)

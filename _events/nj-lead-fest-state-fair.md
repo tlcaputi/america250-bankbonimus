@@ -5,8 +5,8 @@ title: L.E.A.D. Fest State Fair — July 4 Drone Show
 region: nj
 category: fair
 eday: '2026-07-04'
-start: 900
-end: 1380
+start: '15:00'
+end: '23:00'
 all_day: false
 time_note: Fair runs June 26–July 5 (weekdays 5pm, weekends 3pm to ~10–11pm); grand-finale
   fireworks & drone show on July 4, additional fireworks July 5.

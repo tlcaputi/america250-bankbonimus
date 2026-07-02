@@ -5,8 +5,8 @@ title: Float Fest — Parade Float Sneak Peek
 region: philadelphia
 category: family
 eday: '2026-07-02'
-start: 1020
-end: 1260
+start: '17:00'
+end: '21:00'
 all_day: false
 time_note: ''
 venue: Independence Mall

@@ -5,7 +5,7 @@ title: Watchung Patriot Walk
 region: nj
 category: family
 eday: '2026-07-04'
-start: 660
+start: '11:00'
 end: ''
 all_day: false
 time_note: ''

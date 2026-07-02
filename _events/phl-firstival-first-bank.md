@@ -5,8 +5,8 @@ title: '''52 Weeks of Firsts'' Firstival — First Bank of the United States'
 region: philadelphia
 category: ceremony
 eday: '2026-07-04'
-start: 660
-end: 780
+start: '11:00'
+end: '13:00'
 all_day: false
 time_note: ''
 venue: First Bank of the United States

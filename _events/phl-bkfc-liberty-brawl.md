@@ -5,7 +5,7 @@ title: 'Bare Knuckle Fighting Championship: Liberty Brawl'
 region: philadelphia
 category: other
 eday: '2026-07-03'
-start: 1200
+start: '20:00'
 end: ''
 all_day: false
 time_note: ''

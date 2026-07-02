@@ -5,7 +5,7 @@ title: Sellersville 'Let Freedom Ring' National Bell Ringing Ceremony
 region: bucks
 category: ceremony
 eday: '2026-07-04'
-start: 630
+start: '10:30'
 end: ''
 all_day: false
 time_note: ''

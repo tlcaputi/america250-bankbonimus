@@ -6,7 +6,7 @@ region: bucks
 category: family
 eday: '2026-07-04'
 start: 08:30
-end: 990
+end: '16:30'
 all_day: false
 time_note: Races start 8:30am; Fayette Street closed 3rd–10th Ave, 6am–7pm
 venue: Fayette Street (8th Avenue to 4th Avenue)

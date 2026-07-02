@@ -5,8 +5,8 @@ title: Wawa Welcome America Free Museum Day — Historical Society of Pennsylvan
 region: philadelphia
 category: exhibit
 eday: '2026-07-04'
-start: 600
-end: 840
+start: '10:00'
+end: '14:00'
 all_day: false
 time_note: ''
 venue: Historical Society of Pennsylvania

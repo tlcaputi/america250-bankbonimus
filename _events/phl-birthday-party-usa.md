@@ -5,8 +5,8 @@ title: Birthday Party in the USA — Independence Visitor Center
 region: philadelphia
 category: family
 eday: '2026-07-04'
-start: 720
-end: 900
+start: '12:00'
+end: '15:00'
 all_day: false
 time_note: ''
 venue: Independence Visitor Center
