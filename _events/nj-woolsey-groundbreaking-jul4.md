@@ -5,7 +5,7 @@ title: Woolsey Park Pavilion Groundbreaking Ceremony
 region: nj
 category: ceremony
 eday: '2026-07-04'
-start: 09:30
+start: '09:30'
 end: ''
 all_day: false
 time_note: ''

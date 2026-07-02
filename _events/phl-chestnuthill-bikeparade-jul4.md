@@ -5,7 +5,7 @@ title: Chestnut Hill Fourth of July Bike Parade + 'Wheels in the Window'
 region: philadelphia
 category: parade
 eday: '2026-07-04'
-start: 09:00
+start: '09:00'
 end: ''
 all_day: false
 time_note: 9am (confirmed)

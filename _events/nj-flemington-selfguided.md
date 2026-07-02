@@ -5,7 +5,7 @@ title: Self-Guided Walking Tour of Historic Flemington Borough
 region: nj
 category: tour
 eday: '2026-06-28'
-start: 08:00
+start: '08:00'
 end: '17:00'
 all_day: false
 time_note: Self-paced; runs daily across the window

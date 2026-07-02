@@ -5,7 +5,7 @@ title: America's Time Capsule Dedication & Burial
 region: philadelphia
 category: ceremony
 eday: '2026-07-04'
-start: 08:30
+start: '08:30'
 end: ''
 time_note: 8:30 AM EDT (confirmed)
 venue: Independence National Historical Park (near Independence Hall)

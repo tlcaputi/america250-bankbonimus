@@ -5,7 +5,7 @@ title: Tri-Municipal 4th of July Parade (America's 250th)
 region: bucks
 category: parade
 eday: '2026-07-04'
-start: 09:30
+start: '09:30'
 end: '11:00'
 time_note: Parade 9:30am from Town Center (New Britain) to North Branch Park
 venue: Chalfont / New Britain → North Branch Park

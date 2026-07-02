@@ -5,7 +5,7 @@ title: July 4th Continental Lane Hike — Washington Crossing State Park (NJ)
 region: nj
 category: tour
 eday: '2026-07-04'
-start: 09:00
+start: '09:00'
 end: '10:30'
 all_day: false
 time_note: ''

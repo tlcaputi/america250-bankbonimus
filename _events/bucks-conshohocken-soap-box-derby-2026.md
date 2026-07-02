@@ -5,7 +5,7 @@ title: Conshohocken 75th Annual Fourth of July Soap Box Derby
 region: bucks
 category: family
 eday: '2026-07-04'
-start: 08:30
+start: '08:30'
 end: '16:30'
 all_day: false
 time_note: Races start 8:30am; Fayette Street closed 3rd–10th Ave, 6am–7pm

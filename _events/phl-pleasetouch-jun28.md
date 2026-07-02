@@ -5,7 +5,7 @@ title: Free Community Day 'Ready-Set-School' — Please Touch Museum
 region: philadelphia
 category: family
 eday: '2026-06-28'
-start: 09:00
+start: '09:00'
 end: '16:30'
 all_day: false
 time_note: Registration required

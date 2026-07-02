@@ -5,7 +5,7 @@ title: Retreat to Valley Forge — 50/250 Celebration (Day 3)
 region: bucks
 category: reenactment
 eday: '2026-07-05'
-start: 09:00
+start: '09:00'
 end: '17:00'
 time_note: Closing remarks 12:45pm; final musket demo 1pm; outdoor programs end 1pm
 venue: Valley Forge National Historical Park

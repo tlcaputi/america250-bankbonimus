@@ -5,7 +5,7 @@ title: Retreat to Valley Forge — 50/250 Celebration (Day 1)
 region: bucks
 category: reenactment
 eday: '2026-07-03'
-start: 09:00
+start: '09:00'
 end: '12:00'
 time_note: Outdoor programs end 12 noon; shuttles every 20 min (first 9:20am, last
   from visitor center 4pm)

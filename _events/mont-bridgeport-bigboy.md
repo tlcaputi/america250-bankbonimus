@@ -5,7 +5,7 @@ title: Bridgeport America 250 — 'Big Boy' Steam Train + Declaration Reading
 region: bucks
 category: ceremony
 eday: '2026-07-03'
-start: 09:00
+start: '09:00'
 end: ''
 time_note: Train ~9–9:15am; arrive early
 venue: Bridgeport train station area

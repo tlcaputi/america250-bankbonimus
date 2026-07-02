@@ -5,7 +5,7 @@ title: Houses of Declaration — New Goschenhoppen Park (+ fireworks)
 region: bucks
 category: festival
 eday: '2026-07-04'
-start: 09:00
+start: '09:00'
 end: '21:30'
 time_note: Declaration reading 6:30pm (German & English); fireworks after
 venue: New Goschenhoppen Park

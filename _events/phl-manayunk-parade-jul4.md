@@ -5,7 +5,7 @@ title: Independence Day Parade of Churches and Sunday Schools (Manayunk/Roxborou
 region: philadelphia
 category: parade
 eday: '2026-07-04'
-start: 09:00
+start: '09:00'
 end: ''
 all_day: false
 time_note: 9am sharp; then church picnics

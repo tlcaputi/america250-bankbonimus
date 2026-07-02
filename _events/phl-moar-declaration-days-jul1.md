@@ -5,7 +5,7 @@ title: Declaration Days at the Museum — Museum of the American Revolution
 region: philadelphia
 category: family
 eday: '2026-07-01'
-start: 09:30
+start: '09:30'
 end: '18:00'
 all_day: false
 time_note: Daily through Jul 5; per-session times unconfirmed

@@ -5,7 +5,7 @@ title: Quakertown Community Day & Fireworks
 region: bucks
 category: fair
 eday: '2026-07-04'
-start: 08:00
+start: '08:00'
 end: '22:00'
 time_note: Pancake breakfast 8am; fireworks 9:30pm
 venue: Memorial Park

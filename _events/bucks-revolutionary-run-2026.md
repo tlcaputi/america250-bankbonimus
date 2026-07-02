@@ -5,7 +5,7 @@ title: 44th Annual Revolutionary Run (RevRun) — Washington Crossing
 region: bucks
 category: family
 eday: '2026-07-04'
-start: 08:00
+start: '08:00'
 end: '11:00'
 all_day: false
 time_note: 1-mile Fun Run 8:00am; certified 5K 8:15am; certified 10K 8:45am; packet

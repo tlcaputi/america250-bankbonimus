@@ -5,7 +5,7 @@ title: Retreat to Valley Forge — 50/250 Celebration (July 4)
 region: bucks
 category: reenactment
 eday: '2026-07-04'
-start: 09:00
+start: '09:00'
 end: '13:00'
 time_note: Declaration readings 10am & 12:30pm (Maurice Stephens House); outdoor programs
   end 1pm; shuttle every 10 min

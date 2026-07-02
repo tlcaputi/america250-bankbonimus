@@ -5,7 +5,7 @@ title: Fourth of July Weekend at the Museum of the American Revolution
 region: philadelphia
 category: exhibit
 eday: '2026-07-04'
-start: 09:30
+start: '09:30'
 end: '18:00'
 time_note: Extended hours Jul 1–4; plaza musician 1–3pm (free)
 venue: Museum of the American Revolution

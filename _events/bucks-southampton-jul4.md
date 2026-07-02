@@ -5,7 +5,7 @@ title: Southampton Days Country Fair — July 4th (parade + fireworks)
 region: bucks
 category: fair
 eday: '2026-07-04'
-start: 09:00
+start: '09:00'
 end: '22:30'
 time_note: Parade 9:30am; fireworks 9:35pm
 venue: Tamanend Park

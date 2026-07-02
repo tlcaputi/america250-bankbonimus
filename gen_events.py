@@ -14,6 +14,22 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 SRC = os.path.join(HERE, "_data", "events.yml")
 OUT = os.path.join(HERE, "_events")
 
+
+# Force time-like strings (e.g. "07:00") to be single-quoted in the emitted
+# front matter. PyYAML leaves a leading-zero time like 07:00 unquoted (it does
+# not match PyYAML's sexagesimal-int pattern), but Ruby/Psych — the parser GH
+# Pages uses — DOES read 07:00 as a base-60 number, so the layout's time filter
+# then renders it as "12:00 AM". Quoting keeps it an unambiguous string.
+class _Quoted(str):
+    pass
+
+
+def _quoted_representer(dumper, data):
+    return dumper.represent_scalar("tag:yaml.org,2002:str", str(data), style="'")
+
+
+yaml.SafeDumper.add_representer(_Quoted, _quoted_representer)
+
 # front-matter keys (everything except the free-text description, which becomes the body).
 # NOTE: we deliberately do NOT use a `date:` key — Jekyll auto-parses `date` on
 # collection docs into a Time object, which breaks string `where:` matching.
@@ -55,6 +71,10 @@ def main():
         # defaults
         fm.setdefault("all_day", False)
         fm.setdefault("featured", False)
+        # keep time strings quoted so Ruby doesn't parse "07:00" as base-60
+        for tk in ("start", "end"):
+            if isinstance(fm.get(tk), str) and fm[tk]:
+                fm[tk] = _Quoted(fm[tk])
 
         body = (e.get("description") or "").strip()
         front = yaml.safe_dump(fm, sort_keys=False, allow_unicode=True, default_flow_style=False)
