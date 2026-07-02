@@ -5,10 +5,10 @@ title: North Wales Borough 250 — Parade, Declaration Reading & Picnic
 region: bucks
 category: parade
 eday: '2026-07-04'
-start: ''
+start: '11:00'
 end: ''
 all_day: false
-time_note: 2026 start time unconfirmed
+time_note: Parade 11am from Main & Elm to Weingartner Park
 venue: Main Street parade → Weingartner Park
 address: 200 Summit Street, North Wales, PA 19454
 town: North Wales, PA (Montgomery Co.)

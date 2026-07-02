@@ -5,7 +5,7 @@ title: Salute to Service Concert — U.S. Army Field Band, with Queen Latifah
 region: philadelphia
 category: concert
 eday: '2026-07-02'
-start: '19:00'
+start: '20:00'
 end: '21:00'
 time_note: ''
 venue: Independence Mall (near the Visitor Center)

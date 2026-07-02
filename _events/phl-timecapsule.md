@@ -7,7 +7,7 @@ category: ceremony
 eday: '2026-07-04'
 start: 08:30
 end: ''
-time_note: Time approx — confirm
+time_note: 8:30 AM EDT (confirmed)
 venue: Independence National Historical Park (near Independence Hall)
 address: Chestnut Street between 5th & 6th, Philadelphia, PA 19106
 town: Old City, Philadelphia

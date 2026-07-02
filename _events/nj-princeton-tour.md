@@ -7,14 +7,14 @@ category: tour
 eday: '2026-07-05'
 start: '14:00'
 end: '16:00'
-time_note: Limited to 25; register
+time_note: SOLD OUT (limited to 25)
 venue: Princeton Battle Monument (start)
 address: 1 Monument Drive, Princeton, NJ 08540
 town: Princeton, NJ
 lat: 40.353
 lng: -74.662
 cost: $25
-ext_url: https://princetonhistory.org/events/america250-walking-tour/
+ext_url: https://princetonhistory.org/events/america250-walking-tour-2/
 source: https://princetonhistory.org/events/america250-walking-tour-2/
 org: Historical Society of Princeton
 featured: false

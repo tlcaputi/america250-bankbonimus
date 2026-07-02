@@ -6,8 +6,9 @@ region: bucks
 category: reenactment
 eday: '2026-07-04'
 start: 09:00
-end: '17:00'
-time_note: Declaration readings 10am, 12:30pm, 3pm; shuttle every 10 min
+end: '13:00'
+time_note: Declaration readings 10am & 12:30pm (Maurice Stephens House); outdoor programs
+  end 1pm; shuttle every 10 min
 venue: Valley Forge National Historical Park
 address: 1400 North Outer Line Drive, King of Prussia, PA 19406
 town: King of Prussia, PA (Montgomery Co.)

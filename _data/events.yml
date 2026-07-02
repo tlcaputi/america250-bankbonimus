@@ -17,7 +17,7 @@
   date: "2026-07-02"
   start: "07:00"
   end: "21:00"
-  time_note: "Daylong; drone show 9pm"
+  time_note: "Daylong; drone show 10pm"
   venue: "Independence Mall & the Historic District"
   address: "5th & Arch Streets, Philadelphia, PA 19106"
   town: "Old City, Philadelphia"
@@ -53,7 +53,7 @@
   region: philadelphia
   category: concert
   date: "2026-07-02"
-  start: "19:00"
+  start: "20:00"
   end: "21:00"
   time_note: ""
   venue: "Independence Mall (near the Visitor Center)"
@@ -72,8 +72,8 @@
   region: philadelphia
   category: festival
   date: "2026-07-02"
-  start: "21:00"
-  end: "21:20"
+  start: "22:00"
+  end: "22:13"
   time_note: "New for 2026"
   venue: "Independence Mall"
   address: "5th & Market Streets, Philadelphia, PA 19106"
@@ -143,7 +143,7 @@
   lng: -74.7607
   cost: "$35"
   description: "A ~1-hour workshop presentation of a new musical reimagining Washington's crossing of the Delaware, spotlighting diverse voices of the Continental Army. Co-produced by Passage Theatre and TenCrucialDays.org."
-  url: "https://www.tickettailor.com/events/tencrucialdaysorg/2244456"
+  url: "https://thecrossingmusical.com/events"
   source: "https://princetonol.com/announcement/princeton-250th-celebration-events"
   org: "Passage Theatre & TenCrucialDays.org"
   featured: false
@@ -175,8 +175,8 @@
   region: philadelphia
   category: parade
   date: "2026-07-03"
-  start: "11:00"
-  end: "13:30"
+  start: "12:00"
+  end: "16:00"
   time_note: "Note: this is JULY 3, not the 4th"
   venue: "5th & Chestnut → Parkway → Broad & Chestnut"
   address: "5th & Chestnut Streets, Philadelphia, PA 19106"
@@ -194,7 +194,7 @@
   region: philadelphia
   category: concert
   date: "2026-07-03"
-  start: "19:00"
+  start: "20:00"
   end: "21:00"
   time_note: "Gates ~5pm"
   venue: "Independence Mall"
@@ -257,7 +257,7 @@
   date: "2026-07-03"
   start: "13:00"
   end: "21:30"
-  time_note: "Fireworks + drone show 9pm"
+  time_note: "Fireworks + drone show ~9:30pm"
   venue: "Stella Promenade & the Delaware River (New Hope ↔ Lambertville)"
   address: "Main Street riverfront, New Hope, PA 18938"
   town: "New Hope, PA / Lambertville, NJ"
@@ -345,7 +345,7 @@
   lng: -74.7607
   cost: "$35"
   description: "Second presentation of the new musical about Washington's crossing of the Delaware."
-  url: "https://www.tickettailor.com/events/tencrucialdaysorg/2244456"
+  url: "https://thecrossingmusical.com/events"
   source: "https://princetonol.com/announcement/princeton-250th-celebration-events"
   org: "Passage Theatre & TenCrucialDays.org"
   featured: false
@@ -376,13 +376,13 @@
   start: ""
   end: ""
   time_note: "Times unconfirmed — verify locally"
-  venue: "Etra Lake Park · TCNJ Green Lane Fields · North Branch Park"
+  venue: "Etra Lake Park (East Windsor) · TCNJ Green Lane Fields (Ewing)"
   address: "Etra Lake Park, East Windsor, NJ 08520"
   town: "Mercer & Somerset Counties, NJ"
   lat: 40.2640
   lng: -74.5260
   cost: "Free"
-  description: "Several central-NJ community fireworks on July 3: Etra Lake Park (East Windsor), The College of NJ / Green Lane Fields (Ewing), and North Branch Park (Bridgewater/Franklin Park). Times not yet posted — confirm with the municipality."
+  description: "Two central-NJ community fireworks on July 3: Etra Lake Park (East Windsor) and The College of NJ / Green Lane Fields (Ewing). Times not yet posted — confirm with the municipality. (North Branch Park in Bridgewater postponed its show to Fri July 10 due to heat.)"
   url: "https://nj1015.com/nj-fourth-july-fireworks-2026/"
   source: "https://nj1015.com/nj-fourth-july-fireworks-2026/"
   org: "Local municipalities"
@@ -398,7 +398,7 @@
   date: "2026-07-04"
   start: "08:30"
   end: ""
-  time_note: "Time approx — confirm"
+  time_note: "8:30 AM EDT (confirmed)"
   venue: "Independence National Historical Park (near Independence Hall)"
   address: "Chestnut Street between 5th & 6th, Philadelphia, PA 19106"
   town: "Old City, Philadelphia"
@@ -473,7 +473,7 @@
   category: exhibit
   date: "2026-07-04"
   start: "09:30"
-  end: "19:00"
+  end: "18:00"
   time_note: "Extended hours Jul 1–4; plaza musician 1–3pm (free)"
   venue: "Museum of the American Revolution"
   address: "101 S. 3rd Street, Philadelphia, PA 19106"
@@ -481,7 +481,7 @@
   lat: 39.9486
   lng: -75.1452
   cost: "Ticketed (plaza musician free)"
-  description: "Extended hours and holiday programming, plus the headline exhibits 'The Declaration's Journey' and 'Black Founders: The Forten Family of Philadelphia.' A Revolutionary musician plays the outdoor plaza daily 1–3pm (free)."
+  description: "Extended hours and holiday programming, plus the headline exhibits 'The Declaration's Journey' and 'Black Founders: The Forten Family of Philadelphia.'"
   url: "https://www.amrevmuseum.org/events/fourth-of-july-weekend-at-the-museum"
   source: "https://www.visitphilly.com/features/july-fourth-on-americas-250th/"
   org: "Museum of the American Revolution"
@@ -510,8 +510,8 @@
   region: philadelphia
   category: fireworks
   date: "2026-07-04"
-  start: ""
-  end: ""
+  start: "17:00"
+  end: "21:30"
   time_note: "Fireworks at dusk"
   venue: "Pleasant Hill Park (NE Philadelphia)"
   address: "9100 N. Delaware Avenue, Philadelphia, PA 19114"
@@ -586,7 +586,7 @@
   org: "Friends of Washington Crossing Park"
   featured: true
 - id: bucks-fonthill-jul4
-  title: "Fonthill Castle 4th of July"
+  title: "CANCELED: Fonthill Castle 4th of July"
   region: bucks
   category: family
   date: "2026-07-04"
@@ -599,7 +599,7 @@
   lat: 40.3050
   lng: -75.1190
   cost: "$3–$7"
-  description: "Old-fashioned 4th of July on the castle grounds: a decorated children's bicycle parade, field games and sack races, face painting, antique bicycle demos, a Revolutionary War headquarters exhibit, a castle open house, and live music."
+  description: "CANCELED due to the extreme-heat forecast — Fonthill Castle is closed July 3–4 and refunds are being issued. Alternative: the Mercer Museum is open July 4, 10am–5pm, with family crafts and activities. Old-fashioned 4th of July on the castle grounds: a decorated children's bicycle parade, field games and sack races, face painting, antique bicycle demos, a Revolutionary War headquarters exhibit, a castle open house, and live music."
   url: "https://www.mercermuseum.org/july4"
   source: "https://www.mercermuseum.org/july4"
   org: "Mercer Museum & Fonthill Castle"
@@ -610,7 +610,7 @@
   category: festival
   date: "2026-07-04"
   start: "11:00"
-  end: "18:00"
+  end: "15:00"
   time_note: ""
   venue: "Peddler's Village"
   address: "100 Peddlers Village, Lahaska, PA 18931"
@@ -618,7 +618,7 @@
   lat: 40.3430
   lng: -75.0150
   cost: "Free (pay-as-you-go food)"
-  description: "All-American BBQ, patriotic music and old-fashioned games: a Stars & Stripes Strut costume contest, watermelon-eating contests, lawn games, axe throwing, a DJ and the Galena Brass Band."
+  description: "All-American BBQ, patriotic music and old-fashioned games: a Stars & Stripes Strut costume contest, watermelon-eating contests, lawn games, axe throwing, a DJ and the Galena Brass Band. Hours shortened to 11am–3pm due to the extreme heat (watermelon-eating contests 1pm & 2:30pm); a separate blueberry-BBQ food tent runs Sunday July 5, 12–4pm."
   url: "https://peddlersvillage.com/event/bbq-bash/"
   source: "https://peddlersvillage.com/event/bbq-bash/"
   org: "Peddler's Village"
@@ -636,7 +636,7 @@
   town: "Morrisville, PA"
   lat: 40.1490
   lng: -74.7430
-  cost: "Standard admission"
+  cost: "Standard admission (Adults $9 / Seniors $7 / Children 3–11 $5)"
   description: "William Penn's recreated 17th-century country estate on the Delaware, open to the public on Independence Day."
   url: "https://www.pennsburymanor.org/events/"
   source: "https://www.pennsburymanor.org/events/"
@@ -649,14 +649,14 @@
   date: "2026-07-04"
   start: "14:00"
   end: "22:00"
-  time_note: "Pub crawl 2pm; bands 4–10pm"
+  time_note: "Live music from 2pm (pub-crawl tickets sold out)"
   venue: "American Legion lot, New Hope (crawl from Lambertville)"
   address: "Old York Road, New Hope, PA 18938"
   town: "New Hope, PA / Lambertville, NJ"
   lat: 40.3635
   lng: -74.9505
   cost: "Free to attend"
-  description: "Day 2 of the twin-towns 250th: a Revolutionary-themed pub crawl from Lambertville across the bridge to New Hope, then four live bands at the American Legion lot (4–10pm), including a Donna Summer tribute and an ABBA cover band."
+  description: "Day 2 of the twin-towns 250th: a Revolutionary-themed pub crawl from Lambertville across the bridge to New Hope, then four live bands at the American Legion lot (4–10pm), including a Donna Summer tribute and an ABBA cover band. Pub-crawl tickets are sold out."
   url: "https://americacelebrates.org/our-events"
   source: "https://patch.com/pennsylvania/newhope-lambertville/4th-july-celebration-mark-nations-250th-new-hope-lambertville"
   org: "America Celebrates / Greater New Hope Chamber"
@@ -685,9 +685,9 @@
   region: bucks
   category: fair
   date: "2026-07-04"
-  start: ""
+  start: "08:00"
   end: "22:00"
-  time_note: "Daytime fair; fireworks 9:30pm"
+  time_note: "Pancake breakfast 8am; fireworks 9:30pm"
   venue: "Memorial Park"
   address: "600 Mill Street, Quakertown, PA 18951"
   town: "Quakertown, PA"
@@ -725,7 +725,7 @@
   date: "2026-07-04"
   start: "09:30"
   end: "11:00"
-  time_note: "Recurring annual — 2026 time likely-but-unconfirmed"
+  time_note: "Parade 9:30am from Town Center (New Britain) to North Branch Park"
   venue: "Chalfont / New Britain → North Branch Park"
   address: "Town Center, New Britain, PA 18901"
   town: "New Britain / Chalfont, PA"
@@ -744,7 +744,7 @@
   date: "2026-07-04"
   start: "13:00"
   end: "15:00"
-  time_note: "Recurring annual — route/time unconfirmed"
+  time_note: "Parade 1–3pm"
   venue: "Lower Southampton Township"
   address: "Lower Southampton Township, PA 19053"
   town: "Feasterville / Trevose, PA"
@@ -803,9 +803,9 @@
   region: bucks
   category: festival
   date: "2026-07-04"
-  start: ""
+  start: "15:00"
   end: "22:00"
-  time_note: "Fireworks 9:30pm"
+  time_note: "Festival opens 3pm; Rotary parade 10:15am; Declaration reading ~6:45pm; fireworks 9:30pm"
   venue: "Pottstown Memorial Park"
   address: "75 W. King Street, Pottstown, PA 19464"
   town: "Pottstown, PA (Montgomery Co.)"
@@ -1016,9 +1016,9 @@
   region: nj
   category: family
   date: "2026-07-04"
-  start: ""
+  start: "19:05"
   end: ""
-  time_note: "Time unconfirmed"
+  time_note: "7:05pm first pitch"
   venue: "TD Bank Ballpark"
   address: "1 Patriots Park, Bridgewater, NJ 08807"
   town: "Bridgewater, NJ"
@@ -1042,8 +1042,8 @@
   venue: "Your neighborhood"
   address: ""
   town: "Statewide"
-  lat: null
-  lng: null
+  lat:
+  lng:
   cost: "Free"
   description: "America250's national push for the 'largest synchronized Fourth of July celebration in U.S. history' — register to host a local block party."
   url: "https://america250.org/americas-block-party/host-an-americas-block-party/"
@@ -1080,7 +1080,7 @@
   date: "2026-07-05"
   start: "14:00"
   end: "16:00"
-  time_note: "Limited to 25; register"
+  time_note: "SOLD OUT (limited to 25)"
   venue: "Princeton Battle Monument (start)"
   address: "1 Monument Drive, Princeton, NJ 08540"
   town: "Princeton, NJ"
@@ -1088,7 +1088,7 @@
   lng: -74.6620
   cost: "$25"
   description: "Guided walking tour of Revolutionary Princeton — homes occupied by the British in 1776, homes of Declaration signers, taverns and a Battle of Princeton site."
-  url: "https://princetonhistory.org/events/america250-walking-tour/"
+  url: "https://princetonhistory.org/events/america250-walking-tour-2/"
   source: "https://princetonhistory.org/events/america250-walking-tour-2/"
   org: "Historical Society of Princeton"
   featured: false
@@ -1116,9 +1116,9 @@
   region: nj
   category: family
   date: "2026-07-05"
-  start: ""
+  start: "13:05"
   end: ""
-  time_note: "Time unconfirmed"
+  time_note: "1:05pm first pitch"
   venue: "TD Bank Ballpark"
   address: "1 Patriots Park, Bridgewater, NJ 08807"
   town: "Bridgewater, NJ"
@@ -1255,8 +1255,8 @@
   category: reenactment
   date: "2026-07-03"
   start: "09:00"
-  end: "17:00"
-  time_note: "Musket demos 11am–3pm; shuttle every 20 min"
+  end: "12:00"
+  time_note: "Outdoor programs end 12 noon; shuttles every 20 min (first 9:20am, last from visitor center 4pm)"
   venue: "Valley Forge National Historical Park"
   address: "1400 North Outer Line Drive, King of Prussia, PA 19406"
   town: "King of Prussia, PA (Montgomery Co.)"
@@ -1313,13 +1313,13 @@
   date: "2026-07-03"
   start: "10:00"
   end: "11:00"
-  time_note: ""
+  time_note: "10–11am (advance registration; program full)"
   venue: "Upper Gwynedd Firehouse"
   address: "660 Garfield Ave, West Point, PA 19486"
   town: "West Point, PA (Montgomery Co.)"
   lat: 40.2210
   lng: -75.3140
-  cost: "Free (unconfirmed)"
+  cost: "Free"
   description: "A community breakfast with a public reading of the Declaration of Independence."
   url: "https://ugtparks.recdesk.com/Community/Program/Detail?programId=764"
   source: "https://www.montgomerycountypa.gov/explore-county/celebrate-america-250"
@@ -1331,8 +1331,8 @@
   category: reenactment
   date: "2026-07-04"
   start: "09:00"
-  end: "17:00"
-  time_note: "Declaration readings 10am, 12:30pm, 3pm; shuttle every 10 min"
+  end: "13:00"
+  time_note: "Declaration readings 10am & 12:30pm (Maurice Stephens House); outdoor programs end 1pm; shuttle every 10 min"
   venue: "Valley Forge National Historical Park"
   address: "1400 North Outer Line Drive, King of Prussia, PA 19406"
   town: "King of Prussia, PA (Montgomery Co.)"
@@ -1415,7 +1415,7 @@
   lat: 40.1320
   lng: -75.4560
   cost: "Included with admission"
-  description: "Declaration readings with Q&A at 11am, 1pm and 3pm in the Music Room of this vast museum of antiques and mechanical music, with paired tram tours."
+  description: "Declaration readings with Q&A during the day (times to confirm) in the Music Room of this vast museum of antiques and mechanical music, with paired tram tours."
   url: "https://americantreasuretour.com/"
   source: "https://www.valleyforge.org/event/houses-of-declaration:-american-treasure-tour-museum/304052/"
   org: "American Treasure Tour"
@@ -1425,8 +1425,8 @@
   region: bucks
   category: family
   date: "2026-07-04"
-  start: ""
-  end: ""
+  start: "10:00"
+  end: "20:00"
   time_note: "Free w/ advance registration; Declaration reading on-site"
   venue: "Elmwood Park Zoo"
   address: "1661 Harding Blvd, Norristown, PA 19401"
@@ -1451,8 +1451,8 @@
   venue: "~20 historic sites across Montgomery County"
   address: ""
   town: "Montgomery County, PA"
-  lat: null
-  lng: null
+  lat:
+  lng:
   cost: "Free"
   description: "The county's signature program: live Declaration of Independence readings at roughly 20 towns and historic sites July 3–5 — including Lansdale, Upper Dublin, North Wales, the Wall House (Cheltenham), the Union Library Company of Hatborough, Sweet Ashley's (Royersford) and the Skippack Historical Society. Several times/addresses are still posting — check the county hub."
   url: "https://www.valleyforge.org/america250-montcopa/"
@@ -1466,7 +1466,7 @@
   date: "2026-07-05"
   start: "09:00"
   end: "17:00"
-  time_note: "Closing remarks 2:30pm; final musket demo 3pm"
+  time_note: "Closing remarks 12:45pm; final musket demo 1pm; outdoor programs end 1pm"
   venue: "Valley Forge National Historical Park"
   address: "1400 North Outer Line Drive, King of Prussia, PA 19406"
   town: "King of Prussia, PA (Montgomery Co.)"
@@ -1554,29 +1554,6 @@
   source: "https://www.montgomerycountypa.gov/explore-county/historic-sites/pottsgrove-manor"
   org: "Pottsgrove Manor"
   featured: false
-- id: mont-st-thomas
-  title: "Greater Whitemarsh 250 — St. Thomas' Church Colonial Service & Reading"
-  region: bucks
-  category: ceremony
-  date: "2026-07-05"
-  start: "10:00"
-  end: "12:00"
-  time_note: "Format/time unconfirmed"
-  venue: "St. Thomas' Episcopal Church, Whitemarsh"
-  address: "7020 Camp Hill Road, Fort Washington, PA 19034"
-  town: "Fort Washington, PA (Montgomery Co.)"
-  lat: 40.1370
-  lng: -75.2150
-  cost: "Free (unconfirmed)"
-  description: "A commemoration at one of the oldest Episcopal churches in the U.S. (founded 1698, occupied during the Revolution) — a colonial church service with traditional readings and music, refreshments, and a Declaration reading, alongside a 'History Unleashed: Greater Whitemarsh 250' kickoff with reenactors."
-  url: "https://www.whitemarshtwp.org/644/America-250-Celebration"
-  source: "https://diopa.org/event/history-unleashed-greater-whitemarsh-250-at-st-thomas-whitemarsh"
-  org: "St. Thomas' Whitemarsh / Whitemarsh Township"
-  featured: false
-
-# ======================================================================
-# CENTRAL NJ — from Gmail (Lambertville Historical Society)
-# ======================================================================
 - id: nj-marshall-house
   title: "James Marshall House Museum & Lambertville walking tours"
   region: nj
@@ -2165,7 +2142,7 @@
   start: "09:00"
   end: ""
   all_day: false
-  time_note: "Time per prior-year pattern — confirm"
+  time_note: "9am (confirmed)"
   venue: "Water Tower Recreation Center"
   address: "209 E. Hartwell Lane, Philadelphia, PA 19118"
   town: "Chestnut Hill, Philadelphia"
@@ -2230,13 +2207,13 @@
   end: "21:00"
   all_day: false
   time_note: "Declaration read by local officials"
-  venue: "Broad Street Commons Park"
-  address: "10 Doyle Street, Doylestown, PA 18901"
+  venue: "Covenant Church"
+  address: "4000 U.S. 202, Doylestown, PA 18902"
   town: "Doylestown, PA"
-  lat: 40.3115
-  lng: -75.1280
+  lat: 40.3207
+  lng: -75.0907
   cost: "Free"
-  description: "Community Semiquincentennial celebration within the Doylestown Lions Club Summer Concert Series: Declaration read by local officials, patriotic concert by Doylestown Heat, interactive Declaration signing, birthday cake and ice cream."
+  description: "Community Semiquincentennial celebration within the Doylestown Lions Club Summer Concert Series: Declaration read by local officials, patriotic concert by Doylestown Heat, interactive Declaration signing, birthday cake and ice cream. Relocated indoors to the Covenant Church auditorium due to the excessive-heat warning."
   url: "https://www.doylestownhistorical.org/events/celebrate-americas-250th-birthday-on-july-2nd"
   source: "https://www.doylestownhistorical.org/events/"
   org: "Doylestown Historical Society + Doylestown Lions Club"
@@ -2246,16 +2223,16 @@
   region: bucks
   category: lecture
   date: "2026-07-03"
-  start: ""
-  end: ""
+  start: "10:00"
+  end: "12:00"
   all_day: false
-  time_note: "Time unconfirmed in source"
-  venue: "Historical Society of Montgomery County"
-  address: "1654 DeKalb Street, Norristown, PA 19401"
+  time_note: "Talk at 10am + guided cemetery tours"
+  venue: "Montgomery Cemetery"
+  address: "1 Hartranft Ave, Norristown, PA 19401"
   town: "Norristown, PA (Montgomery Co.)"
-  lat: 40.1230
-  lng: -75.3460
-  cost: "Unconfirmed"
+  lat: 40.1215
+  lng: -75.3626
+  cost: "Free"
   description: "Author Barbara Franco discusses her book 'Gettysburg Surgeons' at the Historical Society of Montgomery County."
   url: "https://hsmcpa.org/gettysburgsurgeons/"
   source: "https://hsmcpa.org/index.php/events"
@@ -2326,10 +2303,10 @@
   region: bucks
   category: parade
   date: "2026-07-04"
-  start: ""
+  start: "11:00"
   end: ""
   all_day: false
-  time_note: "2026 start time unconfirmed"
+  time_note: "Parade 11am from Main & Elm to Weingartner Park"
   venue: "Main Street parade → Weingartner Park"
   address: "200 Summit Street, North Wales, PA 19454"
   town: "North Wales, PA (Montgomery Co.)"
@@ -2356,7 +2333,7 @@
   lat: 40.1010
   lng: -75.1530
   cost: "Free"
-  description: "Full-day community celebration by the Greater Glenside Patriotic Association — a children's morning program (incl. quilt raffle), a 1.5-mile afternoon parade through Glenside, and an evening 28th Infantry Division Band concert with fireworks after dark at Abington Senior HS (900 Highland Ave)."
+  description: "Full-day community celebration by the Greater Glenside Patriotic Association — a children's morning program (incl. quilt raffle), a 1.3-mile afternoon parade (route shortened for the extreme heat) through Glenside, and an evening 28th Infantry Division Band concert with fireworks after dark at Abington Senior HS (900 Highland Ave)."
   url: "https://glensideparade.com/events/"
   source: "https://glensideparade.com/events/"
   org: "Glenside Fourth of July Association"
@@ -2366,10 +2343,10 @@
   region: bucks
   category: ceremony
   date: "2026-07-04"
-  start: ""
+  start: "11:30"
   end: ""
   all_day: false
-  time_note: "Time unconfirmed in source"
+  time_note: "Reading 11:30am"
   venue: "Union Library Company of Hatborough"
   address: "243 S. York Road, Hatboro, PA 19040"
   town: "Hatboro, PA (Montgomery Co.)"
@@ -2445,26 +2422,6 @@
   source: "https://loveflemington.com/events/"
   org: "Love Flemington / Flemington Borough"
   featured: false
-- id: nj-rockingham-song-jul2
-  title: "'200 Years of Popular Song for 250 Years of Independence' — Rockingham"
-  region: nj
-  category: concert
-  date: "2026-07-02"
-  start: "18:30"
-  end: ""
-  all_day: false
-  time_note: "End time unconfirmed; register via Eventbrite"
-  venue: "Rockingham Historic Site"
-  address: "84 Laurel Avenue, Kingston, NJ 08528"
-  town: "Kingston, NJ (Somerset Co.)"
-  lat: 40.3760
-  lng: -74.6160
-  cost: "Free"
-  description: "Musical program tracing 200 years of popular song for the nation's 250th at Washington's last wartime headquarters. Registration required."
-  url: "https://www.eventbrite.com/o/rockingham-state-historic-site-33770225339"
-  source: "https://www.eventbrite.com/o/rockingham-state-historic-site-33770225339"
-  org: "Rockingham State Historic Site"
-  featured: false
 - id: nj-hunterdon-continental-army-jul2
   title: "Supplying the Continental Army (1775–1782) — Hunterdon County Library"
   region: nj
@@ -2481,7 +2438,7 @@
   lng: -74.8820
   cost: "Free"
   description: "Lecture by David R. Reading on supplying the Continental Army, presented for the nation's 250th anniversary. Tickets required."
-  url: "https://hclibrary.libcal.com/event/10909146"
+  url: "https://www.eventbrite.com/e/supplying-the-continental-army-1775-1782-tickets-1988655974553"
   source: "https://hclibrary.libcal.com/event/10909146"
   org: "Hunterdon County Library"
   featured: false
@@ -2773,7 +2730,7 @@
   start: "14:00"
   end: "15:00"
   all_day: false
-  time_note: "Recurring first-Sunday tour; July 5 specific date unconfirmed"
+  time_note: "First-Sunday tour confirmed; departs Marshall House 2pm; ~1hr; no reservations"
   venue: "James Marshall House Museum (start)"
   address: "60 Bridge Street, Lambertville, NJ 08530"
   town: "Lambertville, NJ"
@@ -2806,3 +2763,543 @@
   org: "Friends of Monmouth Battlefield"
   featured: false
 
+- id: bucks-revolutionary-run-2026
+  title: 44th Annual Revolutionary Run (RevRun) — Washington Crossing
+  region: bucks
+  category: family
+  date: '2026-07-04'
+  start: 08:00
+  end: 11:00
+  all_day: false
+  time_note: 1-mile Fun Run 8:00am; certified 5K 8:15am; certified 10K 8:45am; packet pickup/registration from 6:30am
+  venue: Washington Crossing Historic Park (main event field, near the flagpole)
+  address: 1077 River Road, Washington Crossing, PA 18977
+  town: Washington Crossing
+  lat: 40.2967
+  lng: -74.871
+  cost: Ticketed
+  description: A Fourth of July running tradition on its 44th year, with a 1-mile Fun Run, certified 5K, and certified 10K starting from the main field at Washington Crossing Historic Park. Runners follow in the footsteps of Washington's troops along the Delaware. Proceeds benefit the Upper Makefield Emergency Fund, UMBA scholarships, the local fire department, and the historic park. Race-day registration is $30 (1-mile) and $50 (5K/10K).
+  url: https://www.revrunpa.com/race-day
+  source: https://www.revrunpa.com/race-day
+  org: Upper Makefield Business Association / Revolutionary Run
+  featured: false
+- id: bucks-conshohocken-soap-box-derby-2026
+  title: Conshohocken 75th Annual Fourth of July Soap Box Derby
+  region: bucks
+  category: family
+  date: '2026-07-04'
+  start: 08:30
+  end: 16:30
+  all_day: false
+  time_note: Races start 8:30am; Fayette Street closed 3rd–10th Ave, 6am–7pm
+  venue: Fayette Street (8th Avenue to 4th Avenue)
+  address: Fayette Street, Conshohocken, PA 19428
+  town: Conshohocken
+  lat: 40.0782
+  lng: -75.3013
+  cost: Free
+  description: A gravity-powered soap box car race down Fayette Street, a Conshohocken Independence Day tradition running since 1951 — making 2026 its 75th year. Kids race homemade cars from 8th Avenue to 4th Avenue, with timed heats and a chance to advance to national competition. A longstanding community spectacle held every Fourth of July.
+  url: https://www.conshohockenpa.gov/resources/news/article/?id=8022
+  source: https://www.conshohockenpa.gov/resources/news/article/?id=8022
+  org: Borough of Conshohocken
+  featured: false
+- id: bucks-limerick-waltz-fireworks-2026
+  title: Limerick 4th of July Fireworks at Waltz Golf Farm
+  region: bucks
+  category: fireworks
+  date: '2026-07-04'
+  start: 18:00
+  end: 21:45
+  all_day: false
+  time_note: Celebration from 6pm; fireworks around 9:45pm (dusk)
+  venue: Waltz Golf Farm
+  address: 303 W. Ridge Pike, Limerick, PA 19468
+  town: Limerick
+  lat: 40.2341
+  lng: -75.5449
+  cost: Free
+  description: Family-owned Waltz Golf Farm hosts its free annual community fireworks display on the Fourth of July. The celebration begins at 6pm with the fireworks show at dusk (around 9:45pm). Parking is by the Limerick Volunteer Fire Department (donation appreciated).
+  url: https://6abc.com/post/list-2026-july-4th-fireworks-displays-pennsylvania-new-jersey-delaware/19213232/
+  source: https://6abc.com/post/list-2026-july-4th-fireworks-displays-pennsylvania-new-jersey-delaware/19213232/
+  org: Waltz Golf Farm
+  featured: false
+- id: bucks-rockledge-fireworks-2026
+  title: Rockledge July 3rd Fireworks — Cegielkowski Park
+  region: bucks
+  category: fireworks
+  date: '2026-07-03'
+  start: ''
+  end: ''
+  all_day: false
+  time_note: At dusk; rain date unconfirmed
+  venue: Cegielkowski Park
+  address: 27 South Sylvania Avenue, Rockledge, PA 19046
+  town: Rockledge
+  lat: 40.0814
+  lng: -75.0894
+  cost: Free
+  description: The Montgomery County borough of Rockledge hosts a community fireworks display at Cegielkowski Park on the evening of July 3, going off at dusk. A neighborhood Independence Day celebration for the 250th.
+  url: https://6abc.com/post/list-2026-july-4th-fireworks-displays-pennsylvania-new-jersey-delaware/19213232/
+  source: https://6abc.com/post/list-2026-july-4th-fireworks-displays-pennsylvania-new-jersey-delaware/19213232/
+  org: Rockledge Borough 4th of July Committee
+  featured: false
+- id: bucks-sellersville-bell-ringing-2026
+  title: Sellersville 'Let Freedom Ring' National Bell Ringing Ceremony
+  region: bucks
+  category: ceremony
+  date: '2026-07-04'
+  start: 10:30
+  end: ''
+  all_day: false
+  time_note: ''
+  venue: In front of the Sellersville Museum
+  address: 120 East Church Street, Sellersville, PA 18960
+  town: Sellersville
+  lat: 40.3543
+  lng: -75.3049
+  cost: Free
+  description: Sellersville Borough joins the national 'Let Freedom Ring' bell ringing, sounding bells once for each of the 13 original colonies to commemorate the signing of the Declaration of Independence. For America's 250th the ceremony includes a historical reenactment and showcases the newly renovated Sellersville Museum (reopened late 2025).
+  url: https://www.sellersvilleboro.org/
+  source: https://www.sellersvilleboro.org/
+  org: Sellersville Borough / Sellersville Museum
+  featured: false
+- id: bucks-upper-dublin-library-250-2026
+  title: Upper Dublin Celebrates 250 Years of Independence — Library
+  region: bucks
+  category: family
+  date: '2026-07-03'
+  start: 11:00
+  end: 12:00
+  all_day: false
+  time_note: ''
+  venue: Upper Dublin Public Library
+  address: 520 Virginia Drive, Fort Washington, PA 19034
+  town: Fort Washington
+  lat: 40.1401
+  lng: -75.2091
+  cost: ''
+  description: The Upper Dublin Public Library hosts a community program marking America's 250th anniversary of independence. A family-friendly commemoration in Fort Washington over the holiday weekend.
+  url: https://www.upperdublinlibrary.org/
+  source: https://montgomerycountyalive.com/events/july-fourth-independence-day-events.cfm
+  org: Upper Dublin Public Library
+  featured: false
+- id: bucks-st-michaels-fair-2026
+  title: 72nd Annual St. Michael's Fair — Levittown
+  region: bucks
+  category: fair
+  date: '2026-07-04'
+  start: 18:00
+  end: 22:00
+  all_day: false
+  time_note: Fair runs nightly July 2–12, 2026, from 6pm
+  venue: St. Michael the Archangel Catholic Church grounds
+  address: 66 Levittown Parkway, Levittown, PA 19054
+  town: Levittown
+  lat: 40.1553
+  lng: -74.8286
+  cost: Free
+  description: The oldest and largest fair and carnival in Lower Bucks County, running since 1954 and returning for its 72nd year. Nightly from 6pm across July 2–12, the fair features rides, carnival games, and classic fair food, with free admission (ride tickets/wristbands sold separately).
+  url: https://www.stmikesfair.com/
+  source: https://newtownyardley.com/events/
+  org: St. Michael the Archangel Parish
+  featured: false
+- id: nj-lead-fest-state-fair
+  title: L.E.A.D. Fest State Fair — July 4 Drone Show
+  region: nj
+  category: fair
+  date: '2026-07-04'
+  start: 15:00
+  end: 23:00
+  all_day: false
+  time_note: Fair runs June 26–July 5 (weekdays 5pm, weekends 3pm to ~10–11pm); grand-finale fireworks & drone show on July 4, additional fireworks July 5.
+  venue: Mercer County Park Festival Grounds
+  address: 1638 Old Trenton Rd, West Windsor Township, NJ 08550
+  town: West Windsor
+  lat: 40.2757
+  lng: -74.6293
+  cost: $10 weekends (age 13+), $5 kids 12 & under
+  description: The L.E.A.D. Fest State Fair returns to Mercer County Park with a carnival midway, rides, live music, a circus, food and agriculture displays, with proceeds supporting Law Enforcement Against Drugs & Violence prevention programs. The July 4 evening features a patriotic drone show, and the fair closes with fireworks on July 5. Ten days of family entertainment tied to America's 250th summer.
+  url: https://www.mercercounty.org/departments/mercer-county-park-commission/recreation-events/festival-grounds
+  source: https://www.nj-carnivals.com/2026/the-lead-fest-state-fair-at-mercer-county-park-2026-in-west-windsor-nj/
+  org: L.E.A.D. (Law Enforcement Against Drugs) / Mercer County Park Commission
+  featured: false
+- id: nj-branchburg-white-oak-250
+  title: Branchburg America 250th Celebration & Fireworks
+  region: nj
+  category: festival
+  date: '2026-07-05'
+  start: ''
+  end: ''
+  all_day: false
+  time_note: Daytime-into-evening; exact times unconfirmed.
+  venue: White Oak Park
+  address: 47 Baird Rd, Branchburg, NJ 08876
+  town: Branchburg
+  lat: 40.573
+  lng: -74.689
+  cost: Free
+  description: Branchburg marks America's 250th anniversary with a family-friendly celebration at White Oak Park (dogs welcome). The event features 21 food trucks, local vendors, live music, an adult beverage bar, and a fireworks display to close the July 4th weekend.
+  url: https://visitsomersetnj.org/fourth-of-july-celebrations/
+  source: https://visitsomersetnj.org/fourth-of-july-celebrations/
+  org: Township of Branchburg
+  featured: false
+- id: nj-franklin-twp-independence-fireworks
+  title: Franklin Township Independence Day Celebration & Fireworks
+  region: nj
+  category: fireworks
+  date: '2026-07-02'
+  start: 18:00
+  end: 21:30
+  all_day: false
+  time_note: Fireworks at 9:15 pm; rain date July 10.
+  venue: Franklin Township Municipal Complex
+  address: 475 DeMott Lane, Somerset, NJ 08873
+  town: Somerset (Franklin Township)
+  lat: 40.5079
+  lng: -74.5105
+  cost: Free
+  description: Franklin Township's annual Independence Day Celebration kicks off at 6 pm at the Municipal Complex with food trucks, local exhibitors, and children's activities. Musical entertainment comes from the Franklin Township Community Band and the New Jersey National Guard 63rd Army Band, with a fireworks display at about 9:15 pm.
+  url: https://www.franklintwpnj.org/our-township/what-s-new/independence-day-celebration
+  source: https://visitsomersetnj.org/fourth-of-july-celebrations/
+  org: Township of Franklin (Somerset County)
+  featured: false
+- id: nj-watchung-patriot-walk
+  title: Watchung Patriot Walk
+  region: nj
+  category: family
+  date: '2026-07-04'
+  start: 11:00
+  end: ''
+  all_day: false
+  time_note: ''
+  venue: Watchung Lake
+  address: Watchung, NJ 07069
+  town: Watchung
+  lat: 40.638
+  lng: -74.446
+  cost: Free
+  description: Watchung hosts its annual Patriot Walk around Watchung Lake on the morning of July 4th, a community stroll marking Independence Day during America's 250th anniversary year.
+  url: https://visitsomersetnj.org/fourth-of-july-celebrations/
+  source: https://visitsomersetnj.org/fourth-of-july-celebrations/
+  org: Borough of Watchung
+  featured: false
+- id: nj-east-brunswick-fireworks
+  title: East Brunswick Independence Day Fireworks
+  region: nj
+  category: fireworks
+  date: '2026-07-04'
+  start: 18:00
+  end: ''
+  all_day: false
+  time_note: Rain date Sunday, July 5.
+  venue: East Brunswick Community Arts Center
+  address: 721 Cranbury Rd, East Brunswick, NJ 08816
+  town: East Brunswick
+  lat: 40.437
+  lng: -74.393
+  cost: Free
+  description: East Brunswick celebrates the Fourth of July beginning at 6 pm at the Community Arts Center, with a fireworks display to follow after dark. Rain date is Sunday, July 5.
+  url: https://www.fox5ny.com/news/nj-fireworks-4th-july-shows-new-jersey-america-250
+  source: https://www.fox5ny.com/news/nj-fireworks-4th-july-shows-new-jersey-america-250
+  org: Township of East Brunswick
+  featured: false
+- id: nj-perth-amboy-stars-stripes-drone
+  title: Perth Amboy 'Celebrate Our Stars & Stripes' Drone & Fireworks Show
+  region: nj
+  category: fireworks
+  date: '2026-07-02'
+  start: 15:00
+  end: 22:00
+  all_day: false
+  time_note: Festival 3–9 pm; drone show ~9:15 pm; fireworks ~9:30 pm. Rain date July 3.
+  venue: Raritan Bay Waterfront / Sadowski Parkway
+  address: Sadowski Parkway, Perth Amboy, NJ 08861
+  town: Perth Amboy
+  lat: 40.505
+  lng: -74.263
+  cost: Free
+  description: Perth Amboy's waterfront festival along Sadowski Parkway runs 3–9 pm with food, music and vendors, capped by a drone show around 9:15 pm and a fireworks display over Raritan Bay around 9:30 pm. Rain date is Friday, July 3.
+  url: https://www.fox5ny.com/news/nj-fireworks-4th-july-shows-new-jersey-america-250
+  source: https://www.fox5ny.com/news/nj-fireworks-4th-july-shows-new-jersey-america-250
+  org: City of Perth Amboy
+  featured: false
+- id: nj-woodbridge-sewaren-fireworks
+  title: Woodbridge (Sewaren) Independence Day Celebration & Fireworks
+  region: nj
+  category: fireworks
+  date: '2026-07-02'
+  start: 16:00
+  end: 22:00
+  all_day: false
+  time_note: 4–10 pm; rain date July 3.
+  venue: Alvin P. Williams Memorial Park
+  address: Cliff Rd, Sewaren (Woodbridge), NJ 07077
+  town: Woodbridge (Sewaren)
+  lat: 40.56
+  lng: -74.258
+  cost: Free
+  description: Woodbridge Township's Sewaren celebration runs 4–10 pm at Alvin P. Williams Memorial Park with entertainment, food and a waterfront fireworks display. Rain date is Friday, July 3.
+  url: https://www.fox5ny.com/news/nj-fireworks-4th-july-shows-new-jersey-america-250
+  source: https://www.fox5ny.com/news/nj-fireworks-4th-july-shows-new-jersey-america-250
+  org: Woodbridge Township
+  featured: false
+- id: nj-milltown-4th-of-july-250
+  title: Milltown 4th of July Celebration & Parade (250th)
+  region: nj
+  category: parade
+  date: '2026-07-04'
+  start: ''
+  end: ''
+  all_day: true
+  time_note: Day-long celebration; individual event start times unconfirmed.
+  venue: Main Street & throughout Milltown
+  address: Main St, Milltown, NJ 08850
+  town: Milltown
+  lat: 40.451
+  lng: -74.443
+  cost: Free
+  description: "Milltown's long-running Independence Day celebration returns for America's 250th with a day of community events: a fishing derby, 5K race, the town parade, a duck race, hot-dog and pizza eating contests, a patriotic house contest, a bike contest and live music. Backed by New Jersey's RevolutionNJ semiquincentennial program."
+  url: https://milltown4thofjuly.wordpress.com/
+  source: https://milltown4thofjuly.wordpress.com/
+  org: Milltown 4th of July Committee
+  featured: false
+- id: phl-float-fest
+  title: Float Fest — Parade Float Sneak Peek
+  region: philadelphia
+  category: family
+  date: '2026-07-02'
+  start: 17:00
+  end: 21:00
+  all_day: false
+  time_note: ''
+  venue: Independence Mall
+  address: 5th & Market Streets, Philadelphia, PA 19106
+  town: Old City, Philadelphia
+  lat: 39.9496
+  lng: -75.1503
+  cost: Free
+  description: A free sneak-peek event on Independence Mall showcasing the floats built for the July 3 Salute to Independence Semiquincentennial Parade. Visitors get photo opportunities and a behind-the-scenes look at the parade artistry the night before the procession.
+  url: https://july4thphilly.com/events/
+  source: https://july4thphilly.com/events/
+  org: Wawa Welcome America
+  featured: false
+- id: phl-fmd-ica-upenn
+  title: Wawa Welcome America Free Museum Day — ICA (University of Pennsylvania)
+  region: philadelphia
+  category: exhibit
+  date: '2026-07-02'
+  start: 12:00
+  end: 18:00
+  all_day: false
+  time_note: ''
+  venue: Institute of Contemporary Art, University of Pennsylvania
+  address: 118 S. 36th Street, Philadelphia, PA 19104
+  town: University City, Philadelphia
+  lat: 39.9538
+  lng: -75.1932
+  cost: Free
+  description: Free admission to the Institute of Contemporary Art at Penn as part of Wawa Welcome America's Free Museum Days. ICA is a non-collecting contemporary art institution known for exhibiting emerging and boundary-pushing artists.
+  url: https://july4thphilly.com/events/
+  source: https://july4thphilly.com/events/
+  org: Wawa Welcome America
+  featured: false
+- id: phl-fmd-firemans-hall
+  title: Wawa Welcome America Free Museum Day — Fireman's Hall Museum
+  region: philadelphia
+  category: exhibit
+  date: '2026-07-03'
+  start: 10:00
+  end: 15:00
+  all_day: false
+  time_note: ''
+  venue: Fireman's Hall Museum
+  address: 147 N. 2nd Street, Philadelphia, PA 19106
+  town: Old City, Philadelphia
+  lat: 39.9527
+  lng: -75.1435
+  cost: Free
+  description: Free admission to Fireman's Hall Museum, housed in a restored 1902 firehouse descended from Benjamin Franklin's 1736 Union Fire Company. Exhibits cover the history, art and science of firefighting, including historic fire apparatus dating to the 1800s.
+  url: https://july4thphilly.com/events/
+  source: https://july4thphilly.com/events/
+  org: Wawa Welcome America
+  featured: false
+- id: phl-fmd-historic-st-georges
+  title: Wawa Welcome America Free Museum Day — Historic St. George's
+  region: philadelphia
+  category: exhibit
+  date: '2026-07-03'
+  start: ''
+  end: ''
+  all_day: false
+  time_note: Hours unconfirmed (listed within a 10 a.m.–5 p.m. Free Museum Day window)
+  venue: Historic St. George's Museum
+  address: 235 N. 4th Street, Philadelphia, PA 19106
+  town: Old City, Philadelphia
+  lat: 39.9535
+  lng: -75.1462
+  cost: Free
+  description: Free admission to Historic St. George's, the oldest continuously used Methodist church in the United States (dedicated 1769), as part of Wawa Welcome America's Free Museum Days. The site's museum documents early American Methodist history.
+  url: https://july4thphilly.com/events/
+  source: https://july4thphilly.com/events/
+  org: Wawa Welcome America
+  featured: false
+- id: phl-fmd-historical-society-pa
+  title: Wawa Welcome America Free Museum Day — Historical Society of Pennsylvania
+  region: philadelphia
+  category: exhibit
+  date: '2026-07-04'
+  start: 10:00
+  end: 14:00
+  all_day: false
+  time_note: ''
+  venue: Historical Society of Pennsylvania
+  address: 1300 Locust Street, Philadelphia, PA 19107
+  town: Center City, Philadelphia
+  lat: 39.9476
+  lng: -75.1626
+  cost: Free
+  description: "Free admission to the Historical Society of Pennsylvania as part of Wawa Welcome America's Free Museum Days. Visitors can see the Semiquincentennial exhibition 'Paths to Independence: 1765–1787,' featuring more than 140 items tracing America's origins."
+  url: https://july4thphilly.com/events/
+  source: https://july4thphilly.com/events/
+  org: Wawa Welcome America
+  featured: false
+- id: phl-fifa-r16-paraguay-france
+  title: 'FIFA World Cup 26 — Round of 16: Paraguay vs. France'
+  region: philadelphia
+  category: other
+  date: '2026-07-04'
+  start: 17:00
+  end: ''
+  all_day: false
+  time_note: 5 p.m. kickoff
+  venue: Lincoln Financial Field ("Philadelphia Stadium" during the tournament)
+  address: 1 Lincoln Financial Field Way, Philadelphia, PA 19148
+  town: South Philadelphia
+  lat: 39.9008
+  lng: -75.1675
+  cost: Ticketed
+  description: A FIFA World Cup 26 single-elimination Round of 16 knockout match, with France (captained by Kylian Mbappé) facing Paraguay. It is the first World Cup knockout match ever to fall on the Fourth of July, coinciding with America's 250th birthday.
+  url: https://www.lincolnfinancialfield.com/events/2026-fifa-world-cup-round-of-16/
+  source: https://www.visitphilly.com/features/july-fourth-on-americas-250th/
+  org: FIFA / Lincoln Financial Field
+  featured: true
+- id: phl-firstival-first-bank
+  title: "'52 Weeks of Firsts' Firstival — First Bank of the United States"
+  region: philadelphia
+  category: ceremony
+  date: '2026-07-04'
+  start: 11:00
+  end: 13:00
+  all_day: false
+  time_note: ''
+  venue: First Bank of the United States
+  address: 120 S. 3rd Street, Philadelphia, PA 19106
+  town: Old City, Philadelphia
+  lat: 39.9478
+  lng: -75.1465
+  cost: Free
+  description: A celebration marking the newly reopened First Bank of the United States, launching a '52 Weeks of Firsts' program with guest speakers, a sculpture unveiling and historic deep dives into Philadelphia's pioneering achievements. The 1797 First Bank building reopened to the public as part of the Semiquincentennial.
+  url: https://www.visitphilly.com/articles/philadelphia/things-to-do-in-philadelphia-this-week-weekend/
+  source: https://www.visitphilly.com/articles/philadelphia/things-to-do-in-philadelphia-this-week-weekend/
+  org: Independence National Historical Park
+  featured: false
+- id: phl-birthday-party-usa
+  title: Birthday Party in the USA — Independence Visitor Center
+  region: philadelphia
+  category: family
+  date: '2026-07-04'
+  start: 12:00
+  end: 15:00
+  all_day: false
+  time_note: ''
+  venue: Independence Visitor Center
+  address: 599 Market Street, Philadelphia, PA 19106
+  town: Old City, Philadelphia
+  lat: 39.9505
+  lng: -75.1503
+  cost: Free
+  description: A free family celebration for America's 250th birthday featuring free cupcakes for the first 5,000 guests, historic entertainment and impersonators, games, prizes and interactive activities at the Independence Visitor Center.
+  url: https://www.visitphilly.com/articles/philadelphia/things-to-do-in-philadelphia-this-week-weekend/
+  source: https://www.visitphilly.com/articles/philadelphia/things-to-do-in-philadelphia-this-week-weekend/
+  org: Independence Visitor Center
+  featured: false
+- id: phl-first-sunday-pma
+  title: First Sunday Family Festival — Philadelphia Museum of Art
+  region: philadelphia
+  category: family
+  date: '2026-07-05'
+  start: 10:00
+  end: 15:00
+  all_day: false
+  time_note: Pay-what-you-wish admission
+  venue: Philadelphia Museum of Art
+  address: 2600 Benjamin Franklin Parkway, Philadelphia, PA 19130
+  town: Parkway, Philadelphia
+  lat: 39.9656
+  lng: -75.181
+  cost: Free
+  description: "The museum's monthly First Sunday Family Festival with pay-what-you-wish admission, all-ages crafts, games and live performances. The July edition coincides with the new 'Workshop of the World: Arts and Crafts in Philadelphia' exhibition."
+  url: https://www.visitphilly.com/articles/philadelphia/things-to-do-in-philadelphia-this-week-weekend/
+  source: https://www.visitphilly.com/articles/philadelphia/things-to-do-in-philadelphia-this-week-weekend/
+  org: Philadelphia Museum of Art
+  featured: false
+- id: phl-culture-fest-liberty-point
+  title: Culture Fest at Liberty Point — 'AfroStreet'
+  region: philadelphia
+  category: festival
+  date: '2026-07-05'
+  start: 15:00
+  end: 20:00
+  all_day: false
+  time_note: ''
+  venue: Liberty Point (Penn's Landing)
+  address: 211 S. Christopher Columbus Blvd, Philadelphia, PA 19106
+  town: Penn's Landing, Philadelphia
+  lat: 39.943
+  lng: -75.14
+  cost: Free
+  description: A global culture celebration at the Liberty Point waterfront venue with a 2026 'AfroStreet' theme, featuring Amapiano beats and a marketplace of Black-owned business vendors. Held on the Delaware River waterfront at Penn's Landing.
+  url: https://www.visitphilly.com/articles/philadelphia/things-to-do-in-philadelphia-this-week-weekend/
+  source: https://www.visitphilly.com/articles/philadelphia/things-to-do-in-philadelphia-this-week-weekend/
+  org: Liberty Point
+  featured: false
+- id: phl-bkfc-liberty-brawl
+  title: 'Bare Knuckle Fighting Championship: Liberty Brawl'
+  region: philadelphia
+  category: other
+  date: '2026-07-03'
+  start: 20:00
+  end: ''
+  all_day: false
+  time_note: ''
+  venue: Xfinity Mobile Arena
+  address: 3601 S. Broad Street, Philadelphia, PA 19148
+  town: South Philadelphia
+  lat: 39.9012
+  lng: -75.172
+  cost: Ticketed
+  description: A BKFC combat-sports card headlined by a Lightweight World Championship bout between Austin Trout and Ben Bonner. A ticketed arena event coinciding with the July 4th weekend in South Philadelphia.
+  url: https://www.visitphilly.com/articles/philadelphia/things-to-do-in-philadelphia-this-week-weekend/
+  source: https://www.visitphilly.com/articles/philadelphia/things-to-do-in-philadelphia-this-week-weekend/
+  org: Bare Knuckle Fighting Championship
+  featured: false
+- id: phl-sky-high-sunset-social
+  title: Sky High 4th of July — Sunset Social Rooftop
+  region: philadelphia
+  category: food
+  date: '2026-07-04'
+  start: 14:00
+  end: 22:00
+  all_day: false
+  time_note: ''
+  venue: Sunset Social (Cira Green rooftop)
+  address: 129 S. 30th Street, Philadelphia, PA 19104
+  town: University City, Philadelphia
+  lat: 39.954
+  lng: -75.183
+  cost: Ticketed
+  description: A rooftop Independence Day party at Sunset Social with face painting and live caricature art, followed by evening entertainment, live music, food and drink, and elevated views of the Benjamin Franklin Parkway fireworks.
+  url: https://www.visitphilly.com/articles/philadelphia/things-to-do-in-philadelphia-this-week-weekend/
+  source: https://www.visitphilly.com/articles/philadelphia/things-to-do-in-philadelphia-this-week-weekend/
+  org: Sunset Social
+  featured: false

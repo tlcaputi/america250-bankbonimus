@@ -6,7 +6,7 @@ region: philadelphia
 category: exhibit
 eday: '2026-07-04'
 start: 09:30
-end: '19:00'
+end: '18:00'
 time_note: Extended hours Jul 1–4; plaza musician 1–3pm (free)
 venue: Museum of the American Revolution
 address: 101 S. 3rd Street, Philadelphia, PA 19106
@@ -20,4 +20,4 @@ org: Museum of the American Revolution
 featured: false
 all_day: false
 ---
-Extended hours and holiday programming, plus the headline exhibits 'The Declaration's Journey' and 'Black Founders: The Forten Family of Philadelphia.' A Revolutionary musician plays the outdoor plaza daily 1–3pm (free).
+Extended hours and holiday programming, plus the headline exhibits 'The Declaration's Journey' and 'Black Founders: The Forten Family of Philadelphia.'

@@ -7,7 +7,7 @@ category: festival
 eday: '2026-07-04'
 start: '14:00'
 end: '22:00'
-time_note: Pub crawl 2pm; bands 4–10pm
+time_note: Live music from 2pm (pub-crawl tickets sold out)
 venue: American Legion lot, New Hope (crawl from Lambertville)
 address: Old York Road, New Hope, PA 18938
 town: New Hope, PA / Lambertville, NJ
@@ -20,4 +20,4 @@ org: America Celebrates / Greater New Hope Chamber
 featured: false
 all_day: false
 ---
-Day 2 of the twin-towns 250th: a Revolutionary-themed pub crawl from Lambertville across the bridge to New Hope, then four live bands at the American Legion lot (4–10pm), including a Donna Summer tribute and an ABBA cover band.
+Day 2 of the twin-towns 250th: a Revolutionary-themed pub crawl from Lambertville across the bridge to New Hope, then four live bands at the American Legion lot (4–10pm), including a Donna Summer tribute and an ABBA cover band. Pub-crawl tickets are sold out.

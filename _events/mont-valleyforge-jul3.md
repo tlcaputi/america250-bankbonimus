@@ -6,8 +6,9 @@ region: bucks
 category: reenactment
 eday: '2026-07-03'
 start: 09:00
-end: '17:00'
-time_note: Musket demos 11am–3pm; shuttle every 20 min
+end: '12:00'
+time_note: Outdoor programs end 12 noon; shuttles every 20 min (first 9:20am, last
+  from visitor center 4pm)
 venue: Valley Forge National Historical Park
 address: 1400 North Outer Line Drive, King of Prussia, PA 19406
 town: King of Prussia, PA (Montgomery Co.)

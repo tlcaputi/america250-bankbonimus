@@ -13,7 +13,7 @@ address: 400 Pennsbury Memorial Road, Morrisville, PA 19067
 town: Morrisville, PA
 lat: 40.149
 lng: -74.743
-cost: Standard admission
+cost: Standard admission (Adults $9 / Seniors $7 / Children 3–11 $5)
 ext_url: https://www.pennsburymanor.org/events/
 source: https://www.pennsburymanor.org/events/
 org: Pennsbury Manor (PHMC)

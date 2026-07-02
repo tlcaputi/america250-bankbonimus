@@ -5,8 +5,8 @@ title: Freedom Festival & Fireworks — Pleasant Hill Park
 region: philadelphia
 category: fireworks
 eday: '2026-07-04'
-start: ''
-end: ''
+start: '17:00'
+end: '21:30'
 time_note: Fireworks at dusk
 venue: Pleasant Hill Park (NE Philadelphia)
 address: 9100 N. Delaware Avenue, Philadelphia, PA 19114

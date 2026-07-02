@@ -7,7 +7,7 @@ category: fireworks
 eday: '2026-07-03'
 start: '13:00'
 end: '21:30'
-time_note: Fireworks + drone show 9pm
+time_note: Fireworks + drone show ~9:30pm
 venue: Stella Promenade & the Delaware River (New Hope ↔ Lambertville)
 address: Main Street riverfront, New Hope, PA 18938
 town: New Hope, PA / Lambertville, NJ

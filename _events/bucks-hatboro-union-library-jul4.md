@@ -5,10 +5,10 @@ title: Reading of the Declaration — Union Library Company of Hatborough
 region: bucks
 category: ceremony
 eday: '2026-07-04'
-start: ''
+start: '11:30'
 end: ''
 all_day: false
-time_note: Time unconfirmed in source
+time_note: Reading 11:30am
 venue: Union Library Company of Hatborough
 address: 243 S. York Road, Hatboro, PA 19040
 town: Hatboro, PA (Montgomery Co.)

@@ -7,7 +7,7 @@ category: parade
 eday: '2026-07-04'
 start: 09:30
 end: '11:00'
-time_note: Recurring annual — 2026 time likely-but-unconfirmed
+time_note: Parade 9:30am from Town Center (New Britain) to North Branch Park
 venue: Chalfont / New Britain → North Branch Park
 address: Town Center, New Britain, PA 18901
 town: New Britain / Chalfont, PA

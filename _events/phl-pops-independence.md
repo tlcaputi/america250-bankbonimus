@@ -5,7 +5,7 @@ title: Pops on Independence — Idina Menzel with The Philly Pops
 region: philadelphia
 category: concert
 eday: '2026-07-03'
-start: '19:00'
+start: '20:00'
 end: '21:00'
 time_note: Gates ~5pm
 venue: Independence Mall

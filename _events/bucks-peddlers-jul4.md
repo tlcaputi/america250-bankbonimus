@@ -6,7 +6,7 @@ region: bucks
 category: festival
 eday: '2026-07-04'
 start: '11:00'
-end: '18:00'
+end: '15:00'
 time_note: ''
 venue: Peddler's Village
 address: 100 Peddlers Village, Lahaska, PA 18931
@@ -20,4 +20,4 @@ org: Peddler's Village
 featured: false
 all_day: false
 ---
-All-American BBQ, patriotic music and old-fashioned games: a Stars & Stripes Strut costume contest, watermelon-eating contests, lawn games, axe throwing, a DJ and the Galena Brass Band.
+All-American BBQ, patriotic music and old-fashioned games: a Stars & Stripes Strut costume contest, watermelon-eating contests, lawn games, axe throwing, a DJ and the Galena Brass Band. Hours shortened to 11am–3pm due to the extreme heat (watermelon-eating contests 1pm & 2:30pm); a separate blueberry-BBQ food tent runs Sunday July 5, 12–4pm.

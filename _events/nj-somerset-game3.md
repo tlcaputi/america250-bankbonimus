@@ -5,9 +5,9 @@ title: Somerset 'Semiquincentennials' (Game 3)
 region: nj
 category: family
 eday: '2026-07-05'
-start: ''
+start: '13:05'
 end: ''
-time_note: Time unconfirmed
+time_note: 1:05pm first pitch
 venue: TD Bank Ballpark
 address: 1 Patriots Park, Bridgewater, NJ 08807
 town: Bridgewater, NJ

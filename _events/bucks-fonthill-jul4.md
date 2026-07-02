@@ -1,7 +1,7 @@
 ---
 layout: event
 id: bucks-fonthill-jul4
-title: Fonthill Castle 4th of July
+title: 'CANCELED: Fonthill Castle 4th of July'
 region: bucks
 category: family
 eday: '2026-07-04'
@@ -20,4 +20,4 @@ org: Mercer Museum & Fonthill Castle
 featured: false
 all_day: false
 ---
-Old-fashioned 4th of July on the castle grounds: a decorated children's bicycle parade, field games and sack races, face painting, antique bicycle demos, a Revolutionary War headquarters exhibit, a castle open house, and live music.
+CANCELED due to the extreme-heat forecast — Fonthill Castle is closed July 3–4 and refunds are being issued. Alternative: the Mercer Museum is open July 4, 10am–5pm, with family crafts and activities. Old-fashioned 4th of July on the castle grounds: a decorated children's bicycle parade, field games and sack races, face painting, antique bicycle demos, a Revolutionary War headquarters exhibit, a castle open house, and live music.

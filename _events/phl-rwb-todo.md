@@ -7,7 +7,7 @@ category: festival
 eday: '2026-07-02'
 start: 07:00
 end: '21:00'
-time_note: Daylong; drone show 9pm
+time_note: Daylong; drone show 10pm
 venue: Independence Mall & the Historic District
 address: 5th & Arch Streets, Philadelphia, PA 19106
 town: Old City, Philadelphia

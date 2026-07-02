@@ -14,7 +14,7 @@ town: Trenton, NJ
 lat: 40.2168
 lng: -74.7607
 cost: $35
-ext_url: https://www.tickettailor.com/events/tencrucialdaysorg/2244456
+ext_url: https://thecrossingmusical.com/events
 source: https://princetonol.com/announcement/princeton-250th-celebration-events
 org: Passage Theatre & TenCrucialDays.org
 featured: false

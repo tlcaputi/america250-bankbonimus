@@ -5,8 +5,8 @@ title: Elmwood Park Zoo — Free Admission for the 250th
 region: bucks
 category: family
 eday: '2026-07-04'
-start: ''
-end: ''
+start: '10:00'
+end: '20:00'
 time_note: Free w/ advance registration; Declaration reading on-site
 venue: Elmwood Park Zoo
 address: 1661 Harding Blvd, Norristown, PA 19401

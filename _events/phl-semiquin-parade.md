@@ -5,8 +5,8 @@ title: Salute to Independence Semiquincentennial Parade
 region: philadelphia
 category: parade
 eday: '2026-07-03'
-start: '11:00'
-end: '13:30'
+start: '12:00'
+end: '16:00'
 time_note: 'Note: this is JULY 3, not the 4th'
 venue: 5th & Chestnut → Parkway → Broad & Chestnut
 address: 5th & Chestnut Streets, Philadelphia, PA 19106

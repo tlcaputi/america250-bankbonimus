@@ -20,4 +20,4 @@ source: https://glensideparade.com/events/
 org: Glenside Fourth of July Association
 featured: false
 ---
-Full-day community celebration by the Greater Glenside Patriotic Association — a children's morning program (incl. quilt raffle), a 1.5-mile afternoon parade through Glenside, and an evening 28th Infantry Division Band concert with fireworks after dark at Abington Senior HS (900 Highland Ave).
+Full-day community celebration by the Greater Glenside Patriotic Association — a children's morning program (incl. quilt raffle), a 1.3-mile afternoon parade (route shortened for the extreme heat) through Glenside, and an evening 28th Infantry Division Band concert with fireworks after dark at Abington Senior HS (900 Highland Ave).

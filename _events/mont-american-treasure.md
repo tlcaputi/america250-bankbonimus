@@ -20,4 +20,4 @@ org: American Treasure Tour
 featured: false
 all_day: false
 ---
-Declaration readings with Q&A at 11am, 1pm and 3pm in the Music Room of this vast museum of antiques and mechanical music, with paired tram tours.
+Declaration readings with Q&A during the day (times to confirm) in the Music Room of this vast museum of antiques and mechanical music, with paired tram tours.

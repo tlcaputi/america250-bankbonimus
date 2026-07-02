@@ -8,7 +8,7 @@ eday: '2026-07-04'
 start: 09:00
 end: ''
 all_day: false
-time_note: Time per prior-year pattern — confirm
+time_note: 9am (confirmed)
 venue: Water Tower Recreation Center
 address: 209 E. Hartwell Lane, Philadelphia, PA 19118
 town: Chestnut Hill, Philadelphia

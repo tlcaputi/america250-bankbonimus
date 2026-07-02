@@ -15,7 +15,7 @@ town: Flemington, NJ
 lat: 40.518
 lng: -74.882
 cost: Free
-ext_url: https://hclibrary.libcal.com/event/10909146
+ext_url: https://www.eventbrite.com/e/supplying-the-continental-army-1775-1782-tickets-1988655974553
 source: https://hclibrary.libcal.com/event/10909146
 org: Hunterdon County Library
 featured: false

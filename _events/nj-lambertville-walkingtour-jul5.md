@@ -8,7 +8,7 @@ eday: '2026-07-05'
 start: '14:00'
 end: '15:00'
 all_day: false
-time_note: Recurring first-Sunday tour; July 5 specific date unconfirmed
+time_note: First-Sunday tour confirmed; departs Marshall House 2pm; ~1hr; no reservations
 venue: James Marshall House Museum (start)
 address: 60 Bridge Street, Lambertville, NJ 08530
 town: Lambertville, NJ

@@ -7,7 +7,7 @@ category: parade
 eday: '2026-07-04'
 start: '13:00'
 end: '15:00'
-time_note: Recurring annual — route/time unconfirmed
+time_note: Parade 1–3pm
 venue: Lower Southampton Township
 address: Lower Southampton Township, PA 19053
 town: Feasterville / Trevose, PA

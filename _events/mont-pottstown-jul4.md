@@ -5,9 +5,10 @@ title: GoFourth! Festival & Fireworks — Pottstown
 region: bucks
 category: festival
 eday: '2026-07-04'
-start: ''
+start: '15:00'
 end: '22:00'
-time_note: Fireworks 9:30pm
+time_note: Festival opens 3pm; Rotary parade 10:15am; Declaration reading ~6:45pm;
+  fireworks 9:30pm
 venue: Pottstown Memorial Park
 address: 75 W. King Street, Pottstown, PA 19464
 town: Pottstown, PA (Montgomery Co.)

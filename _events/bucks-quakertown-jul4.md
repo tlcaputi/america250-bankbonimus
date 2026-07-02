@@ -5,9 +5,9 @@ title: Quakertown Community Day & Fireworks
 region: bucks
 category: fair
 eday: '2026-07-04'
-start: ''
+start: 08:00
 end: '22:00'
-time_note: Daytime fair; fireworks 9:30pm
+time_note: Pancake breakfast 8am; fireworks 9:30pm
 venue: Memorial Park
 address: 600 Mill Street, Quakertown, PA 18951
 town: Quakertown, PA

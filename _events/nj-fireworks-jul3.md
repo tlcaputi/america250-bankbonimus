@@ -8,7 +8,7 @@ eday: '2026-07-03'
 start: ''
 end: ''
 time_note: Times unconfirmed — verify locally
-venue: Etra Lake Park · TCNJ Green Lane Fields · North Branch Park
+venue: Etra Lake Park (East Windsor) · TCNJ Green Lane Fields (Ewing)
 address: Etra Lake Park, East Windsor, NJ 08520
 town: Mercer & Somerset Counties, NJ
 lat: 40.264
@@ -20,4 +20,4 @@ org: Local municipalities
 featured: false
 all_day: false
 ---
-Several central-NJ community fireworks on July 3: Etra Lake Park (East Windsor), The College of NJ / Green Lane Fields (Ewing), and North Branch Park (Bridgewater/Franklin Park). Times not yet posted — confirm with the municipality.
+Two central-NJ community fireworks on July 3: Etra Lake Park (East Windsor) and The College of NJ / Green Lane Fields (Ewing). Times not yet posted — confirm with the municipality. (North Branch Park in Bridgewater postponed its show to Fri July 10 due to heat.)

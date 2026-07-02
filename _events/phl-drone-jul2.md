@@ -5,8 +5,8 @@ title: Independence Illumination Drone Show
 region: philadelphia
 category: festival
 eday: '2026-07-02'
-start: '21:00'
-end: '21:20'
+start: '22:00'
+end: '22:13'
 time_note: New for 2026
 venue: Independence Mall
 address: 5th & Market Streets, Philadelphia, PA 19106
