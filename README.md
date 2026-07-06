@@ -5,7 +5,9 @@ A personal, no-login guide to **what to do over the July 4th, 2026 weekend** (Am
 and **Central New Jersey** — centered on New Hope, PA. Built to *see everything going on*
 with dates, **hours**, locations, links, and maps so we can decide what to do.
 
-Window covered: **Sun Jun 28 – Sun Jul 5, 2026** (the 250th itself is **Sat Jul 4**).
+Window covered: **Sun Jun 28 – Sun Jul 12, 2026** (the 250th itself is **Sat Jul 4**; the guide
+now runs through the **July 11–12 weekend**, including events that were rescheduled/rain-dated
+out of the Fourth). Extended 2026-07-06.
 
 ## How it's built
 

@@ -1,5 +1,5 @@
 title: "America250 — July 4th Weekend Guide"
-description: "What to do over the July 4th, 2026 weekend (America's 250th) in Philadelphia, Bucks County / New Hope, and Central New Jersey — events, dates, times, and a map."
+description: "What to do from the July 4th, 2026 weekend through the July 11–12 weekend (America's 250th) in Philadelphia, Bucks County / New Hope, and Central New Jersey — events, dates, times, and a map."
 baseurl: ""
 url: "https://america250.bankbonimus.com"
 og_image: "https://media.bankbonimus.com/images/bankbonimus-avatar.png"
@@ -41,7 +41,7 @@ author:
   name: "Bankbonimus"
   avatar: "https://media.bankbonimus.com/images/bankbonimus-avatar.png"
 
-# Ordered days the guide covers (Jun 28 – Jul 5, 2026)
+# Ordered days the guide covers (Jun 28 – Jul 12, 2026)
 days:
   - date: "2026-06-28"
     label: "Sun, Jun 28"
@@ -67,6 +67,27 @@ days:
   - date: "2026-07-05"
     label: "Sun, Jul 5"
     long: "Sunday, July 5"
+  - date: "2026-07-06"
+    label: "Mon, Jul 6"
+    long: "Monday, July 6"
+  - date: "2026-07-07"
+    label: "Tue, Jul 7"
+    long: "Tuesday, July 7"
+  - date: "2026-07-08"
+    label: "Wed, Jul 8"
+    long: "Wednesday, July 8"
+  - date: "2026-07-09"
+    label: "Thu, Jul 9"
+    long: "Thursday, July 9"
+  - date: "2026-07-10"
+    label: "Fri, Jul 10"
+    long: "Friday, July 10"
+  - date: "2026-07-11"
+    label: "Sat, Jul 11"
+    long: "Saturday, July 11"
+  - date: "2026-07-12"
+    label: "Sun, Jul 12"
+    long: "Sunday, July 12"
 
 # Regions (map colors + labels)
 regions:

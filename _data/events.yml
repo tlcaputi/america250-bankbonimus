@@ -395,7 +395,7 @@
   lat: 40.2640
   lng: -74.5260
   cost: "Free"
-  description: "Two central-NJ community fireworks on July 3: Etra Lake Park (East Windsor) and The College of NJ / Green Lane Fields (Ewing). Times not yet posted — confirm with the municipality. (North Branch Park in Bridgewater postponed its show to Fri July 10 due to heat.)"
+  description: "Two central-NJ community fireworks on July 3: Etra Lake Park (East Windsor) and The College of NJ / Green Lane Fields (Ewing). Times not yet posted — confirm with the municipality. (North Branch Park in Bridgewater postponed its show to Fri July 17 due to heat — outside this guide's window.)"
   url: "https://nj1015.com/nj-fourth-july-fireworks-2026/"
   source: "https://nj1015.com/nj-fourth-july-fireworks-2026/"
   org: "Local municipalities"
@@ -2964,7 +2964,7 @@
   start: "18:00"
   end: "21:30"
   all_day: false
-  time_note: Fireworks at 9:15 pm; rain date July 10.
+  time_note: "POSTPONED to Fri July 10 due to extreme heat — see the July 10 listing."
   venue: Franklin Township Municipal Complex
   address: 475 DeMott Lane, Somerset, NJ 08873
   town: Somerset (Franklin Township)
@@ -3296,3 +3296,2112 @@
   source: https://www.visitphilly.com/articles/philadelphia/things-to-do-in-philadelphia-this-week-weekend/
   org: Sunset Social
   featured: false
+
+# ==========================================================
+# EXTENDED WINDOW: Jul 6-12, 2026 (added 2026-07-06 via multi-agent sweep)
+# ==========================================================
+- id: bucks-stmichaels-fair-jul11
+  title: St. Michael's Fair (final weekend) — Levittown
+  region: bucks
+  category: fair
+  date: '2026-07-11'
+  start: '18:00'
+  end: ''
+  all_day: false
+  time_note: Runs nightly from 6pm, July 2–12; July 11–12 is the closing weekend
+  venue: St. Michael the Archangel Catholic Church grounds
+  address: 5205 New Falls Rd, Levittown, PA 19056
+  town: Levittown, Bristol Township
+  lat: 40.1549
+  lng: -74.847
+  cost: Free
+  description: 'The 72nd annual St. Michael''s Fair runs nightly through Saturday, July 12, 2026,
+
+    on the grounds of St. Michael the Archangel Catholic Church in Levittown. Admission
+
+    is free; the fair offers amusement rides, carnival games, and classic fair food.
+
+    Ride wristbands and tickets are sold online, at community retailers, and on-site.
+
+    This entry covers the fair''s continuation into the July 6–12 window (the original
+
+    July 4 date is already in the guide).
+
+    '
+  url: https://www.visitbuckscounty.com/events/upcoming-events/
+  source: https://www.visitbuckscounty.com/events/upcoming-events/
+  org: St. Michael the Archangel Parish
+  featured: false
+- id: bucks-sellersville-carnival-jul10
+  title: Sellersville Fire Department Carnival & Fireworks
+  region: bucks
+  category: fair
+  date: '2026-07-10'
+  start: '18:00'
+  end: ''
+  all_day: false
+  time_note: Carnival July 7–11; wristband nights Tue–Thu from 6pm; nightly bingo 7pm; fireworks Friday
+    July 10
+  venue: Sellersville Fire Department carnival grounds
+  address: Sellersville, PA 18960
+  town: Sellersville
+  lat: 40.356
+  lng: -75.305
+  cost: Free
+  description: 'The Sellersville Fire Department''s 2026 carnival returns July 7–11 with five nights
+
+    of rides, games, carnival food, and nightly bingo at 7pm. A fireworks display caps
+
+    Friday, July 10. Wristband nights run Tuesday through Thursday from 6pm to close
+
+    (presale wristbands $30, $40 at the gate). Free parking and an on-site ATM. Admission
+
+    to the grounds is free.
+
+    '
+  url: https://www.visitbuckscounty.com/events/upcoming-events/
+  source: https://www.visitbuckscounty.com/events/upcoming-events/
+  org: Sellersville Fire Department
+  featured: false
+- id: bucks-peddlers-sand-jul11
+  title: 'Sights in Sand: An American Road Trip — Peddler''s Village'
+  region: bucks
+  category: exhibit
+  date: '2026-07-11'
+  start: ''
+  end: ''
+  all_day: true
+  time_note: On view daily throughout the summer, through Aug 31 2026
+  venue: Peddler's Village
+  address: 100 Peddlers Village, Lahaska, PA 18931
+  town: Lahaska (Buckingham Twp)
+  lat: 40.348
+  lng: -75.028
+  cost: Free
+  description: 'Peddler''s Village hosts a summer-long display of life-sized sand sculptures themed as
+
+    a cross-country American road trip, tying into the country''s 250th birthday. The
+
+    sculptures are placed throughout the village''s brick walkways and gardens and are free
+
+    to view; parking and admission to the village are free.
+
+    '
+  url: https://peddlersvillage.com/events/
+  source: https://peddlersvillage.com/events/
+  org: Peddler's Village
+  featured: false
+- id: bucks-peddlers-tunes-noon-jul10
+  title: Bucks Fever Tunes at Noon — Peddler's Village
+  region: bucks
+  category: concert
+  date: '2026-07-10'
+  start: '12:00'
+  end: '13:00'
+  all_day: false
+  time_note: ''
+  venue: Peddler's Village
+  address: 100 Peddlers Village, Lahaska, PA 18931
+  town: Lahaska (Buckingham Twp)
+  lat: 40.348
+  lng: -75.028
+  cost: Free
+  description: 'A free lunchtime concert in the village as part of the Bucks Fever "Tunes at Noon"
+
+    series. Bring a lunch or grab a bite from village eateries and enjoy live music
+
+    outdoors. Free admission and parking.
+
+    '
+  url: https://peddlersvillage.com/events/
+  source: https://peddlersvillage.com/events/
+  org: Peddler's Village / Bucks Fever
+  featured: false
+- id: bucks-peddlers-localpicks-jul9
+  title: Local Picks — Live Music at Red Fox Lounge, Peddler's Village
+  region: bucks
+  category: concert
+  date: '2026-07-09'
+  start: '17:30'
+  end: '19:30'
+  all_day: false
+  time_note: ''
+  venue: Red Fox Lounge, Peddler's Village
+  address: 100 Peddlers Village, Lahaska, PA 18931
+  town: Lahaska (Buckingham Twp)
+  lat: 40.348
+  lng: -75.028
+  cost: Free
+  description: 'Live music from local artists at the Red Fox Lounge inside Peddler''s Village. Free to
+
+    attend (food and drink available for purchase). Part of the village''s weekly summer
+
+    live-music lineup.
+
+    '
+  url: https://peddlersvillage.com/events/
+  source: https://peddlersvillage.com/events/
+  org: Peddler's Village
+  featured: false
+- id: bucks-bcp-south-pacific-jul11
+  title: South Pacific — Bucks County Playhouse
+  region: bucks
+  category: other
+  date: '2026-07-11'
+  start: ''
+  end: ''
+  all_day: false
+  time_note: Runs June 18–July 26; performances Tue–Sun; ASL-interpreted performance July 12. Confirm
+    exact showtimes.
+  venue: Bucks County Playhouse
+  address: 70 S Main St, New Hope, PA 18938
+  town: New Hope
+  lat: 40.362
+  lng: -74.951
+  cost: Ticketed
+  description: 'Rodgers & Hammerstein''s "South Pacific" plays the Bucks County Playhouse in New Hope
+
+    from June 18 through July 26, 2026, running throughout the July 6–12 window with
+
+    evening and matinee performances Tuesday through Sunday. Starring Ryan Silverman and
+
+    Alexandra Socha. An ASL-interpreted performance is scheduled for July 12. Tickets
+
+    start around $44.
+
+    '
+  url: https://bcptheater.org/
+  source: https://www.phillyvoice.com/south-pacific-bucks-county-playhouse-new-hope-summer-2026/
+  org: Bucks County Playhouse
+  featured: false
+- id: bucks-thompson-jumper-jul8
+  title: 'Thompson Performing Arts Series: Jumper — Doylestown Central Park'
+  region: bucks
+  category: concert
+  date: '2026-07-08'
+  start: '19:00'
+  end: ''
+  all_day: false
+  time_note: Free weekly Wednesday concert series; beer garden & food trucks
+  venue: Central Park Amphitheater
+  address: 425 Wells Rd, Doylestown, PA 18901
+  town: Doylestown Township
+  lat: 40.294
+  lng: -75.104
+  cost: Free
+  description: 'The 2026 Thompson Performing Arts Series continues Wednesday, July 8 at 7pm with
+
+    Jumper, a high-energy dance/party band, at the Central Park amphitheater in Doylestown
+
+    Township. Free admission, with a beer garden and food trucks on site. Bring a blanket
+
+    or lawn chair.
+
+    '
+  url: https://www.doylestownpa.org/resources/news/article/?id=13097
+  source: https://www.doylestownpa.org/resources/news/article/?id=13097
+  org: Doylestown Township / Thompson Organization
+  featured: false
+- id: bucks-doylestown-farmersmkt-jul11
+  title: Doylestown Farmers Market
+  region: bucks
+  category: food
+  date: '2026-07-11'
+  start: 08:00
+  end: '13:00'
+  all_day: false
+  time_note: Every Saturday, April–November
+  venue: Doylestown Farmers Market
+  address: Hamilton St & E State St, Doylestown, PA 18901
+  town: Doylestown
+  lat: 40.31
+  lng: -75.13
+  cost: Free
+  description: 'The Doylestown Farmers Market runs every Saturday from 8am to 1pm, April 18 through
+
+    November 21, 2026 (managed by the Bucks County Foodshed Alliance). Local produce,
+
+    baked goods, meats, cheeses, flowers, and prepared foods in the heart of Doylestown
+
+    Borough. Free to attend.
+
+    '
+  url: https://doylestownfarmersmarket.bucksfoodshed.org/
+  source: https://doylestownfarmersmarket.bucksfoodshed.org/
+  org: Bucks County Foodshed Alliance
+  featured: false
+- id: bucks-wrightstown-farmersmkt-jul11
+  title: Wrightstown Farmers Market
+  region: bucks
+  category: food
+  date: '2026-07-11'
+  start: 09:00
+  end: '12:00'
+  all_day: false
+  time_note: Every Saturday, May–Thanksgiving
+  venue: Middletown Grange Fairgrounds
+  address: 576 Penns Park Rd, Newtown, PA 18940
+  town: Wrightstown
+  lat: 40.267
+  lng: -74.983
+  cost: Free
+  description: 'The Wrightstown Farmers Market runs Saturdays 9am–noon at the Middletown Grange
+
+    Fairgrounds, May through Thanksgiving. Producer-only market with seasonal fruits and
+
+    vegetables, meats, eggs, baked goods, and prepared foods. Free to attend.
+
+    '
+  url: https://wrightstownfarmersmarket.org/
+  source: https://wrightstownfarmersmarket.org/
+  org: Wrightstown Farmers Market
+  featured: false
+- id: bucks-montgomery-twp-concert-jul8
+  title: 'Montgomery Township Summer Concert: The Mighty Manatees'
+  region: bucks
+  category: concert
+  date: '2026-07-08'
+  start: '19:00'
+  end: '20:30'
+  all_day: false
+  time_note: Free Wednesday-night series; food trucks; bring a blanket or chair
+  venue: Montgomery Township Community & Recreation Center front lawn
+  address: 1030 Horsham Rd, North Wales, PA 18936
+  town: Montgomeryville, Montgomery Township
+  lat: 40.235
+  lng: -75.244
+  cost: Free
+  description: 'Montgomery Township''s free summer concert series continues Wednesday, July 8 from
+
+    7–8:30pm on the Rec Center front lawn with The Mighty Manatees, playing a rhythmic
+
+    blend of rock, reggae, blues, country, folk, ska, and zydeco. Food trucks on site;
+
+    bring a blanket or lawn chair.
+
+    '
+  url: https://montcrc.myrec.com/info/activities/program_details.aspx?ProgramID=30061
+  source: https://montcrc.myrec.com/info/activities/program_details.aspx?ProgramID=30061
+  org: Montgomery Township Parks & Recreation
+  featured: false
+- id: bucks-abington-concert-jul9
+  title: Abington Art Center Summer Concert Series — Alverthorpe Manor
+  region: bucks
+  category: concert
+  date: '2026-07-09'
+  start: '17:30'
+  end: ''
+  all_day: false
+  time_note: Grounds open 5:30pm; opening act 6:30pm; headliner 7:15pm. Lineup for July 9 — confirm act.
+  venue: Abington Art Center at Alverthorpe Manor
+  address: 515 Meetinghouse Rd, Jenkintown, PA 19046
+  town: Jenkintown, Abington Township
+  lat: 40.116
+  lng: -75.121
+  cost: Free
+  description: 'The Abington Art Center''s free summer concert series runs Thursday evenings June 18–
+
+    July 16, and continues July 9 on the grounds of Alverthorpe Manor. Grounds open at
+
+    5:30pm with an opening act at 6:30pm and headliner at 7:15pm. All-ages, with regional
+
+    bands, food trucks, and refreshments. Rain or shine (canceled only for hazardous
+
+    weather). Specific July 9 act to be confirmed.
+
+    '
+  url: https://abingtonartcenter.org/events/concert-series/
+  source: https://abingtonartcenter.org/events/concert-series/
+  org: Abington Art Center
+  featured: false
+- id: bucks-carillon-jul9
+  title: Carillon Concert — Washington Memorial Chapel, Valley Forge
+  region: bucks
+  category: concert
+  date: '2026-07-09'
+  start: '19:30'
+  end: ''
+  all_day: false
+  time_note: Weekly summer carillon recital series
+  venue: Washington Memorial Chapel
+  address: 298 Gulph Rd, King of Prussia, PA 19406
+  town: Valley Forge
+  lat: 40.098
+  lng: -75.451
+  cost: Free
+  description: 'A free summer carillon recital at the Washington Memorial Chapel bell tower in Valley
+
+    Forge, Wednesday, July 9 at 7:30pm, played by a rotation of internationally acclaimed
+
+    carillonneurs. Listeners spread out on the chapel grounds beside Valley Forge National
+
+    Historical Park.
+
+    '
+  url: https://www.valleyforge.org/events/concerts-and-live-music/outdoor-summer-concerts/
+  source: https://www.valleyforge.org/events/concerts-and-live-music/outdoor-summer-concerts/
+  org: Washington Memorial Chapel
+  featured: false
+- id: bucks-wchp-wildlife-jul9
+  title: Wildlife Watchers — Washington Crossing Historic Park
+  region: bucks
+  category: family
+  date: '2026-07-09'
+  start: 09:30
+  end: '11:00'
+  all_day: false
+  time_note: Thursday-morning nature series
+  venue: General Greene Pavilion, Washington Crossing Historic Park
+  address: 1112 River Rd, Washington Crossing, PA 18977
+  town: Washington Crossing (Upper Makefield Twp)
+  lat: 40.296
+  lng: -74.869
+  cost: Free
+  description: 'A free Thursday-morning nature program at Washington Crossing Historic Park''s General
+
+    Greene Pavilion, 9:30–11am. Family-friendly wildlife and nature exploration led by
+
+    park staff. Part of a recurring summer Wildlife Watchers series (also July 2, 16, 23,
+
+    30).
+
+    '
+  url: https://events.dcnr.pa.gov/washington_crossing_historic_park_628/calendar
+  source: https://events.dcnr.pa.gov/washington_crossing_historic_park_628/calendar
+  org: Washington Crossing Historic Park (PA DCNR)
+  featured: false
+- id: bucks-wchp-geocaching-jul10
+  title: Geocaching 101 — Washington Crossing Historic Park
+  region: bucks
+  category: family
+  date: '2026-07-10'
+  start: '10:30'
+  end: '12:00'
+  all_day: false
+  time_note: ''
+  venue: General Sullivan Pavilion, Washington Crossing Historic Park
+  address: 1112 River Rd, Washington Crossing, PA 18977
+  town: Washington Crossing (Upper Makefield Twp)
+  lat: 40.296
+  lng: -74.869
+  cost: Free
+  description: 'A free introductory geocaching program at Washington Crossing Historic Park''s General
+
+    Sullivan Pavilion, Friday, July 10 from 10:30am to noon. Learn the basics of using GPS
+
+    to find hidden caches, then try it in the park. Family-friendly.
+
+    '
+  url: https://events.dcnr.pa.gov/washington_crossing_historic_park_628/calendar
+  source: https://events.dcnr.pa.gov/washington_crossing_historic_park_628/calendar
+  org: Washington Crossing Historic Park (PA DCNR)
+  featured: false
+- id: bucks-shadybrook-eras-jul10
+  title: 'Summer unWINEd Concert: Eras Tribute Night — Shady Brook Farm'
+  region: bucks
+  category: concert
+  date: '2026-07-10'
+  start: '17:30'
+  end: '22:00'
+  all_day: false
+  time_note: Friday July 10 & Saturday July 11; Sat is themed Eras Tribute Night. Concert ticket required.
+  venue: Shady Brook Farm
+  address: 931 Stony Hill Rd, Yardley, PA 19067
+  town: Yardley (Lower Makefield Twp)
+  lat: 40.245
+  lng: -74.877
+  cost: Ticketed
+  description: 'Shady Brook Farm''s Summer unWINEd concert series continues the weekend of July 10–11
+
+    with live music, wine and beer garden, food, and lawn seating overlooking the fields.
+
+    Saturday, July 11 is a themed "Eras" tribute night. Gates around 5:30pm; concert
+
+    tickets required (season pass also valid). Family-friendly with pick-your-own access
+
+    earlier in the day.
+
+    '
+  url: https://shadybrookfarm.com/pages/summer-unwined-concerts
+  source: https://shadybrookfarm.com/pages/summer-unwined-concerts
+  org: Shady Brook Farm
+  featured: false
+- id: bucks-sesame-tango-jul10
+  title: Tango's Gotcha Day Celebration — Sesame Place
+  region: bucks
+  category: family
+  date: '2026-07-10'
+  start: ''
+  end: ''
+  all_day: false
+  time_note: July 10–12, 2026; within regular park hours. Park admission required.
+  venue: Sesame Place Philadelphia
+  address: 100 Sesame Rd, Langhorne, PA 19047
+  town: Langhorne (Middletown Twp)
+  lat: 40.18
+  lng: -74.869
+  cost: Ticketed
+  description: 'A special weekend (July 10–12) at Sesame Place celebrating Tango''s "Gotcha Day," with
+
+    themed activities alongside the park''s summer Sesame Summer Splash water attractions,
+
+    rides, shows, and the Sesame Street Parade. Requires park admission.
+
+    '
+  url: https://sesameplace.com/philadelphia/events/
+  source: https://sesameplace.com/philadelphia/events/
+  org: Sesame Place Philadelphia
+  featured: false
+- id: bucks-pennsbury-seed-jul12
+  title: 'Living History Theater: Seed of a Nation — Pennsbury Manor'
+  region: bucks
+  category: reenactment
+  date: '2026-07-12'
+  start: '13:00'
+  end: '16:00'
+  all_day: false
+  time_note: ''
+  venue: Pennsbury Manor
+  address: 400 Pennsbury Memorial Rd, Morrisville, PA 19067
+  town: Morrisville (Falls Twp)
+  lat: 40.147
+  lng: -74.808
+  cost: Ticketed
+  description: 'Living History Theater at Pennsbury Manor, the reconstructed 17th-century country
+
+    estate of Pennsylvania founder William Penn, Sunday, July 12 from 1–4pm. The "Seed of
+
+    a Nation" program uses costumed interpreters and the site''s exhibits to explore Penn''s
+
+    vision and colonial-era Pennsylvania. Admission applies.
+
+    '
+  url: https://www.pennsburymanor.org/events/
+  source: https://www.pennsburymanor.org/events/
+  org: Pennsbury Manor (PHMC)
+  featured: false
+- id: bucks-perkasie-farmersmkt-jul11
+  title: Perkasie Farmers Market
+  region: bucks
+  category: food
+  date: '2026-07-11'
+  start: 09:00
+  end: '12:00'
+  all_day: false
+  time_note: Every Saturday through Oct 31; weekly live music
+  venue: Perkasie Farmers Market (Lenape Park area)
+  address: Perkasie, PA 18944
+  town: Perkasie
+  lat: 40.372
+  lng: -75.291
+  cost: Free
+  description: 'The Perkasie Farmers Market runs Saturdays 9am–noon through October 31, featuring
+
+    local produce, prepared foods, and weekly live music. Free to attend.
+
+    '
+  url: https://perkasieborough.org/information/community-events/farmers-market/
+  source: https://perkasieborough.org/information/community-events/farmers-market/
+  org: Perkasie Borough
+  featured: false
+- id: bucks-lansdale-farmersmkt-jul11
+  title: Lansdale Farmers Market
+  region: bucks
+  category: food
+  date: '2026-07-11'
+  start: 09:00
+  end: '12:30'
+  all_day: false
+  time_note: Every Saturday through Dec 19; weekly live entertainment
+  venue: Lansdale Farmers Market
+  address: Vine St & Main St, Lansdale, PA 19446
+  town: Lansdale
+  lat: 40.243
+  lng: -75.284
+  cost: Free
+  description: 'The Lansdale Farmers Market operates Saturdays 9am–12:30pm through December 19, 2026,
+
+    in downtown Lansdale, with local vendors and weekly live entertainment. Free to attend.
+
+    '
+  url: https://www.keepingkidsconnected.com/farmers-markets/
+  source: https://www.keepingkidsconnected.com/farmers-markets/
+  org: Discover Lansdale
+  featured: false
+- id: nj-somerset-patriots-jul7
+  title: Somerset Patriots vs. Reading Fightin Phils
+  region: nj
+  category: other
+  date: '2026-07-07'
+  start: '18:35'
+  end: ''
+  all_day: false
+  time_note: First pitch 6:35pm (gates ~1hr prior)
+  venue: TD Bank Ballpark
+  address: 1 Patriots Park, Bridgewater, NJ 08807
+  town: Bridgewater, Somerset County
+  lat: 40.5686
+  lng: -74.671
+  cost: Ticketed
+  description: 'Double-A Eastern League baseball — the Somerset Patriots (Yankees affiliate) open a
+
+    six-game homestand against the Reading Fightin Phils (Phillies affiliate) at TD Bank
+
+    Ballpark. July is the crown jewel of the home schedule with 11 straight home games to
+
+    open the month. Family-friendly evening at the ballpark.
+
+    '
+  url: https://www.milb.com/somerset/schedule/2026/fullseason
+  source: https://battingcagesnearby.com/somerset-patriots-schedule-2026/
+  org: Somerset Patriots
+  featured: false
+- id: nj-somerset-patriots-jul8
+  title: Somerset Patriots vs. Reading Fightin Phils (day game)
+  region: nj
+  category: other
+  date: '2026-07-08'
+  start: '12:05'
+  end: ''
+  all_day: false
+  time_note: First pitch 12:05pm — midday day game
+  venue: TD Bank Ballpark
+  address: 1 Patriots Park, Bridgewater, NJ 08807
+  town: Bridgewater, Somerset County
+  lat: 40.5686
+  lng: -74.671
+  cost: Ticketed
+  description: 'Midday Double-A baseball as the Somerset Patriots host the Reading Fightin Phils. A
+
+    weekday getaway-time day game at TD Bank Ballpark, part of the Patriots'' long July
+
+    homestand.
+
+    '
+  url: https://www.milb.com/somerset/schedule/2026/fullseason
+  source: https://battingcagesnearby.com/somerset-patriots-schedule-2026/
+  org: Somerset Patriots
+  featured: false
+- id: nj-somerset-patriots-jul9
+  title: Somerset Patriots vs. Reading Fightin Phils
+  region: nj
+  category: other
+  date: '2026-07-09'
+  start: '18:35'
+  end: ''
+  all_day: false
+  time_note: First pitch 6:35pm
+  venue: TD Bank Ballpark
+  address: 1 Patriots Park, Bridgewater, NJ 08807
+  town: Bridgewater, Somerset County
+  lat: 40.5686
+  lng: -74.671
+  cost: Ticketed
+  description: 'Double-A Eastern League baseball at TD Bank Ballpark — Somerset Patriots vs. the
+
+    Reading Fightin Phils. Part of the Patriots'' opening-month homestand.
+
+    '
+  url: https://www.milb.com/somerset/schedule/2026/fullseason
+  source: https://battingcagesnearby.com/somerset-patriots-schedule-2026/
+  org: Somerset Patriots
+  featured: false
+- id: nj-somerset-patriots-jul10
+  title: Somerset Patriots vs. Reading Fightin Phils
+  region: nj
+  category: other
+  date: '2026-07-10'
+  start: '19:05'
+  end: ''
+  all_day: false
+  time_note: First pitch 7:05pm — Friday night (fireworks nights common; confirm)
+  venue: TD Bank Ballpark
+  address: 1 Patriots Park, Bridgewater, NJ 08807
+  town: Bridgewater, Somerset County
+  lat: 40.5686
+  lng: -74.671
+  cost: Ticketed
+  description: 'Friday-night Double-A baseball as the Somerset Patriots host the Reading Fightin
+
+    Phils at TD Bank Ballpark. Friday and Saturday home games frequently feature
+
+    post-game fireworks — check the team promotions page to confirm.
+
+    '
+  url: https://www.milb.com/somerset/schedule/2026/fullseason
+  source: https://battingcagesnearby.com/somerset-patriots-schedule-2026/
+  org: Somerset Patriots
+  featured: false
+- id: nj-somerset-patriots-jul11
+  title: Somerset Patriots vs. Reading Fightin Phils
+  region: nj
+  category: other
+  date: '2026-07-11'
+  start: '19:05'
+  end: ''
+  all_day: false
+  time_note: First pitch 7:05pm — Saturday night (fireworks nights common; confirm)
+  venue: TD Bank Ballpark
+  address: 1 Patriots Park, Bridgewater, NJ 08807
+  town: Bridgewater, Somerset County
+  lat: 40.5686
+  lng: -74.671
+  cost: Ticketed
+  description: 'Saturday-night Double-A baseball at TD Bank Ballpark — Somerset Patriots vs. Reading
+
+    Fightin Phils. Saturday home dates commonly include post-game fireworks; confirm on
+
+    the team''s promotions schedule.
+
+    '
+  url: https://www.milb.com/somerset/schedule/2026/fullseason
+  source: https://battingcagesnearby.com/somerset-patriots-schedule-2026/
+  org: Somerset Patriots
+  featured: false
+- id: nj-somerset-patriots-jul12
+  title: Somerset Patriots vs. Reading Fightin Phils (day game)
+  region: nj
+  category: other
+  date: '2026-07-12'
+  start: '13:05'
+  end: ''
+  all_day: false
+  time_note: First pitch 1:05pm — Sunday day game, homestand finale
+  venue: TD Bank Ballpark
+  address: 1 Patriots Park, Bridgewater, NJ 08807
+  town: Bridgewater, Somerset County
+  lat: 40.5686
+  lng: -74.671
+  cost: Ticketed
+  description: 'Sunday-afternoon baseball closes the Patriots'' homestand against the Reading Fightin
+
+    Phils at TD Bank Ballpark. Sunday games are typically family/kids-oriented afternoons.
+
+    '
+  url: https://www.milb.com/somerset/schedule/2026/fullseason
+  source: https://battingcagesnearby.com/somerset-patriots-schedule-2026/
+  org: Somerset Patriots
+  featured: false
+- id: nj-hunterdon-symphony-fireworks-jul8
+  title: America's 250th Celebration — Hunterdon Symphony & Fireworks
+  region: nj
+  category: concert
+  date: '2026-07-08'
+  start: '19:00'
+  end: ''
+  all_day: false
+  time_note: Concert 7pm; Declaration reading precedes; fireworks finale. Rain date Wed→Thu July 9; if
+    storms, moves indoors to Hunterdon Central HS (doors 6pm)
+  venue: Deer Path Park
+  address: 120 West Woodschurch Road, Flemington, NJ 08822
+  town: Flemington, Hunterdon County
+  lat: 40.533
+  lng: -74.876
+  cost: Free
+  description: 'Hunterdon County''s marquee America 250 event: the Hunterdon Symphony performs patriotic,
+
+    made-in-America works (Sousa, Copland, Bernstein, Horner) as part of the county''s free
+
+    Music Under the Stars series, opened by a reading of the Declaration of Independence and
+
+    capped by what organizers bill as "the biggest fireworks display the county has ever
+
+    seen." Bring blankets and lawn chairs. Rain date is Thursday July 9; in lighter weather
+
+    the concert (no fireworks) moves indoors to Hunterdon Central High School, 84 Route 31,
+
+    doors 6pm, no food/drink in the auditorium. Call (908) 782-7275 after 4:30pm for the
+
+    weather call.
+
+    '
+  url: https://www.co.hunterdon.nj.us/1213/Annual-Music-Under-the-Stars-Concert-Ser
+  source: https://patch.com/new-jersey/flemington/free-summer-concerts-flemingtons-deer-path-park-include-hunterdon-symphony
+  org: Hunterdon County / Hunterdon Symphony
+  featured: true
+- id: nj-plays-in-park-1776-jul8
+  title: 'Plays-in-the-Park: ''1776'' (outdoor musical)'
+  region: nj
+  category: concert
+  date: '2026-07-08'
+  start: '20:00'
+  end: ''
+  all_day: false
+  time_note: Nightly 8pm, July 8–18 (NO Sunday shows, so July 8/9/10/11 in this window); box office opens
+    5:30pm, on-site cash sales only
+  venue: Stephen J. Capestro Theatre, Roosevelt Park
+  address: 1 Pine Drive, Edison, NJ 08837
+  town: Edison, Middlesex County
+  lat: 40.517
+  lng: -74.339
+  cost: $8
+  description: 'Middlesex County''s long-running outdoor Plays-in-the-Park stages the Tony-winning
+
+    musical "1776" — the story of John Adams, Benjamin Franklin and Thomas Jefferson
+
+    pushing the Continental Congress toward independence — a fitting Semiquincentennial
+
+    pick. Runs nightly at 8pm July 8–18 (no Sunday performances). Tickets $8 adults / $5
+
+    seniors 60+ / free for kids 12 & under, sold only at the box office (opens 5:30pm),
+
+    no advance or online sales. Bring a lawn chair no taller than 40 inches.
+
+    '
+  url: https://www.middlesexcountynj.gov/
+  source: https://www.rlsmedia.com/node/63257
+  org: Middlesex County Office of Parks & Recreation
+  featured: false
+- id: nj-trenton-quakers-heritage-jul6
+  title: Trenton Heritage Week — Quaker Meetinghouse Open House & Colonial Walking Tour
+  region: nj
+  category: tour
+  date: '2026-07-06'
+  start: 09:00
+  end: '14:00'
+  all_day: false
+  time_note: Meetinghouse tours 9am–2pm; 'Quakers! Choose a Side' talks 9:30am & 2pm; 8-block colonial
+    walking tour 11am. Program repeats Tue July 7
+  venue: Trenton Friends Meeting House
+  address: 142 East Hanover Street, Trenton, NJ 08608
+  town: Downtown Trenton, Mercer County
+  lat: 40.221
+  lng: -74.765
+  cost: Free
+  description: 'Part of Trenton Heritage Week''s America 250 programming. Tour the historic Quaker
+
+    meetinghouse and burial ground — where Declaration signer George Clymer is buried —
+
+    with reminiscences and history talks. Historian Frederick Millner presents "Quakers!
+
+    Choose a Side" on the Society of Friends in Revolutionary New Jersey (9:30am & 2pm),
+
+    and attorney-historian Marc A. McKithen leads an eight-block guided walking tour of
+
+    colonial Trenton at 11am. Repeats Tuesday July 7.
+
+    '
+  url: https://www.trentonnj.org/832/Trenton-Heritage-Week
+  source: https://www.trentonnj.org/832/Trenton-Heritage-Week
+  org: City of Trenton / Trenton Heritage Week
+  featured: false
+- id: nj-njstate-library-nj250-jul6
+  title: 'NJ250: Living Documents, Evolving Rights (1776–2026) — State Library Tours'
+  region: nj
+  category: exhibit
+  date: '2026-07-06'
+  start: '11:00'
+  end: ''
+  all_day: false
+  time_note: Guided tours 11am & 1:30pm on July 6, 7 and 8
+  venue: New Jersey State Library
+  address: 185 West State Street, Trenton, NJ 08608
+  town: Downtown Trenton, Mercer County
+  lat: 40.221
+  lng: -74.77
+  cost: Free
+  description: 'A curated New Jersey State Library exhibition tracing the state''s constitutional history
+
+    across three eras — Revolutionary, Reform, and Modern — for the Semiquincentennial.
+
+    Guided tours at 11am and 1:30pm on July 6, 7 and 8 as part of Trenton Heritage Week.
+
+    '
+  url: https://www.trentonnj.org/832/Trenton-Heritage-Week
+  source: https://www.trentonnj.org/832/Trenton-Heritage-Week
+  org: New Jersey State Library
+  featured: false
+- id: nj-njstate-museum-power-to-change-jul7
+  title: '''The Power to Change: Revolutionary Stories from the NJ State Archives'''
+  region: nj
+  category: exhibit
+  date: '2026-07-07'
+  start: 09:00
+  end: '16:45'
+  all_day: false
+  time_note: On view during Heritage Week incl. July 7 & 8, 9am–4:45pm
+  venue: New Jersey State Museum
+  address: 205 West State Street, Trenton, NJ 08608
+  town: Downtown Trenton, Mercer County
+  lat: 40.221
+  lng: -74.771
+  cost: Free
+  description: 'Semiquincentennial exhibition at the New Jersey State Museum featuring rarely seen
+
+    federal and state charters and pivotal documents from the state archives. Open during
+
+    Trenton Heritage Week (listed for July 5, 7 and 8), 9am–4:45pm.
+
+    '
+  url: https://www.trentonnj.org/832/Trenton-Heritage-Week
+  source: https://www.trentonnj.org/832/Trenton-Heritage-Week
+  org: New Jersey State Museum
+  featured: false
+- id: nj-trenton-heritage-finale-jul8
+  title: Trenton Heritage Week Finale — 250th Proclamation of the Declaration & History Fest250
+  region: nj
+  category: ceremony
+  date: '2026-07-08'
+  start: '12:00'
+  end: ''
+  all_day: false
+  time_note: Declaration reading 12pm; History Fest250 1pm; downtown walking tour 3pm; international proclamation
+    6pm; Blawenburg Band colonial concert 6:30pm
+  venue: Downtown Trenton (23 South Warren Street)
+  address: 23 South Warren Street, Trenton, NJ 08608
+  town: Downtown Trenton, Mercer County
+  lat: 40.219
+  lng: -74.767
+  cost: Free
+  description: 'The capstone day of Trenton Heritage Week. At noon, Trenton Kiwanis and the City stage
+
+    the 250th Annual Proclamation of the Declaration of Independence at the 23 S. Warren St.
+
+    plaza, followed by History Fest250 (exhibits, demonstrations and family activities
+
+    across downtown) at 1pm, a two-mile Historic Downtown Trenton Walking Tour at 3pm, an
+
+    International Proclamation of the Declaration at 6pm, and a free Blawenburg Band colonial
+
+    concert at 6:30pm. A full day of free Revolutionary-history programming in the capital.
+
+    '
+  url: https://www.trentonnj.org/832/Trenton-Heritage-Week
+  source: https://www.trentonnj.org/832/Trenton-Heritage-Week
+  org: City of Trenton / Trenton Kiwanis
+  featured: true
+- id: nj-princeton-farmers-market-jul9
+  title: Princeton Farmers Market
+  region: nj
+  category: food
+  date: '2026-07-09'
+  start: '10:00'
+  end: '15:00'
+  all_day: false
+  time_note: Every Thursday 10am–3pm through Nov 19
+  venue: Hinds Plaza
+  address: 55 Witherspoon Street, Princeton, NJ 08542
+  town: Princeton, Mercer County
+  lat: 40.351
+  lng: -74.66
+  cost: Free
+  description: 'The weekly Princeton Farmers Market fills Hinds Plaza beside the public library with
+
+    regional farms, bakers and prepared-food vendors, Thursdays 10am–3pm through mid-November.
+
+    A pleasant downtown-Princeton stop combined with the library, shops and cafes.
+
+    '
+  url: https://www.princetonfarmersmarket.com/
+  source: https://www.princetonfarmersmarket.com/
+  org: Princeton Farmers Market
+  featured: false
+- id: nj-gfs-5after5-jul10
+  title: Grounds For Sculpture — $5 After 5pm Fridays (America 250 pricing)
+  region: nj
+  category: exhibit
+  date: '2026-07-10'
+  start: '17:00'
+  end: '21:00'
+  all_day: false
+  time_note: 5–9pm; $5 admission after 5pm on summer Fridays through Sept 4
+  venue: Grounds For Sculpture
+  address: 80 Sculptors Way, Hamilton, NJ 08619
+  town: Hamilton, Mercer County
+  lat: 40.2246
+  lng: -74.6975
+  cost: $5
+  description: 'As part of the nation''s 250th, Grounds For Sculpture — the 42-acre contemporary sculpture
+
+    park in Hamilton — is open until 9pm Friday–Sunday and drops admission to just $5 per
+
+    person from 5–9pm on summer Fridays through September 4 (free for members). A relaxed
+
+    golden-hour wander among hundreds of monumental sculptures. A "Beading Circle Basics"
+
+    workshop (6–7:30pm, ticketed) also runs this evening.
+
+    '
+  url: https://www.groundsforsculpture.org/calendar/
+  source: https://www.groundsforsculpture.org/calendar/
+  org: Grounds For Sculpture
+  featured: false
+- id: nj-gfs-family-day-jul11
+  title: Grounds For Sculpture — Family Open Studios & Butterfly Bonanza Tour
+  region: nj
+  category: family
+  date: '2026-07-11'
+  start: '11:00'
+  end: '15:00'
+  all_day: false
+  time_note: Family Open Studios 11am–3pm; Butterfly Bonanza tour 10:15–11:45am; Art Encounters talk 11–11:15am
+  venue: Grounds For Sculpture
+  address: 80 Sculptors Way, Hamilton, NJ 08619
+  town: Hamilton, Mercer County
+  lat: 40.2246
+  lng: -74.6975
+  cost: Ticketed
+  description: 'A family-friendly Saturday at Grounds For Sculpture: drop-in Family Open Studios
+
+    ("Tilting Trails," 11am–3pm, free with admission), a guided Butterfly Bonanza garden
+
+    tour (10:15am), and a short Art Encounters gallery talk on Anthony Caro''s "Medusa"
+
+    (11am), all inside the sculpture park. General admission required; see site for pricing.
+
+    '
+  url: https://www.groundsforsculpture.org/calendar/
+  source: https://www.groundsforsculpture.org/calendar/
+  org: Grounds For Sculpture
+  featured: false
+- id: nj-updike-farmstead-tour-jul10
+  title: Updike Farmstead Museum & Grounds Tour
+  region: nj
+  category: tour
+  date: '2026-07-10'
+  start: '13:00'
+  end: '14:00'
+  all_day: false
+  time_note: Guided intro tour 1–2pm; also offered Sat July 11 at 1pm. Advance ticket required
+  venue: Updike Farmstead (Historical Society of Princeton)
+  address: 354 Quaker Road, Princeton, NJ 08540
+  town: Princeton, Mercer County
+  lat: 40.335
+  lng: -74.664
+  cost: Ticketed
+  description: 'The Historical Society of Princeton offers a guided ~30-minute introductory tour of its
+
+    late-18th/early-19th-century farmhouse museum and grounds. Access to the farmstead is by
+
+    guided tour only. Offered Friday July 10 and Saturday July 11 at 1pm; advance tickets
+
+    required.
+
+    '
+  url: https://princetonhistory.org/visit/updike-farmstead/
+  source: https://princetonhistory.org/calendar-of-events/
+  org: Historical Society of Princeton
+  featured: false
+- id: nj-somerville-summerstage-jul10
+  title: Downtown Somerville Summer Stage — Almost Autumn
+  region: nj
+  category: concert
+  date: '2026-07-10'
+  start: '18:00'
+  end: '21:00'
+  all_day: false
+  time_note: Approx 6–9pm — confirm exact time; free
+  venue: Division Street (pedestrian plaza)
+  address: Division Street & Main Street, Somerville, NJ 08876
+  town: Somerville, Somerset County
+  lat: 40.574
+  lng: -74.6096
+  cost: Free
+  description: 'Downtown Somerville''s free Summer Stage live-music series brings regional bands to the
+
+    Division Street pedestrian plaza in a festival-like street setting. Almost Autumn
+
+    performs this evening. Surrounding restaurants and bars offer outdoor dining.
+
+    '
+  url: https://downtownsomerville.org/event/2026-summer-stage-concert-series/
+  source: https://downtownsomerville.org/event/2026-summer-stage-concert-series/2026-05-23/
+  org: Downtown Somerville Alliance
+  featured: false
+- id: nj-perthamboy-artflow-funksalsa-jul10
+  title: Perth Amboy Art & Flow — Funk Salsa Urban Concert
+  region: nj
+  category: concert
+  date: '2026-07-10'
+  start: '18:00'
+  end: '20:30'
+  all_day: false
+  time_note: 6–8:30pm
+  venue: Amphitheater Park (Urban Amphitheater)
+  address: 215 Elm Street, Perth Amboy, NJ 08861
+  town: Perth Amboy, Middlesex County
+  lat: 40.5065
+  lng: -74.2726
+  cost: Free
+  description: 'Part of Perth Amboy''s free 2026 Art & Flow series of live music, movie nights and arts
+
+    programming. This waterfront-city amphitheater show features a Funk/Salsa/Urban lineup,
+
+    6–8:30pm, free and open to the public.
+
+    '
+  url: https://www.perthamboynj.org/community/news/announcements/perth_amboy_arts_and_flow_music_concert_series
+  source: https://www.perthamboynj.org/community/news/announcements/perth_amboy_arts_and_flow_music_concert_series
+  org: City of Perth Amboy
+  featured: false
+- id: nj-acme-foreign-fridays-jul10
+  title: 'Foreign Fridays Film: ''Before Sunrise'' — ACME Screening Room'
+  region: nj
+  category: other
+  date: '2026-07-10'
+  start: '19:00'
+  end: '21:30'
+  all_day: false
+  time_note: 7–9:30pm
+  venue: ACME Screening Room
+  address: 25 South Union Street, Lambertville, NJ 08530
+  town: Lambertville, Hunterdon County
+  lat: 40.3648
+  lng: -74.9469
+  cost: Ticketed
+  description: 'The nonprofit ACME Screening Room in Lambertville hosts its Foreign Fridays series with
+
+    a screening of Richard Linklater''s "Before Sunrise." An easy pairing with a stroll
+
+    across the bridge to New Hope or dinner in downtown Lambertville.
+
+    '
+  url: https://www.acmescreeningroom.org/
+  source: https://lambpage.com/lambertville-events-july-2026/
+  org: ACME Screening Room
+  featured: false
+- id: nj-artists-gallery-walk-with-nature-jul10
+  title: '''A Walk with Nature: Light, Shadow and Color'' — Artists'' Gallery'
+  region: nj
+  category: exhibit
+  date: '2026-07-10'
+  start: '18:00'
+  end: '20:00'
+  all_day: false
+  time_note: Opening/exhibition event 6–8pm
+  venue: Artists' Gallery
+  address: 18 Bridge Street, Lambertville, NJ 08530
+  town: Lambertville, Hunterdon County
+  lat: 40.3657
+  lng: -74.947
+  cost: Free
+  description: 'The cooperative Artists'' Gallery in downtown Lambertville shows "A Walk with Nature:
+
+    Light, Shadow and Color," an exhibition of watercolor and mixed-media works, with an
+
+    evening gallery event 6–8pm. Part of Lambertville''s walkable riverside arts scene.
+
+    '
+  url: https://lambpage.com/lambertville-events-july-2026/
+  source: https://lambpage.com/lambertville-events-july-2026/
+  org: Artists' Gallery, Lambertville
+  featured: false
+- id: nj-institute-woods-history-hike-jul11
+  title: History/Nature Hike at Institute Woods
+  region: nj
+  category: tour
+  date: '2026-07-11'
+  start: '16:00'
+  end: '18:00'
+  all_day: false
+  time_note: 4–6pm; meet at Princeton Battlefield parking lot
+  venue: Institute Woods (meet at Princeton Battlefield)
+  address: 500 Mercer Road, Princeton, NJ 08540
+  town: Princeton, Mercer County
+  lat: 40.3327
+  lng: -74.6773
+  cost: Ticketed
+  description: 'A Historical Society of Princeton guided hike weaving Revolutionary-era history with the
+
+    natural sights and sounds of the Institute Woods, the wooded preserve adjoining Princeton
+
+    Battlefield. Meets at the Princeton Battlefield parking lot; 4–6pm.
+
+    '
+  url: https://princetonhistory.org/calendar-of-events/
+  source: https://princetonhistory.org/calendar-of-events/
+  org: Historical Society of Princeton
+  featured: false
+- id: nj-westwindsor-farmers-market-jul11
+  title: West Windsor Community Farmers' Market
+  region: nj
+  category: food
+  date: '2026-07-11'
+  start: 09:00
+  end: '13:00'
+  all_day: false
+  time_note: Saturdays 9am–1pm, May–Thanksgiving
+  venue: Vaughn Commuter Lot (Princeton Junction Station)
+  address: 877 Alexander Road, West Windsor, NJ 08550
+  town: West Windsor, Mercer County
+  lat: 40.318
+  lng: -74.622
+  cost: Free
+  description: 'One of Central Jersey''s largest producer-only markets — 19 farms plus 30+ artisan
+
+    food and natural-product vendors from within 75 miles — at the Princeton Junction train
+
+    station commuter lot, Saturdays 9am–1pm. Live music, cooking demos and community groups
+
+    on site.
+
+    '
+  url: https://www.westwindsorfarmersmarket.org/
+  source: https://www.westwindsorfarmersmarket.org/
+  org: West Windsor Community Farmers' Market
+  featured: false
+- id: nj-somerville-summerstage-jul11
+  title: Downtown Somerville Summer Stage — Mason Band
+  region: nj
+  category: concert
+  date: '2026-07-11'
+  start: '18:00'
+  end: '21:00'
+  all_day: false
+  time_note: Approx 6–9pm — confirm exact time; free
+  venue: Division Street (pedestrian plaza)
+  address: Division Street & Main Street, Somerville, NJ 08876
+  town: Somerville, Somerset County
+  lat: 40.574
+  lng: -74.6096
+  cost: Free
+  description: 'Free Saturday-night live music on Downtown Somerville''s Division Street pedestrian plaza,
+
+    part of the Summer Stage series. The Mason Band performs. Street-fair atmosphere with
+
+    outdoor dining at surrounding restaurants.
+
+    '
+  url: https://downtownsomerville.org/event/2026-summer-stage-concert-series/
+  source: https://downtownsomerville.org/event/2026-summer-stage-concert-series/2026-05-23/
+  org: Downtown Somerville Alliance
+  featured: false
+- id: nj-ellarslie-open43-jul11
+  title: Ellarslie Open 43 — Trenton City Museum
+  region: nj
+  category: exhibit
+  date: '2026-07-11'
+  start: '12:00'
+  end: '16:00'
+  all_day: false
+  time_note: Museum open Thu–Sat 12–4pm, Sun 1–4pm (open July 9–12 this week). Exhibit runs through Sept
+    6
+  venue: Trenton City Museum at Ellarslie Mansion, Cadwalader Park
+  address: 299 Parkside Avenue, Trenton, NJ 08618
+  town: Cadwalader Park, Trenton, Mercer County
+  lat: 40.229
+  lng: -74.78
+  cost: Free
+  description: 'The Trenton City Museum''s flagship juried show, Ellarslie Open 43, fills the Italianate
+
+    Ellarslie Mansion in Cadwalader Park with 127 works by 125 artists across many genres,
+
+    on view through September 6. Free to visit; open Thursday–Saturday 12–4pm and Sunday
+
+    1–4pm.
+
+    '
+  url: https://www.ellarslie.org/
+  source: https://whichmuseum.com/museum/trenton-city-museum-at-ellarslie-11726/opening-hours
+  org: Trenton City Museum Society
+  featured: false
+- id: nj-morven-exhibits-jul11
+  title: Morven Museum & Garden — Revolutionary Exhibitions & Historic Gardens
+  region: nj
+  category: exhibit
+  date: '2026-07-11'
+  start: '10:00'
+  end: '16:00'
+  all_day: false
+  time_note: Museum open Wed–Sun 10am–4pm; gardens open daily dawn–dusk
+  venue: Morven Museum & Garden
+  address: 55 Stockton Street, Princeton, NJ 08540
+  town: Princeton, Mercer County
+  lat: 40.352
+  lng: -74.664
+  cost: Ticketed
+  description: 'The former governor''s mansion and one-time home of Declaration signer Richard Stockton,
+
+    Morven shows its permanent "Historic Morven: A Window into America''s Past" plus special
+
+    exhibitions "Northern Family, Southern Ties" and "Morven Revealed," surrounded by
+
+    restored historic gardens. Museum open Wed–Sun 10am–4pm; the gardens are free and open
+
+    daily dawn to dusk.
+
+    '
+  url: https://www.morven.org/
+  source: https://www.morven.org/
+  org: Morven Museum & Garden
+  featured: false
+- id: nj-soupcon-brainwash-victim-jul12
+  title: Brainwash Victim — Live Music at Soupçon Salon Gallery
+  region: nj
+  category: concert
+  date: '2026-07-12'
+  start: '19:00'
+  end: ''
+  all_day: false
+  time_note: 7pm
+  venue: Soupçon Salon Gallery
+  address: Lambertville, NJ 08530
+  town: Lambertville, Hunterdon County
+  lat: 40.366
+  lng: -74.945
+  cost: Ticketed
+  description: 'An intimate Sunday-evening live-music set by Brainwash Victim at the Soupçon Salon
+
+    Gallery in Lambertville. Part of the town''s arts-and-music calendar.
+
+    '
+  url: https://lambpage.com/lambertville-events-july-2026/
+  source: https://lambpage.com/lambertville-events-july-2026/
+  org: Soupçon Salon Gallery
+  featured: false
+- id: nj-nursery-of-rebellion-exhibit-jul12
+  title: '''Nursery of Rebellion'': Princeton & the American Revolution (final days)'
+  region: nj
+  category: exhibit
+  date: '2026-07-12'
+  start: ''
+  end: ''
+  all_day: false
+  time_note: On view THROUGH July 12 — final weekend. Gallery hours vary; confirm before visiting
+  venue: Ellen and Leonard Milberg Gallery, Firestone Library
+  address: 1 Washington Road, Princeton, NJ 08544
+  town: Princeton University, Mercer County
+  lat: 40.3495
+  lng: -74.6575
+  cost: Free
+  description: 'Princeton University Library''s Semiquincentennial exhibition marking 250 years of U.S.
+
+    independence and the Battle of Princeton, drawing on archival materials from the
+
+    revolutionary period. On view through July 12, so this is its final weekend; free
+
+    admission in the Milberg Gallery at Firestone Library.
+
+    '
+  url: https://library.princeton.edu/princetonandtherevolution
+  source: https://www.experienceprinceton.org/princeton250
+  org: Princeton University Library
+  featured: false
+- id: nj-princeton-battlefield-rev-sundays-jul12
+  title: Revolutionary Sundays Tour — Princeton Battlefield State Park
+  region: nj
+  category: tour
+  date: '2026-07-12'
+  start: '13:00'
+  end: ''
+  all_day: false
+  time_note: 1pm; registration required
+  venue: Princeton Battlefield State Park (Thomas Clarke House)
+  address: 500 Mercer Road, Princeton, NJ 08540
+  town: Princeton, Mercer County
+  lat: 40.3327
+  lng: -74.6773
+  cost: Free
+  description: 'The Princeton Battlefield Society''s weekly Revolutionary Sundays tour walks visitors
+
+    through the Ten Crucial Days and the January 1777 Battle of Princeton, including the
+
+    historic Thomas Clarke House, led by expert historical interpreters. Registration
+
+    required via the Society''s website.
+
+    '
+  url: https://pbs1777.org/battlefield-tours/
+  source: https://pbs1777.org/battlefield-tours/
+  org: Princeton Battlefield Society
+  featured: false
+- id: nj-princeton-history-walking-tour-jul12
+  title: Princeton History Walking Tour
+  region: nj
+  category: tour
+  date: '2026-07-12'
+  start: '14:00'
+  end: '16:00'
+  all_day: false
+  time_note: 2–4pm; begins at the Princeton Battle Monument
+  venue: Princeton Battle Monument (start)
+  address: Monument Drive at Stockton Street, Princeton, NJ 08540
+  town: Princeton, Mercer County
+  lat: 40.3573
+  lng: -74.6672
+  cost: Ticketed
+  description: 'A Historical Society of Princeton guided walking tour of downtown Princeton''s historic
+
+    sites — including Nassau Hall and the University Chapel — starting at the Princeton Battle
+
+    Monument, 2–4pm. A companion to the sold-out America 250 tours earlier in the summer.
+
+    '
+  url: https://princetonhistory.org/visit/walking-tours/
+  source: https://princetonhistory.org/calendar-of-events/
+  org: Historical Society of Princeton
+  featured: false
+- id: nj-middlesex-music-park-jul8
+  title: Middlesex County Music-in-the-Park (Wednesday concerts)
+  region: nj
+  category: concert
+  date: '2026-07-08'
+  start: ''
+  end: ''
+  all_day: false
+  time_note: Thompson Park, Monroe 2–3:30pm; Raritan Bay Waterfront Park, South Amboy 6:30–8:30pm. Performers
+    TBA — confirm
+  venue: Thompson Park (Monroe) & Raritan Bay Waterfront Park (South Amboy)
+  address: Thompson Park, Monroe Township, NJ / Raritan Bay Waterfront Park, South Amboy, NJ
+  town: Monroe & South Amboy, Middlesex County
+  lat: 40.487
+  lng: -74.278
+  cost: Free
+  description: 'Middlesex County''s free Music-in-the-Park summer series holds Wednesday concerts at
+
+    Thompson Park in Monroe (2–3:30pm) and Raritan Bay Waterfront Park in South Amboy
+
+    (6:30–8:30pm), running July through early September. Bring a blanket or lawn chair;
+
+    the individual performers for this date are not listed on the county schedule.
+
+    '
+  url: https://www.middlesexcountynj.gov/find-programs-and-resources/parks-and-recreation/music-in-the-park
+  source: https://www.middlesexcountynj.gov/find-programs-and-resources/parks-and-recreation/music-in-the-park
+  org: Middlesex County Office of Parks & Recreation
+  featured: false
+- id: nj-middlesex-music-park-jul11
+  title: Middlesex County Music-in-the-Park (Saturday concert)
+  region: nj
+  category: concert
+  date: '2026-07-11'
+  start: '18:00'
+  end: '19:30'
+  all_day: false
+  time_note: 6–7:30pm at Spring Lake Park, South Plainfield. Performer TBA — confirm
+  venue: Spring Lake Park
+  address: Spring Lake Park, South Plainfield, NJ 07080
+  town: South Plainfield, Middlesex County
+  lat: 40.573
+  lng: -74.418
+  cost: Free
+  description: 'The Saturday leg of Middlesex County''s free Music-in-the-Park series, 6–7:30pm at Spring
+
+    Lake Park in South Plainfield (runs Saturdays July through late August). Free outdoor
+
+    concert; bring seating. The performer for this date is not listed on the county schedule.
+
+    '
+  url: https://www.middlesexcountynj.gov/find-programs-and-resources/parks-and-recreation/music-in-the-park
+  source: https://www.middlesexcountynj.gov/find-programs-and-resources/parks-and-recreation/music-in-the-park
+  org: Middlesex County Office of Parks & Recreation
+  featured: false
+- id: phl-mann-sarah-mclachlan-jul7
+  title: 'Sarah McLachlan: Better Broken Tour (with Allison Russell)'
+  region: philadelphia
+  category: concert
+  date: '2026-07-07'
+  start: ''
+  end: ''
+  all_day: false
+  time_note: Time TBA — confirm on venue page
+  venue: TD Pavilion at Highmark Mann
+  address: 5201 Parkside Ave, Philadelphia, PA 19131
+  town: West Fairmount Park, Philadelphia
+  lat: 39.9875
+  lng: -75.2095
+  cost: Ticketed
+  description: 'Singer-songwriter Sarah McLachlan brings her Better Broken Tour to the open-air TD Pavilion
+
+    at the Mann Center, with Allison Russell opening. Part of the Mann''s 2026 summer season on
+
+    the edge of Fairmount Park.
+
+    '
+  url: https://highmarkmann.org/events
+  source: https://highmarkmann.org/events
+  org: Highmark Mann (Mann Center for the Performing Arts)
+  featured: false
+- id: phl-parks-on-tap-shofuso-jul8
+  title: Parks on Tap — Shofuso Japanese Cultural Center
+  region: philadelphia
+  category: food
+  date: '2026-07-08'
+  start: '16:00'
+  end: '22:00'
+  all_day: false
+  time_note: Wed–Fri 4–10pm, Sat–Sun 12–10pm; on site Jul 8–12
+  venue: Shofuso Japanese Cultural Center (West Fairmount Park)
+  address: Horticultural & Lansdowne Dr, West Fairmount Park, Philadelphia, PA 19131
+  town: West Fairmount Park, Philadelphia
+  lat: 39.98
+  lng: -75.21
+  cost: Free
+  description: 'Philadelphia''s traveling beer garden parks at the Shofuso Japanese House and Garden for
+    a
+
+    five-day run (Jul 8–12). Local beer, cocktails and food alongside a nationally ranked
+
+    Japanese garden. Free to enter; proceeds benefit local Park Friends groups.
+
+    '
+  url: https://www.parksontap.com/locations-1
+  source: https://www.parksontap.com/locations-1
+  org: Philadelphia Parks & Recreation / FCM Hospitality
+  featured: false
+- id: phl-cc-sips-jul8
+  title: Center City District Sips (Wednesday happy hour)
+  region: philadelphia
+  category: food
+  date: '2026-07-08'
+  start: '17:00'
+  end: '19:00'
+  all_day: false
+  time_note: Wednesdays 5–7pm through Aug 26
+  venue: 60+ Center City bars & restaurants
+  address: Various locations, Center City, Philadelphia, PA 19102
+  town: Center City, Philadelphia
+  lat: 39.95
+  lng: -75.165
+  cost: Free
+  description: 'Center City''s signature summer happy hour: $6 beer, $7 wine, $8 cocktails and discounted
+
+    small plates at more than 60 participating bars and restaurants, every Wednesday from
+
+    5–7pm through late August. No ticket needed — just show up at a participating venue.
+
+    '
+  url: https://www.visitphilly.com/articles/philadelphia/top-things-to-do-in-philadelphia-in-july/
+  source: https://www.visitphilly.com/articles/philadelphia/top-things-to-do-in-philadelphia-in-july/
+  org: Center City District
+  featured: false
+- id: phl-fifa-fan-fest-jul9
+  title: FIFA Fan Festival at Lemon Hill (World Cup viewing)
+  region: philadelphia
+  category: festival
+  date: '2026-07-09'
+  start: ''
+  end: ''
+  all_day: false
+  time_note: Runs daily Jun 11–Jul 19; hours vary by match/programming. World Cup knockout matches shown
+    this week.
+  venue: FIFA Fan Festival — Lemon Hill, East Fairmount Park
+  address: Lemon Hill Dr, East Fairmount Park, Philadelphia, PA 19130
+  town: East Fairmount Park, Philadelphia
+  lat: 39.972
+  lng: -75.187
+  cost: Free
+  description: 'Philadelphia''s official FIFA World Cup 26 Fan Festival on Lemon Hill runs daily through
+
+    the tournament final on Jul 19 — giant screens showing every match, food, live music and
+
+    cultural programming. Match-day access is free but requires advance registration; some
+
+    non-match days feature ticketed concerts and community events.
+
+    '
+  url: https://phillyfwc26.com/fifa-fan-fest
+  source: https://www.visitphilly.com/articles/philadelphia/top-things-to-do-in-philadelphia-in-july/
+  org: FIFA World Cup 26 Philadelphia Host Committee
+  featured: true
+- id: phl-movie-hoppers-jul9
+  title: 'Free Outdoor Movie: ''Hoppers'''
+  region: philadelphia
+  category: family
+  date: '2026-07-09'
+  start: ''
+  end: ''
+  all_day: false
+  time_note: Time TBA — confirm; screenings typically start at dusk
+  venue: Rainbow de Colores park
+  address: Philadelphia, PA (venue location — confirm)
+  town: Philadelphia
+  lat: null
+  lng: null
+  cost: Free
+  description: 'A free outdoor family movie night (''Hoppers'') in the Fairmount Park Conservancy''s 2026
+
+    Movies in Philly Parks series. Bring a blanket; snacks welcome. Exact start time and
+
+    precise venue location to be confirmed with the local Park Friends group.
+
+    '
+  url: https://myphillypark.org/2026-movies-in-philly-parks/
+  source: https://myphillypark.org/2026-movies-in-philly-parks/
+  org: Fairmount Park Conservancy / Philadelphia Parks & Recreation
+  featured: false
+- id: phl-poppy-fillmore-jul9
+  title: Poppy — Constantly Nowhere Tour
+  region: philadelphia
+  category: concert
+  date: '2026-07-09'
+  start: '19:00'
+  end: ''
+  all_day: false
+  time_note: Doors/show 7:00pm; all ages
+  venue: The Fillmore Philadelphia
+  address: 29 E Allen St, Philadelphia, PA 19123
+  town: Fishtown, Philadelphia
+  lat: 39.9662
+  lng: -75.1377
+  cost: Ticketed
+  description: 'Genre-bending artist Poppy plays The Fillmore on her Constantly Nowhere North American
+
+    tour, blending pop, electronic and metal. Supporting acts include LANDMVRKS and
+
+    Thousand Below. All-ages show.
+
+    '
+  url: https://www.ticketmaster.com/poppy-constantly-nowhere-tour-philadelphia-pennsylvania-07-09-2026/event/0200644CA5B4C6F8
+  source: https://www.ticketmaster.com/poppy-constantly-nowhere-tour-philadelphia-pennsylvania-07-09-2026/event/0200644CA5B4C6F8
+  org: Live Nation
+  featured: false
+- id: phl-hbcu-swingman-classic-jul10
+  title: HBCU Swingman Classic (MLB All-Star Week)
+  region: philadelphia
+  category: other
+  date: '2026-07-10'
+  start: '19:00'
+  end: ''
+  all_day: false
+  time_note: Gates 5pm; first pitch 7pm ET
+  venue: Citizens Bank Park
+  address: 1 Citizens Bank Way, Philadelphia, PA 19148
+  town: South Philadelphia (Sports Complex)
+  lat: 39.9057
+  lng: -75.1665
+  cost: Ticketed
+  description: 'Kicking off MLB All-Star Week at Citizens Bank Park, the HBCU Swingman Classic (presented
+
+    by USA Baseball) showcases Division-I student-athletes from Historically Black Colleges &
+
+    Universities. Broadcast on MLB Network.
+
+    '
+  url: https://www.mlb.com/all-star/schedule
+  source: https://www.mlb.com/all-star/schedule
+  org: Major League Baseball
+  featured: false
+- id: phl-alex-warren-xfinity-jul10
+  title: 'Alex Warren: Finding Family on the Road (with Noah Cyrus)'
+  region: philadelphia
+  category: concert
+  date: '2026-07-10'
+  start: '19:30'
+  end: ''
+  all_day: false
+  time_note: 7:30pm; reported SOLD OUT
+  venue: Xfinity Mobile Arena
+  address: 3601 S Broad St, Philadelphia, PA 19148
+  town: South Philadelphia (Sports Complex)
+  lat: 39.9012
+  lng: -75.172
+  cost: Ticketed
+  description: 'Pop singer-songwriter Alex Warren headlines the arena (formerly Wells Fargo Center) on
+    his
+
+    Finding Family on the Road tour, with Noah Cyrus opening. Widely reported sold out; resale
+
+    only. $1 from each ticket supports Camp Kesem.
+
+    '
+  url: https://www.xfinitymobilearena.com/events/detail/alex-warren-presents-little-orphan-alex-live
+  source: https://www.ticketmaster.com/alex-warren-finding-family-on-the-philadelphia-pennsylvania-07-10-2026/event/30006366EA197516
+  org: Live Nation
+  featured: false
+- id: phl-allstar-village-jul11
+  title: Capital One All-Star Village & Play Ball Park
+  region: philadelphia
+  category: family
+  date: '2026-07-11'
+  start: '10:00'
+  end: '20:00'
+  all_day: false
+  time_note: Opens Jul 11, runs through Jul 14; 10am–8pm
+  venue: Pennsylvania Convention Center
+  address: 1101 Arch St, Philadelphia, PA 19107
+  town: Center City / Chinatown, Philadelphia
+  lat: 39.9548
+  lng: -75.1595
+  cost: Ticketed
+  description: 'The interactive centerpiece of MLB All-Star Week takes over the Convention Center from
+
+    Jul 11 through Jul 14. Capital One All-Star Village packs in games, contests, video-gaming,
+
+    prizes, player meet-and-greets and ballpark food, plus the youth-focused Play Ball Park —
+
+    a baseball theme park with mini diamond, clinics, batting cages, pitching tunnels and a
+
+    kids'' Home Run Derby.
+
+    '
+  url: https://www.mlb.com/all-star/schedule
+  source: https://www.mlb.com/all-star/schedule
+  org: Major League Baseball
+  featured: true
+- id: phl-mlb-draft-jul11
+  title: 2026 MLB Draft
+  region: philadelphia
+  category: other
+  date: '2026-07-11'
+  start: '13:00'
+  end: ''
+  all_day: false
+  time_note: 1:00pm ET
+  venue: Pennsylvania Convention Center — Grand Hall
+  address: 1101 Arch St, Philadelphia, PA 19107
+  town: Center City / Chinatown, Philadelphia
+  lat: 39.9548
+  lng: -75.1595
+  cost: Ticketed
+  description: 'The 2026 MLB Draft (presented by Nippon Express) is staged live from the Convention
+
+    Center''s Grand Hall during All-Star Week, broadcast on NBC, Peacock and MLB Network.
+
+    '
+  url: https://www.mlb.com/all-star/schedule
+  source: https://www.mlb.com/all-star/schedule
+  org: Major League Baseball
+  featured: false
+- id: phl-52weeks-olympic-ballclub-jul11
+  title: '52 Weeks of Firsts: America''s First Baseball Team (Olympic Ball Club)'
+  region: philadelphia
+  category: ceremony
+  date: '2026-07-11'
+  start: '11:00'
+  end: '13:00'
+  all_day: false
+  time_note: 11am–1pm
+  venue: Citizens Bank Park
+  address: 1 Citizens Bank Way, Philadelphia, PA 19148
+  town: South Philadelphia (Sports Complex)
+  lat: 39.9057
+  lng: -75.1665
+  cost: Free
+  description: 'A free ''Saturday Firstival'' in Visit Philly''s yearlong 52 Weeks of Firsts series, this
+    one
+
+    honoring the Olympic Ball Club of Philadelphia — the nation''s first organized baseball team
+
+    — timed to MLB All-Star Week. Part of Philadelphia''s America 250 programming.
+
+    '
+  url: https://www.visitphilly.com/52-weeks-of-firsts/
+  source: https://www.visitphilly.com/articles/philadelphia/top-things-to-do-in-philadelphia-in-july/
+  org: Visit Philadelphia
+  featured: false
+- id: phl-mann-louis-tomlinson-jul11
+  title: Louis Tomlinson — How Did We Get Here? World Tour (with The Beaches & Picture Parlour)
+  region: philadelphia
+  category: concert
+  date: '2026-07-11'
+  start: ''
+  end: ''
+  all_day: false
+  time_note: Time TBA — confirm on venue page
+  venue: Skyline Stage at Highmark Mann
+  address: 5201 Parkside Ave, Philadelphia, PA 19131
+  town: West Fairmount Park, Philadelphia
+  lat: 39.9878
+  lng: -75.2098
+  cost: Ticketed
+  description: 'Former One Direction member Louis Tomlinson headlines the Mann''s intimate Skyline Stage,
+
+    with The Beaches and Picture Parlour supporting. Part of the Mann''s 2026 summer season.
+
+    '
+  url: https://highmarkmann.org/events
+  source: https://highmarkmann.org/events
+  org: Highmark Mann (Mann Center for the Performing Arts)
+  featured: false
+- id: phl-southeast-asian-market-jul11
+  title: Southeast Asian Market at FDR Park
+  region: philadelphia
+  category: food
+  date: '2026-07-11'
+  start: '10:00'
+  end: '18:00'
+  all_day: false
+  time_note: Sat & Sun 10am–6pm (also open Sun Jul 12)
+  venue: FDR Park
+  address: 1500 Pattison Ave, Philadelphia, PA 19145
+  town: South Philadelphia
+  lat: 39.902
+  lng: -75.183
+  cost: Free
+  description: 'Philadelphia''s beloved open-air Southeast Asian Market returns to FDR Park every Saturday
+
+    and Sunday, with 70+ vendors selling Cambodian, Thai, Vietnamese, Lao and other street
+
+    food and goods. For July the market sits mid-park near Edgewood Lake. Free to browse.
+
+    '
+  url: https://www.fdrseamarket.com/
+  source: https://www.visitphilly.com/articles/philadelphia/top-things-to-do-in-philadelphia-in-july/
+  org: Southeast Asian Market in FDR Park
+  featured: false
+- id: phl-clark-park-market-jul11
+  title: Clark Park Farmers' Market
+  region: philadelphia
+  category: food
+  date: '2026-07-11'
+  start: '10:00'
+  end: '14:00'
+  all_day: false
+  time_note: Saturdays, 10am–2pm, year-round
+  venue: Clark Park
+  address: 43rd St & Baltimore Ave, Philadelphia, PA 19104
+  town: University City / West Philadelphia
+  lat: 39.949
+  lng: -75.21
+  cost: Free
+  description: 'The Food Trust''s Saturday producers'' market in West Philly''s Clark Park — regional
+    farms,
+
+    bread, cheese, flowers and prepared food. A relaxed weekend staple year-round.
+
+    '
+  url: https://thefoodtrust.org/what-we-do/farmers-markets/
+  source: https://thefoodtrust.org/what-we-do/farmers-markets/headhouse/
+  org: The Food Trust
+  featured: false
+- id: phl-allstar-futures-game-jul12
+  title: SiriusXM All-Star Futures Game + MLBx 3-on-3
+  region: philadelphia
+  category: other
+  date: '2026-07-12'
+  start: '12:00'
+  end: ''
+  all_day: false
+  time_note: Gates 10am; Futures Game 12pm ET, MLBx 3-on-3 follows
+  venue: Citizens Bank Park
+  address: 1 Citizens Bank Way, Philadelphia, PA 19148
+  town: South Philadelphia (Sports Complex)
+  lat: 39.9057
+  lng: -75.1665
+  cost: Ticketed
+  description: 'The All-Star Futures Game (presented by Nike) puts the game''s top minor-league prospects
+    on
+
+    the Citizens Bank Park diamond, followed immediately by MLBx: All-Star 3-on-3 featuring MLB
+
+    legends and special guests. Broadcast on NBC.
+
+    '
+  url: https://www.mlb.com/all-star/schedule
+  source: https://www.mlb.com/all-star/schedule
+  org: Major League Baseball
+  featured: false
+- id: phl-bastille-day-rittenhouse-jul12
+  title: Bastille Day in Rittenhouse Square
+  region: philadelphia
+  category: festival
+  date: '2026-07-12'
+  start: '11:00'
+  end: '14:00'
+  all_day: false
+  time_note: 11am–2pm
+  venue: Rittenhouse Square
+  address: 1800 Walnut St, Philadelphia, PA 19103
+  town: Rittenhouse, Center City, Philadelphia
+  lat: 39.949
+  lng: -75.1719
+  cost: Free
+  description: 'Alliance Française de Philadelphie''s free public Bastille Day celebration returns to
+
+    Rittenhouse Square with booths, entertainment and a signature waiters'' race. Open to all.
+
+    '
+  url: https://www.afphila.com/cultural-events/bastille-day2026/
+  source: https://www.afphila.com/cultural-events/bastille-day2026/
+  org: Alliance Française de Philadelphie
+  featured: false
+- id: phl-bastille-day-sofitel-jul12
+  title: Bastille Day Benefit Cocktail Party — Chez Colette at Sofitel
+  region: philadelphia
+  category: food
+  date: '2026-07-12'
+  start: '17:30'
+  end: '19:30'
+  all_day: false
+  time_note: 5:30–7:30pm
+  venue: Chez Colette at Sofitel Philadelphia
+  address: 120 S 17th St, Philadelphia, PA 19103
+  town: Rittenhouse, Center City, Philadelphia
+  lat: 39.9505
+  lng: -75.168
+  cost: Ticketed
+  description: 'Alliance Française''s evening benefit: open bar, French-inspired appetizers, Taittinger
+
+    Champagne and a DJ spinning 1960s Paris-inspired music. Dress chic. Ticketed fundraiser.
+
+    '
+  url: https://www.afphila.com/cultural-events/bastille-day2026/
+  source: https://www.afphila.com/cultural-events/bastille-day2026/
+  org: Alliance Française de Philadelphie
+  featured: false
+- id: phl-headhouse-market-jul12
+  title: Headhouse Farmers' Market
+  region: philadelphia
+  category: food
+  date: '2026-07-12'
+  start: '10:00'
+  end: '14:00'
+  all_day: false
+  time_note: Sundays, 10am–2pm, year-round
+  venue: Headhouse Shambles
+  address: 2nd & Lombard St, Philadelphia, PA 19147
+  town: Society Hill, Philadelphia
+  lat: 39.942
+  lng: -75.1445
+  cost: Free
+  description: 'The Food Trust''s flagship Sunday market under the historic Headhouse Shambles in Society
+
+    Hill — the region''s largest producer-only market, with farms, bakers, cheesemongers and
+
+    prepared food. SEPTA routes 12, 40, 57.
+
+    '
+  url: https://thefoodtrust.org/what-we-do/farmers-markets/headhouse/
+  source: https://thefoodtrust.org/what-we-do/farmers-markets/headhouse/
+  org: The Food Trust
+  featured: false
+- id: phl-chinese-lantern-festival-jul11
+  title: Philadelphia Chinese Lantern Festival at Franklin Square
+  region: philadelphia
+  category: festival
+  date: '2026-07-11'
+  start: ''
+  end: ''
+  all_day: false
+  time_note: On view nightly through Aug 16; evening hours (confirm on site)
+  venue: Franklin Square
+  address: 200 N 6th St, Philadelphia, PA 19106
+  town: Historic District, Philadelphia
+  lat: 39.956
+  lng: -75.152
+  cost: Ticketed
+  description: 'Hundreds of handcrafted, illuminated lanterns light up Franklin Square nightly (this year''s
+
+    theme: Year of the Horse), with live cultural performances, fountain shows and international
+
+    food. Runs through Aug 16.
+
+    '
+  url: https://www.visitphilly.com/articles/philadelphia/top-things-to-do-in-philadelphia-in-july/
+  source: https://www.visitphilly.com/articles/philadelphia/top-things-to-do-in-philadelphia-in-july/
+  org: Historic Philadelphia, Inc.
+  featured: false
+- id: phl-riverrink-summerfest-jul11
+  title: Independence Blue Cross RiverRink Summerfest
+  region: philadelphia
+  category: family
+  date: '2026-07-11'
+  start: ''
+  end: ''
+  all_day: false
+  time_note: Open daily through Sep 7; hours vary (confirm on site)
+  venue: Blue Cross RiverRink, Penn's Landing
+  address: 101 S Christopher Columbus Blvd, Philadelphia, PA 19106
+  town: Penn's Landing, Philadelphia
+  lat: 39.949
+  lng: -75.14
+  cost: Free
+  description: 'The Delaware River waterfront''s summer playground: roller-skating rink, boardwalk rides,
+
+    mini-golf, arcade games, lodge and food. Free admission to the grounds (activities ticketed).
+
+    Open daily through early September.
+
+    '
+  url: https://www.visitphilly.com/articles/philadelphia/top-things-to-do-in-philadelphia-in-july/
+  source: https://www.visitphilly.com/articles/philadelphia/top-things-to-do-in-philadelphia-in-july/
+  org: Delaware River Waterfront Corporation
+  featured: false
+- id: phl-cherry-street-pier-galleries-jul11
+  title: Cherry Street Pier Summer Galleries & Markets
+  region: philadelphia
+  category: exhibit
+  date: '2026-07-11'
+  start: ''
+  end: ''
+  all_day: false
+  time_note: Exhibits on view Jul 3–Aug 1; open most days (confirm hours)
+  venue: Cherry Street Pier
+  address: 121 N Christopher Columbus Blvd, Philadelphia, PA 19106
+  town: Old City / Waterfront, Philadelphia
+  lat: 39.953
+  lng: -75.139
+  cost: Free
+  description: 'The revamped pier over the Delaware hosts a slate of free summer exhibitions (Jul 3–Aug
+    1),
+
+    including ''The Banner Project: Movements,'' ''Teen Dreams of Pattern,'' ''Esoteric America:
+
+    Founding Design'' and more, plus resident artist studios and rotating weekend markets
+
+    (the Thrift 2 Death Market runs through Jul 12).
+
+    '
+  url: https://www.cherrystreetpier.com/events/
+  source: https://www.cherrystreetpier.com/events/
+  org: Delaware River Waterfront Corporation
+  featured: false
+- id: phl-moar-declarations-journey-jul11
+  title: '''The Declaration''s Journey'' — Museum of the American Revolution'
+  region: philadelphia
+  category: exhibit
+  date: '2026-07-11'
+  start: ''
+  end: ''
+  all_day: false
+  time_note: On view daily; check museum hours
+  venue: Museum of the American Revolution
+  address: 101 S 3rd St, Philadelphia, PA 19106
+  town: Old City, Philadelphia
+  lat: 39.9483
+  lng: -75.1455
+  cost: Ticketed
+  description: 'The museum''s marquee America 250 special exhibition (presented by Griffin Catalyst) traces
+
+    the 250-year global history and legacy of the Declaration of Independence, gathering rare
+
+    documents, art and artifacts from around the world for the first time. Accessible features
+
+    include a Braille tactile book and ASL film translations.
+
+    '
+  url: https://www.amrevmuseum.org/exhibits/the-declaration-s-journey
+  source: https://www.amrevmuseum.org/exhibits/the-declaration-s-journey
+  org: Museum of the American Revolution
+  featured: false
+- id: phl-franklin-institute-universal-jul11
+  title: '''Universal Theme Parks: The Exhibition'' — The Franklin Institute'
+  region: philadelphia
+  category: exhibit
+  date: '2026-07-11'
+  start: ''
+  end: ''
+  all_day: false
+  time_note: On view daily through Sep 7; timed tickets required
+  venue: The Franklin Institute
+  address: 222 N 20th St, Philadelphia, PA 19103
+  town: Logan Square / Parkway, Philadelphia
+  lat: 39.9581
+  lng: -75.173
+  cost: Ticketed
+  description: 'A North-American-premiere blockbuster exhibit exploring the storytelling, technology and
+
+    imagination behind Universal''s theme parks — 100+ artifacts and 20 interactive activities
+
+    across eight galleries, from coaster hardware to costumes and storyboards. Timed tickets
+
+    ($41–$47) include general museum admission.
+
+    '
+  url: https://www.visitphilly.com/things-to-do/events/universal-theme-parks-the-exhibition-the-franklin-institute/
+  source: https://www.visitphilly.com/articles/philadelphia/top-things-to-do-in-philadelphia-in-july/
+  org: The Franklin Institute
+  featured: false
+- id: phl-pma-rising-up-rocky-jul11
+  title: '''Rising Up: Rocky and the Making of Monuments'' — Philadelphia Museum of Art'
+  region: philadelphia
+  category: exhibit
+  date: '2026-07-11'
+  start: ''
+  end: ''
+  all_day: false
+  time_note: On view through Aug 2; check museum hours (closed Tue)
+  venue: Philadelphia Museum of Art
+  address: 2600 Benjamin Franklin Pkwy, Philadelphia, PA 19130
+  town: Parkway Museums District, Philadelphia
+  lat: 39.9656
+  lng: -75.181
+  cost: Ticketed
+  description: 'A special exhibition marking the 50th anniversary of ''Rocky'' and the museum''s iconic
+    steps,
+
+    exploring the film, its Philadelphia legacy and the making of monuments. On view through
+
+    Aug 2 at the Art Museum atop the Parkway.
+
+    '
+  url: https://www.visitphilly.com/articles/philadelphia/top-things-to-do-in-philadelphia-in-july/
+  source: https://www.visitphilly.com/articles/philadelphia/top-things-to-do-in-philadelphia-in-july/
+  org: Philadelphia Museum of Art
+  featured: false
+- id: phl-barnes-freedom-dreams-jul11
+  title: '''Freedom Dreams'' — The Barnes Foundation'
+  region: philadelphia
+  category: exhibit
+  date: '2026-07-11'
+  start: ''
+  end: ''
+  all_day: false
+  time_note: On view through Aug 9; check museum hours (closed Tue)
+  venue: The Barnes Foundation
+  address: 2025 Benjamin Franklin Pkwy, Philadelphia, PA 19130
+  town: Parkway Museums District, Philadelphia
+  lat: 39.9659
+  lng: -75.1727
+  cost: Ticketed
+  description: 'A special exhibition on the Barnes''s Benjamin Franklin Parkway campus, on view through
+    Aug 9.
+
+    Part of the Parkway''s cluster of summer museum programming.
+
+    '
+  url: https://www.visitphilly.com/articles/philadelphia/top-things-to-do-in-philadelphia-in-july/
+  source: https://www.visitphilly.com/articles/philadelphia/top-things-to-do-in-philadelphia-in-july/
+  org: The Barnes Foundation
+  featured: false
+- id: phl-aampmuseum-afrofuturism-jul11
+  title: '''Afrofuturism in Costume Design'' — African American Museum in Philadelphia'
+  region: philadelphia
+  category: exhibit
+  date: '2026-07-11'
+  start: ''
+  end: ''
+  all_day: false
+  time_note: On view through Sep 6; check museum hours
+  venue: African American Museum in Philadelphia
+  address: 701 Arch St, Philadelphia, PA 19106
+  town: Historic District, Philadelphia
+  lat: 39.953
+  lng: -75.152
+  cost: Ticketed
+  description: 'A special exhibition exploring Afrofuturist costume design (on view through Sep 6) at
+    the
+
+    nation''s first museum built by a major city to preserve and interpret African American
+
+    history and culture, in Philadelphia''s historic district.
+
+    '
+  url: https://www.visitphilly.com/articles/philadelphia/top-things-to-do-in-philadelphia-in-july/
+  source: https://www.visitphilly.com/articles/philadelphia/top-things-to-do-in-philadelphia-in-july/
+  org: African American Museum in Philadelphia
+  featured: false
+- id: nj-franklin-twp-fireworks-jul10
+  title: Franklin Township Independence Day Celebration & Fireworks (Rescheduled)
+  region: nj
+  category: fireworks
+  date: '2026-07-10'
+  start: '18:00'
+  end: '21:30'
+  all_day: false
+  time_note: Rescheduled rain/heat date; event 6pm, fireworks ~9:15pm
+  venue: Franklin Township Municipal Complex
+  address: 475 DeMott Lane, Somerset, NJ 08873
+  town: Somerset, Franklin Township (Somerset County)
+  lat: 40.5023
+  lng: -74.5292
+  cost: Free
+  description: 'Franklin Township''s (Somerset County) annual free Independence Day Celebration and
+
+    fireworks, originally set for Thursday, July 2, was postponed to Friday, July 10 because
+
+    of the dangerous extreme-heat wave (heat index near/over 100 degrees) that hit the region
+
+    around July 2-4, 2026. Mayor Phil Kramer confirmed the new date. The celebration begins at
+
+    6 p.m. at the Franklin Township Municipal Complex, 475 DeMott Lane, and concludes with a
+
+    fireworks display at approximately 9:15 p.m. Rescheduled from July 2 due to extreme heat.
+
+    '
+  url: https://www.franklintwpnj.org/our-township/what-s-new
+  source: https://www.yahoo.com/news/weather-news/articles/extreme-heat-forcing-n-j-174215277.html
+  org: Township of Franklin (Somerset County)
+  featured: false
+  reschedule_of: nj-franklin-twp-independence-fireworks

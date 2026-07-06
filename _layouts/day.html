@@ -2,7 +2,7 @@
 layout: default
 day_map: true
 ---
-{%- assign day = site.days | where: "eday", page.eday | first -%}
+{%- assign day = site.days | where: "date", page.eday | first -%}
 {%- assign day_events = site.events | where: "eday", page.eday -%}
 
 <div class="a2-daypage">

@@ -8,7 +8,7 @@ eday: '2026-07-02'
 start: '18:00'
 end: '21:30'
 all_day: false
-time_note: Fireworks at 9:15 pm; rain date July 10.
+time_note: POSTPONED to Fri July 10 due to extreme heat — see the July 10 listing.
 venue: Franklin Township Municipal Complex
 address: 475 DeMott Lane, Somerset, NJ 08873
 town: Somerset (Franklin Township)

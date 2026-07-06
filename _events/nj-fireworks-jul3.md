@@ -20,4 +20,4 @@ org: Local municipalities
 featured: false
 all_day: false
 ---
-Two central-NJ community fireworks on July 3: Etra Lake Park (East Windsor) and The College of NJ / Green Lane Fields (Ewing). Times not yet posted — confirm with the municipality. (North Branch Park in Bridgewater postponed its show to Fri July 10 due to heat.)
+Two central-NJ community fireworks on July 3: Etra Lake Park (East Windsor) and The College of NJ / Green Lane Fields (Ewing). Times not yet posted — confirm with the municipality. (North Branch Park in Bridgewater postponed its show to Fri July 17 due to heat — outside this guide's window.)
