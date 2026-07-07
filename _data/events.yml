@@ -5405,3 +5405,256 @@
   org: Township of Franklin (Somerset County)
   featured: false
   reschedule_of: nj-franklin-twp-independence-fireworks
+# ----------------------------------------------------------------------
+# WEDNESDAY, JULY 8 — Independence Hall / Old City (250th of the first
+# public reading of the Declaration of Independence, July 8, 1776)
+# ----------------------------------------------------------------------
+- id: phl-declaration-reading-reenactment-jul8
+  title: 'First Public Reading of the Declaration — 250th Reenactment (Independence Square)'
+  region: philadelphia
+  category: reenactment
+  date: '2026-07-08'
+  start: '12:00'
+  end: ''
+  all_day: false
+  time_note: 'Two readings: intro 11:00 AM / reading at noon, and intro 5:45 PM / reading at 6:00 PM'
+  venue: Independence Square, Independence Hall
+  address: 520 Chestnut Street, Philadelphia, PA 19106
+  town: Old City, Philadelphia
+  lat: 39.9486
+  lng: -75.1497
+  cost: Free
+  description: |
+    Exactly 250 years to the day. On July 8, 1776, the citizens of Philadelphia were summoned to the State House Yard by the city's bells, and at noon Colonel John Nixon gave the **first public reading of the Declaration of Independence**. On Wednesday, July 8, 2026, National Park Service rangers in period costume reenact that moment on Independence Square, behind Independence Hall — a ranger portrays Colonel Nixon and reads the Declaration aloud.
+
+    There are **two readings** this anniversary day: an introduction at **11:00 AM** with the reading at **noon**, and a second introduction at **5:45 PM** with the reading at **6:00 PM**. The 6 PM reading is Philadelphia's tie-in to **America250's nationwide "read the Declaration together"** — a simultaneous reading across all 50 states and the U.S. territories. Costumed rangers mingle with the crowd, hand out complimentary copies of the Declaration, and stay for photos afterward. An American Sign Language interpreter is present. Watch from the Square or from beyond the security fence. Free; no ticket needed.
+  url: https://inht.org/declarationreading/
+  source: https://inht.org/declarationreading/
+  org: Independence National Historical Park / Historic Philadelphia, Inc.
+  featured: true
+- id: phl-declaration-reading-historymakers-jul8
+  title: 'Daily Declaration Reading with the History Makers'
+  region: philadelphia
+  category: reenactment
+  date: '2026-07-08'
+  start: '15:45'
+  end: ''
+  all_day: false
+  time_note: 'Runs Tuesdays–Saturdays, June 2–September 7'
+  venue: Behind Independence Hall (John Barry Statue)
+  address: 520 Chestnut Street, Philadelphia, PA 19106
+  town: Old City, Philadelphia
+  lat: 39.9486
+  lng: -75.1497
+  cost: Free
+  description: |
+    Beyond the big noon and 6 PM reenactments, Historic Philadelphia's costumed **History Makers** give a short daily reading of the Declaration of Independence behind Independence Hall, by the Commodore John Barry statue, at **3:45 PM** — so on the 250th anniversary you can catch the Declaration read three times in one day. Famous and not-so-famous "History Makers" recite the document and stick around for pictures. Free; runs Tuesday–Saturday, June 2 through September 7.
+  url: https://historicphiladelphia.org/events/declaration-reading/
+  source: https://historicphiladelphia.org/events/declaration-reading/
+  org: Historic Philadelphia, Inc.
+  featured: false
+- id: phl-independence-hall-west-wing-jul8
+  title: 'Great Essentials Exhibit — West Wing of Independence Hall (newly reopened)'
+  region: philadelphia
+  category: exhibit
+  date: '2026-07-08'
+  start: ''
+  end: ''
+  all_day: false
+  time_note: 'Open daily; free, first-come first-served (no timed ticket needed for the West Wing)'
+  venue: West Wing of Independence Hall
+  address: 520 Chestnut Street, Philadelphia, PA 19106
+  town: Old City, Philadelphia
+  lat: 39.9489
+  lng: -75.1500
+  cost: Free
+  description: |
+    Freshly reopened for the 250th (the refurbished West Wing came back online June 30, 2026), the **Great Essentials** exhibit is the one Independence Hall room you can walk into free and without a timed ticket. Inside are surviving original printings of the **Declaration of Independence** (a Dunlap broadside), the Articles of Confederation, and the U.S. Constitution — plus the silver **Syng inkstand** that, by tradition, was used to sign both the Declaration and the Constitution. The redesigned space adds interactive and augmented-reality displays. A perfect stop right before or after the July 8 Declaration reading a few steps away on Independence Square.
+  url: https://www.nps.gov/inde/planyourvisit/westwing.htm
+  source: https://www.nps.gov/inde/planyourvisit/westwing.htm
+  org: Independence National Historical Park (NPS)
+  featured: false
+- id: phl-african-restaurant-week-jul8
+  title: 'Philadelphia African Restaurant Week (through July 12)'
+  region: philadelphia
+  category: food
+  date: '2026-07-08'
+  start: ''
+  end: ''
+  all_day: true
+  time_note: 'Multi-day; runs through Sunday, July 12'
+  venue: Participating restaurants citywide
+  address: Various locations, Philadelphia, PA
+  town: Citywide, Philadelphia
+  lat: 39.9526
+  lng: -75.1652
+  cost: Ticketed
+  description: |
+    A citywide restaurant week running **through Sunday, July 12**, with roughly two dozen participating spots serving special, discounted prix-fixe menus of African, African American, and Caribbean cuisine — an easy, tasty way to eat your way around the city during All-Star / 250th week. Menus and the participant list are on the event site.
+  url: https://www.visitphilly.com/articles/philadelphia/things-to-do-in-philadelphia-this-week-weekend/
+  source: https://www.visitphilly.com/articles/philadelphia/things-to-do-in-philadelphia-this-week-weekend/
+  org: Philadelphia African Restaurant Week
+  featured: false
+
+# Philadelphia region — Round 2: historic district / Independence NHP / America250 backbone
+# Researched 2026-07-07. Every event confirmed against a fetched source URL.
+# Scope: Jul 6–11, 2026. Excludes everything already in the live list + the 3 being added
+#   (Jul 8 Declaration Reading noon+6pm, Independence Hall West Wing Great Essentials, African Restaurant Week).
+# Notes on what could NOT be confirmed for this window:
+#   - Museum of the American Revolution "Declaration Days" daily talks ran Jul 1–5 only (outside window);
+#     amrevmuseum.org calendar/events pages return HTTP 403, so no dated Jul 6–11 MoAR program confirmed.
+#   - Independence Seaport Museum calendar shows nothing dated Jul 6–11 (next event Aug 1).
+#   - NPS /inde calendar + first-public-reading pages list no Jul 6–11 ranger programs beyond the Jul 8 reading.
+#   - "The Garden at City Tavern" (Thu–Sun) is listed on the Historic Philadelphia calendar index but its
+#     own event page 404s — times/cost unconfirmed, so omitted.
+
+- id: phl-cocktails-and-congress-jul10
+  title: "Cocktails & Congress at Carpenters' Hall"
+  region: philadelphia
+  category: reenactment
+  date: "2026-07-10"
+  start: "17:30"
+  end: "18:30"
+  all_day: false
+  time_note: "Fridays, Jun 5–Aug 28"
+  venue: "Carpenters' Hall"
+  address: "320 Chestnut St, Philadelphia, PA 19106"
+  town: "Old City, Philadelphia"
+  lat: 39.9486
+  lng: -75.1461
+  cost: "$50"
+  description: |
+    Historic Philadelphia's immersive theater experience transports guests to 1774 to witness the debates
+    of the First Continental Congress in the very hall where it met. Watch the Founding Fathers argue over
+    independence — including the heated exchange between John Adams and John Dickinson — alongside the
+    perspectives of enslaved and free Black communities. Ticket ($50) includes two cocktails or mocktails.
+  url: "https://historicphiladelphia.org/events/cocktails-and-congress/"
+  source: "https://historicphiladelphia.org/events/cocktails-and-congress/"
+  org: "Historic Philadelphia, Inc."
+  featured: false
+
+- id: phl-independence-after-hours-jul11
+  title: "Independence After Hours"
+  region: philadelphia
+  category: tour
+  date: "2026-07-11"
+  start: "17:00"
+  end: ""
+  all_day: false
+  time_note: "Saturdays through Aug 29; end time not listed"
+  venue: "Independence Visitor Center (meet at info desk) → Independence Hall"
+  address: "599 Market St, Philadelphia, PA 19106"
+  town: "Old City, Philadelphia"
+  lat: 39.9508
+  lng: -75.1497
+  cost: "$145"
+  description: |
+    An after-hours, exclusive-access evening inside Independence Hall. A costumed Colonial host guides guests
+    through the Pennsylvania State House, encountering the Founding Fathers in scenes that reveal the urgency,
+    disagreement, and uncertainty of 1776. The night ends with celebratory toasts at a nearby tavern. Ticket
+    ($145) includes a cocktail or mocktail; meet at the Independence Visitor Center information desk.
+  url: "https://historicphiladelphia.org/events/independence-after-hours/"
+  source: "https://historicphiladelphia.org/events/independence-after-hours/"
+  org: "Historic Philadelphia, Inc."
+  featured: false
+
+- id: phl-ben-franklin-mulberry-tree-jul10
+  title: "Ben Franklin Under the Mulberry Tree"
+  region: philadelphia
+  category: family
+  date: "2026-07-10"
+  start: "13:00"
+  end: ""
+  all_day: false
+  time_note: "Fri & Sat at 1pm & 2:30pm, May 23–Sep 5 (also Sat Jul 11)"
+  venue: "Franklin Court"
+  address: "314 Market St, Philadelphia, PA 19106"
+  town: "Old City, Philadelphia"
+  lat: 39.9497
+  lng: -75.1466
+  cost: "Free"
+  description: |
+    Meet Dr. Franklin in the courtyard where he once lived, beneath a mulberry tree. Visitors can ask
+    questions and hear Franklin (or his companions) hold forth on his life as a printer, inventor, statesman,
+    and Philadelphian. A free program created with Independence National Historical Park and the NPS; runs
+    Fridays and Saturdays at 1:00 and 2:30pm (so also Saturday, July 11).
+  url: "https://historicphiladelphia.org/events/ben-franklin-under-the-mulberry-tree/"
+  source: "https://historicphiladelphia.org/events/ben-franklin-under-the-mulberry-tree/"
+  org: "Historic Philadelphia, Inc. / Independence NHP"
+  featured: false
+
+- id: phl-once-upon-a-nation-benches-jul7
+  title: "Once Upon A Nation Storytelling Benches"
+  region: philadelphia
+  category: family
+  date: "2026-07-07"
+  start: "11:00"
+  end: "16:00"
+  all_day: false
+  time_note: "Tue–Sat 11am–4pm, Jun 2–Sep 7 (recurs Jul 7–11)"
+  venue: "Historic District storytelling benches (multiple locations)"
+  address: "Independence Visitor Center, 599 Market St, Philadelphia, PA 19106"
+  town: "Old City, Philadelphia"
+  lat: 39.9490
+  lng: -75.1470
+  cost: "Free"
+  description: |
+    Award-winning storytelling benches are stationed across Philadelphia's Historic District, where uniformed
+    storytellers share free 3-to-5-minute tales of real people and events at the spots where they happened.
+    Benches sit at landmarks including the Independence Visitor Center, Independence Square, Signer's Garden,
+    Second Bank, Carpenters' Hall, Franklin Court, Christ Church, the Betsy Ross House, and the National
+    Constitution Center. Free; Tuesdays–Saturdays, 11am–4pm.
+  url: "https://historicphiladelphia.org/events/once-upon-a-nation-storytelling-benches/"
+  source: "https://historicphiladelphia.org/events/once-upon-a-nation-storytelling-benches/"
+  org: "Historic Philadelphia, Inc."
+  featured: false
+
+- id: phl-elfreths-alley-tour-jul11
+  title: "Elfreth's Alley Museum Guided Tour"
+  region: philadelphia
+  category: tour
+  date: "2026-07-11"
+  start: "14:30"
+  end: ""
+  all_day: false
+  time_note: "Guided tour Sat & Sun 2:30pm; museum open Fri–Sun 12–4pm"
+  venue: "Elfreth's Alley Museum"
+  address: "124-126 Elfreth's Alley, Philadelphia, PA 19106"
+  town: "Old City, Philadelphia"
+  lat: 39.9535
+  lng: -75.1430
+  cost: "$10"
+  description: |
+    Elfreth's Alley bills itself as the nation's oldest continuously inhabited residential street. The 40-minute
+    guided history tour walks the full length of the alley with an expert guide and includes entry to the two
+    museum houses (Sat & Sun at 2:30pm; $10 adults / $5 kids 7-12). The museum itself is open Fri–Sun 12–4pm
+    ($3 adults / $2 kids) for self-guided visits.
+  url: "https://www.elfrethsalley.org/visit"
+  source: "https://www.elfrethsalley.org/visit"
+  org: "Elfreth's Alley Association"
+  featured: false
+
+- id: phl-christ-church-tours-jul8
+  title: "Christ Church — Guided & Self-Guided Tours"
+  region: philadelphia
+  category: tour
+  date: "2026-07-08"
+  start: "11:00"
+  end: "17:00"
+  all_day: false
+  time_note: "Open daily 11am–5pm (Sun opens 11:30am); recurs all week"
+  venue: "Christ Church"
+  address: "20 N American St, Philadelphia, PA 19106"
+  town: "Old City, Philadelphia"
+  lat: 39.9520
+  lng: -75.1437
+  cost: "$5"
+  description: |
+    The 1744 "Nation's Church" where George Washington, Benjamin Franklin, Betsy Ross, and other founders
+    worshipped. Open to visitors daily 11am–5pm with 20–30 minute tours: guided ($10 adults / $5 youth),
+    self-guided ($5 / $2), or combo tickets with the Christ Church Burial Ground ($8 / $3). A cornerstone stop
+    in the historic district for the semiquincentennial year.
+  url: "https://christchurchphila.org/hours-admissions/"
+  source: "https://christchurchphila.org/hours-admissions/"
+  org: "Christ Church Preservation Trust"
+  featured: false
