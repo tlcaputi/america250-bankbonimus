@@ -5,9 +5,14 @@ A personal, no-login guide to **what to do over the July 4th, 2026 weekend** (Am
 and **Central New Jersey** — centered on New Hope, PA. Built to *see everything going on*
 with dates, **hours**, locations, links, and maps so we can decide what to do.
 
-Window covered: **Sun Jun 28 – Sun Jul 12, 2026** (the 250th itself is **Sat Jul 4**; the guide
-now runs through the **July 11–12 weekend**, including events that were rescheduled/rain-dated
-out of the Fourth). Extended 2026-07-06.
+Window covered: **Sun Jun 28 – Tue Jul 14, 2026** (the 250th itself is **Sat Jul 4**). The guide
+runs from the Fourth through the **July 11–12 weekend** and on into **MLB All-Star week**
+(Jul 13 Home Run Derby, Jul 14 All-Star Game in Philadelphia), including events that were
+rescheduled/rain-dated out of the Fourth. **385 source-verified events / 17 days.** Extended
+2026-07-06 (→Jul 12) and 2026-07-09 (→Jul 14).
+
+> **New here? Start with the full handoff:** `.CHANGELOG/CURRENT_STATE.md` (gitignored) — current
+> state, file map, gotchas, and the reusable multi-agent window-extension workflow.
 
 ## How it's built
 
