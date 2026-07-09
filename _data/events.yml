@@ -5658,3 +5658,3089 @@
   source: "https://christchurchphila.org/hours-admissions/"
   org: "Christ Church Preservation Trust"
   featured: false
+
+# Philadelphia things-to-do, July 9-14, 2026 — extended coverage
+# Every entry confirmed against a fetched 2026-dated source (see `source:`).
+# Deduped against .research/extended/EXISTING-JUL9-14.tsv (region=philadelphia).
+
+# ===== MLB ALL-STAR WEEK (marquee) =====
+
+- id: phl-home-run-derby-jul13
+  title: "T-Mobile Home Run Derby"
+  region: philadelphia
+  category: sports
+  date: "2026-07-13"
+  start: "20:00"
+  end: ""
+  all_day: false
+  time_note: "Gates open 5:00 PM ET; broadcast on Netflix."
+  venue: "Citizens Bank Park"
+  address: "1 Citizens Bank Way, Philadelphia, PA 19148"
+  town: "South Philadelphia, Philadelphia"
+  lat: 39.9061
+  lng: -75.1665
+  cost: "Ticketed"
+  description: |
+    Baseball's biggest power hitters square off in the Home Run Derby as Philadelphia hosts 2026 MLB All-Star Week. First swing at 8 p.m. ET with gates opening at 5 p.m.; the event streams on Netflix. It's the marquee Monday-night event of the week at Citizens Bank Park.
+  url: "https://www.mlb.com/all-star/schedule"
+  source: "https://www.mlb.com/all-star/schedule"
+  org: "Major League Baseball / Philadelphia Phillies"
+  featured: true
+
+- id: phl-allstar-game-jul14
+  title: "2026 MLB All-Star Game"
+  region: philadelphia
+  category: sports
+  date: "2026-07-14"
+  start: "20:00"
+  end: ""
+  all_day: false
+  time_note: "Gates open 5:00 PM ET; FOX coverage begins 7:00 PM ET."
+  venue: "Citizens Bank Park"
+  address: "1 Citizens Bank Way, Philadelphia, PA 19148"
+  town: "South Philadelphia, Philadelphia"
+  lat: 39.9061
+  lng: -75.1665
+  cost: "Ticketed"
+  description: |
+    The 96th MLB All-Star Game — the first Midsummer Classic in Philadelphia since 1996 — takes place at Citizens Bank Park. First pitch is 8 p.m. ET, nationally televised on FOX. Pregame ceremonies feature Jennifer Hudson, Patti LaBelle, Boyz II Men, and Miles Teller.
+  url: "https://www.mlb.com/all-star/schedule"
+  source: "https://www.mlb.com/all-star/schedule"
+  org: "Major League Baseball"
+  featured: true
+
+- id: phl-allstar-red-carpet-jul14
+  title: "MLB All-Star Red Carpet Show"
+  region: philadelphia
+  category: ceremony
+  date: "2026-07-14"
+  start: "14:00"
+  end: ""
+  all_day: false
+  time_note: "Red Carpet Fan Zone is free and open to the public; also broadcast on MLB Network/MLB.com."
+  venue: "Independence Mall"
+  address: "5th & Market Streets, Philadelphia, PA 19106"
+  town: "Historic District / Old City, Philadelphia"
+  lat: 39.9515
+  lng: -75.1500
+  cost: "Free"
+  description: |
+    All-Star players walk the red carpet on Independence Mall — in the shadow of Independence Hall — before heading to the ballpark for the evening's game. Begins 2 p.m. ET, with players in USA 250 patriotic uniforms. Tickets to the Red Carpet Fan Zone are free and open to the public.
+  url: "https://www.visitphilly.com/things-to-do/events/mlb-all-star-game/"
+  source: "https://www.visitphilly.com/things-to-do/events/mlb-all-star-game/"
+  org: "Major League Baseball"
+  featured: false
+
+- id: phl-allstar-village-jul13
+  title: "Capital One All-Star Village & Play Ball Park"
+  region: philadelphia
+  category: fair
+  date: "2026-07-13"
+  start: "10:00"
+  end: "18:00"
+  all_day: false
+  time_note: "Monday–Tuesday hours 10 AM–6 PM (the Village runs Jul 11–14)."
+  venue: "Pennsylvania Convention Center"
+  address: "1101 Arch Street, Philadelphia, PA 19107"
+  town: "Center City, Philadelphia"
+  lat: 39.9542
+  lng: -75.1595
+  cost: "Ticketed"
+  description: |
+    MLB's flagship interactive fan festival fills the Convention Center with batting cages, contests, video-gaming, prizes, and player meet-and-greets featuring Phillies legends. Open 10 a.m.–6 p.m. Monday and Tuesday of All-Star Week. Capital One cardholders receive one complimentary ticket.
+  url: "https://www.mlb.com/all-star/schedule"
+  source: "https://www.visitphilly.com/things-to-do/events/mlb-all-star-game/"
+  org: "Major League Baseball"
+  featured: false
+
+- id: phl-allstar-village-jul14
+  title: "Capital One All-Star Village & Play Ball Park"
+  region: philadelphia
+  category: fair
+  date: "2026-07-14"
+  start: "10:00"
+  end: "18:00"
+  all_day: false
+  time_note: "Monday–Tuesday hours 10 AM–6 PM (final day of the Village)."
+  venue: "Pennsylvania Convention Center"
+  address: "1101 Arch Street, Philadelphia, PA 19107"
+  town: "Center City, Philadelphia"
+  lat: 39.9542
+  lng: -75.1595
+  cost: "Ticketed"
+  description: |
+    The final day of MLB's interactive fan festival at the Convention Center — batting cages, contests, video-gaming, prizes, and Phillies-legend meet-and-greets. Open 10 a.m.–6 p.m. on All-Star Game day. Capital One cardholders receive one complimentary ticket.
+  url: "https://www.mlb.com/all-star/schedule"
+  source: "https://www.visitphilly.com/things-to-do/events/mlb-all-star-game/"
+  org: "Major League Baseball"
+  featured: false
+
+# ===== CONCERTS =====
+
+- id: phl-rick-ross-met-jul11
+  title: "Rick Ross & The Renaissance Orchestra"
+  region: philadelphia
+  category: concert
+  date: "2026-07-11"
+  start: "20:00"
+  end: ""
+  all_day: false
+  time_note: ""
+  venue: "The Met Philadelphia"
+  address: "858 N Broad Street, Philadelphia, PA 19130"
+  town: "North Broad, Philadelphia"
+  lat: 39.9718
+  lng: -75.1620
+  cost: "Ticketed"
+  description: |
+    Rapper Rick Ross performs his catalog backed by a full live orchestra (The Renaissance Orchestra) inside the restored, ornate Met on North Broad Street. Doors and support ahead of an 8 p.m. start. Part of the 2026 orchestra tour.
+  url: "https://www.ticketmaster.com/rick-ross-the-renaissance-orchestra-philadelphia-pennsylvania-07-11-2026/event/0200645AC113EC3D"
+  source: "https://www.jambase.com/show/rick-ross-the-met-philadelphia-20260711"
+  org: "The Met Philadelphia / Live Nation"
+  featured: false
+
+- id: phl-flyleaf-fillmore-jul11
+  title: "Flyleaf with Lacey Sturm — 20th Anniversary Tour"
+  region: philadelphia
+  category: concert
+  date: "2026-07-11"
+  start: ""
+  end: ""
+  all_day: false
+  time_note: "Start time not confirmed from a primary source; support act Zahna."
+  venue: "The Fillmore Philadelphia"
+  address: "29 E Allen Street, Philadelphia, PA 19123"
+  town: "Fishtown, Philadelphia"
+  lat: 39.9660
+  lng: -75.1360
+  cost: "Ticketed"
+  description: |
+    Reunited post-hardcore band Flyleaf, with original vocalist Lacey Sturm, plays a 20th-anniversary show at The Fillmore in Fishtown, with support from Zahna. A high-energy alt-metal night in one of the city's premier mid-size rooms.
+  url: "https://www.thefillmorephilly.com/shows"
+  source: "https://www.jambase.com/venue/the-fillmore-philadelphia"
+  org: "The Fillmore Philadelphia / Live Nation"
+  featured: false
+
+- id: phl-maui-writer-citywinery-jul13
+  title: "Maui The Writer — 'For The Lovers'"
+  region: philadelphia
+  category: concert
+  date: "2026-07-13"
+  start: "19:30"
+  end: ""
+  all_day: false
+  time_note: "Doors 6:00 PM; seated show."
+  venue: "City Winery Philadelphia"
+  address: "990 Filbert Street, Philadelphia, PA 19107"
+  town: "Center City, Philadelphia"
+  lat: 39.9530
+  lng: -75.1580
+  cost: "$48"
+  description: |
+    Poet, five-time author and podcast host Maui The Writer headlines "For The Lovers," billed as a self-care-and-chill poetry night of spoken word, storytelling and real conversation alongside other poets. An intimate seated show at City Winery's Fashion District location.
+  url: "https://tickets.citywinery.com/event/maui-the-writer-for-the-lovers-8bfhsx"
+  source: "https://tickets.citywinery.com/event/maui-the-writer-for-the-lovers-8bfhsx"
+  org: "City Winery Philadelphia"
+  featured: false
+
+- id: phl-skatalites-citywinery-jul14
+  title: "The Skatalites (with Lady Hatchet Quartet)"
+  region: philadelphia
+  category: concert
+  date: "2026-07-14"
+  start: "19:30"
+  end: ""
+  all_day: false
+  time_note: "Doors 6:00 PM; seated dinner-and-show format."
+  venue: "City Winery Philadelphia"
+  address: "990 Filbert Street, Philadelphia, PA 19107"
+  town: "Center City, Philadelphia"
+  lat: 39.9530
+  lng: -75.1580
+  cost: "Ticketed"
+  description: |
+    The Skatalites — the foundational Jamaican ska band whose original members shaped the genre — perform at City Winery with opener Lady Hatchet Quartet. A seated, dinner-and-show evening in Center City. Doors at 6 p.m., music at 7:30 p.m.
+  url: "https://tickets.citywinery.com/event/the-skatalites-5t16jx"
+  source: "https://tickets.citywinery.com/event/the-skatalites-5t16jx"
+  org: "City Winery Philadelphia"
+  featured: false
+
+- id: phl-bob-dylan-mann-jul14
+  title: "Bob Dylan — Live on Stage"
+  region: philadelphia
+  category: concert
+  date: "2026-07-14"
+  start: ""
+  end: ""
+  all_day: false
+  time_note: "Start time not listed on the venue calendar; support acts Jimmie Vaughan & The Tilt-A-Whirl Band and Brittney Spencer."
+  venue: "TD Pavilion at the Mann"
+  address: "5201 Parkside Avenue, Philadelphia, PA 19131"
+  town: "West Fairmount Park, Philadelphia"
+  lat: 39.9878
+  lng: -75.2107
+  cost: "Ticketed"
+  description: |
+    Bob Dylan brings his ongoing "Live on Stage" tour to the outdoor TD Pavilion at the Mann in Fairmount Park, with blues great Jimmie Vaughan & The Tilt-A-Whirl Band and country-soul artist Brittney Spencer opening. A marquee summer night under the pavilion — and a strong alternative for anyone in town for All-Star Game day.
+  url: "https://highmarkmann.org/events"
+  source: "https://highmarkmann.org/events"
+  org: "Highmark Mann Center / TD Pavilion at the Mann"
+  featured: false
+
+# ===== SUMMER BACKBONE: BEER GARDENS, PARKS, OUTDOOR =====
+
+- id: phl-parks-on-tap-shofuso-jul11
+  title: "Parks on Tap at Shofuso (West Fairmount Park)"
+  region: philadelphia
+  category: food
+  date: "2026-07-11"
+  start: "12:00"
+  end: "22:00"
+  all_day: false
+  time_note: "Roving beer garden parked at Shofuso Wed Jul 8–Sun Jul 12 (Wed–Fri 4–10 PM, Sat–Sun noon–10 PM); it is NOT at this location Jul 13–14."
+  venue: "Parks on Tap at Shofuso Japanese House & Garden"
+  address: "Horticultural & Lansdowne Drive, Philadelphia, PA 19131"
+  town: "West Fairmount Park, Philadelphia"
+  lat: 39.9853
+  lng: -75.2118
+  cost: "Free"
+  description: |
+    Philadelphia's roving pop-up beer garden sets up outside Shofuso Japanese House for the week, with craft beer, cocktails, and food trucks on the lawn. Free to enter; a portion of proceeds supports Philadelphia Parks & Recreation. Saturday hours run noon to 10 p.m.
+  url: "https://www.parksontap.com/locations-1"
+  source: "https://www.parksontap.com/locations-1"
+  org: "Parks on Tap / FCM Hospitality"
+  featured: false
+
+- id: phl-spruce-street-harbor-jul13
+  title: "Spruce Street Harbor Park"
+  region: philadelphia
+  category: family
+  date: "2026-07-13"
+  start: "11:00"
+  end: "22:00"
+  all_day: false
+  time_note: "Open daily all week; Sun–Thu 11 AM–10 PM, Fri–Sat 11 AM–11 PM."
+  venue: "Spruce Street Harbor Park"
+  address: "301 S Christopher Columbus Blvd, Philadelphia, PA 19106"
+  town: "Penn's Landing / Delaware River Waterfront, Philadelphia"
+  lat: 39.9436
+  lng: -75.1411
+  cost: "Free"
+  description: |
+    The free summer waterfront park at Penn's Landing returns with its signature hammock grove, LED-lit trees, floating gardens, boardwalk games, and barge bars and food. New for 2026 are Chiliboats and swan boats. A relaxed evening option on an otherwise quiet Monday of All-Star Week.
+  url: "https://www.delawareriverwaterfront.com/where-to-go/spruce-street-harbor-park"
+  source: "https://www.delawareriverwaterfront.com/where-to-go/spruce-street-harbor-park/hours-of-operation"
+  org: "Delaware River Waterfront Corporation"
+  featured: false
+
+- id: phl-the-oval-jul10
+  title: "The Oval — Summer Pop-Up on the Parkway"
+  region: philadelphia
+  category: family
+  date: "2026-07-10"
+  start: ""
+  end: ""
+  all_day: false
+  time_note: "Open Wed–Sun (2026 season Jun 18–Sep 14); Friday programming includes live main-stage music ~6:30 PM and an outdoor movie ~8:15 PM (film title not published). Closed Mon Jul 13 & Tue Jul 14."
+  venue: "Eakins Oval"
+  address: "2451 Benjamin Franklin Pkwy, Philadelphia, PA 19130"
+  town: "Benjamin Franklin Parkway / Fairmount, Philadelphia"
+  lat: 39.9656
+  lng: -75.1810
+  cost: "Free"
+  description: |
+    The eight-acre summer pop-up on the Parkway returns with the Libertee Grounds beer garden, mini-golf, food trucks, games, and yoga. Fridays add live main-stage music followed by a free outdoor movie after dusk. Free entry; mini-golf and food are pay-as-you-go.
+  url: "https://www.phillymag.com/things-to-do/the-oval-parkway/"
+  source: "https://www.phillymag.com/things-to-do/the-oval-parkway/"
+  org: "Philadelphia Parks & Recreation / Fairmount Park Conservancy"
+  featured: false
+
+- id: phl-morgans-pier-trivia-jul13
+  title: "Morgan's Pier — Waterfront Beer Garden (Trivia Night)"
+  region: philadelphia
+  category: food
+  date: "2026-07-13"
+  start: "19:00"
+  end: "21:00"
+  all_day: false
+  time_note: "Trivia per the venue events page; open ~4 PM–midnight Monday."
+  venue: "Morgan's Pier"
+  address: "221 N Christopher Columbus Blvd, Philadelphia, PA 19106"
+  town: "Old City / Delaware River Waterfront, Philadelphia"
+  lat: 39.9540
+  lng: -75.1385
+  cost: "Free"
+  description: |
+    Morgan's Pier is the open-air waterfront beer garden under the Ben Franklin Bridge, with river views, rotating guest chefs, cocktails, and nightly programming. Monday features trivia. Free to enter; food and drink for purchase.
+  url: "https://www.morganspier.com/upcoming-events"
+  source: "https://www.morganspier.com/upcoming-events"
+  org: "Morgan's Pier / FCM Hospitality"
+  featured: false
+
+- id: phl-morgans-pier-karaoke-jul14
+  title: "Morgan's Pier — Waterfront Beer Garden (Karaoke Night)"
+  region: philadelphia
+  category: food
+  date: "2026-07-14"
+  start: "20:00"
+  end: "23:00"
+  all_day: false
+  time_note: "Karaoke per the venue events page; open ~4 PM–midnight Tuesday."
+  venue: "Morgan's Pier"
+  address: "221 N Christopher Columbus Blvd, Philadelphia, PA 19106"
+  town: "Old City / Delaware River Waterfront, Philadelphia"
+  lat: 39.9540
+  lng: -75.1385
+  cost: "Free"
+  description: |
+    The waterfront beer garden under the Ben Franklin Bridge hosts karaoke on Tuesday nights — a lively All-Star Game-day option on the river with cocktails, guest-chef food, and skyline views. Free to enter; food and drink for purchase.
+  url: "https://www.morganspier.com/upcoming-events"
+  source: "https://www.morganspier.com/upcoming-events"
+  org: "Morgan's Pier / FCM Hospitality"
+  featured: false
+
+- id: phl-cira-green-encanto-jul11
+  title: "Sunset Social Movie Matinee: 'Encanto' at Cira Green"
+  region: philadelphia
+  category: family
+  date: "2026-07-11"
+  start: "12:00"
+  end: ""
+  all_day: false
+  time_note: "Weather-dependent rooftop screening."
+  venue: "Cira Green"
+  address: "129 S 30th Street, Philadelphia, PA 19104"
+  town: "University City, Philadelphia"
+  lat: 39.9540
+  lng: -75.1830
+  cost: "Free"
+  description: |
+    Sunset Social's free Saturday movie matinee screens Disney's "Encanto" on the elevated rooftop park at Cira Green, high above University City. Kid- and dog-friendly, with the beer garden and food open for purchase. Bring a blanket for the lawn.
+  url: "https://www.sunsetsocialphl.com/movie-matinees"
+  source: "https://www.phillymag.com/things-to-do/free-outdoor-movies-philadelphia/"
+  org: "Sunset Social / Cira Green"
+  featured: false
+
+# ===== FARMERS MARKETS (not already in guide) =====
+
+- id: phl-fairmount-market-jul9
+  title: "Fairmount Farmers Market"
+  region: philadelphia
+  category: food
+  date: "2026-07-09"
+  start: "15:00"
+  end: "19:00"
+  all_day: false
+  time_note: ""
+  venue: "Fairmount Farmers Market"
+  address: "22nd & Fairmount Avenue, Philadelphia, PA 19130"
+  town: "Fairmount, Philadelphia"
+  lat: 39.9678
+  lng: -75.1740
+  cost: "Free"
+  description: |
+    The Food Trust's Thursday-afternoon market in Fairmount brings local farmers and producers to 22nd and Fairmount with seasonal produce, baked goods, and prepared foods. Free to browse. A neighborhood staple near the Eastern State/Art Museum area.
+  url: "https://thefoodtrust.org/what-we-do/farmers-markets/fairmount/"
+  source: "https://thefoodtrust.org/what-we-do/farmers-markets/fairmount/"
+  org: "The Food Trust"
+  featured: false
+
+- id: phl-rittenhouse-market-jul11
+  title: "Rittenhouse Farmers Market (Saturday)"
+  region: philadelphia
+  category: food
+  date: "2026-07-11"
+  start: "09:00"
+  end: "14:00"
+  all_day: false
+  time_note: "Closing time can vary; verify day-of."
+  venue: "Rittenhouse Square Farmers Market"
+  address: "18th & Walnut Streets, Rittenhouse Square, Philadelphia, PA 19103"
+  town: "Rittenhouse Square, Philadelphia"
+  lat: 39.9496
+  lng: -75.1719
+  cost: "Free"
+  description: |
+    Farm to City's flagship Saturday market lines the edge of Rittenhouse Square with regional farmers, bakers, flower growers, and specialty producers. One of the city's largest and most central markets. Free to browse.
+  url: "https://www.farmtocitymarkets.com/markets2"
+  source: "https://marketspread.com/market/9809/rittenhouse-farmers-market/"
+  org: "Farm to City"
+  featured: false
+
+- id: phl-fitler-square-market-jul11
+  title: "Fitler Square Farmers Market"
+  region: philadelphia
+  category: food
+  date: "2026-07-11"
+  start: "09:00"
+  end: "12:00"
+  all_day: false
+  time_note: ""
+  venue: "Fitler Square Farmers Market"
+  address: "23rd & Pine Streets, Philadelphia, PA 19103"
+  town: "Fitler Square, Philadelphia"
+  lat: 39.9456
+  lng: -75.1798
+  cost: "Free"
+  description: |
+    A small, charming Saturday-morning market in leafy Fitler Square with hydroponic greens, produce, and prepared foods. Free to browse; a quiet alternative to the bustling Rittenhouse market a few blocks north.
+  url: "https://thefoodtrust.org/what-we-do/farmers-markets/fitler-square/"
+  source: "https://thefoodtrust.org/what-we-do/farmers-markets/fitler-square/"
+  org: "The Food Trust"
+  featured: false
+
+- id: phl-rittenhouse-market-jul14
+  title: "Rittenhouse Farmers Market (Tuesday)"
+  region: philadelphia
+  category: food
+  date: "2026-07-14"
+  start: "10:00"
+  end: "14:00"
+  all_day: false
+  time_note: ""
+  venue: "Rittenhouse Square Farmers Market"
+  address: "18th & Walnut Streets, Rittenhouse Square, Philadelphia, PA 19103"
+  town: "Rittenhouse Square, Philadelphia"
+  lat: 39.9496
+  lng: -75.1719
+  cost: "Free"
+  description: |
+    The Rittenhouse market also runs a smaller Tuesday session at the edge of the square, with seasonal produce, bread, and flowers. Free to browse — an easy midday stop on All-Star Game day.
+  url: "https://www.farmtocitymarkets.com/markets2"
+  source: "https://marketspread.com/market/9809/rittenhouse-farmers-market/"
+  org: "Farm to City"
+  featured: false
+
+- id: phl-la-placita-market-jul14
+  title: "La Placita Farm Stand (4th & Lehigh)"
+  region: philadelphia
+  category: food
+  date: "2026-07-14"
+  start: "11:00"
+  end: "15:00"
+  all_day: false
+  time_note: ""
+  venue: "La Placita Farm Stand"
+  address: "4th Street & Lehigh Avenue, Philadelphia, PA 19133"
+  town: "Fairhill, Philadelphia"
+  lat: 39.9930
+  lng: -75.1360
+  cost: "Free"
+  description: |
+    The Food Trust's Tuesday farm stand in Fairhill brings fresh, affordable produce to the 4th and Lehigh corner in one of the city's most under-served food areas. Accepts SNAP/Philly Food Bucks. Free to browse.
+  url: "https://thefoodtrust.org/what-we-do/farmers-markets/"
+  source: "https://thefoodtrust.org/what-we-do/farmers-markets/"
+  org: "The Food Trust"
+  featured: false
+
+# ===== BARTRAM'S GARDEN =====
+
+- id: phl-bartram-farmstand-jul9
+  title: "Sankofa Community Farm Stand at Bartram's Garden"
+  region: philadelphia
+  category: food
+  date: "2026-07-09"
+  start: "14:30"
+  end: "16:30"
+  all_day: false
+  time_note: ""
+  venue: "Bartram's Garden"
+  address: "5400 Lindbergh Blvd, Philadelphia, PA 19143"
+  town: "Kingsessing / Southwest Philadelphia"
+  lat: 39.9316
+  lng: -75.2124
+  cost: "Free"
+  description: |
+    The Sankofa Community Farm at Bartram's Garden runs a Thursday-afternoon farm stand with fresh, culturally relevant produce grown on site in Southwest Philadelphia. Free to visit; produce for purchase, with SNAP accepted. Set on the historic riverfront garden grounds.
+  url: "https://www.bartramsgarden.org/events/"
+  source: "https://www.bartramsgarden.org/events/"
+  org: "Bartram's Garden"
+  featured: false
+
+- id: phl-bartram-black-farmers-market-jul11
+  title: "Black Farmers Market at Bartram's Garden"
+  region: philadelphia
+  category: fair
+  date: "2026-07-11"
+  start: "11:00"
+  end: "14:00"
+  all_day: false
+  time_note: ""
+  venue: "Bartram's Garden"
+  address: "5400 Lindbergh Blvd, Philadelphia, PA 19143"
+  town: "Kingsessing / Southwest Philadelphia"
+  lat: 39.9316
+  lng: -75.2124
+  cost: "Free"
+  description: |
+    A Saturday Black Farmers Market on the grounds of America's oldest surviving botanic garden, with the Sankofa Farm Stand alongside vendors and community programming. Free to attend. Pair it with free bike rentals and boating on the tidal Schuylkill the same afternoon.
+  url: "https://www.bartramsgarden.org/events/"
+  source: "https://www.bartramsgarden.org/events/"
+  org: "Bartram's Garden"
+  featured: false
+
+- id: phl-bartram-boating-jul11
+  title: "Free Boating on the Tidal Schuylkill — Bartram's Garden"
+  region: philadelphia
+  category: family
+  date: "2026-07-11"
+  start: "15:00"
+  end: "19:00"
+  all_day: false
+  time_note: "Saturdays only (July/Aug summer hours); weather-dependent; no registration."
+  venue: "Bartram's Garden Community Boathouse"
+  address: "5400 Lindbergh Blvd, Philadelphia, PA 19143"
+  town: "Kingsessing / Southwest Philadelphia"
+  lat: 39.9316
+  lng: -75.2124
+  cost: "Free"
+  description: |
+    The community boathouse at Bartram's Garden offers free kayaking and rowing on the tidal Schuylkill River on Saturday afternoons, with all equipment provided and no registration required. First-come, weather permitting. A genuinely free, on-the-water summer activity in Southwest Philadelphia.
+  url: "https://www.bartramsgarden.org/boathouse/"
+  source: "https://www.bartramsgarden.org/boathouse/"
+  org: "Bartram's Garden"
+  featured: false
+
+# ===== MUSEUMS, EXHIBITS & LATE NIGHTS =====
+
+- id: phl-pma-friday-nights-jul10
+  title: "Friday Nights at the Philadelphia Museum of Art (live jazz)"
+  region: philadelphia
+  category: concert
+  date: "2026-07-10"
+  start: "17:00"
+  end: "20:45"
+  all_day: false
+  time_note: "Admission is Pay What You Wish on Friday nights."
+  venue: "Philadelphia Museum of Art (Great Stair Hall)"
+  address: "2600 Benjamin Franklin Pkwy, Philadelphia, PA 19130"
+  town: "Fairmount / Parkway, Philadelphia"
+  lat: 39.9656
+  lng: -75.1810
+  cost: "Free"
+  description: |
+    The PMA stays open late on Friday nights with live music in the Great Stair Hall — July 10 features the James Fernando Trio — plus drinks, snacks, and pop-up tours. Admission is Pay What You Wish after 5 p.m., so you can wander the galleries and the Rocky-steps view for whatever you choose to pay.
+  url: "https://www.philamuseum.org/events/friday-nights"
+  source: "https://www.philamuseum.org/events/friday-nights"
+  org: "Philadelphia Museum of Art"
+  featured: false
+
+- id: phl-pma-van-gogh-sunflowers-jul11
+  title: "Van Gogh's Sunflowers: A Symphony in Blue and Yellow"
+  region: philadelphia
+  category: exhibit
+  date: "2026-07-11"
+  start: "10:00"
+  end: "17:00"
+  all_day: false
+  time_note: "On view through Oct 11, 2026; included with museum admission. PMA is closed Tuesdays, so not available Jul 14."
+  venue: "Philadelphia Museum of Art"
+  address: "2600 Benjamin Franklin Pkwy, Philadelphia, PA 19130"
+  town: "Fairmount / Parkway, Philadelphia"
+  lat: 39.9656
+  lng: -75.1810
+  cost: "Ticketed"
+  description: |
+    The PMA brings together two of Van Gogh's iconic sunflower paintings for a focused exhibition on his experiments with color and complementary blues and yellows. Included with general admission and on view through October 11. A marquee summer show on the Parkway.
+  url: "https://www.philamuseum.org/exhibitions/van-gogh-sunflowers"
+  source: "https://www.philamuseum.org/exhibitions/van-gogh-sunflowers"
+  org: "Philadelphia Museum of Art"
+  featured: false
+
+- id: phl-barnes-on-the-block-jul12
+  title: "Barnes on the Block 2026"
+  region: philadelphia
+  category: festival
+  date: "2026-07-12"
+  start: "10:00"
+  end: "17:00"
+  all_day: false
+  time_note: "Free gallery access with advance registration."
+  venue: "The Barnes Foundation (Benjamin Franklin Parkway)"
+  address: "2025 Benjamin Franklin Pkwy, Philadelphia, PA 19130"
+  town: "Benjamin Franklin Parkway / Fairmount, Philadelphia"
+  lat: 39.9587
+  lng: -75.1727
+  cost: "Free"
+  description: |
+    The Barnes throws its free, family-friendly summer street festival on the Parkway, with DJs and live music, hands-on art activities, a craft market, food vendors, and a beer garden. Presented with PNC Arts Alive and Mural Arts Philadelphia; free gallery access to the Barnes collection and special exhibitions with registration.
+  url: "https://www.barnesfoundation.org/whats-on/barnes-on-the-block-2026"
+  source: "https://www.barnesfoundation.org/whats-on/barnes-on-the-block-2026"
+  org: "The Barnes Foundation"
+  featured: false
+
+- id: phl-eastern-state-summer-nights-jul11
+  title: "Eastern State Penitentiary — Summer Nights: Music & Open Mic"
+  region: philadelphia
+  category: concert
+  date: "2026-07-11"
+  start: "18:00"
+  end: "21:00"
+  all_day: false
+  time_note: "Last entry 8 PM; free for members."
+  venue: "Eastern State Penitentiary"
+  address: "2027 Fairmount Avenue, Philadelphia, PA 19130"
+  town: "Fairmount, Philadelphia"
+  lat: 39.9682
+  lng: -75.1727
+  cost: "$10"
+  description: |
+    The historic prison stays open Saturday evening for a Summer Nights music and open-mic night, where local musicians, spoken-word artists, and storytellers perform themes of justice, freedom, and resilience. Includes the Fair Chance Beer Garden on the former baseball field plus self-guided access to the cellblocks and exhibits.
+  url: "https://www.easternstate.org/visit/events/night-tours-summer-twilight-0"
+  source: "https://easternstate.org/events/series/summer-nights"
+  org: "Eastern State Penitentiary Historic Site"
+  featured: false
+
+- id: phl-eastern-state-day-jul13
+  title: "Eastern State Penitentiary — Daytime Tour"
+  region: philadelphia
+  category: tour
+  date: "2026-07-13"
+  start: "10:00"
+  end: "17:00"
+  all_day: false
+  time_note: "Last entry ~4 PM; audio tour narrated by Steve Buscemi included."
+  venue: "Eastern State Penitentiary"
+  address: "2027 Fairmount Avenue, Philadelphia, PA 19130"
+  town: "Fairmount, Philadelphia"
+  lat: 39.9682
+  lng: -75.1727
+  cost: "Ticketed"
+  description: |
+    Tour the crumbling cellblocks of the world's first true penitentiary, once home to Al Capone, with a self-guided audio tour and hands-on exhibits on criminal justice. Open daily 10 a.m.–5 p.m. A strong indoor/outdoor option for the quiet Monday of All-Star Week.
+  url: "https://www.easternstate.org/visit"
+  source: "https://www.easternstate.org/visit"
+  org: "Eastern State Penitentiary Historic Site"
+  featured: false
+
+- id: phl-mutter-tuesday-evening-jul14
+  title: "Mütter Museum — Extended Tuesday Summer Evening Hours"
+  region: philadelphia
+  category: exhibit
+  date: "2026-07-14"
+  start: "15:00"
+  end: "20:00"
+  all_day: false
+  time_note: "Every Tuesday Jun 16–Sep 1 the museum stays open until 8 PM."
+  venue: "Mütter Museum"
+  address: "19 S 22nd Street, Philadelphia, PA 19103"
+  town: "Rittenhouse / Logan Square, Philadelphia"
+  lat: 39.9531
+  lng: -75.1776
+  cost: "$25"
+  description: |
+    The Mütter — the College of Physicians' famously macabre museum of medical oddities, anatomical specimens, and antique instruments — stays open until 8 p.m. on summer Tuesdays. A late-afternoon and evening option on All-Star Game day before first pitch.
+  url: "https://muttermuseum.org/visit/hours-admission/"
+  source: "https://muttermuseum.org/visit/hours-admission/"
+  org: "Mütter Museum / The College of Physicians of Philadelphia"
+  featured: false
+
+- id: phl-moar-revolutionary-summer-jul13
+  title: "A Revolutionary Summer — Museum of the American Revolution"
+  region: philadelphia
+  category: family
+  date: "2026-07-13"
+  start: "09:30"
+  end: "18:00"
+  all_day: false
+  time_note: "Revolution Place open noon–5; Patriots Gallery activities 1–6; included with admission."
+  venue: "Museum of the American Revolution"
+  address: "101 S 3rd Street, Philadelphia, PA 19106"
+  town: "Old City, Philadelphia"
+  lat: 39.9486
+  lng: -75.1455
+  cost: "Ticketed"
+  description: |
+    The Museum of the American Revolution runs daily "Revolutionary Summer" programming — living-history interpreters, hands-on activities in Revolution Place, and family programs in the Patriots Gallery — through the summer. A fitting Old City stop during the 250th, and open on the otherwise-quiet Monday of All-Star Week.
+  url: "https://www.amrevmuseum.org/a-revolutionary-summer"
+  source: "https://www.amrevmuseum.org/a-revolutionary-summer"
+  org: "Museum of the American Revolution"
+  featured: false
+
+- id: phl-liberty-bell-jul13
+  title: "Liberty Bell Center"
+  region: philadelphia
+  category: tour
+  date: "2026-07-13"
+  start: "09:00"
+  end: "17:00"
+  all_day: false
+  time_note: "Free, self-guided; no tickets required; open daily."
+  venue: "Liberty Bell Center"
+  address: "526 Market Street, Philadelphia, PA 19106"
+  town: "Historic District / Old City, Philadelphia"
+  lat: 39.9496
+  lng: -75.1503
+  cost: "Free"
+  description: |
+    See the cracked Liberty Bell up close in its glass pavilion, with free exhibits tracing its history from the Pennsylvania State House to its role as a symbol of liberty and abolition. Free and self-guided, open daily 9 a.m.–5 p.m. An easy anchor for a historic-district Monday.
+  url: "https://www.nps.gov/inde/planyourvisit/libertybellcenter.htm"
+  source: "https://www.nps.gov/inde/planyourvisit/hours.htm"
+  org: "National Park Service — Independence National Historical Park"
+  featured: false
+
+- id: phl-independence-hall-jul13
+  title: "Independence Hall — Ranger-Guided Tours"
+  region: philadelphia
+  category: tour
+  date: "2026-07-13"
+  start: "09:00"
+  end: "17:00"
+  all_day: false
+  time_note: "First-come tours 9–9:50 AM; timed tickets every 20 min 10 AM–4 PM ($1 online reservation fee, or free same-day at the Visitor Center)."
+  venue: "Independence Hall"
+  address: "520 Chestnut Street, Philadelphia, PA 19106"
+  town: "Historic District / Old City, Philadelphia"
+  lat: 39.9489
+  lng: -75.1500
+  cost: "Free"
+  description: |
+    Ranger-led tours take you into the Assembly Room where the Declaration of Independence and U.S. Constitution were debated and signed. Free with a timed ticket (small online fee, or grab same-day tickets free at the Independence Visitor Center). A must-see during the nation's 250th.
+  url: "https://www.nps.gov/inde/planyourvisit/independencehalltickets.htm"
+  source: "https://www.nps.gov/inde/planyourvisit/hours.htm"
+  org: "National Park Service — Independence National Historical Park"
+  featured: false
+
+- id: phl-carpenters-hall-jul14
+  title: "Carpenters' Hall — Free Admission"
+  region: philadelphia
+  category: tour
+  date: "2026-07-14"
+  start: "10:00"
+  end: "16:00"
+  all_day: false
+  time_note: "Open Tue–Sun 10–4; free. (Closed Mondays, so not available Jul 13.)"
+  venue: "Carpenters' Hall"
+  address: "320 Chestnut Street, Philadelphia, PA 19106"
+  town: "Old City, Philadelphia"
+  lat: 39.9486
+  lng: -75.1467
+  cost: "Free"
+  description: |
+    Step inside the 1770 guild hall where the First Continental Congress convened in 1774 — still owned and operated by the Carpenters' Company that built it. Free to visit Tuesday through Sunday, 10 a.m.–4 p.m. A quiet, essential historic-district stop.
+  url: "https://www.carpentershall.org/events-info"
+  source: "https://www.carpentershall.org/events"
+  org: "The Carpenters' Company of the City and County of Philadelphia"
+  featured: false
+
+# ===== AMERICA250 / HISTORIC ONE-OFFS =====
+
+- id: phl-ben-franklin-bridge-100-jul11
+  title: "Ben Franklin Bridge 100th Anniversary Celebration (car-free bridge walk)"
+  region: philadelphia
+  category: festival
+  date: "2026-07-11"
+  start: "10:00"
+  end: "14:30"
+  all_day: false
+  time_note: "Rain or shine. Bridge closed to vehicles ~8:30 AM–4 PM; main festival grounds are on the Camden, NJ side; no ticket required but advance registration encouraged."
+  venue: "Benjamin Franklin Bridge"
+  address: "Benjamin Franklin Bridge (Philadelphia pedestrian entrance near 5th & Race Sts), Philadelphia, PA 19106"
+  town: "Old City, Philadelphia (walk to Camden, NJ)"
+  lat: 39.9540
+  lng: -75.1400
+  cost: "Free"
+  description: |
+    For one day only, the Ben Franklin Bridge closes to traffic for its 100th birthday, letting the public walk the roadway across the Delaware. Start from the Philadelphia side and cross to Camden, where the main celebration near the toll plaza has food trucks, live entertainment, family activities, and historical exhibits. PATCO runs every 20 minutes; advance registration is encouraged.
+  url: "https://www.drpa.org/BFB100/"
+  source: "https://www.eventbrite.com/e/ben-franklin-bridge-100th-anniversary-celebration-tickets-1990899038618"
+  org: "Delaware River Port Authority"
+  featured: false
+
+# Bucks + Montgomery County, PA — new "things to do" for July 9-14, 2026
+# Region tag is "bucks" for BOTH Bucks and Montgomery County events (per project convention).
+# Every event below was confirmed against an official/primary source that was actually fetched.
+# Deduped against .research/extended/EXISTING-JUL9-14.tsv (region=bucks).
+
+# ============================== THURSDAY JULY 9 ==============================
+
+- id: bucks-conshohocken-wontonsoups-jul9
+  title: "Conshohocken Summer Concert Series — The Wonton Soups"
+  region: bucks
+  category: concert
+  date: "2026-07-09"
+  start: "19:00"
+  end: "20:30"
+  all_day: false
+  time_note: "Opening night of the free 7-concert series (Thursdays); first three shows at Sutcliffe Park"
+  venue: "Sutcliffe Park"
+  address: "Sutcliffe Park, Conshohocken, PA 19428"
+  town: "Conshohocken (Montgomery)"
+  lat: 40.0790
+  lng: -75.3010
+  cost: "Free"
+  description: |
+    Opening night of the Borough of Conshohocken's free 2026 Summer Concert Series.
+    The Wonton Soups blend jazz, musical theater, marching band, funk, ska, swing,
+    pop and big band into a distinctive sound. Bring lawn chairs and blankets; the
+    first three shows of the season are held at Sutcliffe Park.
+  url: "https://www.conshohockenpa.gov/departments/public-information-special-events/2026-summer-concert-series/"
+  source: "https://www.conshohockenpa.gov/departments/public-information-special-events/2026-summer-concert-series/"
+  org: "Borough of Conshohocken"
+  featured: false
+
+- id: bucks-kop-livemusicgreen-jul9
+  title: "Live Music on the Green — King of Prussia Town Center"
+  region: bucks
+  category: concert
+  date: "2026-07-09"
+  start: "18:00"
+  end: "20:00"
+  all_day: false
+  time_note: "Recurring free series every Thursday April–October; performer for this date not listed on source"
+  venue: "King of Prussia Town Center (the Green)"
+  address: "155 Village Drive, King of Prussia, PA 19406"
+  town: "King of Prussia (Montgomery)"
+  lat: 40.0895
+  lng: -75.3960
+  cost: "Free"
+  description: |
+    King of Prussia Town Center's free "Live Music on the Green" runs every Thursday
+    from April through October, 6–8 PM, on the green space in front of the Town
+    Center's restaurants. Bring a chair or blanket and enjoy local bands steps from
+    the shops and dining. July 9 falls within the series.
+  url: "https://visitkop.com/recurring-events/live-music-on-the-green-kop-town-center/"
+  source: "https://visitkop.com/recurring-events/live-music-on-the-green-kop-town-center/"
+  org: "King of Prussia District"
+  featured: false
+
+- id: bucks-buckingham-phantomtrap-jul9
+  title: "Buckingham Township Summer Concert Series — Phantom Trap"
+  region: bucks
+  category: concert
+  date: "2026-07-09"
+  start: "19:00"
+  end: "21:00"
+  all_day: false
+  time_note: "Free Thursday-night series; rain location Buckingham Springs Clubhouse"
+  venue: "Hansell Park Band Shell"
+  address: "5165 Hansell Rd, Doylestown, PA 18902"
+  town: "Buckingham (Bucks)"
+  lat: 40.3100
+  lng: -75.0600
+  cost: "Free"
+  description: |
+    Buckingham Township's free summer concert series returns Thursday nights at the
+    Hansell Park Band Shell, 7–9 PM. The July 9 show features Phantom Trap. Bring
+    lawn chairs or a blanket; in case of bad weather the concert moves to the
+    Buckingham Springs Clubhouse.
+  url: "https://www.buckinghampa.org/resources/news/article/?id=12681"
+  source: "https://www.buckinghampa.org/resources/news/article/?id=12681"
+  org: "Buckingham Township Parks & Recreation"
+  featured: false
+
+- id: bucks-newtown-musiconstreet-jul9
+  title: "Music on the Street — Anthony Wexler (Newtown)"
+  region: bucks
+  category: concert
+  date: "2026-07-09"
+  start: "18:00"
+  end: "19:30"
+  all_day: false
+  time_note: "Opening night of a free Thursday series running July 9–September 3"
+  venue: "Downtown Newtown (in front of Opus Elite Real Estate)"
+  address: "16 South State Street, Newtown, PA 18940"
+  town: "Newtown (Bucks)"
+  lat: 40.2288
+  lng: -74.9366
+  cost: "Free"
+  description: |
+    The Opus Outreach Foundation's free "Music on the Street" summer concert series
+    returns to downtown Newtown Borough every Thursday from July 9 through September 3.
+    Opening night features Anthony Wexler, a Philadelphia-based rock and acoustic
+    artist. Bring chairs and blankets; lemonade sales benefit the foundation.
+  url: "https://patch.com/pennsylvania/newtown-pa/summer-vibe-returns-heart-newtown-music-street"
+  source: "https://patch.com/pennsylvania/newtown-pa/summer-vibe-returns-heart-newtown-music-street"
+  org: "Opus Outreach Foundation"
+  featured: false
+
+- id: bucks-crossing-americanatrivia-jul9
+  title: "Americana Trivia: Celebrating 250 Years! — Crossing Vineyards"
+  region: bucks
+  category: other
+  date: "2026-07-09"
+  start: "19:00"
+  end: ""
+  all_day: false
+  time_note: "Reservations suggested; no cover charge"
+  venue: "Crossing Vineyards & Winery"
+  address: "1853 Wrightstown Rd, Washington Crossing, PA 18940"
+  town: "Washington Crossing (Bucks)"
+  lat: 40.2988
+  lng: -74.8747
+  cost: "Free"
+  description: |
+    A themed trivia night at Crossing Vineyards & Winery — "Americana Trivia:
+    Celebrating 250 Years!" — tied to the nation's semiquincentennial. No cover
+    charge; reservations are suggested. Wine and light bites are available for
+    purchase in the tasting room.
+  url: "https://www.crossingvineyards.com/public-events"
+  source: "https://www.crossingvineyards.com/public-events"
+  org: "Crossing Vineyards & Winery"
+  featured: false
+
+- id: bucks-godstreetwine-ardmore-jul9
+  title: "Concerts Under the Stars: God Street Wine — Ardmore Music Hall"
+  region: bucks
+  category: concert
+  date: "2026-07-09"
+  start: "19:00"
+  end: ""
+  all_day: false
+  time_note: "Upper Merion's 'Concerts Under the Stars' show moved indoors to Ardmore Music Hall"
+  venue: "Ardmore Music Hall"
+  address: "23 E Lancaster Ave, Ardmore, PA 19003"
+  town: "Ardmore (Montgomery)"
+  lat: 40.0068
+  lng: -75.2916
+  cost: "Ticketed"
+  description: |
+    Part of Upper Merion's 40th-season "Concerts Under the Stars" series (produced by
+    Rising Sun Presents), this show was relocated to the indoor Ardmore Music Hall.
+    Jam band God Street Wine headlines, with support from The Band Memo. Ticketed;
+    price varies.
+  url: "https://www.concertsunderthestarskop.com/"
+  source: "https://www.concertsunderthestarskop.com/"
+  org: "Rising Sun Presents / Concerts Under the Stars"
+  featured: false
+
+- id: bucks-narberth-farmersmkt-jul9
+  title: "Narberth Farmers Market"
+  region: bucks
+  category: food
+  date: "2026-07-09"
+  start: "15:00"
+  end: "19:00"
+  all_day: false
+  time_note: "Weekly Thursday-afternoon market"
+  venue: "Narberth Station (Station Circle)"
+  address: "Station Circle, Narberth, PA 19072"
+  town: "Narberth (Montgomery)"
+  lat: 40.0087
+  lng: -75.2610
+  cost: "Free"
+  description: |
+    Narberth's weekly farmers market sets up Thursday afternoons, 3–7 PM, at Station
+    Circle beside the Narberth train station. Local produce, prepared foods, and
+    artisan vendors. Free to browse.
+  url: "https://www.valleyforge.org/things-to-do/shopping/farmers-markets/"
+  source: "https://www.valleyforge.org/things-to-do/shopping/farmers-markets/"
+  org: "Narberth Farmers Market"
+  featured: false
+
+# ============================== FRIDAY JULY 10 ==============================
+
+- id: bucks-crossing-soulcruisers-jul10
+  title: "Summer Wine & Music Series: The Sensational Soul Cruisers — Crossing Vineyards"
+  region: bucks
+  category: concert
+  date: "2026-07-10"
+  start: "19:00"
+  end: "21:00"
+  all_day: false
+  time_note: "$20 advance / $25 the week of the concert; online sales close 4:30 PM concert day; rain or shine"
+  venue: "Crossing Vineyards & Winery"
+  address: "1853 Wrightstown Rd, Washington Crossing, PA 18940"
+  town: "Washington Crossing (Bucks)"
+  lat: 40.2988
+  lng: -74.8747
+  cost: "$20"
+  description: |
+    Part of the 2026 Summer Wine & Music Series (ten Friday concerts, rain or shine).
+    The Sensational Soul Cruisers play 60s, 70s and 80s Soul, R&B and more. Bring a
+    lawn chair; wine, beer, and light bites are available for purchase (outside food
+    permitted, outside beverages are not).
+  url: "https://www.crossingvineyards.com/public-events"
+  source: "https://www.crossingvineyards.com/public-events"
+  org: "Crossing Vineyards & Winery"
+  featured: false
+
+- id: bucks-univest-blackstonecherry-jul10
+  title: "Black Stone Cherry — Univest Performance Center"
+  region: bucks
+  category: concert
+  date: "2026-07-10"
+  start: "20:00"
+  end: ""
+  all_day: false
+  time_note: "Gates 6 PM, show 8 PM; tickets ~$50–$150; parking $10"
+  venue: "Univest Performance Center"
+  address: "301 W Mill St, Quakertown, PA 18951"
+  town: "Quakertown (Bucks)"
+  lat: 40.4420
+  lng: -75.3480
+  cost: "$50"
+  description: |
+    Southern hard-rock band Black Stone Cherry headlines the outdoor Univest
+    Performance Center in Quakertown. Gates open at 6 PM with the show at 8 PM.
+    Tickets run roughly $50–$150; day-of parking is $10 per vehicle.
+  url: "https://univestperformancecenter.com/"
+  source: "https://univestperformancecenter.com/"
+  org: "Univest Performance Center"
+  featured: false
+
+- id: bucks-hellericks-musicmocktails-jul10
+  title: "Music and Mocktails — Hellerick's Family Farm"
+  region: bucks
+  category: concert
+  date: "2026-07-10"
+  start: "18:00"
+  end: "20:00"
+  all_day: false
+  time_note: "Children under 36 inches tall are free"
+  venue: "Hellerick's Family Farm"
+  address: "5500 N Easton Rd, Doylestown, PA 18902"
+  town: "Doylestown (Bucks)"
+  lat: 40.3650
+  lng: -75.1070
+  cost: "$19.99"
+  description: |
+    Hellerick's Family Farm hosts a summer "Music and Mocktails" evening with live
+    music, food trucks, soft ice cream, mini donuts, slushies and more. Admission is
+    $19.99 per person (children under 36 inches tall are free).
+  url: "https://doylestownalive.com/events/summer-outdoor-concerts-movies-shows.cfm"
+  source: "https://doylestownalive.com/events/summer-outdoor-concerts-movies-shows.cfm"
+  org: "Hellerick's Family Farm"
+  featured: false
+
+- id: bucks-sunnybrook-farmersmkt-jul10
+  title: "Sunnybrook Farmers Market (Pottstown)"
+  region: bucks
+  category: food
+  date: "2026-07-10"
+  start: "16:00"
+  end: "19:00"
+  all_day: false
+  time_note: "Weekly Friday-afternoon market; street address not confirmed on source"
+  venue: "Sunnybrook"
+  address: "Pottstown, PA 19464"
+  town: "Pottstown (Montgomery)"
+  lat: 40.2530
+  lng: -75.6230
+  cost: "Free"
+  description: |
+    A weekly Friday-afternoon farmers market at Sunnybrook in the Pottstown area,
+    4–7 PM, per the regional farmers-market directory. Local produce and vendors;
+    free to browse.
+  url: "https://www.valleyforge.org/things-to-do/shopping/farmers-markets/"
+  source: "https://www.valleyforge.org/things-to-do/shopping/farmers-markets/"
+  org: "Sunnybrook Farmers Market"
+  featured: false
+
+# ============================== SATURDAY JULY 11 ==============================
+
+- id: bucks-peddlers-singalong-jul11
+  title: "Saturday Sing-Along with the Oscar Hammerstein Museum — Peddler's Village"
+  region: bucks
+  category: family
+  date: "2026-07-11"
+  start: "12:00"
+  end: "13:30"
+  all_day: false
+  time_note: ""
+  venue: "Peddler's Village (Village Green)"
+  address: "Routes 202 & Street Rd, Lahaska, PA 18931"
+  town: "Lahaska (Bucks)"
+  lat: 40.3430
+  lng: -75.0330
+  cost: "Free"
+  description: |
+    A free family sing-along at Peddler's Village presented with the Oscar Hammerstein
+    Museum, celebrating classic show tunes on the Village Green. Family-friendly and
+    open to all.
+  url: "https://peddlersvillage.com/events/2026-07/"
+  source: "https://peddlersvillage.com/events/2026-07/"
+  org: "Peddler's Village"
+  featured: false
+
+- id: bucks-lahaska-authors-jul11
+  title: "Author Event: Emily Ruth Verona & Grace R. Reynolds — The Lahaska Bookshop"
+  region: bucks
+  category: lecture
+  date: "2026-07-11"
+  start: "13:00"
+  end: "15:00"
+  all_day: false
+  time_note: ""
+  venue: "The Lahaska Bookshop, Peddler's Village"
+  address: "Routes 202 & Street Rd, Lahaska, PA 18931"
+  town: "Lahaska (Bucks)"
+  lat: 40.3430
+  lng: -75.0330
+  cost: "Free"
+  description: |
+    An in-person author appearance and signing with novelists Emily Ruth Verona and
+    Grace R. Reynolds at The Lahaska Bookshop inside Peddler's Village. Free to attend.
+  url: "https://peddlersvillage.com/events/2026-07/"
+  source: "https://peddlersvillage.com/events/2026-07/"
+  org: "The Lahaska Bookshop / Peddler's Village"
+  featured: false
+
+- id: bucks-nissley-music-jul11
+  title: "Live Music at Nissley Vineyards — Peddler's Village (Saturday)"
+  region: bucks
+  category: concert
+  date: "2026-07-11"
+  start: "14:00"
+  end: "17:00"
+  all_day: false
+  time_note: ""
+  venue: "Nissley Vineyards tasting room, Peddler's Village"
+  address: "Routes 202 & Street Rd, Lahaska, PA 18931"
+  town: "Lahaska (Bucks)"
+  lat: 40.3430
+  lng: -75.0330
+  cost: "Free"
+  description: |
+    Afternoon live music paired with wine at the Nissley Vineyards tasting room in
+    Peddler's Village, 2–5 PM. Free admission; wine available for purchase.
+  url: "https://peddlersvillage.com/events/2026-07/"
+  source: "https://peddlersvillage.com/events/2026-07/"
+  org: "Peddler's Village / Nissley Vineyards"
+  featured: false
+
+- id: bucks-graemepark-declaration-jul11
+  title: "America 250: Reading of the Declaration of Independence — Graeme Park"
+  region: bucks
+  category: ceremony
+  date: "2026-07-11"
+  start: "12:00"
+  end: "14:00"
+  all_day: false
+  time_note: "Complimentary ice cream while supplies last"
+  venue: "Graeme Park"
+  address: "859 County Line Rd, Horsham, PA 19044"
+  town: "Horsham (Montgomery)"
+  lat: 40.1990
+  lng: -75.1500
+  cost: "Free"
+  description: |
+    A 250th-anniversary celebration at historic Graeme Park featuring a brass trio
+    playing patriotic favorites and a reading of the Declaration of Independence by
+    costumed colonial reenactors. Includes period dance demonstrations, quill-pen
+    writing activities, and complimentary ice cream while supplies last.
+  url: "https://www.graemepark.org/events/"
+  source: "https://www.graemepark.org/events/"
+  org: "Graeme Park / Historic Preservation Trust"
+  featured: false
+
+- id: bucks-brynmawr-tomrush-jul11
+  title: "Bryn Mawr Twilight Concerts: Tom Rush"
+  region: bucks
+  category: concert
+  date: "2026-07-11"
+  start: "19:00"
+  end: ""
+  all_day: false
+  time_note: "Free outdoor concert at the Bryn Mawr Gazebo"
+  venue: "The Bryn Mawr Gazebo"
+  address: "9 S Bryn Mawr Ave, Bryn Mawr, PA 19010"
+  town: "Bryn Mawr (Montgomery)"
+  lat: 40.0218
+  lng: -75.3213
+  cost: "Free"
+  description: |
+    Folk legend Tom Rush, accompanied by Brendan Cleary, headlines the free Bryn Mawr
+    Twilight Concerts series at the gazebo. Co-presented by Lower Merion Township and
+    produced by Rising Sun Presents. Bring a chair or blanket.
+  url: "https://brynmawrtwilightconcerts.com/"
+  source: "https://brynmawrtwilightconcerts.com/"
+  org: "Rising Sun Presents / Lower Merion Township"
+  featured: false
+
+- id: bucks-yardley-farmersmkt-jul11
+  title: "Yardley Farmers Market"
+  region: bucks
+  category: food
+  date: "2026-07-11"
+  start: "09:00"
+  end: "12:00"
+  all_day: false
+  time_note: "Season runs May 2–Nov 21, 2026; Saturday inferred (official page lists hours/season but not day-of-week)"
+  venue: "Buttonwood Park"
+  address: "Buttonwood Park, Yardley, PA 19067"
+  town: "Yardley (Bucks)"
+  lat: 40.2443
+  lng: -74.8360
+  cost: "Free"
+  description: |
+    Yardley's producer-only summer farmers market runs 9 AM–noon at Buttonwood Park in
+    downtown Yardley Borough, with free on-site parking. The 2026 season runs May 2
+    through November 21.
+  url: "https://www.yardleyfarmersmarket.com/"
+  source: "https://www.yardleyfarmersmarket.com/"
+  org: "Yardley Farmers Market"
+  featured: false
+
+- id: bucks-ardmore-farmersmkt-jul11
+  title: "Ardmore Farmers Market (Suburban Square)"
+  region: bucks
+  category: food
+  date: "2026-07-11"
+  start: "08:00"
+  end: "18:00"
+  all_day: false
+  time_note: "Indoor market hall open multiple days; Saturday hours 8 AM–6 PM"
+  venue: "Ardmore Farmers Market, Suburban Square"
+  address: "120 Coulter Ave, Ardmore, PA 19003"
+  town: "Ardmore (Montgomery)"
+  lat: 40.0079
+  lng: -75.2930
+  cost: "Free"
+  description: |
+    The Ardmore Farmers Market is an indoor market hall at Suburban Square with produce
+    stands, butchers, bakers, cheesemongers and prepared-food vendors. Open Saturdays
+    8 AM–6 PM (and other days). Free to browse.
+  url: "https://www.valleyforge.org/things-to-do/shopping/farmers-markets/"
+  source: "https://www.valleyforge.org/things-to-do/shopping/farmers-markets/"
+  org: "Ardmore Farmers Market"
+  featured: false
+
+- id: bucks-ambler-farmersmkt-jul11
+  title: "Ambler Farmers Market"
+  region: bucks
+  category: food
+  date: "2026-07-11"
+  start: "09:00"
+  end: "12:00"
+  all_day: false
+  time_note: "Weekly Saturday-morning market; street address not confirmed on source"
+  venue: "Downtown Ambler"
+  address: "Ambler, PA 19002"
+  town: "Ambler (Montgomery)"
+  lat: 40.1550
+  lng: -75.2220
+  cost: "Free"
+  description: |
+    Ambler's weekly Saturday-morning farmers market (9 AM–noon) brings local growers
+    and food vendors to the borough's downtown. Free to browse.
+  url: "https://www.valleyforge.org/things-to-do/shopping/farmers-markets/"
+  source: "https://www.valleyforge.org/things-to-do/shopping/farmers-markets/"
+  org: "Ambler Farmers Market"
+  featured: false
+
+- id: bucks-brynmawr-farmersmkt-jul11
+  title: "Bryn Mawr Farmers Market"
+  region: bucks
+  category: food
+  date: "2026-07-11"
+  start: "09:00"
+  end: "13:00"
+  all_day: false
+  time_note: "Weekly Saturday market; street address not confirmed on source"
+  venue: "Bryn Mawr"
+  address: "Bryn Mawr, PA 19010"
+  town: "Bryn Mawr (Montgomery)"
+  lat: 40.0218
+  lng: -75.3213
+  cost: "Free"
+  description: |
+    The Bryn Mawr Farmers Market runs Saturday mornings, 9 AM–1 PM, with local produce,
+    baked goods and artisan vendors on the Main Line. Free to browse.
+  url: "https://www.valleyforge.org/things-to-do/shopping/farmers-markets/"
+  source: "https://www.valleyforge.org/things-to-do/shopping/farmers-markets/"
+  org: "Bryn Mawr Farmers Market"
+  featured: false
+
+- id: bucks-glenside-farmersmkt-jul11
+  title: "Glenside Farmers Market"
+  region: bucks
+  category: food
+  date: "2026-07-11"
+  start: "09:00"
+  end: "13:00"
+  all_day: false
+  time_note: "Weekly Saturday market; street address not confirmed on source"
+  venue: "Glenside"
+  address: "Glenside, PA 19038"
+  town: "Glenside (Montgomery)"
+  lat: 40.1010
+  lng: -75.1530
+  cost: "Free"
+  description: |
+    The Glenside Farmers Market gathers local farmers and vendors on Saturday mornings,
+    9 AM–1 PM, in the heart of Glenside. Free to browse.
+  url: "https://www.valleyforge.org/things-to-do/shopping/farmers-markets/"
+  source: "https://www.valleyforge.org/things-to-do/shopping/farmers-markets/"
+  org: "Glenside Farmers Market"
+  featured: false
+
+- id: bucks-uppermerion-farmersmkt-jul11
+  title: "Upper Merion Farmers Market (King of Prussia)"
+  region: bucks
+  category: food
+  date: "2026-07-11"
+  start: "10:00"
+  end: "14:00"
+  all_day: false
+  time_note: "Weekly Saturday market; street address not confirmed on source"
+  venue: "Upper Merion Township"
+  address: "King of Prussia, PA 19406"
+  town: "King of Prussia (Montgomery)"
+  lat: 40.0895
+  lng: -75.3800
+  cost: "Free"
+  description: |
+    The Upper Merion Farmers Market runs Saturdays 10 AM–2 PM in the King of Prussia
+    area, featuring local produce, prepared foods and artisan goods. Free to browse.
+  url: "https://www.valleyforge.org/things-to-do/shopping/farmers-markets/"
+  source: "https://www.valleyforge.org/things-to-do/shopping/farmers-markets/"
+  org: "Upper Merion Farmers Market"
+  featured: false
+
+# ============================== SUNDAY JULY 12 ==============================
+
+- id: bucks-nissley-music-jul12
+  title: "Live Music at Nissley Vineyards — Peddler's Village (Sunday)"
+  region: bucks
+  category: concert
+  date: "2026-07-12"
+  start: "13:00"
+  end: "16:00"
+  all_day: false
+  time_note: ""
+  venue: "Nissley Vineyards tasting room, Peddler's Village"
+  address: "Routes 202 & Street Rd, Lahaska, PA 18931"
+  town: "Lahaska (Bucks)"
+  lat: 40.3430
+  lng: -75.0330
+  cost: "Free"
+  description: |
+    Sunday-afternoon live music paired with wine at the Nissley Vineyards tasting room
+    in Peddler's Village, 1–4 PM. Free admission; wine available for purchase.
+  url: "https://peddlersvillage.com/events/2026-07/"
+  source: "https://peddlersvillage.com/events/2026-07/"
+  org: "Peddler's Village / Nissley Vineyards"
+  featured: false
+
+- id: bucks-boogie-scoogie-funrun-jul12
+  title: "Boogie with Scoogie Fun Run — Peddler's Village"
+  region: bucks
+  category: sports
+  date: "2026-07-12"
+  start: "09:00"
+  end: "10:30"
+  all_day: false
+  time_note: "Cost not listed on source"
+  venue: "Peddler's Village"
+  address: "Routes 202 & Street Rd, Lahaska, PA 18931"
+  town: "Lahaska (Bucks)"
+  lat: 40.3430
+  lng: -75.0330
+  cost: ""
+  description: |
+    A morning "Boogie with Scoogie" fun run held at Peddler's Village. Registration
+    details and any fee were not listed on the Peddler's Village July calendar; confirm
+    with the organizer before attending.
+  url: "https://peddlersvillage.com/events/2026-07/"
+  source: "https://peddlersvillage.com/events/2026-07/"
+  org: "Peddler's Village"
+  featured: false
+
+- id: bucks-crossing-picnicvineyard-jul12
+  title: "Picnic in the Vineyard — Crossing Vineyards"
+  region: bucks
+  category: food
+  date: "2026-07-12"
+  start: "12:00"
+  end: ""
+  all_day: false
+  time_note: "$85 per basket (serves 2)"
+  venue: "Crossing Vineyards & Winery"
+  address: "1853 Wrightstown Rd, Washington Crossing, PA 18940"
+  town: "Washington Crossing (Bucks)"
+  lat: 40.2988
+  lng: -74.8747
+  cost: "$85"
+  description: |
+    A midday "Picnic in the Vineyard" at Crossing Vineyards & Winery. Each $85 basket
+    serves two and includes a spread of goodies plus a bottle of wine and keepsake
+    items, enjoyed among the vines.
+  url: "https://www.crossingvineyards.com/public-events"
+  source: "https://www.crossingvineyards.com/public-events"
+  org: "Crossing Vineyards & Winery"
+  featured: false
+
+- id: bucks-greenlane-realdiamond-jul12
+  title: "Green Lane Park Summer Concert Series: Real Diamond (Neil Diamond Tribute)"
+  region: bucks
+  category: concert
+  date: "2026-07-12"
+  start: "18:30"
+  end: "20:30"
+  all_day: false
+  time_note: "Free county-parks concert; bring chairs/blankets"
+  venue: "Green Lane Park Amphitheater"
+  address: "2298 Green Lane Rd, Green Lane, PA 18054"
+  town: "Green Lane (Montgomery)"
+  lat: 40.3496
+  lng: -75.4699
+  cost: "Free"
+  description: |
+    Montgomery County Parks' free summer concert series at Green Lane Park hosts Real
+    Diamond, a Neil Diamond tribute band, 6:30–8:30 PM at the park amphitheater. Bring
+    a lawn chair or blanket. Sponsored by Montgomery County Parks, Trails & Historic
+    Sites.
+  url: "https://www.montgomerycountypa.gov/3474/Events"
+  source: "https://www.montgomerycountypa.gov/3474/Events"
+  org: "Montgomery County Parks, Trails & Historic Sites"
+  featured: false
+
+- id: bucks-brynmawr-shovelsrope-jul12
+  title: "Bryn Mawr Twilight Concerts: WXPN Welcomes Shovels & Rope"
+  region: bucks
+  category: concert
+  date: "2026-07-12"
+  start: "19:00"
+  end: ""
+  all_day: false
+  time_note: "Free; with The Golden Hours (David Wax Museum + Lowland Hum)"
+  venue: "The Bryn Mawr Gazebo"
+  address: "9 S Bryn Mawr Ave, Bryn Mawr, PA 19010"
+  town: "Bryn Mawr (Montgomery)"
+  lat: 40.0218
+  lng: -75.3213
+  cost: "Free"
+  description: |
+    WXPN Welcomes Shovels & Rope, with opener The Golden Hours (featuring David Wax
+    Museum and Lowland Hum), to the free Bryn Mawr Twilight Concerts at the gazebo.
+    Co-presented by Lower Merion Township and WXPN, produced by Rising Sun Presents.
+  url: "https://brynmawrtwilightconcerts.com/"
+  source: "https://brynmawrtwilightconcerts.com/"
+  org: "Rising Sun Presents / Lower Merion Township / WXPN"
+  featured: false
+
+- id: bucks-hopelodge-tours-jul12
+  title: "Guided Mansion Tours — Historic Hope Lodge"
+  region: bucks
+  category: tour
+  date: "2026-07-12"
+  start: "13:00"
+  end: "16:00"
+  all_day: false
+  time_note: "Timed tours at 1:00 and 2:30 PM; cash/check/PayPal only"
+  venue: "Historic Hope Lodge"
+  address: "553 S Bethlehem Pike, Fort Washington, PA 19034"
+  town: "Fort Washington (Montgomery)"
+  lat: 40.1350
+  lng: -75.2090
+  cost: "$8"
+  description: |
+    Guided tours of the 1740s Georgian mansion at Historic Hope Lodge, an epicenter of
+    Revolutionary War activity during the 1777 Philadelphia Campaign. Timed tours at
+    1:00 and 2:30 PM. Adults $8; seniors 65+ and youth 6–17 $5; under 5 free; active
+    military free (Memorial Day–Labor Day).
+  url: "https://www.historichopelodge.org/new-events"
+  source: "https://www.historichopelodge.org/new-events"
+  org: "Historic Hope Lodge / Friends of Hope Lodge"
+  featured: false
+
+- id: bucks-horsham-farmersmkt-jul12
+  title: "Horsham Farmers Market"
+  region: bucks
+  category: food
+  date: "2026-07-12"
+  start: "10:00"
+  end: "13:00"
+  all_day: false
+  time_note: "Weekly Sunday market; street address not confirmed on source"
+  venue: "Horsham Township"
+  address: "Horsham, PA 19044"
+  town: "Horsham (Montgomery)"
+  lat: 40.1800
+  lng: -75.1300
+  cost: "Free"
+  description: |
+    The Horsham Farmers Market runs Sunday mornings, 10 AM–1 PM, with local produce
+    and vendors. Free to browse.
+  url: "https://www.valleyforge.org/things-to-do/shopping/farmers-markets/"
+  source: "https://www.valleyforge.org/things-to-do/shopping/farmers-markets/"
+  org: "Horsham Farmers Market"
+  featured: false
+
+# ============================== MONDAY JULY 13 ==============================
+
+- id: bucks-buttonwood-industrynight-jul13
+  title: "Industry Night at Buttonwood Grill — Peddler's Village"
+  region: bucks
+  category: food
+  date: "2026-07-13"
+  start: "16:00"
+  end: "19:00"
+  all_day: false
+  time_note: "20% discount for service-industry workers"
+  venue: "Buttonwood Grill, Peddler's Village"
+  address: "Routes 202 & Street Rd, Lahaska, PA 18931"
+  town: "Lahaska (Bucks)"
+  lat: 40.3430
+  lng: -75.0330
+  cost: "Free"
+  description: |
+    A weekday service-industry night at Buttonwood Grill inside Peddler's Village,
+    4–7 PM, with a 20% discount for service-industry workers. Free to attend; food and
+    drink pay-as-you-go.
+  url: "https://peddlersvillage.com/events/2026-07/"
+  source: "https://peddlersvillage.com/events/2026-07/"
+  org: "Buttonwood Grill / Peddler's Village"
+  featured: false
+
+# ============================== TUESDAY JULY 14 ==============================
+
+- id: bucks-craigthatcher-lansdale-jul14
+  title: "White's Road Park Concert Series: The Craig Thatcher Band (Lansdale)"
+  region: bucks
+  category: concert
+  date: "2026-07-14"
+  start: "19:00"
+  end: ""
+  all_day: false
+  time_note: "Free Tuesday-night series; food/beverage vendors on site"
+  venue: "White's Road Park"
+  address: "400 White's Rd, Lansdale, PA 19446"
+  town: "Lansdale (Montgomery)"
+  lat: 40.2515
+  lng: -75.2647
+  cost: "Free"
+  description: |
+    Lansdale Borough's free Tuesday-night White's Road Park Concert Series presents
+    The Craig Thatcher Band, a versatile guitar-driven act spanning rock, blues, jazz
+    and acoustic styles. Food and beverage vendors on site; bring a blanket or chairs.
+  url: "https://www.lansdale.org/180/Whites-Road-Park-Concert-Series"
+  source: "https://www.lansdale.org/180/Whites-Road-Park-Concert-Series"
+  org: "Lansdale Borough"
+  featured: false
+
+- id: bucks-buttonwood-gamenight-jul14
+  title: "Family Game Night at Buttonwood Grill — Peddler's Village"
+  region: bucks
+  category: family
+  date: "2026-07-14"
+  start: "16:00"
+  end: "19:00"
+  all_day: false
+  time_note: ""
+  venue: "Buttonwood Grill, Peddler's Village"
+  address: "Routes 202 & Street Rd, Lahaska, PA 18931"
+  town: "Lahaska (Bucks)"
+  lat: 40.3430
+  lng: -75.0330
+  cost: "Free"
+  description: |
+    A weekday family game night at Buttonwood Grill inside Peddler's Village, 4–7 PM.
+    Free to attend; food and drink available for purchase.
+  url: "https://peddlersvillage.com/events/2026-07/"
+  source: "https://peddlersvillage.com/events/2026-07/"
+  org: "Buttonwood Grill / Peddler's Village"
+  featured: false
+
+- id: bucks-wchp-natureprintmaking-jul14
+  title: "Nature Print Making — Washington Crossing Historic Park"
+  region: bucks
+  category: family
+  date: "2026-07-14"
+  start: "13:00"
+  end: "15:00"
+  all_day: false
+  time_note: "Registration required"
+  venue: "Washington Crossing Historic Park — Visitor Center"
+  address: "1112 River Rd, Washington Crossing, PA 18977"
+  town: "Washington Crossing (Bucks)"
+  lat: 40.2960
+  lng: -74.8690
+  cost: "Free"
+  description: |
+    A hands-on craft program at Washington Crossing Historic Park's Visitor Center
+    combining nature with art through print making, 1–3 PM. Free; registration
+    required. Distinct from the park's other July programs.
+  url: "https://events.dcnr.pa.gov/washington_crossing_historic_park_628"
+  source: "https://events.dcnr.pa.gov/washington_crossing_historic_park_628"
+  org: "Washington Crossing Historic Park (PA DCNR)"
+  featured: false
+
+- id: bucks-pottsgrove-warironloyalties-jul14
+  title: "Exhibit: War, Iron, and Divided Loyalties — Pottsgrove Manor"
+  region: bucks
+  category: exhibit
+  date: "2026-07-14"
+  start: "10:00"
+  end: "16:00"
+  all_day: false
+  time_note: "Ongoing exhibit (Mar 7 2026 – Nov 7 2027); site open Tue–Sat 10–4, Sun 1–4, closed Mondays; admission not confirmed"
+  venue: "Pottsgrove Manor"
+  address: "100 W King St, Pottstown, PA 19464"
+  town: "Pottstown (Montgomery)"
+  lat: 40.2450
+  lng: -75.6550
+  cost: ""
+  description: |
+    A long-running special exhibit at Pottsgrove Manor exploring the human dimensions
+    of the Revolutionary War, particularly how one Pottstown-area iron family
+    experienced divided allegiances during the period. On view Tuesday July 14 (site
+    is closed Mondays). Admission price not confirmed on the fetched pages.
+  url: "https://www.montgomerycountypa.gov/930/Pottsgrove-Manor"
+  source: "https://www.montgomerycountypa.gov/930/Pottsgrove-Manor"
+  org: "Pottsgrove Manor / Montgomery County"
+  featured: false
+
+- id: bucks-mercer-doangang-jul9
+  title: "Exhibit: The Doan Gang — Outlaws of the Revolution — Mercer Museum"
+  region: bucks
+  category: exhibit
+  date: "2026-07-09"
+  start: "10:00"
+  end: "17:00"
+  all_day: false
+  time_note: "On view through Dec 31, 2026; museum open Tue–Sun 10–5 (closed Mondays, so not open Jul 13); included with admission"
+  venue: "Mercer Museum (Bucks County Historical Society)"
+  address: "84 S Pine St, Doylestown, PA 18901"
+  town: "Doylestown (Bucks)"
+  lat: 40.3090
+  lng: -75.1280
+  cost: "Ticketed"
+  description: |
+    A special exhibit at the Mercer Museum telling the story of the Bucks County
+    Loyalist Doan family and their associates, who plotted and stole in support of the
+    British cause during the American Revolution. On view through December 31, 2026;
+    included with general Mercer Museum admission. (Museum closed Mondays.)
+  url: "https://www.mercermuseum.org/event/the-doan-gang-outlaws-of-the-revolution/"
+  source: "https://www.mercermuseum.org/event/the-doan-gang-outlaws-of-the-revolution/"
+  org: "Mercer Museum & Fonthill Castle / Bucks County Historical Society"
+  featured: false
+
+# Central New Jersey (Mercer, Hunterdon, Somerset, Middlesex) — things-to-do
+# July 9-14, 2026. All events confirmed against a fetched 2026-dated source.
+# Excludes items already in EXISTING-JUL9-14.tsv (region nj).
+
+# ========================= MERCER / TRENTON / HAMILTON =========================
+- id: nj-thunder-mahoning-jul9
+  title: "Trenton Thunder vs Mahoning Valley Scrappers"
+  region: nj
+  category: sports
+  date: "2026-07-09"
+  start: "19:00"
+  end: ""
+  all_day: false
+  time_note: ""
+  venue: "Trenton Thunder Ballpark"
+  address: "1 Thunder Road, Trenton, NJ 08611"
+  town: "Trenton (Mercer)"
+  lat: 40.1996
+  lng: -74.7443
+  cost: "Ticketed"
+  description: |
+    MLB Draft League home game as the Trenton Thunder host the Mahoning Valley Scrappers at their riverfront ballpark. First pitch is 7:00 p.m. The Draft League's second half (starting July 8) features professional players.
+  url: "https://www.mlbdraftleague.com/trenton/schedule"
+  source: "https://www.oursportscentral.com/services/schedule/trenton-thunder/t-487"
+  org: "Trenton Thunder / MLB Draft League"
+  featured: false
+
+- id: nj-thunder-blackbears-jul14
+  title: "Trenton Thunder vs West Virginia Black Bears"
+  region: nj
+  category: sports
+  date: "2026-07-14"
+  start: "19:00"
+  end: ""
+  all_day: false
+  time_note: ""
+  venue: "Trenton Thunder Ballpark"
+  address: "1 Thunder Road, Trenton, NJ 08611"
+  town: "Trenton (Mercer)"
+  lat: 40.1996
+  lng: -74.7443
+  cost: "Ticketed"
+  description: |
+    MLB Draft League home game as the Trenton Thunder host the West Virginia Black Bears at their riverfront ballpark. First pitch is 7:00 p.m. A rare weekday (Tuesday) evening option in Trenton.
+  url: "https://www.mlbdraftleague.com/trenton/schedule"
+  source: "https://www.oursportscentral.com/services/schedule/trenton-thunder/t-487"
+  org: "Trenton Thunder / MLB Draft League"
+  featured: false
+
+- id: nj-gfs-watercolor-jul9
+  title: "Watercolor in the Wild at Grounds For Sculpture"
+  region: nj
+  category: family
+  date: "2026-07-09"
+  start: "10:30"
+  end: "12:00"
+  all_day: false
+  time_note: ""
+  venue: "Grounds For Sculpture"
+  address: "80 Sculptors Way, Hamilton, NJ 08619"
+  town: "Hamilton (Mercer)"
+  lat: 40.2295
+  lng: -74.6985
+  cost: "$25"
+  description: |
+    A guided outdoor watercolor session amid the sculptures and gardens of Grounds For Sculpture. Runs 10:30 a.m. to noon. Cost is $25 for members and $40 for non-members; registration required.
+  url: "https://www.groundsforsculpture.org/calendar/"
+  source: "https://www.groundsforsculpture.org/calendar/"
+  org: "Grounds For Sculpture"
+  featured: false
+
+- id: nj-gfs-wellnesswalk-jul9
+  title: "Wellness Walk at Grounds For Sculpture"
+  region: nj
+  category: family
+  date: "2026-07-09"
+  start: "09:30"
+  end: "11:30"
+  all_day: false
+  time_note: "Listed as a rescheduled date on the GFS calendar."
+  venue: "Grounds For Sculpture"
+  address: "80 Sculptors Way, Hamilton, NJ 08619"
+  town: "Hamilton (Mercer)"
+  lat: 40.2295
+  lng: -74.6985
+  cost: "$10"
+  description: |
+    A guided wellness walk through the gardens and sculpture collection at Grounds For Sculpture, 9:30-11:30 a.m. Cost is $10 for members and $25 general. Shown as a rescheduled session on the GFS events calendar.
+  url: "https://www.groundsforsculpture.org/calendar/"
+  source: "https://www.groundsforsculpture.org/calendar/"
+  org: "Grounds For Sculpture"
+  featured: false
+
+- id: nj-gfs-open-jul13
+  title: "Grounds For Sculpture: Gardens & Galleries Open"
+  region: nj
+  category: exhibit
+  date: "2026-07-13"
+  start: "10:00"
+  end: "17:00"
+  all_day: false
+  time_note: "Open Monday 10:00 a.m.-5:00 p.m."
+  venue: "Grounds For Sculpture"
+  address: "80 Sculptors Way, Hamilton, NJ 08619"
+  town: "Hamilton (Mercer)"
+  lat: 40.2295
+  lng: -74.6985
+  cost: "$25"
+  description: |
+    Explore 42 acres of contemporary sculpture set among landscaped gardens at Grounds For Sculpture, open Monday 10:00 a.m. to 5:00 p.m. Adult admission is $25. A solid Monday option when many area museums are closed.
+  url: "https://www.groundsforsculpture.org/visit/hours-admission-directions/"
+  source: "https://www.groundsforsculpture.org/visit/hours-admission-directions/"
+  org: "Grounds For Sculpture"
+  featured: false
+
+- id: nj-mercer-concert-yachtrock-jul10
+  title: "Mercer County Summer Concert Series: Yacht Rock Gold"
+  region: nj
+  category: concert
+  date: "2026-07-10"
+  start: "18:30"
+  end: ""
+  all_day: false
+  time_note: "Gates open 5:30 p.m.; show starts 6:30 p.m."
+  venue: "Mercer County Park Festival Grounds"
+  address: "1638 Old Trenton Road, West Windsor, NJ 08691"
+  town: "West Windsor (Mercer)"
+  lat: 40.267
+  lng: -74.635
+  cost: "$5"
+  description: |
+    Opening night of the 2026 Mercer County Summer Concert Series with yacht-rock tribute act Yacht Rock Gold at the Festival Grounds near the ice rink. Gates open 5:30 p.m., music at 6:30 p.m. Tickets are $5; kids 10 and under free. Bring a lawn chair or blanket; food and drink sold on site (no outside food/drink except sealed water).
+  url: "https://www.mercercounty.org/departments/mercer-county-park-commission/recreation-events/mercer-county-concert-series"
+  source: "https://wpst.com/mercer-county-2026-summer-concerts/"
+  org: "Mercer County Park Commission"
+  featured: false
+
+- id: nj-njsm-planetarium-jul9
+  title: "Planetarium Shows at the New Jersey State Museum"
+  region: nj
+  category: family
+  date: "2026-07-09"
+  start: "11:30"
+  end: ""
+  all_day: false
+  time_note: "Summer weekday show times: 11:30 a.m., 1:30 p.m., 2:30 p.m."
+  venue: "New Jersey State Museum Planetarium"
+  address: "205 West State Street, Trenton, NJ 08608"
+  town: "Trenton (Mercer)"
+  lat: 40.2206
+  lng: -74.7699
+  cost: "$10"
+  description: |
+    Full-dome planetarium shows at the NJ State Museum, one of the largest planetariums in the country. July 2026 titles include "The Great Solar System Adventure," "Messengers of Time and Space," and "One Sky Project." Summer weekday shows run at 11:30 a.m., 1:30 p.m. and 2:30 p.m.; tickets $10 adults, $5 children 3-12. Museum galleries are free.
+  url: "https://www.nj.gov/state/museum/explore-planetarium.shtml"
+  source: "https://www.nj.gov/state/museum/explore-planetarium.shtml"
+  org: "New Jersey State Museum"
+  featured: false
+
+- id: nj-njsm-planetarium-jul14
+  title: "Planetarium Shows at the New Jersey State Museum"
+  region: nj
+  category: family
+  date: "2026-07-14"
+  start: "11:30"
+  end: ""
+  all_day: false
+  time_note: "Summer weekday show times: 11:30 a.m., 1:30 p.m., 2:30 p.m."
+  venue: "New Jersey State Museum Planetarium"
+  address: "205 West State Street, Trenton, NJ 08608"
+  town: "Trenton (Mercer)"
+  lat: 40.2206
+  lng: -74.7699
+  cost: "$10"
+  description: |
+    Full-dome planetarium shows at the NJ State Museum. July 2026 titles include "The Great Solar System Adventure," "Messengers of Time and Space," and "One Sky Project." Summer weekday shows at 11:30 a.m., 1:30 p.m. and 2:30 p.m.; tickets $10 adults, $5 children 3-12. A good rainy-day / weekday (Tuesday) indoor option; museum galleries are free.
+  url: "https://www.nj.gov/state/museum/explore-planetarium.shtml"
+  source: "https://www.nj.gov/state/museum/explore-planetarium.shtml"
+  org: "New Jersey State Museum"
+  featured: false
+
+- id: nj-njsm-exhibits-jul14
+  title: "New Jersey State Museum Galleries Open"
+  region: nj
+  category: exhibit
+  date: "2026-07-14"
+  start: "09:00"
+  end: "16:45"
+  all_day: false
+  time_note: "Open Tue-Sun 9:00 a.m.-4:45 p.m.; closed Mondays."
+  venue: "New Jersey State Museum"
+  address: "205 West State Street, Trenton, NJ 08608"
+  town: "Trenton (Mercer)"
+  lat: 40.2206
+  lng: -74.7699
+  cost: "Free"
+  description: |
+    The New Jersey State Museum's galleries of fine art, natural history, archaeology and cultural history are open Tuesday through Sunday, 9:00 a.m. to 4:45 p.m. General admission is free (donations welcomed). A free weekday indoor activity in downtown Trenton, steps from the State House.
+  url: "https://www.nj.gov/state/museum/visit-hours-admission.shtml"
+  source: "https://www.nj.gov/state/museum/visit-hours-admission.shtml"
+  org: "New Jersey State Museum"
+  featured: false
+
+- id: nj-trenton-farmers-market-jul9
+  title: "Trenton Farmers Market"
+  region: nj
+  category: food
+  date: "2026-07-09"
+  start: ""
+  end: ""
+  all_day: false
+  time_note: "Official site lists operation Thursday-Sunday; exact opening hours not confirmed on the site (secondary listings suggest roughly 9 a.m.-6 p.m.)."
+  venue: "Trenton Farmers Market"
+  address: "960 Spruce Street, Lawrence Township, NJ 08648"
+  town: "Lawrence (Mercer)"
+  lat: 40.2447
+  lng: -74.7376
+  cost: "Free"
+  description: |
+    A long-running indoor/outdoor market on Spruce Street in Lawrence with 40-plus vendors offering Jersey Fresh produce, Amish meats and poultry, artisan cheese, baked goods and prepared foods. The market operates Thursday through Sunday. Free to browse.
+  url: "https://thetrentonfarmersmarket.com/"
+  source: "https://thetrentonfarmersmarket.com/"
+  org: "The Trenton Farmers Market"
+  featured: false
+
+# ============================ PRINCETON (Mercer) ============================
+- id: nj-princeton-summer-chamber-arcostrum-jul9
+  title: "Princeton University Summer Chamber Concerts: ArcoStrum"
+  region: nj
+  category: concert
+  date: "2026-07-09"
+  start: "19:30"
+  end: ""
+  all_day: false
+  time_note: "Free tickets available online one week prior at tickets.princeton.edu"
+  venue: "Richardson Auditorium, Alexander Hall"
+  address: "Alexander Hall, Princeton University, Princeton, NJ 08544"
+  town: "Princeton (Mercer)"
+  lat: 40.3486
+  lng: -74.6624
+  cost: "Free"
+  description: |
+    The 59th season of the free Princeton University Summer Chamber Concerts continues with ArcoStrum, a violin-and-guitar duo blending Eastern and Western traditions with Chinese and classical instrumentation. The program spans Piazzolla, Vivaldi, Scarlatti, John Williams, Gnattali, and contemporary works. All concerts are free and open to the public in Richardson Auditorium.
+  url: "https://princetonsummerchamberconcerts.org/"
+  source: "https://princetonol.com/events/2026-07-09/concert-princeton-summer-chamber-concerts"
+  org: "Princeton University Summer Chamber Concerts"
+  featured: false
+
+- id: nj-princeton-shopping-center-motor-city-revue-jul10
+  title: "Summer Concert Series: Motor City Revue"
+  region: nj
+  category: concert
+  date: "2026-07-10"
+  start: "18:00"
+  end: "20:00"
+  all_day: false
+  time_note: "Recurring Friday series confirmed; specific Jul 10 lineup fetched from the Jul 17 series page — verify the Jul 10 act. Pop-up Triumph beer garden on site; bring a chair or blanket."
+  venue: "Princeton Shopping Center (courtyard / Clocktower)"
+  address: "301 N. Harrison St., Princeton, NJ 08540"
+  town: "Princeton (Mercer)"
+  lat: 40.3606
+  lng: -74.6479
+  cost: "Free"
+  description: |
+    Princeton Shopping Center's free Friday-evening summer concert series presents Motor City Revue in the center courtyard. A pop-up Triumph Brewing beer garden accompanies the show. Bring a blanket or lawn chairs and enjoy live local music outdoors.
+  url: "https://princetonshoppingcenter.com/event/summer-concert-series/2026-07-10/"
+  source: "https://princetonshoppingcenter.com/event/summer-concert-series/2026-07-17/"
+  org: "Princeton Shopping Center"
+  featured: false
+
+- id: nj-palmer-square-patio-music-jul10
+  title: "Live Music on the Patio at the Yankee Doodle Tap Room"
+  region: nj
+  category: concert
+  date: "2026-07-10"
+  start: "18:00"
+  end: "21:00"
+  all_day: false
+  time_note: ""
+  venue: "Yankee Doodle Tap Room, Nassau Inn"
+  address: "10 Palmer Square E, Princeton, NJ 08542"
+  town: "Princeton (Mercer)"
+  lat: 40.3503
+  lng: -74.6592
+  cost: "Free"
+  description: |
+    Live acoustic music on the patio at the historic Yankee Doodle Tap Room inside the Nassau Inn on Palmer Square. A relaxed early-evening set in the heart of downtown Princeton.
+  url: "https://palmersquare.com/events/"
+  source: "https://palmersquare.com/events/"
+  org: "Palmer Square / Nassau Inn"
+  featured: false
+
+- id: nj-palmer-square-summer-music-series-jul11
+  title: "Palmer Square Summer Music Series"
+  region: nj
+  category: concert
+  date: "2026-07-11"
+  start: "13:00"
+  end: "15:00"
+  all_day: false
+  time_note: ""
+  venue: "Palmer Square Green"
+  address: "40 Nassau St, Princeton, NJ 08542"
+  town: "Princeton (Mercer)"
+  lat: 40.3502
+  lng: -74.6595
+  cost: "Free"
+  description: |
+    Palmer Square's free Summer Music Series brings live music to the Green every Saturday afternoon, ranging from jazz and acoustic sets to classic rock and crowd favorites. Grab a spot on the lawn in downtown Princeton and enjoy the show.
+  url: "https://palmersquare.com/events/"
+  source: "https://palmersquare.com/events/"
+  org: "Palmer Square"
+  featured: false
+
+- id: nj-palmer-square-summer-yoga-jul12
+  title: "lululemon Summer Yoga on the Green"
+  region: nj
+  category: family
+  date: "2026-07-12"
+  start: "09:30"
+  end: "10:30"
+  all_day: false
+  time_note: ""
+  venue: "Palmer Square Green"
+  address: "40 Nassau St, Princeton, NJ 08542"
+  town: "Princeton (Mercer)"
+  lat: 40.3502
+  lng: -74.6595
+  cost: "Free"
+  description: |
+    Start your Sunday with a free morning yoga session on Palmer Square Green, hosted with lululemon. An all-levels outdoor flow in the heart of downtown Princeton.
+  url: "https://palmersquare.com/events/"
+  source: "https://palmersquare.com/events/"
+  org: "Palmer Square / lululemon"
+  featured: false
+
+- id: nj-princeton-library-loose-bricks-jul12
+  title: "Listen Local Concert: Loose Bricks"
+  region: nj
+  category: concert
+  date: "2026-07-12"
+  start: "15:00"
+  end: ""
+  all_day: false
+  time_note: ""
+  venue: "Hinds Plaza, Princeton Public Library"
+  address: "65 Witherspoon St, Princeton, NJ 08542"
+  town: "Princeton (Mercer)"
+  lat: 40.3513
+  lng: -74.6588
+  cost: "Free"
+  description: |
+    Loose Bricks kicks off the Princeton Public Library's 2026 Listen Local series with an afternoon of classic rock, blues, and dance favorites from the 1960s, '70s, and '80s. The free outdoor concert takes place on Hinds Plaza.
+  url: "https://princetonlibrary.libnet.info/event/11125223"
+  source: "https://princetonol.com/announcement/july-events-at-princeton-public-library"
+  org: "Princeton Public Library"
+  featured: false
+
+- id: nj-princeton-art-museum-dekooning-jul13
+  title: "Exhibition: Willem de Kooning — The Breakthrough Years, 1945-50"
+  region: nj
+  category: exhibit
+  date: "2026-07-13"
+  start: "10:00"
+  end: "17:00"
+  all_day: false
+  time_note: "Museum open Mon 10 a.m.-5 p.m.; exhibition on view through July 26, 2026"
+  venue: "Princeton University Art Museum"
+  address: "Princeton University campus, Princeton, NJ 08544"
+  town: "Princeton (Mercer)"
+  lat: 40.3488
+  lng: -74.6565
+  cost: "Free"
+  description: |
+    The reopened Princeton University Art Museum presents this exhibition examining de Kooning's formative Abstract Expressionist period, when he explored the interplay of figuration and abstraction. It features works from his landmark 1948 solo show, including the iconic painting "Black Friday" from Princeton's own collection. Admission to the museum is free to all.
+  url: "https://artmuseum.princeton.edu/visit"
+  source: "https://artmuseum.princeton.edu/visit"
+  org: "Princeton University Art Museum"
+  featured: false
+
+- id: nj-princeton-library-excel-beginners-jul13
+  title: "Microsoft Excel for Beginners, Part 1"
+  region: nj
+  category: lecture
+  date: "2026-07-13"
+  start: "13:00"
+  end: ""
+  all_day: false
+  time_note: "Registration may be required"
+  venue: "Princeton Public Library"
+  address: "65 Witherspoon St, Princeton, NJ 08542"
+  town: "Princeton (Mercer)"
+  lat: 40.3513
+  lng: -74.6588
+  cost: "Free"
+  description: |
+    A free beginner-level introduction to Microsoft Excel offered by the Princeton Public Library, covering the basics of spreadsheets for new users. Part one of a multi-session class.
+  url: "https://princetonlibrary.org/events/"
+  source: "https://princetonol.com/announcement/july-events-at-princeton-public-library"
+  org: "Princeton Public Library"
+  featured: false
+
+- id: nj-palmer-square-world-cup-bastille-jul14
+  title: "World Cup Watch Party & Global Food Passport (Bastille Day)"
+  region: nj
+  category: festival
+  date: "2026-07-14"
+  start: "13:00"
+  end: "18:00"
+  all_day: false
+  time_note: "Match screened mid-afternoon; global food festival, DJ, and kids' activities"
+  venue: "Palmer Square Green"
+  address: "40 Nassau St, Princeton, NJ 08542"
+  town: "Princeton (Mercer)"
+  lat: 40.3502
+  lng: -74.6595
+  cost: "Free"
+  description: |
+    Experience Princeton hosts a World Cup watch party paired with a Global Food Passport celebration on Palmer Square Green, timed to Bastille Day. The afternoon features a big-screen match viewing, a global food festival, a DJ, and kids' activities in the heart of downtown Princeton.
+  url: "https://palmersquare.com/events/"
+  source: "https://palmersquare.com/events/"
+  org: "Experience Princeton / Palmer Square"
+  featured: false
+
+- id: nj-princeton-library-tree-grows-brooklyn-film-jul14
+  title: "Film Screening: A Tree Grows in Brooklyn"
+  region: nj
+  category: other
+  date: "2026-07-14"
+  start: "15:00"
+  end: ""
+  all_day: false
+  time_note: ""
+  venue: "Princeton Public Library"
+  address: "65 Witherspoon St, Princeton, NJ 08542"
+  town: "Princeton (Mercer)"
+  lat: 40.3513
+  lng: -74.6588
+  cost: "Free"
+  description: |
+    A free afternoon screening of the classic 1945 film "A Tree Grows in Brooklyn" at the Princeton Public Library. Open to the public.
+  url: "https://princetonlibrary.org/events/"
+  source: "https://princetonol.com/announcement/july-events-at-princeton-public-library"
+  org: "Princeton Public Library"
+  featured: false
+
+- id: nj-princeton-art-museum-photography-jul14
+  title: "Exhibition: Photography as a Way of Life — White, Siskind, Callahan"
+  region: nj
+  category: exhibit
+  date: "2026-07-14"
+  start: "10:00"
+  end: "17:00"
+  all_day: false
+  time_note: "Museum open Tue 10 a.m.-5 p.m.; exhibition on view through Sept 7, 2026"
+  venue: "Princeton University Art Museum"
+  address: "Princeton University campus, Princeton, NJ 08544"
+  town: "Princeton (Mercer)"
+  lat: 40.3488
+  lng: -74.6565
+  cost: "Free"
+  description: |
+    This exhibition at the newly reopened Princeton University Art Museum investigates mid-century photographic modernism through roughly 150 photographs by Minor White, Aaron Siskind, and Harry Callahan, along with correspondence and other materials exploring how photography was taught and viewed. Museum admission is free to all.
+  url: "https://artmuseum.princeton.edu/visit"
+  source: "https://artmuseum.princeton.edu/visit"
+  org: "Princeton University Art Museum"
+  featured: false
+
+# ==================== HUNTERDON (Flemington/Frenchtown/Clinton/Stockton/Lambertville) ====================
+- id: nj-flemington-skunktown-karaoke-jul9
+  title: "Skunktown Karaoke Night"
+  region: nj
+  category: concert
+  date: "2026-07-09"
+  start: "18:30"
+  end: "21:30"
+  all_day: false
+  time_note: "Recurring every Thursday 6:30-9:30 PM"
+  venue: "Skunktown Distillery"
+  address: "39 Stangl Rd, Flemington, NJ 08822"
+  town: "Flemington (Hunterdon)"
+  lat: 40.5226
+  lng: -74.8555
+  cost: ""
+  description: |
+    A weekly Thursday-night karaoke series at Skunktown Distillery in the Stangl Factory district, hosted by DJ Ted D'Bierre of Lionfire Entertainment. Runs 6:30 to 9:30 PM.
+  url: "https://www.loveflemington.com/event/skunktown-karaoke-night/2026-07-09/"
+  source: "https://www.loveflemington.com/event/skunktown-karaoke-night/2026-07-09/"
+  org: "Skunktown Distillery / Lionfire Entertainment"
+  featured: false
+
+- id: nj-flemington-diy-metalsmithing-jul9
+  title: "Beginner Metalsmithing Series (Class 3 of 3)"
+  region: nj
+  category: family
+  date: "2026-07-09"
+  start: "18:00"
+  end: "21:00"
+  all_day: false
+  time_note: "Final session of a 3-part registered class"
+  venue: "Flemington DIY"
+  address: "26 Stangl Road, Flemington, NJ 08822"
+  town: "Flemington (Hunterdon)"
+  lat: 40.5227
+  lng: -74.8557
+  cost: "$200"
+  description: |
+    The third and final session of Flemington DIY's beginner metalsmithing workshop series at the community makerspace. Registered class; $200 per person plus a $50 materials fee.
+  url: "https://flemingtondiy.org/calendar/"
+  source: "https://flemingtondiy.org/calendar/"
+  org: "Flemington DIY"
+  featured: false
+
+- id: nj-redmill-foodie-jul9
+  title: "Adult Field Trip: Founding Foodie at the Red Mill"
+  region: nj
+  category: food
+  date: "2026-07-09"
+  start: "18:00"
+  end: "21:00"
+  all_day: false
+  time_note: "Registration required; BYOB welcome."
+  venue: "Red Mill Museum Village"
+  address: "56 Main St, Clinton, NJ 08809"
+  town: "Clinton (Hunterdon)"
+  lat: 40.6376
+  lng: -74.9107
+  cost: "Ticketed"
+  description: |
+    An adults-only summer evening exploring Thomas Jefferson's culinary legacy, with a menu centered on macaroni and cheese. Includes a museum tour, a hands-on activity, a violin-making demonstration, live music, and dinner outdoors. Included with admission (registration required).
+  url: "https://theredmill.org/events"
+  source: "https://theredmill.org/events"
+  org: "Red Mill Museum Village"
+  featured: false
+
+- id: nj-stockton-openmic-jul9
+  title: "Open Mic at the Starving Artist Cafe"
+  region: nj
+  category: other
+  date: "2026-07-09"
+  start: "18:00"
+  end: "21:00"
+  all_day: false
+  time_note: "Sign-up 5:30pm; performances 6-9pm."
+  venue: "Starving Artist Cafe"
+  address: "18 Bridge St, Stockton, NJ 08559"
+  town: "Stockton (Hunterdon)"
+  lat: 40.4053
+  lng: -74.9788
+  cost: ""
+  description: |
+    A weekly open-mic night in the heart of Stockton where local musicians and performers take the stage. Sign-up begins at 5:30pm with performances running from 6 to 9pm.
+  url: "https://www.lambpage.com/lambertville-events-july-2026/"
+  source: "https://www.lambpage.com/lambertville-events-july-2026/"
+  org: "Starving Artist Cafe"
+  featured: false
+
+- id: nj-ham-bascha-mon-jul9
+  title: "Exhibit: Bascha Mon — Mindscapes (Hunterdon Art Museum)"
+  region: nj
+  category: exhibit
+  date: "2026-07-09"
+  start: "11:00"
+  end: "17:00"
+  all_day: false
+  time_note: "On view May 17-Sep 6, 2026. Museum open Wed-Sun 11am-5pm, so viewable Jul 9-12; CLOSED Mon Jul 13 and Tue Jul 14."
+  venue: "Hunterdon Art Museum"
+  address: "7 Lower Center St, Clinton, NJ 08809"
+  town: "Clinton (Hunterdon)"
+  lat: 40.6371
+  lng: -74.9110
+  cost: "Ticketed"
+  description: |
+    A retrospective of 93-year-old New Jersey artist Bascha Mon, pairing her 1970s paintings with recent works on paper. Curator Mary Birmingham presents these "metaphorical landscapes of the imagination" sourced from the artist's unconscious mind. Shown alongside other summer exhibitions including the 2026 Claybash ceramics show and Christine Romanell's augmented-reality installation.
+  url: "https://www.hunterdonartmuseum.org/our-exhibitions/current/"
+  source: "https://www.newjerseystage.com/articles2/2026/05/09/hunterdon-art-museum-presents-three-new-exhibitions-claybash-emily-strong-and-bascha-mon/"
+  org: "Hunterdon Art Museum"
+  featured: false
+
+- id: nj-lambertville-invertase-jul10
+  title: "Live Music: Thomas Jonston at Invertase Brewing"
+  region: nj
+  category: concert
+  date: "2026-07-10"
+  start: "18:00"
+  end: "20:00"
+  all_day: false
+  time_note: ""
+  venue: "Invertase Brewing Company"
+  address: "80 Lambert Ln, Lambertville, NJ 08530"
+  town: "Lambertville (Hunterdon)"
+  lat: 40.3665
+  lng: -74.9490
+  cost: ""
+  description: |
+    Live music in the taproom at Invertase Brewing Company, featuring Thomas Jonston. An evening of local music paired with craft beer along the Lambertville riverfront.
+  url: "https://www.lambpage.com/lambertville-events-july-2026/"
+  source: "https://www.lambpage.com/lambertville-events-july-2026/"
+  org: "Invertase Brewing Company"
+  featured: false
+
+- id: nj-redmill-textile-jul11
+  title: "Mill to Mill Textile Fellowship Day"
+  region: nj
+  category: family
+  date: "2026-07-11"
+  start: "12:00"
+  end: "16:00"
+  all_day: false
+  time_note: ""
+  venue: "Red Mill Museum Village"
+  address: "56 Main St, Clinton, NJ 08809"
+  town: "Clinton (Hunterdon)"
+  lat: 40.6376
+  lng: -74.9107
+  cost: "Ticketed"
+  description: |
+    A community celebration of fiber arts with demonstrations of spinning, weaving, embroidery, needle felting and more, plus hands-on activities for all skill levels. Free with museum admission; free for members.
+  url: "https://theredmill.org/events"
+  source: "https://theredmill.org/events"
+  org: "Red Mill Museum Village"
+  featured: false
+
+- id: nj-lambertville-movingstories-jul11
+  title: "Moving Stories: Audiobook Walking Book Club"
+  region: nj
+  category: other
+  date: "2026-07-11"
+  start: "09:30"
+  end: "10:30"
+  all_day: false
+  time_note: ""
+  venue: "Howling Basset Books"
+  address: "45 N Main St, Lambertville, NJ 08530"
+  town: "Lambertville (Hunterdon)"
+  lat: 40.3665
+  lng: -74.9445
+  cost: ""
+  description: |
+    A new audiobook walking book club hosted by Howling Basset Books, where members enjoy an hour-long walk together while listening to a shared book. A relaxed way to combine reading, exercise and conversation in Lambertville.
+  url: "https://www.lambpage.com/lambertville-events-july-2026/"
+  source: "https://www.lambpage.com/lambertville-events-july-2026/"
+  org: "Howling Basset Books"
+  featured: false
+
+- id: nj-stockton-market-jul11
+  title: "Stockton Market (weekend market days)"
+  region: nj
+  category: food
+  date: "2026-07-11"
+  start: "08:00"
+  end: "19:00"
+  all_day: false
+  time_note: "Open Wed-Sun 8am-7pm in 2026, so open Jul 9-12; CLOSED Mon Jul 13 and Tue Jul 14. No special one-off events confirmed for this window."
+  venue: "Stockton Market"
+  address: "19 Bridge St, Stockton, NJ 08559"
+  town: "Stockton (Hunterdon)"
+  lat: 40.4055
+  lng: -74.9790
+  cost: "Free"
+  description: |
+    A destination indoor market near Lambertville and New Hope featuring locally sourced provisions, an artisan bakery and a gourmet cafe. A popular weekend browse-and-graze stop in the Delaware River town of Stockton.
+  url: "https://stocktonmarket.com/"
+  source: "https://stocktonmarket.com/"
+  org: "Stockton Market"
+  featured: false
+
+- id: nj-flemington-hcfm-dvoor-jul12
+  title: "Hunterdon Community Farmers Market at Dvoor Farm"
+  region: nj
+  category: food
+  date: "2026-07-12"
+  start: "09:00"
+  end: "13:00"
+  all_day: false
+  time_note: "Standing weekly market, every Sunday May-November 9 AM-1 PM"
+  venue: "Historic Dvoor Farm (Hunterdon Land Trust)"
+  address: "111 Mine Street, Flemington, NJ 08822"
+  town: "Flemington (Hunterdon)"
+  lat: 40.5085
+  lng: -74.8730
+  cost: "Free"
+  description: |
+    The community farmers market at the historic Dvoor Farm, run in partnership with the Hunterdon Land Trust. Vendors bring seasonal produce, local meat, artisan cheeses, breads, native plants, cut flowers, honey, coffee, and ready-to-eat foods. Open every Sunday from early May through late November, 9 AM to 1 PM.
+  url: "https://www.hunterdonfarmersmarket.org/"
+  source: "https://www.hunterdonfarmersmarket.org/"
+  org: "Hunterdon Community Farmers Market / Hunterdon Land Trust"
+  featured: false
+
+- id: nj-lambertville-farmersmarket-jul12
+  title: "Lambertville Farmers' Market"
+  region: nj
+  category: food
+  date: "2026-07-12"
+  start: "09:00"
+  end: "12:00"
+  all_day: false
+  time_note: "Weekly on Sundays."
+  venue: "Lambertville Free Public Library"
+  address: "6 Lilly St, Lambertville, NJ 08530"
+  town: "Lambertville (Hunterdon)"
+  lat: 40.3639
+  lng: -74.9421
+  cost: "Free"
+  description: |
+    Lambertville's weekly Sunday farmers' market at the library grounds, supporting the regional food economy with local growers and makers. A community ritual that runs each Sunday morning through the summer.
+  url: "https://www.lambpage.com/lambertville-events-july-2026/"
+  source: "https://www.lambpage.com/lambertville-events-july-2026/"
+  org: "Lambertville Farmers' Market"
+  featured: false
+
+- id: nj-frenchtown-bastille-day-jul12
+  title: "Frenchtown Bastille Day"
+  region: nj
+  category: festival
+  date: "2026-07-12"
+  start: "11:00"
+  end: "18:00"
+  all_day: false
+  time_note: ""
+  venue: "Downtown Frenchtown"
+  address: "Bridge Street & downtown, Frenchtown, NJ 08825"
+  town: "Frenchtown (Hunterdon)"
+  lat: 40.5265
+  lng: -75.0620
+  cost: "Free"
+  description: |
+    Frenchtown's signature summer street celebration of France's national holiday, held annually since 1997. The day includes an 11 AM-5 PM downtown scavenger hunt (collect 12 stamps at participating businesses for a chance to win a gift card), a Jazz Faction live performance and a Doug Miller magic show at TD Bank from noon to 3 PM, and an artisan vendor market of local makers throughout downtown.
+  url: "https://lovefrenchtown.org/event-6717405"
+  source: "https://lovefrenchtown.org/event-6717405"
+  org: "Frenchtown Business & Professional Association (FBPA)"
+  featured: true
+
+- id: nj-stockton-flower-lanterns-wine-jul12
+  title: "Flower Lanterns & Wine Tasting"
+  region: nj
+  category: family
+  date: "2026-07-12"
+  start: "14:00"
+  end: "15:30"
+  all_day: false
+  time_note: "Registration required"
+  venue: "Federal Twist Vineyard"
+  address: "8 Federal Twist Road, Stockton, NJ 08559"
+  town: "Stockton (Hunterdon)"
+  lat: 40.4160
+  lng: -75.0100
+  cost: "Ticketed"
+  description: |
+    A hands-on craft-and-wine afternoon in the Federal Twist Vineyard tasting room, led by Lindsey of Coyote Ridge Homestead. Participants make pressed-flower lanterns using farm botanicals; the ticket covers all materials, a wine tasting, and charcuterie. Presented by the FBPA in partnership with Coyote Ridge Homestead and Federal Twist Vineyard.
+  url: "https://lovefrenchtown.org/event-6732828"
+  source: "https://lovefrenchtown.org/event-6732828"
+  org: "FBPA / Coyote Ridge Homestead / Federal Twist Vineyard"
+  featured: false
+
+- id: nj-bridgewater-duke-island-concert-jul12
+  title: "Duke Island Park Summer Concert: Arena Flashback"
+  region: nj
+  category: concert
+  date: "2026-07-12"
+  start: "18:30"
+  end: "20:00"
+  all_day: false
+  time_note: "Opening night of the 2026 Sunday-evening series (runs through Aug 9)"
+  venue: "Duke Island Park"
+  address: "191 Old York Road, Bridgewater, NJ 08807"
+  town: "Bridgewater (Somerset)"
+  lat: 40.5710
+  lng: -74.6360
+  cost: "Free"
+  description: |
+    Opening night of Somerset County Park Commission's free 2026 Summer Concert Series at Duke Island Park, with arena-rock act Arena Flashback. Bands play each Sunday 6:30-8 PM on the grass; bring a blanket or lawn chair. Admission and parking are free; food trucks on site.
+  url: "https://www.somersetcountyparks.org/duke-island-park/pages/2026-summer-concert-series"
+  source: "https://patch.com/new-jersey/bridgewater/free-summer-concert-series-returns-duke-island-park-2026"
+  org: "Somerset County Park Commission"
+  featured: false
+
+- id: nj-flemington-diy-fiber-artists-jul13
+  title: "Hunterdon Fiber Artist Meeting"
+  region: nj
+  category: other
+  date: "2026-07-13"
+  start: "18:00"
+  end: "20:00"
+  all_day: false
+  time_note: ""
+  venue: "Flemington DIY"
+  address: "26 Stangl Road, Flemington, NJ 08822"
+  town: "Flemington (Hunterdon)"
+  lat: 40.5227
+  lng: -74.8557
+  cost: "Free"
+  description: |
+    A free gathering of the Hunterdon fiber-arts community at the Flemington DIY makerspace for knitting, crochet, spinning, and other fiber crafts. 6-8 PM.
+  url: "https://flemingtondiy.org/calendar/"
+  source: "https://flemingtondiy.org/calendar/"
+  org: "Flemington DIY"
+  featured: false
+
+- id: nj-flemington-diy-print-club-jul13
+  title: "Print Club (Open Printmaking Studio)"
+  region: nj
+  category: other
+  date: "2026-07-13"
+  start: "18:00"
+  end: "21:00"
+  all_day: false
+  time_note: "Weekly open studio"
+  venue: "Flemington DIY"
+  address: "26 Stangl Road, Flemington, NJ 08822"
+  town: "Flemington (Hunterdon)"
+  lat: 40.5227
+  lng: -74.8557
+  cost: "$15-$30"
+  description: |
+    A weekly open printmaking studio at Flemington DIY giving local artists and newcomers a chance to use shared printmaking facilities. Sliding-scale fee of $15-$30 per printer.
+  url: "https://flemingtondiy.org/calendar/"
+  source: "https://flemingtondiy.org/calendar/"
+  org: "Flemington DIY"
+  featured: false
+
+- id: nj-flemington-diy-songwriter-circle-jul14
+  title: "Songwriter Circle"
+  region: nj
+  category: concert
+  date: "2026-07-14"
+  start: "19:00"
+  end: "21:00"
+  all_day: false
+  time_note: ""
+  venue: "Flemington DIY"
+  address: "26 Stangl Road, Flemington, NJ 08822"
+  town: "Flemington (Hunterdon)"
+  lat: 40.5227
+  lng: -74.8557
+  cost: "Free"
+  description: |
+    A free, welcoming songwriters' circle at Flemington DIY where participants share original songs (bring hard copies to swap). 7-9 PM.
+  url: "https://flemingtondiy.org/calendar/"
+  source: "https://flemingtondiy.org/calendar/"
+  org: "Flemington DIY"
+  featured: false
+
+# ==================== SOMERSET / MIDDLESEX ====================
+- id: nj-plays-1776-jul9
+  title: "1776 — Plays-in-the-Park"
+  region: nj
+  category: concert
+  date: "2026-07-09"
+  start: "20:00"
+  end: ""
+  all_day: false
+  time_note: "Box office opens 5:30 PM; show at 8:00 PM. Bring a lawn chair (back no higher than 40in). Tickets sold on-site only, day of show."
+  venue: "Stephen J. Capestro Theatre, Roosevelt Park"
+  address: "1 Pine Drive, Edison, NJ 08837"
+  town: "Edison (Middlesex)"
+  lat: 40.5089
+  lng: -74.3316
+  cost: "$8"
+  description: |
+    Middlesex County's Plays-in-the-Park stages the Tony-winning musical "1776," which dramatizes John Adams, Benjamin Franklin, and Thomas Jefferson pressing the Second Continental Congress to declare independence. A fitting America's-250th selection under the stars at the outdoor Capestro Theatre. $8 adults, $5 seniors 60+, free for children 12 and under.
+  url: "https://middlesexcountyculture.com/event/1776/"
+  source: "https://middlesexcountyculture.com/event/1776/"
+  org: "Middlesex County Plays-in-the-Park"
+  featured: true
+
+- id: nj-rvcc-astronomy-jul9
+  title: "Astronomy Shows for Kids at the RVCC Planetarium"
+  region: nj
+  category: family
+  date: "2026-07-09"
+  start: "14:30"
+  end: "15:30"
+  all_day: false
+  time_note: "Two themed shows: 'Magic Tree House: Space Mission' (ages 5-12) and 'Earth, Moon, and Sun' (ages 6-12). Reservations encouraged."
+  venue: "RVCC Planetarium, Raritan Valley Community College"
+  address: "118 Lamington Road, Branchburg, NJ 08876"
+  town: "Branchburg (Somerset)"
+  lat: 40.5813
+  lng: -74.7058
+  cost: "Ticketed"
+  description: |
+    Family-friendly planetarium shows at Raritan Valley Community College. Two kid-oriented programs run back to back on the dome. $11 per person for one show or $20 per person for two shows.
+  url: "https://visitsomersetnj.org/event/astronomy-shows-for-kids-at-the-rvcc-planetarium-16/"
+  source: "https://visitsomersetnj.org/event/astronomy-shows-for-kids-at-the-rvcc-planetarium-16/"
+  org: "RVCC Planetarium"
+  featured: false
+
+- id: nj-bridgewater-carnival-jul9
+  title: "Summer Carnival @ The Commons"
+  region: nj
+  category: fair
+  date: "2026-07-09"
+  start: "16:00"
+  end: "21:00"
+  all_day: false
+  time_note: "Runs Tue Jul 7 - Sun Jul 12; weekday hours 4-9 PM. Guests under 18 must have an adult 21+."
+  venue: "Bridgewater Commons (Parking Lot 9 by Lord & Taylor)"
+  address: "400 Commons Way, Bridgewater, NJ 08807"
+  town: "Bridgewater (Somerset)"
+  lat: 40.5896
+  lng: -74.6106
+  cost: "$5"
+  description: |
+    A traveling carnival at Bridgewater Commons with 20 rides, midway games, and classic fair food like funnel cakes and fried Oreos. $5 admission; children under 36 inches free. Ride credits sold on-site or in advance.
+  url: "https://visitsomersetnj.org/event/summer-carnival-the-commons/2026-07-09/"
+  source: "https://visitsomersetnj.org/event/summer-carnival-the-commons/2026-07-09/"
+  org: "Bridgewater Commons"
+  featured: false
+
+- id: nj-duke-frolic-fireflies-jul10
+  title: "A Frolic with Fireflies — Duke Farms"
+  region: nj
+  category: family
+  date: "2026-07-10"
+  start: "20:00"
+  end: ""
+  all_day: false
+  time_note: "Evening firefly program; registration required via Duke Farms/Eventbrite."
+  venue: "Duke Farms"
+  address: "1112 Dukes Parkway West, Hillsborough, NJ 08844"
+  town: "Hillsborough (Somerset)"
+  lat: 40.5680
+  lng: -74.6250
+  cost: "Ticketed"
+  description: |
+    An after-dark guided program at Duke Farms celebrating the summer firefly display across the property's meadows. Tickets from $30.
+  url: "https://www.eventbrite.com/o/duke-farms-7459403857"
+  source: "https://www.eventbrite.com/o/duke-farms-7459403857"
+  org: "Duke Farms"
+  featured: false
+
+- id: nj-rvcc-america250-jul10
+  title: "Celebrate America's 250th — RVCC Planetarium"
+  region: nj
+  category: exhibit
+  date: "2026-07-10"
+  start: ""
+  end: ""
+  all_day: false
+  time_note: "Multiple planetarium shows on Jul 10 with an America's-250th theme (incl. 'Revolutionary Skies' and a 'Redcoats to Rebels' laser concert). Confirm exact showtimes with the RVCC Planetarium."
+  venue: "RVCC Planetarium, Raritan Valley Community College"
+  address: "118 Lamington Road, Branchburg, NJ 08876"
+  town: "Branchburg (Somerset)"
+  lat: 40.5813
+  lng: -74.7058
+  cost: "Ticketed"
+  description: |
+    Special America's-250th-themed planetarium programming at Raritan Valley Community College, including a sunset meditation, a "Revolutionary Skies" show, and a "Redcoats to Rebels" laser concert. $11 per person for one show or $20 for two.
+  url: "https://visitsomersetnj.org/event/celebrate-americas-250th-birthday-with-new-shows-at-the-rvcc-planetarium-3/"
+  source: "https://visitsomersetnj.org/events/month/"
+  org: "RVCC Planetarium"
+  featured: false
+
+- id: nj-bridgewater-carnival-jul10
+  title: "Summer Carnival @ The Commons"
+  region: nj
+  category: fair
+  date: "2026-07-10"
+  start: "16:00"
+  end: "21:00"
+  all_day: false
+  time_note: "Part of the Jul 7-12 run; Friday hours 4-9 PM."
+  venue: "Bridgewater Commons (Parking Lot 9 by Lord & Taylor)"
+  address: "400 Commons Way, Bridgewater, NJ 08807"
+  town: "Bridgewater (Somerset)"
+  lat: 40.5896
+  lng: -74.6106
+  cost: "$5"
+  description: |
+    A traveling carnival at Bridgewater Commons with 20 rides, midway games, and fair food. $5 admission; children under 36 inches free.
+  url: "https://visitsomersetnj.org/event/summer-carnival-the-commons/2026-07-10/"
+  source: "https://visitsomersetnj.org/event/summer-carnival-the-commons/2026-07-09/"
+  org: "Bridgewater Commons"
+  featured: false
+
+- id: nj-rockingham-jul10
+  title: "Welcome World to George Washington's Rockingham"
+  region: nj
+  category: tour
+  date: "2026-07-10"
+  start: "10:00"
+  end: "11:00"
+  all_day: false
+  time_note: "America's-250th program. The main historic house is closed for construction; program is in the Dutch Barn with optional grounds tour."
+  venue: "Rockingham State Historic Site"
+  address: "84 Laurel Avenue, Kingston (Franklin Township), NJ 08528"
+  town: "Kingston/Franklin Twp (Somerset)"
+  lat: 40.3846
+  lng: -74.6270
+  cost: "Free"
+  description: |
+    An illustrated introduction to George Washington's final Revolutionary War headquarters, held in the site's historic New Jersey Dutch Barn as part of America's 250th anniversary. Visitors handle reproduction artifacts and can register for grounds tours. Free admission.
+  url: "https://visitsomersetnj.org/event/welcome-world-to-george-washingtons-rockingham/2026-07-10/"
+  source: "https://visitsomersetnj.org/event/welcome-world-to-george-washingtons-rockingham/2026-07-10/"
+  org: "NJ DEP / Rockingham State Historic Site"
+  featured: true
+
+- id: nj-boozy-tea-jul10
+  title: "Liberty & Libations Boozy Tea"
+  region: nj
+  category: food
+  date: "2026-07-10"
+  start: "14:30"
+  end: "16:30"
+  all_day: false
+  time_note: "Advance tickets required; 21+."
+  venue: "Pendry Natirar"
+  address: "25 Peapack Road, Peapack, NJ 07977"
+  town: "Peapack-Gladstone (Somerset)"
+  lat: 40.7130
+  lng: -74.6480
+  cost: "$100"
+  description: |
+    A spirited twist on a classic afternoon tea at the luxury Pendry Natirar estate, pairing tea-inspired cocktails (including bourbon-infused creations) with refined sweet and savory bites. Ticketed at $100 per person.
+  url: "https://visitsomersetnj.org/event/liberty-libations-boozy-tea/2026-07-10/"
+  source: "https://visitsomersetnj.org/events/month/"
+  org: "Pendry Natirar"
+  featured: false
+
+- id: nj-plays-1776-jul10
+  title: "1776 — Plays-in-the-Park"
+  region: nj
+  category: concert
+  date: "2026-07-10"
+  start: "20:00"
+  end: ""
+  all_day: false
+  time_note: "Box office opens 5:30 PM; show at 8:00 PM. Bring a low lawn chair; on-site ticket sales only."
+  venue: "Stephen J. Capestro Theatre, Roosevelt Park"
+  address: "1 Pine Drive, Edison, NJ 08837"
+  town: "Edison (Middlesex)"
+  lat: 40.5089
+  lng: -74.3316
+  cost: "$8"
+  description: |
+    The musical "1776" continues its run at Middlesex County's outdoor Plays-in-the-Park, dramatizing the founders' debate over the Declaration of Independence. $8 adults, $5 seniors 60+, free for children 12 and under.
+  url: "https://middlesexcountyculture.com/event/1776/"
+  source: "https://middlesexcountyculture.com/event/1776/"
+  org: "Middlesex County Plays-in-the-Park"
+  featured: false
+
+- id: nj-rutgers-gardens-market-jul10
+  title: "Rutgers Gardens Farmers Market"
+  region: nj
+  category: food
+  date: "2026-07-10"
+  start: "11:00"
+  end: "15:00"
+  all_day: false
+  time_note: "Fridays, May 22-Nov 20, 2026 (closed Jun 19 & Jul 3). Held in the display garden."
+  venue: "Rutgers Gardens"
+  address: "112 Log Cabin Road, North Brunswick, NJ 08902"
+  town: "North Brunswick (Middlesex)"
+  lat: 40.4772
+  lng: -74.4230
+  cost: "Free"
+  description: |
+    A seasonal open-air farmers market set within the Rutgers Gardens display grounds, with local produce, meats, and prepared foods. Accepts SNAP/EBT with Good Food Bucks, plus WIC and senior FMNP. Free to browse.
+  url: "https://communityfarmersmarket.rutgers.edu/visit-us/"
+  source: "https://communityfarmersmarket.rutgers.edu/visit-us/"
+  org: "Rutgers Community Farmers Market"
+  featured: false
+
+- id: nj-highland-park-market-jul10
+  title: "Highland Park Farmers Market"
+  region: nj
+  category: food
+  date: "2026-07-10"
+  start: "11:00"
+  end: "17:00"
+  all_day: false
+  time_note: "Every Friday; Apr-Oct hours 11 AM-5 PM."
+  venue: "Highland Park Farmers Market"
+  address: "212 Raritan Avenue, Highland Park, NJ 08904"
+  town: "Highland Park (Middlesex)"
+  lat: 40.4962
+  lng: -74.4243
+  cost: "Free"
+  description: |
+    Highland Park's weekly Friday market on Raritan Avenue, run by Main Street Highland Park, with local farm produce, food vendors, and artisans. Free to attend.
+  url: "https://www.mainstreethp.org/hpfmabout"
+  source: "https://www.mainstreethp.org/hpfmabout"
+  org: "Main Street Highland Park"
+  featured: false
+
+- id: nj-duke-bookclub-jul11
+  title: "Summer Book Club: Braiding Sweetgrass — Duke Farms"
+  region: nj
+  category: lecture
+  date: "2026-07-11"
+  start: "10:00"
+  end: ""
+  all_day: false
+  time_note: "Free; registration via Duke Farms/Eventbrite."
+  venue: "Duke Farms"
+  address: "1112 Dukes Parkway West, Hillsborough, NJ 08844"
+  town: "Hillsborough (Somerset)"
+  lat: 40.5680
+  lng: -74.6250
+  cost: "Free"
+  description: |
+    A free summer book-club session at Duke Farms discussing Robin Wall Kimmerer's "Braiding Sweetgrass," tying its themes of ecology and stewardship to the property's conservation mission.
+  url: "https://www.eventbrite.com/o/duke-farms-7459403857"
+  source: "https://www.eventbrite.com/o/duke-farms-7459403857"
+  org: "Duke Farms"
+  featured: false
+
+- id: nj-scherman-hoffman-walk-jul11
+  title: "NJ Audubon Morning Walk at Scherman Hoffman"
+  region: nj
+  category: family
+  date: "2026-07-11"
+  start: "08:00"
+  end: "09:00"
+  all_day: false
+  time_note: "Registration required by 3 PM the day before. Cancelled in rain/weather warnings. Loaner binoculars available."
+  venue: "Scherman Hoffman Wildlife Sanctuary"
+  address: "11 Hardscrabble Road, Bernardsville, NJ 07924"
+  town: "Bernardsville (Somerset)"
+  lat: 40.7006
+  lng: -74.5847
+  cost: "Free"
+  description: |
+    A quiet guided trail walk with an NJ Audubon naturalist, looking for birds, wildflowers, tracks, reptiles, and amphibians. Free for members; $5 for non-members.
+  url: "https://visitsomersetnj.org/event/nj-audubon-morning-walk-at-scherman-hoffman-wildlife-sanctuary-2/"
+  source: "https://visitsomersetnj.org/event/nj-audubon-morning-walk-at-scherman-hoffman-wildlife-sanctuary-2/"
+  org: "New Jersey Audubon"
+  featured: false
+
+- id: nj-bernardsville-market-jul11
+  title: "Bernardsville Farmers' Market"
+  region: nj
+  category: food
+  date: "2026-07-11"
+  start: "09:00"
+  end: "13:00"
+  all_day: false
+  time_note: "Live music by the PB&J Band."
+  venue: "Bernardsville Station"
+  address: "50 Mine Brook Road, Bernardsville, NJ 07924"
+  town: "Bernardsville (Somerset)"
+  lat: 40.7186
+  lng: -74.5697
+  cost: "Free"
+  description: |
+    A Saturday market at the Bernardsville train station with farm-fresh produce, baked goods, honey, pasture-raised meats, prepared Italian and Indian foods, and flowers, plus live music from the PB&J Band. Free to attend.
+  url: "https://visitsomersetnj.org/event/bernardsville-farmers-market/2026-07-11/"
+  source: "https://visitsomersetnj.org/event/bernardsville-farmers-market/2026-07-11/"
+  org: "Bernardsville Farmers Market"
+  featured: false
+
+- id: nj-rockingham-jul11
+  title: "Welcome World to George Washington's Rockingham"
+  region: nj
+  category: tour
+  date: "2026-07-11"
+  start: "10:00"
+  end: "11:00"
+  all_day: false
+  time_note: "America's-250th program in the Dutch Barn; historic house closed for construction."
+  venue: "Rockingham State Historic Site"
+  address: "84 Laurel Avenue, Kingston (Franklin Township), NJ 08528"
+  town: "Kingston/Franklin Twp (Somerset)"
+  lat: 40.3846
+  lng: -74.6270
+  cost: "Free"
+  description: |
+    An illustrated introduction to George Washington's final Revolutionary War headquarters in the site's historic Dutch Barn, with reproduction artifacts and optional grounds tours. Part of America's 250th anniversary programming. Free.
+  url: "https://visitsomersetnj.org/event/welcome-world-to-george-washingtons-rockingham/2026-07-11/"
+  source: "https://visitsomersetnj.org/events/month/"
+  org: "NJ DEP / Rockingham State Historic Site"
+  featured: false
+
+- id: nj-rutgers-pavilion-jul11
+  title: "Rutgers Community Farmers Market (Market Pavilion)"
+  region: nj
+  category: food
+  date: "2026-07-11"
+  start: "09:00"
+  end: "13:00"
+  all_day: false
+  time_note: "Saturdays Jun 20-Nov 21, 2026."
+  venue: "Rutgers Market Pavilion (Jones Avenue)"
+  address: "178 Jones Avenue, New Brunswick, NJ 08901"
+  town: "New Brunswick (Middlesex)"
+  lat: 40.4869
+  lng: -74.4358
+  cost: "Free"
+  description: |
+    The Rutgers Community Farmers Market's Saturday location on Jones Avenue in New Brunswick, offering local produce and food. Accepts SNAP/EBT with Good Food Bucks, WIC, and senior FMNP. Free to browse.
+  url: "https://communityfarmersmarket.rutgers.edu/visit-us/"
+  source: "https://communityfarmersmarket.rutgers.edu/visit-us/"
+  org: "Rutgers Community Farmers Market"
+  featured: false
+
+- id: nj-metuchen-market-jul11
+  title: "Metuchen Farmers Market"
+  region: nj
+  category: food
+  date: "2026-07-11"
+  start: "09:00"
+  end: "14:00"
+  all_day: false
+  time_note: "Every Saturday; regularly features live music, artisans, and the Metuchen Public Library."
+  venue: "Metuchen Town Plaza"
+  address: "33 Pearl Street (corner of New St & Pearl St), Metuchen, NJ 08840"
+  town: "Metuchen (Middlesex)"
+  lat: 40.5413
+  lng: -74.3638
+  cost: "Free"
+  description: |
+    Metuchen's Saturday market on the downtown Town Plaza, with produce, prepared foods, artisans, and live music. Free 3-hour parking at the Pearl Street garage behind the plaza. Free to attend.
+  url: "https://www.metuchenfarmersmarket.org/"
+  source: "https://www.metuchenfarmersmarket.org/"
+  org: "Metuchen Farmers Market"
+  featured: false
+
+- id: nj-plays-1776-jul11
+  title: "1776 — Plays-in-the-Park"
+  region: nj
+  category: concert
+  date: "2026-07-11"
+  start: "20:00"
+  end: ""
+  all_day: false
+  time_note: "Box office opens 5:30 PM; show at 8:00 PM. Bring a low lawn chair; on-site ticket sales only."
+  venue: "Stephen J. Capestro Theatre, Roosevelt Park"
+  address: "1 Pine Drive, Edison, NJ 08837"
+  town: "Edison (Middlesex)"
+  lat: 40.5089
+  lng: -74.3316
+  cost: "$8"
+  description: |
+    "1776" under the stars at Middlesex County's Plays-in-the-Park, following the founders as they push Congress toward the Declaration of Independence. $8 adults, $5 seniors 60+, free for kids 12 and under.
+  url: "https://middlesexcountyculture.com/event/1776/"
+  source: "https://middlesexcountyculture.com/event/1776/"
+  org: "Middlesex County Plays-in-the-Park"
+  featured: false
+
+- id: nj-bridgewater-carnival-jul11
+  title: "Summer Carnival @ The Commons"
+  region: nj
+  category: fair
+  date: "2026-07-11"
+  start: "14:00"
+  end: "21:00"
+  all_day: false
+  time_note: "Saturday hours 2-9 PM; final weekend of the Jul 7-12 run."
+  venue: "Bridgewater Commons (Parking Lot 9 by Lord & Taylor)"
+  address: "400 Commons Way, Bridgewater, NJ 08807"
+  town: "Bridgewater (Somerset)"
+  lat: 40.5896
+  lng: -74.6106
+  cost: "$5"
+  description: |
+    Carnival rides, midway games, and fair food at Bridgewater Commons. $5 admission; children under 36 inches free.
+  url: "https://visitsomersetnj.org/event/summer-carnival-the-commons/2026-07-11/"
+  source: "https://visitsomersetnj.org/event/summer-carnival-the-commons/2026-07-09/"
+  org: "Bridgewater Commons"
+  featured: false
+
+- id: nj-rockingham-jul12
+  title: "Welcome World to George Washington's Rockingham"
+  region: nj
+  category: tour
+  date: "2026-07-12"
+  start: "10:00"
+  end: "11:00"
+  all_day: false
+  time_note: "America's-250th program in the Dutch Barn; historic house closed for construction."
+  venue: "Rockingham State Historic Site"
+  address: "84 Laurel Avenue, Kingston (Franklin Township), NJ 08528"
+  town: "Kingston/Franklin Twp (Somerset)"
+  lat: 40.3846
+  lng: -74.6270
+  cost: "Free"
+  description: |
+    An illustrated introduction to George Washington's final Revolutionary War headquarters in the site's Dutch Barn, with reproduction artifacts and optional grounds tours, marking America's 250th anniversary. Free.
+  url: "https://visitsomersetnj.org/event/welcome-world-to-george-washingtons-rockingham/2026-07-12/"
+  source: "https://visitsomersetnj.org/event/welcome-world-to-george-washingtons-rockingham/2026-07-12/"
+  org: "NJ DEP / Rockingham State Historic Site"
+  featured: false
+
+- id: nj-music-park-underwater-jul12
+  title: "Music-in-the-Park: Underwater Airlines"
+  region: nj
+  category: concert
+  date: "2026-07-12"
+  start: "18:00"
+  end: "19:30"
+  all_day: false
+  time_note: "Free Middlesex County Sunday concert at Spring Lake Park. Bring non-perishable food donations for REPLENISH/Feeding Middlesex."
+  venue: "Spring Lake Park"
+  address: "Plainfield Avenue, South Plainfield, NJ 07080"
+  town: "South Plainfield (Middlesex)"
+  lat: 40.5757
+  lng: -74.4127
+  cost: "Free"
+  description: |
+    A free outdoor concert in Middlesex County's Music-in-the-Park series featuring Underwater Airlines, a classic-rock band. Held on the Sunday evening slot at Spring Lake Park in South Plainfield.
+  url: "https://njartsmaven.substack.com/p/music-in-the-parks-summer-concert"
+  source: "https://njartsmaven.substack.com/p/music-in-the-parks-summer-concert"
+  org: "Middlesex County / Arts Institute of Middlesex County"
+  featured: false
+
+- id: nj-bridgewater-carnival-jul12
+  title: "Summer Carnival @ The Commons (final day)"
+  region: nj
+  category: fair
+  date: "2026-07-12"
+  start: "12:00"
+  end: "18:00"
+  all_day: false
+  time_note: "Closing day of the Jul 7-12 run; Sunday hours noon-6 PM."
+  venue: "Bridgewater Commons (Parking Lot 9 by Lord & Taylor)"
+  address: "400 Commons Way, Bridgewater, NJ 08807"
+  town: "Bridgewater (Somerset)"
+  lat: 40.5896
+  lng: -74.6106
+  cost: "$5"
+  description: |
+    Final day of the Bridgewater Commons summer carnival, with 20 rides, midway games, and fair food. $5 admission; children under 36 inches free.
+  url: "https://visitsomersetnj.org/event/summer-carnival-the-commons/2026-07-12/"
+  source: "https://visitsomersetnj.org/event/summer-carnival-the-commons/2026-07-09/"
+  org: "Bridgewater Commons"
+  featured: false
+
+- id: nj-henry-knox-jul13
+  title: "Henry Knox's Amazing Journey (Virtual Lecture)"
+  region: nj
+  category: lecture
+  date: "2026-07-13"
+  start: "19:00"
+  end: "20:00"
+  all_day: false
+  time_note: "VIRTUAL program via Zoom (no physical venue); lat/lng point to the Somerset County Library System HQ in Bridgewater. Free registration through SCLSNJ."
+  venue: "Online (Zoom) — Somerset County Library System program"
+  address: "Virtual event hosted by Somerset County Library System, Bridgewater, NJ"
+  town: "Online (Somerset)"
+  lat: 40.5951
+  lng: -74.6394
+  cost: "Free"
+  description: |
+    A free virtual talk by bestselling author William Elliott Hazelgrove on Henry Knox's winter 1775-76 expedition hauling 60 tons of cannon from Fort Ticonderoga to Washington's army at Boston — a turning point of the Revolution. Hosted online by the Somerset County Library System. Join via Zoom.
+  url: "https://visitsomersetnj.org/event/henry-knoxs-amazing-journey-one-of-the-great-stories-of-the-american-revolution-virtual/"
+  source: "https://visitsomersetnj.org/event/henry-knoxs-amazing-journey-one-of-the-great-stories-of-the-american-revolution-virtual/"
+  org: "Somerset County Library System (SCLSNJ)"
+  featured: false
+
+- id: nj-plays-1776-jul13
+  title: "1776 — Plays-in-the-Park"
+  region: nj
+  category: concert
+  date: "2026-07-13"
+  start: "20:00"
+  end: ""
+  all_day: false
+  time_note: "Monday performance (the run is dark only on Sundays). Box office opens 5:30 PM; show at 8:00 PM. On-site ticket sales only; bring a low lawn chair."
+  venue: "Stephen J. Capestro Theatre, Roosevelt Park"
+  address: "1 Pine Drive, Edison, NJ 08837"
+  town: "Edison (Middlesex)"
+  lat: 40.5089
+  lng: -74.3316
+  cost: "$8"
+  description: |
+    A Monday-night performance of "1776" at Middlesex County's outdoor Plays-in-the-Park, dramatizing the debate over American independence — a strong America's-250th pick. $8 adults, $5 seniors 60+, free for kids 12 and under.
+  url: "https://middlesexcountyculture.com/event/1776/"
+  source: "https://middlesexcountyculture.com/event/1776/"
+  org: "Middlesex County Plays-in-the-Park"
+  featured: true
+
+- id: nj-plays-1776-jul14
+  title: "1776 — Plays-in-the-Park"
+  region: nj
+  category: concert
+  date: "2026-07-14"
+  start: "20:00"
+  end: ""
+  all_day: false
+  time_note: "Tuesday performance. Box office opens 5:30 PM; show at 8:00 PM. On-site ticket sales only; bring a low lawn chair."
+  venue: "Stephen J. Capestro Theatre, Roosevelt Park"
+  address: "1 Pine Drive, Edison, NJ 08837"
+  town: "Edison (Middlesex)"
+  lat: 40.5089
+  lng: -74.3316
+  cost: "$8"
+  description: |
+    "1776" continues at Plays-in-the-Park, following John Adams, Franklin, and Jefferson toward the Declaration of Independence. $8 adults, $5 seniors 60+, free for children 12 and under.
+  url: "https://middlesexcountyculture.com/event/1776/"
+  source: "https://middlesexcountyculture.com/event/1776/"
+  org: "Middlesex County Plays-in-the-Park"
+  featured: true
+
+- id: nj-lilo-stitch-jul14
+  title: "Free Summer Movie: Lilo & Stitch"
+  region: nj
+  category: family
+  date: "2026-07-14"
+  start: "10:30"
+  end: ""
+  all_day: false
+  time_note: "Two free screenings, 10:30 AM and 6:30 PM; arrive 5:30 PM for free kids' movie-themed arts & crafts before the evening show. Spanish subtitles. Free advance registration required via STNJ.org."
+  venue: "State Theatre New Jersey"
+  address: "11 Livingston Avenue, New Brunswick, NJ 08901"
+  town: "New Brunswick (Middlesex)"
+  lat: 40.4958
+  lng: -74.4468
+  cost: "Free"
+  description: |
+    State Theatre New Jersey's free summer movie series screens the live-action "Lilo & Stitch" on its 46-foot screen. Two showings (morning and evening); the 6:30 PM show is preceded by free kids' arts and crafts at 5:30 PM. Free with advance registration.
+  url: "https://www.stnj.org/events/detail/lilo-and-stitch"
+  source: "https://visitsomersetnj.org/event/lilo-stitch/"
+  org: "State Theatre New Jersey"
+  featured: false
+
+- id: nj-rutgers-pavilion-jul14
+  title: "Rutgers Community Farmers Market (Market Pavilion)"
+  region: nj
+  category: food
+  date: "2026-07-14"
+  start: "09:00"
+  end: "13:00"
+  all_day: false
+  time_note: "Tuesdays Jul 7-Oct 27, 2026."
+  venue: "Rutgers Market Pavilion (Jones Avenue)"
+  address: "178 Jones Avenue, New Brunswick, NJ 08901"
+  town: "New Brunswick (Middlesex)"
+  lat: 40.4869
+  lng: -74.4358
+  cost: "Free"
+  description: |
+    The Tuesday session of the Rutgers Community Farmers Market on Jones Avenue in New Brunswick, with local produce and food vendors. Accepts SNAP/EBT with Good Food Bucks, WIC, and senior FMNP. Free to browse.
+  url: "https://communityfarmersmarket.rutgers.edu/visit-us/"
+  source: "https://communityfarmersmarket.rutgers.edu/visit-us/"
+  org: "Rutgers Community Farmers Market"
+  featured: false
