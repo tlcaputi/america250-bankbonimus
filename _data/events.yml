@@ -8744,3 +8744,91 @@
   source: "https://communityfarmersmarket.rutgers.edu/visit-us/"
   org: "Rutgers Community Farmers Market"
   featured: false
+
+- id: bucks-dta-anythinggoes-jul10
+  title: "\"Anything Goes\" — Doylestown Theatre Academy"
+  region: bucks
+  category: concert
+  date: "2026-07-10"
+  start: "14:00"
+  end: "22:00"
+  all_day: false
+  time_note: "Two shows July 10: 2:00 PM matinee & 7:30 PM evening (also plays July 11)."
+  venue: "New Hope-Solebury High School"
+  address: "182 West Bridge Street, New Hope, PA 18938"
+  town: "New Hope (Bucks)"
+  lat: 40.3655
+  lng: -74.9620
+  cost: "Ticketed"
+  description: |
+    Cole Porter's shipboard musical comedy, staged by the Doylestown Theatre Academy with a cast of teenagers drawn from seven area high schools — the culminating production of the academy's 10-day summer intensive. Matinee and evening performances July 10, with additional shows July 11.
+  url: "https://www.doylestowntheatreacademy.com/"
+  source: "https://doylestownalive.com/events/summer-outdoor-concerts-movies-shows.cfm"
+  org: "Doylestown Theatre Academy"
+  featured: false
+
+- id: bucks-newtown-theatre-country-jul10
+  title: "A Tribute to Modern Country Music — The Newtown Theatre"
+  region: bucks
+  category: concert
+  date: "2026-07-10"
+  start: "20:00"
+  end: "22:00"
+  all_day: false
+  time_note: "Curtain 8 PM."
+  venue: "The Newtown Theatre"
+  address: "120 North State Street, Newtown, PA 18940"
+  town: "Newtown (Bucks)"
+  lat: 40.2299
+  lng: -74.9362
+  cost: "Ticketed"
+  description: |
+    A live tribute to modern country music at The Newtown Theatre — billed as the oldest continuously operating theater in the country — in the heart of Newtown Borough.
+  url: "https://www.thenewtowntheatre.com/events"
+  source: "https://www.thenewtowntheatre.com/events"
+  org: "The Newtown Theatre"
+  featured: false
+
+- id: nj-musicmountain-urinetown-jul10
+  title: "\"Urinetown: The Musical\" — Opening Night at Music Mountain Theatre"
+  region: nj
+  category: concert
+  date: "2026-07-10"
+  start: "19:30"
+  end: "22:00"
+  all_day: false
+  time_note: "Opening night; performances Fri & Sat 7:30 PM through Aug 2. Tickets ~$36."
+  venue: "Music Mountain Theatre"
+  address: "1483 NJ-179, Lambertville, NJ 08530"
+  town: "Lambertville (Hunterdon)"
+  lat: 40.3925
+  lng: -74.9308
+  cost: "~$36"
+  description: |
+    Opening night of Music Mountain Theatre's production of the Tony-winning satirical musical **Urinetown** — a send-up of greed, corporate power and musical theater itself, set in a drought-stricken town where a water shortage has outlawed private toilets. Runs weekends July 10 through August 2.
+  url: "https://www.musicmountaintheatre.org/"
+  source: "https://www.showpass.com/urinetown-2/"
+  org: "Music Mountain Theatre"
+  featured: false
+
+- id: bucks-newhopearts-kisch-reception-jul10
+  title: "Jennifer Kisch — Artist Reception at New Hope Arts"
+  region: bucks
+  category: exhibit
+  date: "2026-07-10"
+  start: "16:00"
+  end: "18:00"
+  all_day: false
+  time_note: "Opening reception 4–6 PM."
+  venue: "New Hope Arts Center (Union Square)"
+  address: "2 Stockton Avenue, New Hope, PA 18938"
+  town: "New Hope (Bucks)"
+  lat: 40.3644
+  lng: -74.9515
+  cost: "Free"
+  description: |
+    Opening reception for a New Hope Arts exhibition featuring the work of artist Jennifer Kisch, in the Union Square gallery in the heart of New Hope. Free to attend.
+  url: "https://www.lambpage.com/lambertville-events-july-2026/"
+  source: "https://www.lambpage.com/lambertville-events-july-2026/"
+  org: "New Hope Arts"
+  featured: false
