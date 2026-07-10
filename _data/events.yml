@@ -8832,3 +8832,67 @@
   source: "https://www.lambpage.com/lambertville-events-july-2026/"
   org: "New Hope Arts"
   featured: false
+
+- id: bucks-charlann-funnyfarm-jul10
+  title: "Funny Farm Comedy Show — Charlann Farms"
+  region: bucks
+  category: other
+  date: "2026-07-10"
+  start: "19:00"
+  end: "21:00"
+  all_day: false
+  time_note: "Second-Friday outdoor (tented) stand-up; drinks from 6 PM. Ages 21+."
+  venue: "Charlann Farms"
+  address: "586 Stony Hill Road, Yardley, PA 19067"
+  town: "Yardley (Lower Makefield, Bucks)"
+  lat: 40.2447
+  lng: -74.8688
+  cost: "Ticketed"
+  description: |
+    The Funny Farm outdoor stand-up show returns to Charlann Farms, a sixth-generation family farm in Lower Makefield, for its Second-Fridays summer series. A lineup of local comedians under the tent, with Yardley General & the Cellar pouring drinks from 6 PM and the Charlann Market open for snacks. Ages 21+.
+  url: "https://www.charlannfarms.com/"
+  source: "https://www.buckscountyherald.com/arts-entertainment/events/charlann-farms-summer-of-standups-starts-with-homegrown-bronston-jones/article_4a920d03-44c8-4403-92ee-06bab2ad0866.html"
+  org: "Charlann Farms / Funny Farm"
+  featured: false
+
+- id: bucks-bccc-visions-of-america-jul10
+  title: "\"Visions of America\" — America 250 Exhibit at Hicks Art Center Gallery"
+  region: bucks
+  category: exhibit
+  date: "2026-07-10"
+  all_day: false
+  time_note: "On view June 5–July 25 during gallery hours; free admission."
+  venue: "Hicks Art Center Gallery, Bucks County Community College"
+  address: "275 Swamp Road, Newtown, PA 18940"
+  town: "Newtown (Bucks)"
+  lat: 40.2563
+  lng: -74.9490
+  cost: "Free"
+  description: |
+    An invitational, multimedia group exhibition mounted for America's 250th at Bucks County Community College's Hicks Art Center Gallery in Newtown — artworks, artifacts and objects capturing evolutionary moments of the nation's 250-year history from human and animal perspectives, with significant historical loans alongside contemporary work. On view June 5 through July 25; free.
+  url: "https://www.bucks.edu/culture/hicks/"
+  source: "https://patch.com/pennsylvania/newtown-pa/visions-america-exhibit-celebrates-nations-250th-birthday-newtown"
+  org: "Bucks County Community College"
+  featured: false
+
+- id: nj-metuchen-swing-an-ax-jul10
+  title: "\"Room to Swing an Ax: A Southern Gothic Song Cycle\" — Old Franklin Schoolhouse"
+  region: nj
+  category: concert
+  date: "2026-07-10"
+  start: "19:30"
+  end: "21:00"
+  all_day: false
+  time_note: "Premiere July 10 at 7:30 PM (also July 11–12 at 3 PM), part of Mignolo ArtWeekend."
+  venue: "Old Franklin Schoolhouse"
+  address: "491 Middlesex Avenue, Metuchen, NJ 08840"
+  town: "Metuchen (Middlesex)"
+  lat: 40.5476
+  lng: -74.3560
+  cost: "Ticketed"
+  description: |
+    Premiere of **Room to Swing an Ax: A Southern Gothic Song Cycle** at Metuchen's historic Old Franklin Schoolhouse — a new work with book and lyrics by Alex Dawson and music by Arlan Feiles, performed by both, staged as part of Mignolo ArtWeekend. Additional performances July 11–12 at 3 PM.
+  url: "https://middlesexcountyculture.com/venue/old-franklin-schoolhouse-2/"
+  source: "https://www.njarts.net/top-nj-arts-events-of-the-week-maplewoodstock-weird-al-yankovic-more/"
+  org: "Mignolo Arts / Old Franklin Schoolhouse"
+  featured: false
