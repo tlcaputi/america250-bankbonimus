@@ -8896,3 +8896,131 @@
   source: "https://www.njarts.net/top-nj-arts-events-of-the-week-maplewoodstock-weird-al-yankovic-more/"
   org: "Mignolo Arts / Old Franklin Schoolhouse"
   featured: false
+
+- id: nj-hopewell-summer-bandstand-jul11
+  title: "Hopewell Summer Bandstand Concert"
+  region: nj
+  category: concert
+  date: "2026-07-11"
+  start: "19:00"
+  end: "21:00"
+  all_day: false
+  time_note: "Saturday-evening summer series at the Borough Park bandstand; free."
+  venue: "Hopewell Borough Park (bandstand)"
+  address: "Hopewell Borough Park, Hopewell, NJ 08525"
+  town: "Hopewell (Mercer)"
+  lat: 40.3893
+  lng: -74.7616
+  cost: "Free"
+  description: |
+    A free outdoor concert in Hopewell Borough's Summer Bandstand series, held at the Borough Park bandstand on Saturday evening. Bring a blanket or lawn chairs.
+  url: "https://www.hopewellboro-nj.us/summer-bandstand-concert-series/"
+  source: "https://www.hopewellboro-nj.us/summer-bandstand-concert-series/"
+  org: "Hopewell Borough"
+  featured: false
+
+- id: bucks-dta-grease-jul11
+  title: "\"Grease\" — Doylestown Theatre Academy"
+  region: bucks
+  category: concert
+  date: "2026-07-11"
+  all_day: false
+  time_note: "Plays July 11 & 12 at New Hope-Solebury HS; see box office for curtain times."
+  venue: "New Hope-Solebury High School"
+  address: "182 West Bridge Street, New Hope, PA 18938"
+  town: "New Hope (Bucks)"
+  lat: 40.3655
+  lng: -74.9620
+  cost: "Ticketed"
+  description: |
+    Doylestown Theatre Academy's youth production of the hit musical **Grease**, directed and choreographed by two-time Barrymore Award nominee Stephen Casey, with a cast of teen performers from across Bucks County. Performances July 11 and 12 at New Hope-Solebury High School.
+  url: "https://www.doylestowntheatreacademy.com/"
+  source: "https://www.broadwayworld.com/philadelphia/article/GREASE-to-be-Presented-at-Doylestown-Theatre-Academy-in-July-20250626"
+  org: "Doylestown Theatre Academy"
+  featured: false
+
+- id: mont-collegeville-trappe-fireworks-jul11
+  title: "Collegeville-Trappe Community Fireworks"
+  region: bucks
+  category: fireworks
+  date: "2026-07-11"
+  start: "21:00"
+  end: "21:30"
+  all_day: false
+  time_note: "Fireworks ~9 PM; arrive early for parking."
+  venue: "Trappe / Collegeville"
+  address: "525 West Main Street, Trappe, PA 19426"
+  town: "Trappe (Montgomery)"
+  lat: 40.1975
+  lng: -75.4720
+  cost: "Free"
+  description: |
+    A community fireworks celebration in Trappe/Collegeville on Saturday evening, launching around 9 PM off West Main Street.
+  url: "https://fireworksinpennsylvania.com/by-date/"
+  source: "https://fireworksinpennsylvania.com/by-date/"
+  org: "Collegeville-Trappe"
+  featured: false
+
+- id: mont-lansdale-oldtime-baseball-bbq-jul11
+  title: "Old-Time Baseball & Community BBQ — Memorial Park"
+  region: bucks
+  category: family
+  date: "2026-07-11"
+  start: "11:00"
+  end: "16:00"
+  all_day: false
+  time_note: "Second-Saturday event, 11 AM–4 PM; free, family-friendly."
+  venue: "Memorial Park (Weaver Field)"
+  address: "Memorial Park, Whites Road, Lansdale, PA 19446"
+  town: "Lansdale (Montgomery)"
+  lat: 40.2419
+  lng: -75.2795
+  cost: "Free"
+  description: |
+    A day of vintage base ball played under turn-of-the-century rules — a doubleheader between the Brandywine and Keystone Base Ball Clubs at Weaver Field — with live music, local food vendors and family activities all day at Lansdale's Memorial Park. Hosted by the Lansdale Historical Society.
+  url: "https://www.discoverlansdale.org/baseball-and-barbecue.html"
+  source: "https://www.discoverlansdale.org/baseball-and-barbecue.html"
+  org: "Lansdale Historical Society"
+  featured: false
+
+- id: nj-metuchen-mignolo-blockparty-jul11
+  title: "Mignolo ArtWeekend Block Party"
+  region: nj
+  category: festival
+  date: "2026-07-11"
+  start: "15:30"
+  end: "22:00"
+  all_day: false
+  time_note: "3:30–10 PM. Free to register; BYOB block party ($15 adv / $20 door). Cornhole tournament."
+  venue: "Mignolo Arts Center"
+  address: "272 Lake Avenue, Metuchen, NJ 08840"
+  town: "Metuchen (Middlesex)"
+  lat: 40.5449
+  lng: -74.3597
+  cost: "Free (BYOB $15 adv/$20 door)"
+  description: |
+    The capstone of Mignolo ArtWeekend: an outdoor block party at the Mignolo Arts Center with live music (Alejandro, Jay Channelle, The Outliers, DJ Phantom) and a cornhole tournament. A 7-minute walk from the Metuchen train station. Free to register; BYOB.
+  url: "https://www.mignolo.art/events/artweekend26"
+  source: "https://middlesexcountyculture.com/event/mignolo-artweekend-mignolo-block-party/"
+  org: "Mignolo Arts"
+  featured: false
+
+- id: bucks-dta-grease-jul12
+  title: "\"Grease\" — Doylestown Theatre Academy (final performances)"
+  region: bucks
+  category: concert
+  date: "2026-07-12"
+  all_day: false
+  time_note: "Closing performances; plays July 11 & 12 — see box office for curtain times."
+  venue: "New Hope-Solebury High School"
+  address: "182 West Bridge Street, New Hope, PA 18938"
+  town: "New Hope (Bucks)"
+  lat: 40.3655
+  lng: -74.9620
+  cost: "Ticketed"
+  description: |
+    Closing performances of Doylestown Theatre Academy's youth production of **Grease**, directed and choreographed by two-time Barrymore Award nominee Stephen Casey, at New Hope-Solebury High School.
+  url: "https://www.doylestowntheatreacademy.com/"
+  source: "https://www.broadwayworld.com/philadelphia/article/GREASE-to-be-Presented-at-Doylestown-Theatre-Academy-in-July-20250626"
+  org: "Doylestown Theatre Academy"
+  featured: false
