@@ -9440,3 +9440,1587 @@
   source: "https://buckscountyalive.com/events/showevents.cfm?orgcode=SHBF"
   org: "Shady Brook Farm"
   featured: false
+
+# ---- Ensemble sweep Jul 11-15 (calendar+venue+org-tail) ----
+- id: bucks-sellersville-fire-carnival-jul11
+  title: Sellersville Fire Department Carnival (final night)
+  region: bucks
+  category: fair
+  date: '2026-07-11'
+  all_day: false
+  time_note: Opens ~6:00 PM; nightly bingo at 7:00 PM. Saturday is the fireworks rain date.
+  venue: Sellersville Fire Department
+  address: 2 North Main Street, Sellersville, PA 18960
+  town: Sellersville (Bucks)
+  lat: 40.3586
+  lng: -75.3048
+  cost: Free admission
+  description: 'The final night of the Sellersville Fire Department''s annual carnival (July 7-11), with amusement rides, midway games, concessions and nightly bingo. Free parking and free admission; ride tickets sold on site. Saturday serves as the rain date for Friday''s fireworks.
+
+    '
+  url: https://www.sellersvillefd.com/news/274/Sellersville-Fire-Department-Carnival
+  source: https://buckscountyparent.com/event/sellersville-fire-departments-2026-carnival/2026-07-08/
+  org: Sellersville Fire Department
+  featured: false
+- id: bucks-dublin-firemans-fair-jul11
+  title: Dublin Fire Company Fireman's Fair
+  region: bucks
+  category: fair
+  date: '2026-07-11'
+  start: '18:30'
+  all_day: false
+  time_note: Opens 6:30 PM nightly. Fair runs July 10-11 and July 14-18 (closed July 12-13).
+  venue: Dublin Fire Company grounds
+  address: 194 N. Main Street, Dublin, PA 18917
+  town: Dublin (Bucks)
+  lat: 40.373
+  lng: -75.2
+  cost: Free admission
+  description: 'A century-old Upper Bucks tradition: rides on a Skelly''s Amusements midway, carnival games, food, raffles and a beer garden. Free admission and parking; ride wristbands and a Mega Pass available. Continues July 14-18 with a fireworks finale on the 18th.
+
+    '
+  url: https://www.dublinfireco.org/carnival
+  source: https://www.dublinfireco.org/carnival
+  org: Dublin Volunteer Fire Company
+  featured: false
+- id: bucks-am-radio-sellersville-jul11
+  title: AM Radio Tribute Band — Sellersville Theater
+  region: bucks
+  category: concert
+  date: '2026-07-11'
+  start: '20:00'
+  all_day: false
+  time_note: 'Two shows: a 3:00 PM matinee (''Come Happy, Leave Happier'') and an 8:00 PM evening show (''AM Radio With Horns!'').'
+  venue: Sellersville Theater 1894
+  address: 24 W. Temple Avenue, Sellersville, PA 18960
+  town: Sellersville (Bucks)
+  lat: 40.3576
+  lng: -75.3055
+  cost: $30-$37
+  description: 'AM Radio brings its high-energy tribute to the pop, soul and rock hits of the 1960s and ''70s to the historic Sellersville Theater. Two performances in one day: an afternoon matinee and a full evening show featuring a horn section.
+
+    '
+  url: https://www.st94.com/upcoming-shows/
+  source: https://www.st94.com/upcoming-shows/
+  org: Sellersville Theater 1894
+  featured: false
+- id: bucks-howls-moving-castle-newtown-jul11
+  title: Howl's Moving Castle — Studio Ghibli Saturday
+  region: bucks
+  category: family
+  date: '2026-07-11'
+  start: '13:00'
+  end: '15:00'
+  all_day: false
+  time_note: 1:00 PM matinee.
+  venue: The Newtown Theatre
+  address: 120 N. State Street, Newtown, PA 18940
+  town: Newtown (Bucks)
+  lat: 40.2296
+  lng: -74.9364
+  cost: See listing
+  description: 'A Studio Ghibli Saturday matinee at the historic Newtown Theatre, the oldest movie theater in the country. Miyazaki''s fantasy Howl''s Moving Castle screens on the big screen — a family-friendly afternoon outing.
+
+    '
+  url: https://www.thenewtowntheatre.com/events
+  source: https://www.thenewtowntheatre.com/events
+  org: The Newtown Theatre
+  featured: false
+- id: bucks-elton-john-tribute-newtown-jul11
+  title: A Tribute to Elton John — The Newtown Theatre
+  region: bucks
+  category: concert
+  date: '2026-07-11'
+  start: '20:00'
+  end: '22:00'
+  all_day: false
+  time_note: 8:00 PM. Listed as SOLD OUT.
+  venue: The Newtown Theatre
+  address: 120 N. State Street, Newtown, PA 18940
+  town: Newtown (Bucks)
+  lat: 40.2296
+  lng: -74.9364
+  cost: Ticketed
+  description: 'An Elton John tribute concert at the historic Newtown Theatre. Note: this performance is listed as sold out — check with the box office for returns or waitlist.
+
+    '
+  url: https://www.thenewtowntheatre.com/concerts
+  source: https://www.thenewtowntheatre.com/events
+  org: The Newtown Theatre
+  featured: false
+- id: bucks-rices-market-jul11
+  title: Rice's Sale & Country Market
+  region: bucks
+  category: food
+  date: '2026-07-11'
+  start: '07:00'
+  end: '13:30'
+  all_day: false
+  time_note: Open Tuesdays & Saturdays, roughly 7:00 AM-1:30 PM.
+  venue: Rice's Sale & Country Market
+  address: 6326 Greenhill Road, New Hope, PA 18938
+  town: New Hope / Solebury (Bucks)
+  lat: 40.354
+  lng: -75.006
+  cost: Free admission
+  description: 'A 150-year-old Bucks County institution: hundreds of indoor and outdoor vendors selling produce, antiques, crafts, food and just about everything else across a sprawling Solebury Township site. Open Tuesdays and Saturdays in season — a classic weekend browse.
+
+    '
+  url: https://www.ricesmarket.com/
+  source: https://www.ricesmarket.com/faqs
+  org: Rice's Sale & Country Market
+  featured: false
+- id: bucks-anatomy-of-a-murder-county-theater-jul11
+  title: Anatomy of a Murder — County Theater Jazz Series
+  region: bucks
+  category: exhibit
+  date: '2026-07-11'
+  all_day: false
+  time_note: Evening screening; check County Theater listings for exact showtime.
+  venue: County Theater
+  address: 20 E. State Street, Doylestown, PA 18901
+  town: Doylestown (Bucks)
+  lat: 40.3103
+  lng: -75.1296
+  cost: See listing
+  description: 'The County Theater screens Otto Preminger''s 1959 courtroom classic Anatomy of a Murder — starring Jimmy Stewart with a landmark Duke Ellington jazz score — as part of its jazz film series, paired with an online Deep Focus seminar.
+
+    '
+  url: https://www.countytheater.org/notebook
+  source: https://www.countytheater.org/notebook
+  org: County Theater
+  featured: false
+- id: bucks-zach-rushing-sunnybrook-jul11
+  title: 'Zach Rushing: The Redneck Logic Tour'
+  region: bucks
+  category: concert
+  date: '2026-07-11'
+  start: '19:00'
+  all_day: false
+  time_note: 7:00 PM.
+  venue: The SunnyBrook Ballroom
+  address: 50 Sunnybrook Road, Pottstown, PA 19464
+  town: Pottstown (Montgomery)
+  lat: 40.253
+  lng: -75.621
+  cost: Ticketed
+  description: 'Comedian and viral storyteller Zach Rushing brings his Redneck Logic stand-up tour to the historic SunnyBrook Ballroom in Pottstown.
+
+    '
+  url: https://thesunnybrook.com/upcoming-events
+  source: https://www.bandsintown.com/v/10337060-the-sunnybrook-ballroom
+  org: The SunnyBrook Ballroom
+  featured: false
+- id: bucks-doug-church-elvis-sellersville-jul12
+  title: 'Doug Church: The Legendary Voice of Elvis'
+  region: bucks
+  category: concert
+  date: '2026-07-12'
+  start: '14:00'
+  all_day: false
+  time_note: 2:00 PM matinee.
+  venue: Sellersville Theater 1894
+  address: 24 W. Temple Avenue, Sellersville, PA 18960
+  town: Sellersville (Bucks)
+  lat: 40.3576
+  lng: -75.3055
+  cost: $35-$72
+  description: 'Elvis tribute artist Doug Church, renowned for a voice uncannily close to the King''s, performs a Sunday matinee of Presley favorites at the Sellersville Theater.
+
+    '
+  url: https://www.st94.com/upcoming-shows/
+  source: https://www.st94.com/upcoming-shows/
+  org: Sellersville Theater 1894
+  featured: false
+- id: bucks-southern-accents-petty-sellersville-jul12
+  title: Southern Accents — The Ultimate Tom Petty Experience
+  region: bucks
+  category: concert
+  date: '2026-07-12'
+  start: '20:00'
+  all_day: false
+  time_note: 8:00 PM.
+  venue: Sellersville Theater 1894
+  address: 24 W. Temple Avenue, Sellersville, PA 18960
+  town: Sellersville (Bucks)
+  lat: 40.3576
+  lng: -75.3055
+  cost: $29.50-$66.50
+  description: 'Southern Accents delivers a full-throttle Tom Petty & the Heartbreakers tribute — the hits, deep cuts and swagger — at the Sellersville Theater.
+
+    '
+  url: https://www.st94.com/upcoming-shows/
+  source: https://www.st94.com/upcoming-shows/
+  org: Sellersville Theater 1894
+  featured: false
+- id: bucks-hejira-joni-mitchell-sellersville-jul13
+  title: Hejira — Celebrating the Music of Joni Mitchell
+  region: bucks
+  category: concert
+  date: '2026-07-13'
+  start: '20:00'
+  all_day: false
+  time_note: 8:00 PM.
+  venue: Sellersville Theater 1894
+  address: 24 W. Temple Avenue, Sellersville, PA 18960
+  town: Sellersville (Bucks)
+  lat: 40.3576
+  lng: -75.3055
+  cost: $29.50-$56.50
+  description: 'Hejira, an ensemble devoted to the songbook of Joni Mitchell, reinterprets her jazz-inflected classics live at the Sellersville Theater.
+
+    '
+  url: https://www.st94.com/upcoming-shows/
+  source: https://www.st94.com/upcoming-shows/
+  org: Sellersville Theater 1894
+  featured: false
+- id: bucks-dublin-firemans-fair-jul14
+  title: Dublin Fire Company Fireman's Fair
+  region: bucks
+  category: fair
+  date: '2026-07-14'
+  start: '18:30'
+  all_day: false
+  time_note: Opens 6:30 PM. 'Ride All Night' wristband $30; beer garden 6:30-9:30 PM.
+  venue: Dublin Fire Company grounds
+  address: 194 N. Main Street, Dublin, PA 18917
+  town: Dublin (Bucks)
+  lat: 40.373
+  lng: -75.2
+  cost: Free admission
+  description: 'The Dublin Fireman''s Fair rolls on with a Skelly''s Amusements midway, games, food, raffles and a beer garden. Tuesday offers a $30 Ride All Night wristband. A century-old Upper Bucks summer tradition.
+
+    '
+  url: https://www.dublinfireco.org/carnival
+  source: https://www.dublinfireco.org/carnival
+  org: Dublin Volunteer Fire Company
+  featured: false
+- id: bucks-johnny-peers-muttville-sellersville-jul14
+  title: Johnny Peers & The Muttville Comix
+  region: bucks
+  category: family
+  date: '2026-07-14'
+  start: '11:00'
+  all_day: false
+  time_note: 11:00 AM — a family/kids show.
+  venue: Sellersville Theater 1894
+  address: 24 W. Temple Avenue, Sellersville, PA 18960
+  town: Sellersville (Bucks)
+  lat: 40.3576
+  lng: -75.3055
+  cost: $16
+  description: 'A family morning show: Johnny Peers, a veteran of the Ringling Bros. Clown College, performs slapstick comedy alongside a troupe of rescued shelter dogs — the Muttville Comix — at the Sellersville Theater.
+
+    '
+  url: https://www.st94.com/upcoming-shows/
+  source: https://www.st94.com/upcoming-shows/
+  org: Sellersville Theater 1894
+  featured: false
+- id: bucks-wine-tasting-dinner-sellersville-jul14
+  title: 'Wine Tasting Dinner: One Family, Seven Single Vineyards'
+  region: bucks
+  category: food
+  date: '2026-07-14'
+  start: '17:00'
+  all_day: false
+  time_note: 5:00 PM seating.
+  venue: Washington House / Sellersville Theater 1894
+  address: 24 W. Temple Avenue, Sellersville, PA 18960
+  town: Sellersville (Bucks)
+  lat: 40.3576
+  lng: -75.3055
+  cost: Ticketed
+  description: 'A multi-course wine-pairing dinner at the Sellersville Theater / Washington House, pouring wines from a single family''s seven single-vineyard bottlings across three brands. Reservations required.
+
+    '
+  url: https://www.st94.com/upcoming-shows/
+  source: https://www.st94.com/upcoming-shows/
+  org: Sellersville Theater 1894
+  featured: false
+- id: bucks-rose-vet-stone-sellersville-jul14
+  title: Rose & Vet Stone — A Family Stone Retrospective
+  region: bucks
+  category: concert
+  date: '2026-07-14'
+  start: '20:00'
+  all_day: false
+  time_note: 8:00 PM.
+  venue: Sellersville Theater 1894
+  address: 24 W. Temple Avenue, Sellersville, PA 18960
+  town: Sellersville (Bucks)
+  lat: 40.3576
+  lng: -75.3055
+  cost: $55-$92
+  description: 'Members of the extended Sly & the Family Stone camp perform a retrospective of the funk-soul band''s catalog — ''Everyday People,'' ''Dance to the Music'' and more — at the Sellersville Theater.
+
+    '
+  url: https://www.st94.com/upcoming-shows/
+  source: https://www.st94.com/upcoming-shows/
+  org: Sellersville Theater 1894
+  featured: false
+- id: bucks-rices-market-jul14
+  title: Rice's Sale & Country Market (Tuesday)
+  region: bucks
+  category: food
+  date: '2026-07-14'
+  start: '07:00'
+  end: '13:30'
+  all_day: false
+  time_note: Open Tuesdays & Saturdays, roughly 7:00 AM-1:30 PM.
+  venue: Rice's Sale & Country Market
+  address: 6326 Greenhill Road, New Hope, PA 18938
+  town: New Hope / Solebury (Bucks)
+  lat: 40.354
+  lng: -75.006
+  cost: Free admission
+  description: 'The Tuesday edition of Rice''s, a 150-year-old Solebury Township market with hundreds of vendors hawking produce, antiques, crafts and food across acres of stalls. A quintessential Bucks County weekday browse.
+
+    '
+  url: https://www.ricesmarket.com/
+  source: https://www.ricesmarket.com/faqs
+  org: Rice's Sale & Country Market
+  featured: false
+- id: bucks-dublin-firemans-fair-jul15
+  title: Dublin Fire Company Fireman's Fair
+  region: bucks
+  category: fair
+  date: '2026-07-15'
+  start: '18:30'
+  all_day: false
+  time_note: Opens 6:30 PM. 'Ride All Night' wristband $30; beer garden 6:30-9:30 PM.
+  venue: Dublin Fire Company grounds
+  address: 194 N. Main Street, Dublin, PA 18917
+  town: Dublin (Bucks)
+  lat: 40.373
+  lng: -75.2
+  cost: Free admission
+  description: 'Midweek night of the Dublin Fireman''s Fair: Skelly''s Amusements rides, games, fair food, raffles and a beer garden. A $30 Ride All Night wristband is offered. Free admission and parking.
+
+    '
+  url: https://www.dublinfireco.org/carnival
+  source: https://www.dublinfireco.org/carnival
+  org: Dublin Volunteer Fire Company
+  featured: false
+- id: bucks-lindsey-webster-sellersville-jul15
+  title: Lindsey Webster — Sellersville Theater
+  region: bucks
+  category: concert
+  date: '2026-07-15'
+  start: '20:00'
+  all_day: false
+  time_note: 8:00 PM.
+  venue: Sellersville Theater 1894
+  address: 24 W. Temple Avenue, Sellersville, PA 18960
+  town: Sellersville (Bucks)
+  lat: 40.3576
+  lng: -75.3055
+  cost: $39.50-$72
+  description: 'Chart-topping contemporary-jazz and soul vocalist Lindsey Webster headlines the Sellersville Theater with her smooth, R&B-inflected sound.
+
+    '
+  url: https://www.st94.com/upcoming-shows/
+  source: https://www.st94.com/upcoming-shows/
+  org: Sellersville Theater 1894
+  featured: false
+- id: bucks-studio-two-doylestown-jul15
+  title: Studio Two (Beatles Tribute) — Thompson Performing Arts Series
+  region: bucks
+  category: concert
+  date: '2026-07-15'
+  start: '18:30'
+  all_day: false
+  time_note: Concert ~6:30-7:00 PM at the Central Park Amphitheater; beer garden and food trucks on site.
+  venue: Central Park Amphitheater, Doylestown Township
+  address: 425 Wells Road, Doylestown, PA 18901
+  town: Doylestown Township (Bucks)
+  lat: 40.2823
+  lng: -75.1607
+  cost: Free
+  description: 'Studio Two recreates the early-Beatles sound as part of Doylestown Township''s free Thompson Performing Arts summer concert series. Bring a lawn chair or blanket; a beer garden and food trucks round out the evening at Central Park''s outdoor amphitheater.
+
+    '
+  url: https://www.doylestownpa.org/departments/parks-recreation/performing-arts/
+  source: https://www.doylestownpa.org/resources/news/article/?id=13097
+  org: Doylestown Township Parks & Recreation
+  featured: false
+- id: bucks-perkasie-jakes-country-jul15
+  title: Jake's Rockin' Country Band — Perkasie Summer Concert Series
+  region: bucks
+  category: concert
+  date: '2026-07-15'
+  start: '19:00'
+  end: '21:00'
+  all_day: false
+  time_note: 7:00-9:00 PM.
+  venue: Lenape Park Amphitheater
+  address: Lenape Park, Constitution Avenue, Perkasie, PA 18944
+  town: Perkasie (Bucks)
+  lat: 40.3745
+  lng: -75.2835
+  cost: Free
+  description: 'Perkasie Borough''s free Wednesday-night summer concert series continues with Jake''s Rockin'' Country Band at the Lenape Park amphitheater. Bring a picnic or grab food trucks; games, face painting and giveaways for the family.
+
+    '
+  url: https://perkasieborough.org/information/community-events/summer-concert-series/
+  source: https://perkasieborough.org/information/community-events/summer-concert-series/
+  org: Perkasie Borough
+  featured: false
+- id: bucks-montgomery-twp-highway-run-jul15
+  title: Highway Run (Journey Tribute) — Montgomery Township Summer Concert
+  region: bucks
+  category: concert
+  date: '2026-07-15'
+  start: '19:00'
+  end: '20:30'
+  all_day: false
+  time_note: 7:00-8:30 PM.
+  venue: Montgomery Township Recreation Center (Front Lawn)
+  address: 1030 Horsham Road, North Wales, PA 19454
+  town: Montgomeryville (Montgomery)
+  lat: 40.253
+  lng: -75.256
+  cost: Free
+  description: 'Highway Run plays the arena-rock catalog of Journey, Bon Jovi, Queen and more at Montgomery Township''s free Wednesday summer concert. Bring a blanket or lawn chair; the El Toro Serrano food truck will be on hand.
+
+    '
+  url: https://montcrc.myrec.com/info/activities/program_details.aspx?ProgramID=30374
+  source: https://montcrc.myrec.com/info/activities/program_details.aspx?ProgramID=30374
+  org: Montgomery Township Parks & Recreation
+  featured: false
+- id: bucks-magikava-open-mic-jul15
+  title: Open Mic at Magikava — New Hope
+  region: bucks
+  category: other
+  date: '2026-07-15'
+  start: '19:00'
+  all_day: false
+  time_note: 7:00 PM, weekly.
+  venue: Magikava
+  address: 46 N. Main Street, New Hope, PA 18938
+  town: New Hope (Bucks)
+  lat: 40.3642
+  lng: -74.9515
+  cost: Free
+  description: 'A long-running, laid-back acoustic open mic on New Hope''s Main Street at kava-and-tea lounge Magikava. Performers and listeners welcome.
+
+    '
+  url: https://lambpage.com/events
+  source: https://lambpage.com/events
+  org: Magikava
+  featured: false
+- id: nj-blue-moon-acres-market-jul11
+  title: Blue Moon Acres Farm Market
+  region: nj
+  category: fair
+  date: '2026-07-11'
+  start: '09:00'
+  end: '15:00'
+  all_day: false
+  time_note: Saturday farm market hours
+  venue: Blue Moon Acres
+  address: 11 Willow Creek Drive, Pennington, NJ 08534
+  town: Pennington (Mercer)
+  lat: 40.3016
+  lng: -74.8237
+  cost: Free
+  description: 'The certified-organic Pennington farm opens its on-site market with produce, microgreens, its own New Jersey-grown rice, and goods from local vendors. A relaxed Saturday-morning farm stop in the Sourland foothills.
+
+    '
+  url: https://princetonol.com/events/2026-07-11/
+  source: https://princetonol.com/events/2026-07-11/
+  org: Blue Moon Acres
+  featured: false
+- id: nj-saturday-canal-walk-jul11
+  title: Saturday Canal Walk on the D&R Towpath
+  region: nj
+  category: tour
+  date: '2026-07-11'
+  start: '10:00'
+  all_day: false
+  time_note: Year-round Saturday morning walk; ~3 miles
+  venue: Turning Basin Park (D&R Canal towpath)
+  address: Alexander Road, Princeton, NJ 08540
+  town: Princeton (Mercer)
+  lat: 40.3479
+  lng: -74.6449
+  cost: Free
+  description: 'A guided roughly three-mile walk along the Delaware & Raritan Canal towpath starting from Turning Basin Park. A gentle, flat outing along one of central New Jersey''s most historic waterways.
+
+    '
+  url: https://princetonol.com/events/2026-07-11/
+  source: https://princetonol.com/events/2026-07-11/
+  org: Princeton Recreation
+  featured: false
+- id: nj-garden-theatre-lion-king-jul11
+  title: The Lion King (Family Film) at the Princeton Garden Theatre
+  region: nj
+  category: family
+  date: '2026-07-11'
+  start: '10:00'
+  all_day: false
+  time_note: Morning family matinee
+  venue: Princeton Garden Theatre
+  address: 160 Nassau Street, Princeton, NJ 08542
+  town: Princeton (Mercer)
+  lat: 40.3499
+  lng: -74.658
+  cost: Ticketed
+  description: 'A big-screen morning matinee of Disney''s animated classic at Princeton''s nonprofit art-house cinema. A cool, easy family option in the heart of downtown Princeton.
+
+    '
+  url: https://princetonol.com/events/2026-07-11/
+  source: https://princetonol.com/events/2026-07-11/
+  org: Princeton Garden Theatre
+  featured: false
+- id: nj-mercer-welcomes-world-watch-party-jul11
+  title: 'Mercer County Welcomes the World: Soccer Watch Party'
+  region: nj
+  category: festival
+  date: '2026-07-11'
+  start: '15:00'
+  end: '23:00'
+  all_day: false
+  time_note: Big-screen match viewing with food and music
+  venue: Festival Grounds, Mercer County Park
+  address: Mercer County Park, West Windsor, NJ 08550
+  town: West Windsor (Mercer)
+  lat: 40.2685
+  lng: -74.6295
+  cost: See listing
+  description: 'Mercer County throws a large public watch party on the Mercer County Park festival grounds, screening the summer''s marquee international soccer match on a big screen. Expect live music, food, and a sangria and wine bar with a seafood feast catered by Princeton''s Tiger''s Tale.
+
+    '
+  url: https://www.mercercounty.org/departments/mercer-county-park-commission/recreation-events/events
+  source: https://www.mercercounty.org/departments/mercer-county-park-commission/recreation-events/events
+  org: Mercer County Park Commission
+  featured: false
+- id: nj-howell-evening-blacksmithing-jul11
+  title: Evening Blacksmithing at Howell Living History Farm
+  region: nj
+  category: family
+  date: '2026-07-11'
+  start: '17:00'
+  end: '20:00'
+  all_day: false
+  time_note: Evening blacksmith demonstration
+  venue: Howell Living History Farm
+  address: 70 Woodens Lane, Lambertville, NJ 08530 (Hopewell Township)
+  town: Hopewell Township (Mercer)
+  lat: 40.336
+  lng: -74.847
+  cost: Free
+  description: 'Mercer County''s early-1900s living-history farm fires up the forge for an evening of blacksmithing demonstrations. Watch iron worked the old way in the cooler part of a summer day at this free, family-friendly working farm.
+
+    '
+  url: https://lambpage.com/events
+  source: https://www.lambpage.com/lambertville-events-july-2026/
+  org: Howell Living History Farm
+  featured: false
+- id: nj-gfs-art-encounters-medusa-jul11
+  title: 'Art Encounters: Medusa by Anthony Caro'
+  region: nj
+  category: exhibit
+  date: '2026-07-11'
+  all_day: false
+  time_note: Time not published; part of daytime gallery programming
+  venue: Grounds For Sculpture
+  address: 80 Sculptors Way, Hamilton, NJ 08619
+  town: Hamilton (Mercer)
+  lat: 40.2277
+  lng: -74.6935
+  cost: Ticketed
+  description: 'A short, focused gallery talk spotlighting Anthony Caro''s sculpture "Medusa" at Grounds For Sculpture. These drop-in Art Encounters give visitors a closer read of a single featured work within the 42-acre park and its galleries.
+
+    '
+  url: https://www.groundsforsculpture.org/calendar/
+  source: https://www.groundsforsculpture.org/calendar/
+  org: Grounds For Sculpture
+  featured: false
+- id: nj-old-york-billy-garan-jul11
+  title: 'Live Music & Wine: Billy Garan at Old York Cellars'
+  region: nj
+  category: food
+  date: '2026-07-11'
+  start: '13:00'
+  end: '17:00'
+  all_day: false
+  time_note: Vineyard-tent live music
+  venue: Old York Cellars Winery & Vineyard
+  address: 80 Old York Road, Ringoes, NJ 08551
+  town: Ringoes (Hunterdon)
+  lat: 40.436
+  lng: -74.836
+  cost: See listing
+  description: 'Old York Cellars hosts an afternoon of live music in its vineyard tent with high-energy performer Billy Garan, blending comedy and celebrity impressions. Sip Hunterdon County wines with a weekend crowd amid the vines.
+
+    '
+  url: https://www.oldyorkcellars.com/events/category/winery-vineyard/
+  source: https://www.newjerseywines.com/venue/oldyorkcellarswinery/
+  org: Old York Cellars
+  featured: false
+- id: nj-beneduce-group-therapy-jul11
+  title: 'Group Therapy: Live Music & Food Truck at Beneduce Vineyards'
+  region: nj
+  category: food
+  date: '2026-07-11'
+  all_day: false
+  time_note: Weekend outdoor live music; start time not published
+  venue: Beneduce Vineyards
+  address: 1 Jeremiah Lane, Pittstown, NJ 08867
+  town: Pittstown (Hunterdon)
+  lat: 40.5626
+  lng: -74.9686
+  cost: See listing
+  description: 'Beneduce Vineyards'' weekend "Group Therapy" series brings live music from Diamond Eye Jack and the Drea''s Tapas food truck to its outdoor tasting grounds in rural Hunterdon County. Estate-grown wine, food, and music under the open sky.
+
+    '
+  url: https://www.beneducevineyards.com/event-calendar
+  source: https://www.beneducevineyards.com/event-calendar
+  org: Beneduce Vineyards
+  featured: false
+- id: nj-kelsey-little-mermaid-jul11
+  title: Disney's The Little Mermaid — The Yardley Players
+  region: nj
+  category: concert
+  date: '2026-07-11'
+  start: '14:00'
+  all_day: false
+  time_note: Saturday matinee
+  venue: Kelsey Theatre, Mercer County Community College
+  address: 1200 Old Trenton Road, West Windsor, NJ 08550
+  town: West Windsor (Mercer)
+  lat: 40.2789
+  lng: -74.669
+  cost: Ticketed
+  description: 'The Yardley Players stage Disney''s "The Little Mermaid" at MCCC''s Kelsey Theatre across two weekends. A full family musical of Ariel''s undersea story, with tickets in the $24-$26 range.
+
+    '
+  url: https://kelsey.mccc.edu/
+  source: https://www.newjerseystage.com/articles2/2026/07/06/the-yardley-players-present-disneys-the-little-mermaid-at-kelsey-theatre/
+  org: The Yardley Players
+  featured: false
+- id: nj-music-mountain-urinetown-jul11
+  title: Urinetown — Music Mountain Theatre
+  region: nj
+  category: concert
+  date: '2026-07-11'
+  start: '15:00'
+  all_day: false
+  time_note: Saturday performances at 3:00 PM and 7:30 PM
+  venue: Music Mountain Theatre
+  address: 1483 NJ-179, Lambertville, NJ 08530
+  town: Lambertville (Hunterdon)
+  lat: 40.3888
+  lng: -74.9296
+  cost: Ticketed
+  description: 'Music Mountain Theatre opens its run of the Tony Award-winning satirical musical "Urinetown," a sharp, funny send-up of corporate greed and civic revolt. Saturday brings both a 3:00 PM matinee and a 7:30 PM evening show at the Lambertville playhouse.
+
+    '
+  url: https://www.musicmountaintheatre.org/mainstage-schedule-2026
+  source: https://www.showpass.com/urinetown-2/
+  org: Music Mountain Theatre
+  featured: false
+- id: nj-red-tulip-denale-jul11
+  title: Virginia DeNale Jewelry Collection Launch — Red Tulip Gallery
+  region: nj
+  category: other
+  date: '2026-07-11'
+  start: '12:00'
+  end: '16:30'
+  all_day: false
+  time_note: Trunk-show style launch
+  venue: Red Tulip Gallery
+  address: 43 North Union Street, Lambertville, NJ 08530
+  town: Lambertville (Hunterdon)
+  lat: 40.3665
+  lng: -74.947
+  cost: Free
+  description: 'Local jeweler Virginia DeNale debuts her new collection at Lambertville''s artist-run Red Tulip Gallery. Browse handmade jewelry and meet the maker on a stroll through the antiques-and-arts town.
+
+    '
+  url: https://lambpage.com/events
+  source: https://www.lambpage.com/lambertville-events-july-2026/
+  org: Red Tulip Gallery
+  featured: false
+- id: nj-blue-curtain-nanny-assis-jul11
+  title: 'Blue Curtain Concert: Nanny Assis — Afro-Jobim'
+  region: nj
+  category: concert
+  date: '2026-07-11'
+  start: '20:00'
+  all_day: false
+  time_note: First-come, first-served seating; no tickets required
+  venue: Princeton High School Performing Arts Center
+  address: 16 Walnut Lane, Princeton, NJ 08540
+  town: Princeton (Mercer)
+  lat: 40.3556
+  lng: -74.6598
+  cost: Free
+  description: 'The free Blue Curtain summer series opens with Brazilian-American singer, drummer, and percussionist Nanny Assis, whose Afro-Jobim project traces the African roots of bossa nova. An evening of Afro-Brazilian sound and jazz improvisation at the Princeton High School PAC.
+
+    '
+  url: https://www.newjerseystage.com/articles2/2026/06/27/blue-curtain-concert-series-presents-nanny-assis-caleb-eckstein-and-sasha-berliner-in-princeton-throughout-july/
+  source: https://www.newjerseystage.com/articles2/2026/06/27/blue-curtain-concert-series-presents-nanny-assis-caleb-eckstein-and-sasha-berliner-in-princeton-throughout-july/
+  org: Blue Curtain
+  featured: false
+- id: nj-music-mountain-urinetown-jul12
+  title: Urinetown — Music Mountain Theatre
+  region: nj
+  category: concert
+  date: '2026-07-12'
+  start: '15:00'
+  all_day: false
+  time_note: Sunday matinee
+  venue: Music Mountain Theatre
+  address: 1483 NJ-179, Lambertville, NJ 08530
+  town: Lambertville (Hunterdon)
+  lat: 40.3888
+  lng: -74.9296
+  cost: Ticketed
+  description: 'A Sunday matinee of the Tony-winning musical satire "Urinetown" at Music Mountain Theatre in Lambertville. Sharp humor and big ensemble numbers in an intimate community-theater setting.
+
+    '
+  url: https://www.musicmountaintheatre.org/mainstage-schedule-2026
+  source: https://www.showpass.com/urinetown-2/
+  org: Music Mountain Theatre
+  featured: false
+- id: nj-kelsey-little-mermaid-jul12
+  title: Disney's The Little Mermaid — The Yardley Players
+  region: nj
+  category: concert
+  date: '2026-07-12'
+  start: '14:00'
+  all_day: false
+  time_note: Sunday matinee
+  venue: Kelsey Theatre, Mercer County Community College
+  address: 1200 Old Trenton Road, West Windsor, NJ 08550
+  town: West Windsor (Mercer)
+  lat: 40.2789
+  lng: -74.669
+  cost: Ticketed
+  description: 'A Sunday matinee of Disney''s "The Little Mermaid" staged by The Yardley Players at MCCC''s Kelsey Theatre. A family-friendly musical retelling of Ariel''s story with tickets in the $24-$26 range.
+
+    '
+  url: https://kelsey.mccc.edu/
+  source: https://www.newjerseystage.com/articles2/2026/07/06/the-yardley-players-present-disneys-the-little-mermaid-at-kelsey-theatre/
+  org: The Yardley Players
+  featured: false
+- id: nj-old-york-wine-music-jul12
+  title: Wine & Music Weekend at Old York Cellars
+  region: nj
+  category: food
+  date: '2026-07-12'
+  start: '13:00'
+  end: '17:00'
+  all_day: false
+  time_note: Sunday afternoon live music; performer not published for this date
+  venue: Old York Cellars Winery & Vineyard
+  address: 80 Old York Road, Ringoes, NJ 08551
+  town: Ringoes (Hunterdon)
+  lat: 40.436
+  lng: -74.836
+  cost: See listing
+  description: 'Old York Cellars continues its weekend live-music programming with Sunday-afternoon tunes in the vineyard, part of its ongoing Wine & Music Weekends. Wine flights and light bites amid the Hunterdon rows.
+
+    '
+  url: https://www.oldyorkcellars.com/events/category/winery-vineyard/
+  source: https://allevents.in/ringoes/wine-and-music-weekends-at-old-york-cellars-winery/80001587366141
+  org: Old York Cellars
+  featured: false
+- id: nj-adriana-groza-opening-jul12
+  title: 'Art Opening: Constantin Nazarie Stone Sculpture — Adriana Groza Art'
+  region: nj
+  category: exhibit
+  date: '2026-07-12'
+  start: '17:00'
+  all_day: false
+  time_note: Opening reception
+  venue: Adriana Groza Art Gallery
+  address: 38 Spring Street, Princeton, NJ 08542
+  town: Princeton (Mercer)
+  lat: 40.3512
+  lng: -74.66
+  cost: Free
+  description: 'An opening reception at this downtown Princeton gallery for a sculpture exhibition featuring the stone works of Constantin Nazarie. Meet the gallerist and view the new show just off Palmer Square.
+
+    '
+  url: https://princetonol.com/events/2026-07-12/
+  source: https://princetonol.com/events/2026-07-12/
+  org: Adriana Groza Art
+  featured: false
+- id: nj-disney-singalong-jay-daniels-jul13
+  title: Disney Sing-along with Jay Daniels
+  region: nj
+  category: family
+  date: '2026-07-13'
+  start: '10:30'
+  all_day: false
+  time_note: Outdoors; moves indoors in bad weather
+  venue: Mercer County Library — West Windsor Branch
+  address: 333 North Post Road, Princeton Junction, NJ 08550
+  town: West Windsor (Mercer)
+  lat: 40.317
+  lng: -74.618
+  cost: Free
+  description: 'An all-ages outdoor sing-along of Disney classics led by performer Jay Daniels at the West Windsor library branch. Free and drop-in, hosted by the Friends of the West Windsor Library.
+
+    '
+  url: https://princetonol.com/events/2026-07-13/
+  source: https://princetonol.com/events/2026-07-13/
+  org: Mercer County Library System
+  featured: false
+- id: nj-kids-paint-masters-jul13
+  title: Kids Paint Like the Masters
+  region: nj
+  category: family
+  date: '2026-07-13'
+  start: '14:00'
+  end: '15:00'
+  all_day: false
+  time_note: Children's art program
+  venue: Mercer County Library — Hopewell Branch
+  address: 245 Pennington-Titusville Road, Pennington, NJ 08534
+  town: Pennington (Mercer)
+  lat: 40.3245
+  lng: -74.8175
+  cost: Free
+  description: 'A hands-on children''s art hour at the Hopewell library branch where kids create work inspired by famous painters. Free family programming in the Hopewell Valley.
+
+    '
+  url: https://www.mercerme.com/events/
+  source: https://www.mercerme.com/events/
+  org: Mercer County Library System
+  featured: false
+- id: nj-ppl-code-the-wild-jul13
+  title: Code the Wild — Teen Coding Series
+  region: nj
+  category: family
+  date: '2026-07-13'
+  start: '14:00'
+  all_day: false
+  time_note: Program for teens
+  venue: Princeton Public Library
+  address: 65 Witherspoon Street, Princeton, NJ 08542
+  town: Princeton (Mercer)
+  lat: 40.3506
+  lng: -74.6591
+  cost: Free
+  description: 'A drop-in coding session for teens at the Princeton Public Library, part of its summer Code the Wild series. Free and open to young programmers.
+
+    '
+  url: https://princetonlibrary.org/events/
+  source: https://princetonlibrary.org/events/
+  org: Princeton Public Library
+  featured: false
+- id: nj-watershed-preschool-nature-jul14
+  title: 'Preschool Nature Class: Beneath Our Feet'
+  region: nj
+  category: family
+  date: '2026-07-14'
+  start: '10:00'
+  end: '11:30'
+  all_day: false
+  time_note: Preschool-age nature program
+  venue: The Watershed Institute
+  address: 31 Titus Mill Road, Pennington, NJ 08534
+  town: Pennington (Mercer)
+  lat: 40.3389
+  lng: -74.769
+  cost: Ticketed
+  description: 'A morning nature class for preschoolers at The Watershed Institute exploring the underground world beneath our feet through stories, crafts, and outdoor discovery. Registration required.
+
+    '
+  url: https://princetonol.com/events/2026-07-14/
+  source: https://princetonol.com/events/2026-07-14/
+  org: The Watershed Institute
+  featured: false
+- id: nj-hopewell-colonial-craft-jul14
+  title: 'Unearthing America''s Past: 250th Colonial Craft'
+  region: nj
+  category: family
+  date: '2026-07-14'
+  start: '16:00'
+  end: '17:00'
+  all_day: false
+  time_note: America 250 family craft program
+  venue: Hopewell Train Station
+  address: Railroad Place, Hopewell, NJ 08525
+  town: Hopewell (Mercer)
+  lat: 40.3893
+  lng: -74.7618
+  cost: Free
+  description: 'A family drop-in colonial craft program at the historic Hopewell Train Station, tied to America''s 250th anniversary. Kids make a hands-on keepsake while learning about life in the founding era.
+
+    '
+  url: https://www.mercerme.com/events/
+  source: https://www.mercerme.com/events/
+  org: Hopewell Valley Historical Society / Mercer County Library
+  featured: false
+- id: nj-morven-twilight-garden-tour-jul14
+  title: July Twilight Garden Tour at Morven
+  region: nj
+  category: tour
+  date: '2026-07-14'
+  start: '17:30'
+  all_day: false
+  time_note: Pre-registration required; limited to 25
+  venue: Morven Museum & Garden
+  address: 55 Stockton Street, Princeton, NJ 08540
+  town: Princeton (Mercer)
+  lat: 40.354
+  lng: -74.664
+  cost: Ticketed
+  description: 'A relaxing evening stroll through the gardens of Morven, former governor''s mansion and home of a Declaration signer, led by one of the museum''s horticulturalists. The tour ends with light refreshments on the Pool House porch; registration is limited to 25.
+
+    '
+  url: https://www.morven.org/upcoming/twilightgardentoursjuly
+  source: https://www.morven.org/upcoming/twilightgardentoursjuly
+  org: Morven Museum & Garden
+  featured: false
+- id: nj-pop-up-choir-princeton-jul14
+  title: Pop-Up Choir Princeton
+  region: nj
+  category: concert
+  date: '2026-07-14'
+  start: '19:00'
+  end: '20:00'
+  all_day: false
+  time_note: No auditions; all-ages community sing
+  venue: Arts Council of Princeton
+  address: 102 Witherspoon Street, Princeton, NJ 08542
+  town: Princeton (Mercer)
+  lat: 40.3524
+  lng: -74.6606
+  cost: See listing
+  description: 'An all-ages community singing session at the Arts Council of Princeton where anyone can join in and learn a song together, no audition or experience needed. Pure low-pressure musical fun.
+
+    '
+  url: https://princetonol.com/events/2026-07-14/
+  source: https://princetonol.com/events/2026-07-14/
+  org: Arts Council of Princeton
+  featured: false
+- id: nj-sopercussion-free-concert-jul14
+  title: 'So Percussion Summer Institute: Free Concert with Enrico Pace'
+  region: nj
+  category: concert
+  date: '2026-07-14'
+  start: '19:00'
+  all_day: false
+  time_note: Part of the So Percussion Summer Institute
+  venue: Princeton United Methodist Church
+  address: Nassau Street at Vandeventer Avenue, Princeton, NJ 08542
+  town: Princeton (Mercer)
+  lat: 40.3505
+  lng: -74.6555
+  cost: Free
+  description: 'A free evening concert presented with Legacy Arts International, featuring Italian pianist Enrico Pace, tied to So Percussion''s summer residency in Princeton. An intimate performance in a downtown sanctuary.
+
+    '
+  url: https://princetonol.com/events/2026-07-14/
+  source: https://princetonol.com/events/2026-07-14/
+  org: Legacy Arts International / So Percussion
+  featured: false
+- id: nj-battle-of-trenton-miniature-jul15
+  title: The Battle of Trenton in Miniature
+  region: nj
+  category: reenactment
+  date: '2026-07-15'
+  start: '17:00'
+  end: '20:00'
+  all_day: false
+  time_note: Tabletop miniatures program
+  venue: Mercer County Library — Hopewell Branch
+  address: 245 Pennington-Titusville Road, Pennington, NJ 08534
+  town: Pennington (Mercer)
+  lat: 40.3245
+  lng: -74.8175
+  cost: Free
+  description: 'A miniature-wargaming recreation of the pivotal 1776 Battle of Trenton, staged with painted figures and terrain at the Hopewell library branch. An engaging, hands-on way to understand Washington''s Christmas victory during America''s 250th year.
+
+    '
+  url: https://hunterdoncountyalive.com/events/
+  source: https://250.mercercountynj.gov/events/
+  org: Mercer County Library System
+  featured: false
+- id: nj-african-americans-rev-era-jul15
+  title: African Americans During the Revolutionary Era
+  region: nj
+  category: other
+  date: '2026-07-15'
+  start: '18:30'
+  end: '20:30'
+  all_day: false
+  time_note: Lecture by Dr. Lindsey Swindall; start time listed as 6:30 PM (some sources 7:00 PM)
+  venue: Hopewell Presbyterian Church
+  address: 80 West Broad Street, Hopewell, NJ 08525
+  town: Hopewell (Mercer)
+  lat: 40.3893
+  lng: -74.764
+  cost: Free
+  description: 'Historian Dr. Lindsey Swindall delivers a talk on the experiences and contributions of African Americans during the American Revolution, hosted by the Hopewell Valley Historical Society. A free America 250 lecture in historic Hopewell Borough.
+
+    '
+  url: https://princetonol.com/events/2026-07-15/
+  source: https://princetonol.com/events/2026-07-15/
+  org: Hopewell Valley Historical Society
+  featured: false
+- id: nj-morven-evening-yoga-jul15
+  title: Evening Yoga in the Gardens at Morven
+  region: nj
+  category: other
+  date: '2026-07-15'
+  start: '18:00'
+  end: '19:00'
+  all_day: false
+  time_note: Donation-based weekly class
+  venue: Morven Museum & Garden
+  address: 55 Stockton Street, Princeton, NJ 08540
+  town: Princeton (Mercer)
+  lat: 40.354
+  lng: -74.664
+  cost: See listing
+  description: 'A donation-based, all-levels outdoor Vinyasa class with Gratitude Yoga set in the gardens of Morven. Bring a mat and unwind in the greenery of a historic estate; the class runs weekly through the summer.
+
+    '
+  url: https://princetonol.com/events/2026-07-15/
+  source: https://princetonol.com/events/2026-07-15/
+  org: Gratitude Yoga / Morven Museum & Garden
+  featured: false
+- id: nj-mercer-has-talent-open-mic-jul15
+  title: 'Mercer Has Talent: Open Mic Night'
+  region: nj
+  category: concert
+  date: '2026-07-15'
+  start: '19:30'
+  end: '21:30'
+  all_day: false
+  time_note: Community open mic
+  venue: Mercer Dance Ensemble
+  address: 1200 Old Trenton Road, West Windsor, NJ 08550
+  town: West Windsor (Mercer)
+  lat: 40.2789
+  lng: -74.669
+  cost: Free
+  description: 'A free community open-mic night at Mercer Dance Ensemble welcoming singers, musicians, poets, and other performers to the stage. All talents and audiences welcome.
+
+    '
+  url: https://princetonol.com/events/2026-07-15/
+  source: https://princetonol.com/events/2026-07-15/
+  org: Mercer Dance Ensemble
+  featured: false
+- id: nj-jersey-art-meetup-jul15
+  title: Jersey Art Meetup (JAM)
+  region: nj
+  category: other
+  date: '2026-07-15'
+  start: '19:00'
+  end: '21:00'
+  all_day: false
+  time_note: Weekly open art workshop
+  venue: Arts Council of Princeton (Princeton Comic Makers)
+  address: 102 Witherspoon Street, Princeton, NJ 08542
+  town: Princeton (Mercer)
+  lat: 40.3524
+  lng: -74.6606
+  cost: See listing
+  description: 'A weekly open studio and social workshop for artists of all kinds hosted by Princeton Comic Makers and the Arts Council of Princeton. Bring your sketchbook and connect with fellow creatives.
+
+    '
+  url: https://princetonol.com/events/2026-07-15/
+  source: https://princetonol.com/events/2026-07-15/
+  org: Princeton Comic Makers / Arts Council of Princeton
+  featured: false
+- id: nj-mitchells-irish-session-jul15
+  title: Mitchell's Irish Session
+  region: nj
+  category: concert
+  date: '2026-07-15'
+  start: '20:00'
+  all_day: false
+  time_note: Weekly traditional Irish music session
+  venue: Mitchell's Cafe
+  address: 11 1/2 Church Street, Lambertville, NJ 08530
+  town: Lambertville (Hunterdon)
+  lat: 40.366
+  lng: -74.9455
+  cost: Free
+  description: 'A weekly traditional Irish music session at Mitchell''s Cafe in Lambertville, where local musicians gather to play jigs, reels, and tunes. Pull up a chair for an authentic pub-session evening.
+
+    '
+  url: https://lambpage.com/events
+  source: https://www.lambpage.com/lambertville-events-july-2026/
+  org: Mitchell's Cafe
+  featured: false
+- id: phl-megan-moroney-cloud9-jul11
+  title: 'Megan Moroney: The Cloud 9 Tour'
+  region: philadelphia
+  category: concert
+  date: '2026-07-11'
+  start: '19:00'
+  all_day: false
+  time_note: Doors 6:00 PM; show 7:00 PM.
+  venue: Xfinity Mobile Arena
+  address: 3601 S Broad St, Philadelphia, PA 19148
+  town: South Philadelphia (Sports Complex)
+  lat: 39.9012
+  lng: -75.172
+  cost: Ticketed
+  description: 'Country star Megan Moroney brings The Cloud 9 Tour to Philadelphia''s South Philly arena the same weekend the city hosts MLB All-Star festivities. A big-room arena show for fans of her breakout country-pop.
+
+    '
+  url: https://www.ticketmaster.com/megan-moroney-the-cloud-9-tour-philadelphia-pennsylvania-07-11-2026/event/30006383A33A5AD9
+  source: https://www.xfinitymobilearena.com/events/detail/megan-moroney
+  org: Xfinity Mobile Arena
+  featured: false
+- id: phl-tame-impala-deadbeat-jul15
+  title: 'Tame Impala: The Deadbeat Tour (with Djo)'
+  region: philadelphia
+  category: concert
+  date: '2026-07-15'
+  start: '19:00'
+  all_day: false
+  time_note: Support from Djo.
+  venue: Xfinity Mobile Arena
+  address: 3601 S Broad St, Philadelphia, PA 19148
+  town: South Philadelphia (Sports Complex)
+  lat: 39.9012
+  lng: -75.172
+  cost: Ticketed
+  description: 'Kevin Parker''s psych-pop juggernaut Tame Impala headlines the South Philly arena on The Deadbeat Tour, with Djo (Joe Keery) opening. A marquee mid-week arena concert closing out All-Star week in Philadelphia.
+
+    '
+  url: https://www.ticketmaster.com/tame-impala-the-deadbeat-tour-philadelphia-pennsylvania-07-15-2026/event/30006435C1037205
+  source: https://www.xfinitymobilearena.com/events/detail/tame-impala
+  org: Xfinity Mobile Arena
+  featured: false
+- id: phl-netflix-derby-truck-rittenhouse-jul12
+  title: Netflix Home Run Derby Truck at Rittenhouse Square
+  region: philadelphia
+  category: family
+  date: '2026-07-12'
+  start: '11:00'
+  end: '15:00'
+  all_day: false
+  time_note: Rittenhouse Square 11 AM-3 PM; the truck also stops at 5th & Spring Garden 6-8 PM the same evening. Free ice cream and Home Run Derby T-shirt giveaways while supplies last.
+  venue: Rittenhouse Square
+  address: Walnut St & 18th St, Philadelphia, PA 19103
+  town: Rittenhouse, Center City, Philadelphia
+  lat: 39.9496
+  lng: -75.1719
+  cost: Free
+  description: 'Netflix''s Home Run Derby promo truck rolls into Rittenhouse Square during All-Star week, handing out free ice cream in commemorative baseball helmets and Home Run Derby chain T-shirts. A free, family-friendly street activation ahead of the Netflix-streamed Derby.
+
+    '
+  url: https://www.phillymag.com/things-to-do/2026/07/09/mlb-all-star-game-philadelphia-2026/
+  source: https://www.phillymag.com/things-to-do/2026/07/09/mlb-all-star-game-philadelphia-2026/
+  org: Netflix / MLB All-Star Week
+  featured: false
+- id: phl-netflix-derby-truck-dilworth-jul13
+  title: Netflix Home Run Derby Truck at Dilworth Park
+  region: philadelphia
+  category: family
+  date: '2026-07-13'
+  start: '11:00'
+  end: '20:00'
+  all_day: false
+  time_note: Free ice cream in Netflix baseball helmets and Home Run Derby T-shirt giveaways, while supplies last. Same day as the T-Mobile Home Run Derby at Citizens Bank Park.
+  venue: Dilworth Park
+  address: 1 S 15th St, Philadelphia, PA 19102
+  town: Center City, Philadelphia
+  lat: 39.953
+  lng: -75.1646
+  cost: Free
+  description: 'On Home Run Derby day, Netflix''s promo truck sets up at Dilworth Park beside City Hall from late morning into the evening, giving away ice cream in collectible helmets and Derby chain T-shirts. A free downtown fan stop before the Derby streams live that night.
+
+    '
+  url: https://www.phillymag.com/things-to-do/2026/07/09/mlb-all-star-game-philadelphia-2026/
+  source: https://www.phillymag.com/things-to-do/2026/07/09/mlb-all-star-game-philadelphia-2026/
+  org: Netflix / MLB All-Star Week
+  featured: false
+- id: phl-mitchell-ness-allstar-activation-jul12
+  title: Mitchell & Ness All-Star Week Activations
+  region: philadelphia
+  category: other
+  date: '2026-07-12'
+  start: '11:00'
+  all_day: false
+  time_note: Free activations run July 12-14 at the Walnut Street flagship; exact daily hours vary. Complimentary Milk Jawn ice cream in commemorative helmets, a Topps live break, and a Victus bat vault.
+  venue: Mitchell & Ness Flagship Store
+  address: 1201 Chestnut St area / Walnut Street, Center City, Philadelphia, PA
+  town: Center City, Philadelphia
+  lat: 39.95
+  lng: -75.162
+  cost: Free
+  description: 'Philadelphia-founded Mitchell & Ness turns its Center City flagship into a free All-Star fan hub for several days, with complimentary Milk Jawn ice cream in commemorative helmets, a live Topps card break, and a Victus bat vault. Drop-in retail activation open to the public.
+
+    '
+  url: https://www.phillymag.com/things-to-do/2026/07/09/mlb-all-star-game-philadelphia-2026/
+  source: https://www.phillymag.com/things-to-do/2026/07/09/mlb-all-star-game-philadelphia-2026/
+  org: Mitchell & Ness / MLB All-Star Week
+  featured: false
+- id: nj-boat-build-highland-park-jul11
+  title: An America's 250th Celebration Community Boat Build
+  region: nj
+  category: family
+  date: '2026-07-11'
+  start: '09:00'
+  end: '11:00'
+  all_day: false
+  time_note: ''
+  venue: Lower Raritan Watershed Partnership Boat House
+  address: Johnson Park, Highland Park, NJ 08904
+  town: Highland Park (Middlesex)
+  lat: 40.494
+  lng: -74.428
+  cost: See listing
+  description: 'A community boat-building session on the Raritan River hosted by the Lower Raritan Watershed Partnership, tied to America''s 250th anniversary. A hands-on, family-friendly morning program on the Highland Park riverfront.
+
+    '
+  url: https://middlesexcountyculture.com/event/
+  source: https://middlesexcountyculture.com/event/
+  org: Lower Raritan Watershed Partnership
+  featured: false
+- id: nj-art-in-the-park-carteret-jul11
+  title: Art in the Park 2026
+  region: nj
+  category: festival
+  date: '2026-07-11'
+  start: '14:00'
+  end: '16:00'
+  all_day: false
+  time_note: ''
+  venue: Blazing Star Cultural Arts Center
+  address: Carteret, NJ 07008
+  town: Carteret (Middlesex)
+  lat: 40.586
+  lng: -74.228
+  cost: See listing
+  description: 'An outdoor arts afternoon presented by the Blazing Star Cultural Arts Center in Carteret. A community arts-in-the-park program along the borough''s waterfront cultural district.
+
+    '
+  url: https://middlesexcountyculture.com/event/
+  source: https://middlesexcountyculture.com/event/
+  org: Blazing Star Cultural Arts Center
+  featured: false
+- id: nj-earth-center-natures-palette-jul11
+  title: 'EARTH Center Children''s Garden: Nature''s Palette'
+  region: nj
+  category: family
+  date: '2026-07-11'
+  start: '09:30'
+  all_day: false
+  time_note: ''
+  venue: Rutgers Cooperative Extension EARTH Center, Davidson's Mill Pond Park
+  address: 42 Riva Ave, North Brunswick, NJ 08902
+  town: North Brunswick (Middlesex)
+  lat: 40.437
+  lng: -74.47
+  cost: See listing
+  description: 'A children''s garden program at the Rutgers Cooperative Extension EARTH Center in Davidson''s Mill Pond Park, exploring color and nature ("Nature''s Palette"). A hands-on outdoor learning event for kids and families.
+
+    '
+  url: https://middlesexcountyculture.com/event/
+  source: https://middlesexcountyculture.com/event/
+  org: Rutgers Cooperative Extension of Middlesex County
+  featured: false
+- id: nj-sbpl-family-fun-festival-cranbury-jul11
+  title: SBPL's Family Fun Festival
+  region: nj
+  category: festival
+  date: '2026-07-11'
+  start: '11:00'
+  end: '14:00'
+  all_day: false
+  time_note: ''
+  venue: Rowland Park
+  address: Maplewood Ave, Cranbury, NJ 08512
+  town: Cranbury (Middlesex)
+  lat: 40.316
+  lng: -74.513
+  cost: See listing
+  description: 'A family festival in Cranbury''s Rowland Park presented by the South Brunswick Public Library, with activities geared to kids and families. An outdoor community day in one of Middlesex County''s historic small towns.
+
+    '
+  url: https://middlesexcountyculture.com/event/
+  source: https://middlesexcountyculture.com/event/
+  org: South Brunswick Public Library
+  featured: false
+- id: nj-natya-darpan-new-brunswick-jul11
+  title: Natya Darpan 2026
+  region: nj
+  category: festival
+  date: '2026-07-11'
+  start: '11:30'
+  end: '18:30'
+  all_day: false
+  time_note: ''
+  venue: New Brunswick Performing Arts Center
+  address: 11 Livingston Ave, New Brunswick, NJ 08901
+  town: New Brunswick (Middlesex)
+  lat: 40.494
+  lng: -74.446
+  cost: Ticketed
+  description: 'A day-long Indian classical dance festival at the New Brunswick Performing Arts Center showcasing performers and choreography across traditional dance forms. A full afternoon-into-evening celebration of South Asian performing arts.
+
+    '
+  url: https://middlesexcountyculture.com/event/
+  source: https://middlesexcountyculture.com/event/
+  org: Natya Darpan
+  featured: false
+- id: nj-tour-of-europe-music-monmouth-jct-jul11
+  title: A Tour of Europe through Music
+  region: nj
+  category: concert
+  date: '2026-07-11'
+  start: '14:00'
+  end: '16:00'
+  all_day: false
+  time_note: ''
+  venue: South Brunswick Public Library
+  address: 110 Kingston Ln, Monmouth Junction, NJ 08852
+  town: Monmouth Junction / South Brunswick (Middlesex)
+  lat: 40.379
+  lng: -74.535
+  cost: Free
+  description: 'A live music program at the South Brunswick Public Library taking listeners on a musical journey across Europe. A free afternoon concert-style library event open to the community.
+
+    '
+  url: https://middlesexcountyculture.com/event/
+  source: https://middlesexcountyculture.com/event/
+  org: South Brunswick Public Library
+  featured: false
+- id: nj-art-city-open-studio-new-brunswick-jul12
+  title: Art City Open Studio & Exhibition
+  region: nj
+  category: exhibit
+  date: '2026-07-12'
+  start: '12:00'
+  end: '16:00'
+  all_day: false
+  time_note: ''
+  venue: coLAB Arts Studios
+  address: New Brunswick, NJ 08901
+  town: New Brunswick (Middlesex)
+  lat: 40.496
+  lng: -74.445
+  cost: Free
+  description: 'An open-studio afternoon and exhibition at coLAB Arts in New Brunswick, where visitors can meet artists and view work on display. A free drop-in look inside the city''s working art studios.
+
+    '
+  url: https://middlesexcountyculture.com/event/
+  source: https://middlesexcountyculture.com/event/
+  org: coLAB Arts
+  featured: false
+- id: nj-blawenburg-band-american-music-jul12
+  title: '250 Years of American Music: The Blawenburg Band'
+  region: nj
+  category: concert
+  date: '2026-07-12'
+  start: '15:00'
+  end: '16:00'
+  all_day: false
+  time_note: Venue listed as the public library in Monmouth Junction (South Brunswick).
+  venue: South Brunswick Public Library
+  address: 110 Kingston Ln, Monmouth Junction, NJ 08852
+  town: Monmouth Junction / South Brunswick (Middlesex)
+  lat: 40.379
+  lng: -74.535
+  cost: Free
+  description: 'The Blawenburg Band, one of New Jersey''s oldest community bands, performs a program tracing 250 years of American music for the nation''s semiquincentennial. A free America 250 concert at the library.
+
+    '
+  url: https://middlesexcountyculture.com/event/
+  source: https://middlesexcountyculture.com/event/
+  org: Blawenburg Band
+  featured: false
+- id: nj-liberty-madness-piscataway-jul12
+  title: 'Thinkery and Verse Presents: Liberty Madness'
+  region: nj
+  category: other
+  date: '2026-07-12'
+  start: '10:30'
+  end: '12:00'
+  all_day: false
+  time_note: 'Two performances: 10:30 AM-12:00 PM and 2:00 PM-3:30 PM.'
+  venue: East Jersey Old Town Village
+  address: 1050 River Rd, Piscataway, NJ 08854
+  town: Piscataway (Middlesex)
+  lat: 40.503
+  lng: -74.438
+  cost: See listing
+  description: 'An interactive theatrical experience by Thinkery and Verse staged among the historic buildings of East Jersey Old Town Village, blending Revolutionary-era history with live performance for America''s 250th. Two showtimes on Sunday.
+
+    '
+  url: https://middlesexcountyculture.com/event/
+  source: https://middlesexcountyculture.com/event/
+  org: Thinkery and Verse
+  featured: false
+- id: nj-piscataway-collage-creations-jul13
+  title: 'Art Around the World: Collage Creations'
+  region: nj
+  category: family
+  date: '2026-07-13'
+  start: '10:30'
+  end: '12:00'
+  all_day: false
+  time_note: ''
+  venue: Piscataway Public Library
+  address: 500 Hoes Ln, Piscataway, NJ 08854
+  town: Piscataway (Middlesex)
+  lat: 40.545
+  lng: -74.462
+  cost: Free
+  description: 'A kids'' art workshop at the Piscataway Public Library exploring collage as part of the library''s "Art Around the World" summer series. A free hands-on family program.
+
+    '
+  url: https://middlesexcountyculture.com/event/
+  source: https://middlesexcountyculture.com/event/
+  org: Piscataway Public Library
+  featured: false
+- id: nj-piscataway-graffiti-art-jul14
+  title: 'Art Around the World: Graffiti Art'
+  region: nj
+  category: family
+  date: '2026-07-14'
+  start: '14:00'
+  all_day: false
+  time_note: ''
+  venue: Piscataway Public Library
+  address: 500 Hoes Ln, Piscataway, NJ 08854
+  town: Piscataway (Middlesex)
+  lat: 40.545
+  lng: -74.462
+  cost: Free
+  description: 'A free afternoon kids'' workshop at the Piscataway Public Library exploring graffiti and street-art styles, part of the "Art Around the World" summer series. Family-friendly, drop-in creativity.
+
+    '
+  url: https://middlesexcountyculture.com/event/
+  source: https://middlesexcountyculture.com/event/
+  org: Piscataway Public Library
+  featured: false
+- id: nj-1776-plays-in-park-jul15
+  title: 1776 - Plays-in-the-Park
+  region: nj
+  category: other
+  date: '2026-07-15'
+  start: '20:00'
+  all_day: false
+  time_note: Part of the July 8-18 run (no Sunday performances); ticket booth opens 5:30 PM, curtain 8:00 PM.
+  venue: Stephen J. Capestro Theatre, Roosevelt Park
+  address: 1 Pine Dr, Edison, NJ 08837
+  town: Edison (Middlesex)
+  lat: 40.508
+  lng: -74.336
+  cost: Ticketed
+  description: 'Middlesex County''s Plays-in-the-Park stages the Tony-winning musical 1776, dramatizing the Continental Congress''s fraught debate over independence in the summer of 1776 - especially resonant during America''s 250th. Outdoor amphitheater performance under the stars.
+
+    '
+  url: https://www.newjerseystage.com/articles2/2026/05/14/middlesex-countys-plays-in-the-park-to-present-all-shook-up-1776-and-guys-and-dolls-this-summer/
+  source: https://www.middlesexcountynj.gov/Home/Components/News/News/1970/148
+  org: Middlesex County Plays-in-the-Park
+  featured: false
+- id: nj-rvcc-planetarium-jul15
+  title: 'Planetarium Shows at RVCC: Cosmic Questions & K-Pop Laser Concert'
+  region: nj
+  category: family
+  date: '2026-07-15'
+  start: '14:30'
+  all_day: false
+  time_note: Cosmic Questions (ages 6+) at 2:30 PM; K-Pop Laser Concert at 3:30 PM. $11 per person for one show, $20 for two back-to-back.
+  venue: RVCC Planetarium, Raritan Valley Community College
+  address: 118 Lamington Rd, Branchburg, NJ 08876
+  town: Branchburg (Somerset)
+  lat: 40.577
+  lng: -74.702
+  cost: $11
+  description: 'The Raritan Valley Community College Planetarium runs afternoon shows on Wednesday: "Cosmic Questions," tackling black holes, aliens and the multiverse, followed by a K-Pop Laser Concert with music from K-Pop Demon Hunters, BTS and Stray Kids. Fun for families and teens.
+
+    '
+  url: https://www.raritanval.edu/planetarium/public-shows
+  source: https://www.raritanval.edu/planetarium/public-shows
+  org: RVCC Planetarium
+  featured: false
+- id: nj-thompson-park-st-peters-brass-jul15
+  title: 'Thompson Park Summer Concert: St. Peter''s Brass (Patriotic to Broadway)'
+  region: nj
+  category: concert
+  date: '2026-07-15'
+  start: '14:00'
+  end: '15:30'
+  all_day: false
+  time_note: Bring a lawn chair. Part of Middlesex County's Wednesday-afternoon summer concert series.
+  venue: Thompson Park
+  address: 1 Perrineville Rd, Monroe Township, NJ 08831
+  town: Monroe Township (Middlesex)
+  lat: 40.313
+  lng: -74.428
+  cost: Free
+  description: 'St. Peter''s Brass performs "Patriotic to Broadway" at Thompson Park as part of Middlesex County''s free Wednesday-afternoon summer concert series. Bring a blanket or lawn chair for an afternoon of brass-band favorites.
+
+    '
+  url: https://middlesexcountyculture.com/event/2026-summer-concert-series-at-thompson-park/
+  source: https://middlesexcountyculture.com/event/2026-summer-concert-series-at-thompson-park/
+  org: Middlesex County Office of Parks and Recreation
+  featured: false
+- id: nj-raritan-bay-waterfront-concert-jul15
+  title: Raritan Bay Waterfront Park Summer Concert
+  region: nj
+  category: concert
+  date: '2026-07-15'
+  start: '18:30'
+  all_day: false
+  time_note: 'Weekly Wednesday-evening concert; performer not specified in listing. Rain location: South Amboy Middle/High School Auditorium.'
+  venue: Raritan Bay Waterfront Park
+  address: Raritan Bay Waterfront Park, South Amboy, NJ 08879
+  town: South Amboy (Middlesex)
+  lat: 40.484
+  lng: -74.278
+  cost: Free
+  description: 'Middlesex County''s free Music-in-the-Park series brings a Wednesday-evening concert to the bayfront lawn at Raritan Bay Waterfront Park in South Amboy. Bring lawn chairs and a non-perishable food donation for local food banks.
+
+    '
+  url: https://middlesexcountyculture.com/event/raritan-bay-waterfront-parks-summer-concert-series/
+  source: https://middlesexcountyculture.com/event/raritan-bay-waterfront-parks-summer-concert-series/
+  org: Middlesex County Office of Parks and Recreation
+  featured: false
+- id: nj-spring-lake-childrens-rockness-jul15
+  title: 'Music-in-the-Park Children''s Series: Rockness Music'
+  region: nj
+  category: family
+  date: '2026-07-15'
+  all_day: false
+  time_note: Wednesday children's summer series at the Spring Lake Park gazebo; start time not specified in listing.
+  venue: Spring Lake Park Gazebo
+  address: Spring Lake Park, South Plainfield, NJ 07080
+  town: South Plainfield (Middlesex)
+  lat: 40.573
+  lng: -74.415
+  cost: Free
+  description: 'Rockness Music leads a family-friendly, interactive kids'' concert at the Spring Lake Park gazebo as part of Middlesex County''s children''s summer series. Free; bring lawn chairs or a blanket and a non-perishable food donation.
+
+    '
+  url: https://www.njfamily.com/events/music-in-the-park-childrens-summer-series-spring-lake-park/2026-07-15/
+  source: https://middlesexcountyculture.com/event/
+  org: Middlesex County Office of Parks and Recreation
+  featured: false
+- id: nj-piscataway-lippan-art-jul15
+  title: 'Art Around the World: Lippan Art'
+  region: nj
+  category: family
+  date: '2026-07-15'
+  start: '14:00'
+  all_day: false
+  time_note: ''
+  venue: Westergard Library (Piscataway Public Library)
+  address: 20 Murray Ave, Piscataway, NJ 08854
+  town: Piscataway (Middlesex)
+  lat: 40.577
+  lng: -74.475
+  cost: Free
+  description: 'A free kids'' workshop at the Westergard branch of the Piscataway Public Library exploring Lippan (Indian mud-and-mirror) folk art, part of the "Art Around the World" summer series. Hands-on and family-friendly.
+
+    '
+  url: https://middlesexcountyculture.com/event/
+  source: https://middlesexcountyculture.com/event/
+  org: Piscataway Public Library
+  featured: false
