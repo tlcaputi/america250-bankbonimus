@@ -3696,30 +3696,28 @@
   source: https://events.dcnr.pa.gov/washington_crossing_historic_park_628/calendar
   org: Washington Crossing Historic Park (PA DCNR)
   featured: false
-- id: bucks-shadybrook-eras-jul10
-  title: 'Summer unWINEd Concert: Eras Tribute Night — Shady Brook Farm'
+- id: bucks-shadybrook-seven-jul10
+  title: 'Summer unWINEd Concert: The Seven Band — Shady Brook Farm'
   region: bucks
   category: concert
   date: '2026-07-10'
-  start: '17:30'
+  start: '18:30'
   end: '22:00'
   all_day: false
-  time_note: Friday July 10 & Saturday July 11; Sat is themed Eras Tribute Night. Concert ticket required.
+  time_note: The Seven Band (pop/rock/dance). Gates 5:30 PM, music 6:30–10 PM. $10 online / $15 gate.
   venue: Shady Brook Farm
   address: 931 Stony Hill Rd, Yardley, PA 19067
   town: Yardley (Lower Makefield Twp)
   lat: 40.245
   lng: -74.877
-  cost: Ticketed
-  description: 'Shady Brook Farm''s Summer unWINEd concert series continues the weekend of July 10–11
+  cost: $10 online / $15 gate
+  description: 'Shady Brook Farm''s Summer unWINEd Friday concert: The Seven Band plays pop, rock and
 
-    with live music, wine and beer garden, food, and lawn seating overlooking the fields.
+    dance, with a wine and beer garden, food, and lawn seating overlooking the fields.
 
-    Saturday, July 11 is a themed "Eras" tribute night. Gates around 5:30pm; concert
+    Gates 5:30 PM, music 6:30–10 PM; concert ticket or season pass required. Family-friendly
 
-    tickets required (season pass also valid). Family-friendly with pick-your-own access
-
-    earlier in the day.
+    with pick-your-own access earlier in the day.
 
     '
   url: https://shadybrookfarm.com/pages/summer-unwined-concerts
@@ -9375,4 +9373,70 @@
   url: "https://princetonol.com/events/2026-07-12/"
   source: "https://princetonol.com/events/2026-07-12/"
   org: "Downtown Princeton"
+  featured: false
+
+- id: bucks-shadybrook-eras-jul11
+  title: "Summer unWINEd: Eras Tribute Night — Shady Brook Farm"
+  region: bucks
+  category: concert
+  date: "2026-07-11"
+  start: "18:30"
+  end: "22:00"
+  all_day: false
+  time_note: "Themed Saturday special. Gates 5 PM, music 6:30–10 PM. $20 online / $25 gate."
+  venue: "Shady Brook Farm"
+  address: "931 Stony Hill Rd, Yardley, PA 19067"
+  town: "Yardley (Lower Makefield Twp)"
+  lat: 40.245
+  lng: -74.877
+  cost: "$20 online / $25 gate"
+  description: |
+    Shady Brook Farm's marquee Summer unWINEd themed Saturday: a high-energy **Eras Tribute** concert with dazzling costumes, big vocals and nonstop audience participation — come dressed as your favorite era. Wine & beer garden, food, and lawn seating. Gates 5 PM, music 6:30–10 PM.
+  url: "https://shadybrookfarm.com/pages/summer-unwined-concerts"
+  source: "https://shadybrookfarm.com/pages/summer-unwined-concerts"
+  org: "Shady Brook Farm"
+  featured: false
+
+- id: bucks-shadybrook-patio-jul11
+  title: "Party on the Patio (live acoustic) — Shady Brook Farm"
+  region: bucks
+  category: concert
+  date: "2026-07-11"
+  start: "12:30"
+  end: "16:00"
+  all_day: false
+  time_note: "Free live acoustic on the Farm Market patio, 12:30–4 PM (and again 6:30–9:30 PM)."
+  venue: "Shady Brook Farm (Farm Market Patio)"
+  address: "931 Stony Hill Rd, Yardley, PA 19067"
+  town: "Yardley (Lower Makefield Twp)"
+  lat: 40.245
+  lng: -74.877
+  cost: "Free (cash bar)"
+  description: |
+    Laid-back live acoustic music on the patio at the Shady Brook Farm Market, with craft beverages available — a free, casual afternoon option (separate from the ticketed Summer unWINEd concert that evening).
+  url: "https://shadybrookfarm.com/collections/events"
+  source: "https://buckscountyalive.com/events/showevents.cfm?orgcode=SHBF"
+  org: "Shady Brook Farm"
+  featured: false
+
+- id: bucks-shadybrook-quizzo-jul15
+  title: "Summer Quizzo — Shady Brook Farm"
+  region: bucks
+  category: other
+  date: "2026-07-15"
+  start: "19:00"
+  end: "21:00"
+  all_day: false
+  time_note: "Free trivia with Joe & Emily every Wednesday, 7–9 PM; food & drink available."
+  venue: "Shady Brook Farm"
+  address: "931 Stony Hill Rd, Yardley, PA 19067"
+  town: "Yardley (Lower Makefield Twp)"
+  lat: 40.245
+  lng: -74.877
+  cost: "Free"
+  description: |
+    Free weekly trivia night at Shady Brook Farm — Quizzo with hosts Joe & Emily every Wednesday from 7 to 9 PM, with food and drink available. A relaxed midweek outing.
+  url: "https://shadybrookfarm.com/collections/events"
+  source: "https://buckscountyalive.com/events/showevents.cfm?orgcode=SHBF"
+  org: "Shady Brook Farm"
   featured: false

@@ -94,6 +94,9 @@ days:
   - date: "2026-07-14"
     label: "Tue, Jul 14 ★"
     long: "Tuesday, July 14 — MLB All-Star Game"
+  - date: "2026-07-15"
+    label: "Wed, Jul 15"
+    long: "Wednesday, July 15"
 
 # Regions (map colors + labels)
 regions:
