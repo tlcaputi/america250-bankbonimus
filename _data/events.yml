@@ -9024,3 +9024,69 @@
   source: "https://www.broadwayworld.com/philadelphia/article/GREASE-to-be-Presented-at-Doylestown-Theatre-Academy-in-July-20250626"
   org: "Doylestown Theatre Academy"
   featured: false
+
+- id: bucks-tinicum-arts-festival-jul11
+  title: "Tinicum Arts Festival (Day 1)"
+  region: bucks
+  category: festival
+  date: "2026-07-11"
+  start: "10:00"
+  end: "18:00"
+  all_day: false
+  time_note: "Sat 10 AM–6 PM (also Sun Jul 12, 10 AM–5 PM). $10 adults, $1 kids 6–12, under 6 & parking free."
+  venue: "Tinicum Park"
+  address: "963 River Road, Erwinna, PA 18920"
+  town: "Erwinna (Tinicum Twp, Bucks)"
+  lat: 40.5028
+  lng: -75.0668
+  cost: "$10 adults / $1 kids 6-12"
+  description: |
+    One of upper Bucks County's signature summer traditions: a juried outdoor arts festival on the grounds of riverside Tinicum Park, with 100+ artists and craftspeople, live music on stage, food, and children's activities. A benefit for the Tinicum Civic Association. Wheelchair accessible; free parking. Runs both Saturday and Sunday.
+  url: "https://tinicumcivicassociation.org/tinicum-arts-festival-temp/"
+  source: "https://www.visitbuckscounty.com/event/tinicum-arts-festival/27702/"
+  org: "Tinicum Civic Association"
+  featured: false
+
+- id: bucks-tinicum-arts-festival-jul12
+  title: "Tinicum Arts Festival (Day 2)"
+  region: bucks
+  category: festival
+  date: "2026-07-12"
+  start: "10:00"
+  end: "17:00"
+  all_day: false
+  time_note: "Sun 10 AM–5 PM (Day 2 of 2). $10 adults, $1 kids 6–12, under 6 & parking free."
+  venue: "Tinicum Park"
+  address: "963 River Road, Erwinna, PA 18920"
+  town: "Erwinna (Tinicum Twp, Bucks)"
+  lat: 40.5028
+  lng: -75.0668
+  cost: "$10 adults / $1 kids 6-12"
+  description: |
+    Day two of the Tinicum Arts Festival — a juried outdoor arts festival on the grounds of riverside Tinicum Park in Erwinna, with 100+ artists and craftspeople, live music, food, and children's activities, benefiting the Tinicum Civic Association. Wheelchair accessible; free parking.
+  url: "https://tinicumcivicassociation.org/tinicum-arts-festival-temp/"
+  source: "https://www.visitbuckscounty.com/event/tinicum-arts-festival/27702/"
+  org: "Tinicum Civic Association"
+  featured: false
+
+- id: nj-fleming-castle-openhouse-jul11
+  title: "Fleming Castle (Samuel Fleming House) — Second-Saturday Open House"
+  region: nj
+  category: tour
+  date: "2026-07-11"
+  start: "10:00"
+  end: "17:00"
+  all_day: false
+  time_note: "Open the second Saturday of each month (July 11), 10 AM–5 PM; free."
+  venue: "Samuel Fleming House Museum & Gardens (Fleming Castle)"
+  address: "5 Bonnell Street, Flemington, NJ 08822"
+  town: "Flemington (Hunterdon)"
+  lat: 40.5128
+  lng: -74.8592
+  cost: "Free"
+  description: |
+    The 1756 Samuel Fleming House — "Fleming Castle," the first house in the village that became Flemington — opens for free docent-led tours on its regular second-Saturday schedule. Explore the colonial-era rooms and gardens of one of Hunterdon County's oldest buildings.
+  url: "https://www.samuelfleminghouse.org/visit-events"
+  source: "https://co.hunterdon.nj.us/calendar.aspx?PREVIEW=YES&EID=13725"
+  org: "Samuel Fleming House Museum"
+  featured: false
