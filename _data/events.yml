@@ -9134,3 +9134,245 @@
   source: "https://pearlsbuck.org/visit-the-pearl-s-buck-house/plan-your-visit/"
   org: "Pearl S. Buck International"
   featured: false
+
+- id: nj-dancing-under-stars-jul10
+  title: "Dancing Under the Stars — Hinds Plaza"
+  region: nj
+  category: concert
+  date: "2026-07-10"
+  start: "19:00"
+  end: "22:00"
+  all_day: false
+  time_note: "Free outdoor social dancing with a pop-up beer garden (Central Jersey Dance Society)."
+  venue: "Hinds Plaza (Princeton Public Library)"
+  address: "65 Witherspoon Street, Princeton, NJ 08542"
+  town: "Princeton (Mercer)"
+  lat: 40.3513
+  lng: -74.6593
+  cost: "Free"
+  description: |
+    A free evening of outdoor social dancing on Hinds Plaza beside the Princeton Public Library, co-hosted with the Central Jersey Dance Society, with a pop-up Triumph Brewing beer garden. All ages and experience levels welcome.
+  url: "https://princetonlibrary.org/"
+  source: "https://princetonol.com/events/2026-07-10/"
+  org: "Princeton Public Library / Central Jersey Dance Society"
+  featured: false
+
+- id: nj-princeton-39-steps-jul10
+  title: "Princeton Summer Theater: \"The 39 Steps\""
+  region: nj
+  category: concert
+  date: "2026-07-10"
+  start: "19:30"
+  end: "21:30"
+  all_day: false
+  time_note: "$35 evenings / $30 matinees / $15 Student Rush. Runs across the weekend."
+  venue: "Hamilton Murray Theater, Princeton University"
+  address: "Princeton University, Princeton, NJ 08544"
+  town: "Princeton (Mercer)"
+  lat: 40.3489
+  lng: -74.6585
+  cost: "$35 / $30 matinee"
+  description: |
+    Princeton Summer Theater's staging of the fast, funny stage adaptation of Hitchcock's **The 39 Steps** — a whodunit spoof performed by a small ensemble playing dozens of roles — at the Hamilton Murray Theater on the Princeton University campus.
+  url: "https://princetonsummertheater.org/"
+  source: "https://princetonol.com/events/2026-07-10/"
+  org: "Princeton Summer Theater"
+  featured: false
+
+- id: nj-wwac-art-reception-jul10
+  title: "Art Opening Reception — West Windsor Arts Center"
+  region: nj
+  category: exhibit
+  date: "2026-07-10"
+  start: "19:00"
+  end: "20:30"
+  all_day: false
+  time_note: "Free opening reception."
+  venue: "West Windsor Arts Center"
+  address: "952 Alexander Road, Princeton Junction, NJ 08550"
+  town: "West Windsor (Mercer)"
+  lat: 40.3086
+  lng: -74.6206
+  cost: "Free"
+  description: |
+    An opening reception for a new exhibition at the West Windsor Arts Center, a community arts hub in a converted firehouse. Meet the artists and view the show; free to attend.
+  url: "https://westwindsorarts.org/"
+  source: "https://princetonol.com/events/2026-07-10/"
+  org: "West Windsor Arts"
+  featured: false
+
+- id: nj-watershed-fairy-festival-jul11
+  title: "Summer Fairy Festival — The Watershed Institute"
+  region: nj
+  category: family
+  date: "2026-07-11"
+  start: "10:00"
+  end: "12:30"
+  all_day: false
+  time_note: "Family nature festival; build fairy cottages, games, obstacle course, costumes encouraged."
+  venue: "The Watershed Institute"
+  address: "31 Titus Mill Road, Pennington, NJ 08534"
+  town: "Pennington (Mercer)"
+  lat: 40.3466
+  lng: -74.7649
+  cost: "See listing"
+  description: |
+    A whimsical family morning at the Watershed Institute's nature reserve: build fairy cottages from natural materials, play mermaid games, run a woodland obstacle course, and dress as a fairy or woodland creature. Rain or shine.
+  url: "https://thewatershed.org/events/"
+  source: "https://princetonol.com/events/2026-07-11/"
+  org: "The Watershed Institute"
+  featured: false
+
+- id: nj-hopewell-revwar-pension-jul11
+  title: "Unearthing History: Revolutionary War Pension Files (America 250)"
+  region: nj
+  category: other
+  date: "2026-07-11"
+  start: "10:00"
+  end: "11:30"
+  all_day: false
+  time_note: "Free genealogy/history program tied to America's 250th."
+  venue: "Hopewell Branch, Mercer County Library"
+  address: "245 Pennington-Titusville Road, Pennington, NJ 08534"
+  town: "Pennington (Mercer)"
+  lat: 40.3237
+  lng: -74.8079
+  cost: "Free"
+  description: |
+    A free America 250 program at the Hopewell Branch library on using Revolutionary War pension files — a rich, first-person genealogical and historical record — to uncover the stories of the men who served. Helpful for family-history researchers and history buffs alike.
+  url: "https://mcl.org/"
+  source: "https://princetonol.com/events/2026-07-11/"
+  org: "Mercer County Library System"
+  featured: false
+
+- id: nj-marquand-made-in-shade-jul11
+  title: "\"Made in the Shade\" Children's Event — Marquand Park"
+  region: nj
+  category: family
+  date: "2026-07-11"
+  start: "10:00"
+  end: "12:00"
+  all_day: false
+  time_note: "Free family morning in the arboretum."
+  venue: "Marquand Park"
+  address: "48 Lovers Lane, Princeton, NJ 08540"
+  town: "Princeton (Mercer)"
+  lat: 40.3399
+  lng: -74.6631
+  cost: "Free"
+  description: |
+    A free children's event under the historic shade trees of Marquand Park, Princeton's arboretum-like public park — nature activities and family fun in a beautiful outdoor setting.
+  url: "https://marquandpark.org/"
+  source: "https://princetonol.com/events/2026-07-11/"
+  org: "Marquand Park Foundation"
+  featured: false
+
+- id: nj-puam-art-for-families-jul11
+  title: "Art for Families: Ballgame Headdress — Princeton University Art Museum"
+  region: nj
+  category: family
+  date: "2026-07-11"
+  start: "10:00"
+  end: "13:00"
+  all_day: false
+  time_note: "Free drop-in family art-making (All-Star Week themed)."
+  venue: "Princeton University Art Museum"
+  address: "Princeton University, Princeton, NJ 08544"
+  town: "Princeton (Mercer)"
+  lat: 40.3485
+  lng: -74.6569
+  cost: "Free"
+  description: |
+    A free drop-in family art-making session at the newly reopened Princeton University Art Museum — this weekend's theme, a baseball "ballgame headdress," nods to MLB All-Star Week. All materials provided.
+  url: "https://artmuseum.princeton.edu/"
+  source: "https://princetonol.com/events/2026-07-11/"
+  org: "Princeton University Art Museum"
+  featured: false
+
+- id: nj-charlie-brown-hamilton-murray-jul11
+  title: "\"You're a Good Man, Charlie Brown\" — Hamilton Murray Theater"
+  region: nj
+  category: concert
+  date: "2026-07-11"
+  start: "11:00"
+  end: "13:00"
+  all_day: false
+  time_note: "Family musical; also plays Sunday July 12. $25 adults / $20 children."
+  venue: "Hamilton Murray Theater, Princeton University"
+  address: "Princeton University, Princeton, NJ 08544"
+  town: "Princeton (Mercer)"
+  lat: 40.3489
+  lng: -74.6585
+  cost: "$25 adults / $20 children"
+  description: |
+    A family-friendly production of the beloved Charles Schulz musical **You're a Good Man, Charlie Brown** at Princeton University's Hamilton Murray Theater. Also plays Sunday, July 12.
+  url: "https://princetonsummertheater.org/"
+  source: "https://princetonol.com/events/2026-07-11/"
+  org: "Princeton Summer Theater"
+  featured: false
+
+- id: nj-alive-in-ewing-tours-jul12
+  title: "Alive in Ewing: Guided Historic Cemetery Tours"
+  region: nj
+  category: tour
+  date: "2026-07-12"
+  start: "14:00"
+  end: "16:00"
+  all_day: false
+  time_note: "Free guided tours at 2, 3 & 4 PM."
+  venue: "Ewing Presbyterian Church Cemetery"
+  address: "100 Scotch Road, Ewing, NJ 08628"
+  town: "Ewing (Mercer)"
+  lat: 40.2690
+  lng: -74.8090
+  cost: "Free"
+  description: |
+    Free guided walking tours of the historic Ewing Presbyterian Church burying ground, whose stones reach back to the colonial and Revolutionary eras — costumed guides tell the stories of the notable residents interred there. Tours at 2, 3 and 4 PM.
+  url: "https://ewingpres.org/"
+  source: "https://princetonol.com/events/2026-07-12/"
+  org: "Ewing Presbyterian Church"
+  featured: false
+
+- id: nj-cherry-grove-foraging-jul12
+  title: "Foraging & Feasting at Cherry Grove Farm"
+  region: nj
+  category: food
+  date: "2026-07-12"
+  start: "11:00"
+  end: "13:00"
+  all_day: false
+  time_note: "Guided foraging walk + tasting at the creamery/farm."
+  venue: "Cherry Grove Farm"
+  address: "3200 Lawrenceville Road (Route 206), Lawrenceville, NJ 08648"
+  town: "Lawrence (Mercer)"
+  lat: 40.2903
+  lng: -74.7107
+  cost: "See listing"
+  description: |
+    A guided foraging walk and tasting at Cherry Grove Farm, the pasture-based creamery and working farm on Route 206 in Lawrence — learn to identify edible wild plants, then feast on farm fare.
+  url: "https://cherrygrovefarm.com/"
+  source: "https://princetonol.com/events/2026-07-12/"
+  org: "Cherry Grove Farm"
+  featured: false
+
+- id: nj-ceramic-scavenger-hunt-jul12
+  title: "Ceramic Scavenger Hunt — Downtown Princeton"
+  region: nj
+  category: family
+  date: "2026-07-12"
+  start: "13:00"
+  end: "15:00"
+  all_day: false
+  time_note: "Free self-guided hunt through downtown."
+  venue: "Downtown Princeton (Palmer Square area)"
+  address: "Palmer Square, Princeton, NJ 08542"
+  town: "Princeton (Mercer)"
+  lat: 40.3499
+  lng: -74.6593
+  cost: "Free"
+  description: |
+    A free, family-friendly self-guided scavenger hunt for hidden ceramic pieces throughout downtown Princeton — a fun way to explore Palmer Square and the surrounding shops.
+  url: "https://princetonol.com/events/2026-07-12/"
+  source: "https://princetonol.com/events/2026-07-12/"
+  org: "Downtown Princeton"
+  featured: false
