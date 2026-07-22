@@ -17,7 +17,8 @@ rescheduled/rain-dated out of the Fourth. **385 source-verified events / 17 days
 ## How it's built
 
 - **Jekyll + GitHub Pages**, reusing the shared Bankbonimus theme (`assets/css/custom.css`,
-  fonts, favicon, and the shared `bankbonimus-nav.html`). America250-specific styles live in
+  fonts, favicon). This site is **standalone** — it has its own nav (`_layouts/`), and does
+  *not* use the shared `bankbonimus-nav.html`. America250-specific styles live in
   `assets/css/america250.css`.
 - **All events live in one data file:** [`_data/events.yml`](_data/events.yml). Each event
   has a `region` (`philadelphia` | `bucks` | `nj`), `category`, `date`, `start`/`end` times,
